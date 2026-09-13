@@ -61,13 +61,11 @@ workflow degrades gracefully around bad URLs (a failing source just shows
 0 new articles and a ⚠, it won't break the rest of the feed), but expect to
 need to fix a few after the first real run — check the Action's logs.
 
-Three sources from the original list couldn't be confidently identified at
-all from the home-screen icons and were left out entirely: **ARENA**
-(multiple unrelated publications share that name), **"Boulder, Colorado
-br…"** (truncated, best guess was the Daily Camera but unconfirmed), and
-**"Design, Architectur…"** with the black-square "S" icon (best guesses
-were Sight Unseen or Yellowtrace, neither a confident match). A handful of
-others from the screenshots have no real article RSS feed at all and were
-left out for that reason: Never Too Small, Savee, Softer Volumes, Design
-Anthology, Maximage Color Combinations, and Longform (which shut down in
-2022).
+Three sources from the original list couldn't be confidently identified
+from the home-screen icons alone; the user confirmed them directly, and
+they're now included as `daily-camera`, `arena-magazine`, and `surface`
+(their feed URLs are still unverified WordPress-pattern guesses like the
+rest of the list — see above). A handful of others from the screenshots
+have no real article RSS feed at all and were left out for that reason:
+Never Too Small, Savee, Softer Volumes, Design Anthology, Maximage Color
+Combinations, and Longform (which shut down in 2022).
