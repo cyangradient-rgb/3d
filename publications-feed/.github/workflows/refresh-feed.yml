@@ -1,0 +1,50 @@
+name: Refresh publications feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "publications-feed/scripts/**"
+      - "publications-feed/.github/workflows/refresh-feed.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-publications-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: publications-feed/scripts
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch feeds
+        run: npm run fetch
+
+      - name: Commit updated feed.json
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          if git diff --quiet -- publications-feed/docs/feed.json; then
+            echo "No changes to feed.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add publications-feed/docs/feed.json
+          git commit -m "Refresh publications feed"
+          git push
