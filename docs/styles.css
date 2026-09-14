@@ -30,6 +30,7 @@ body {
 body {
   font-family: "Bricolage Grotesque", -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 16px;
+  font-weight: 400;
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
   padding-bottom: env(safe-area-inset-bottom);
@@ -38,44 +39,60 @@ body {
 button {
   font-family: inherit;
   font-size: inherit;
+  font-weight: inherit;
   line-height: inherit;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 .app-header {
   display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  padding: calc(env(safe-area-inset-top) + 40px) 28px 0;
-  max-width: 640px;
-  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  padding: calc(env(safe-area-inset-top) + 56px) 28px 40px;
 }
 
-.wordmark {
-  font-weight: 700;
-  letter-spacing: -0.01em;
-}
-
-.status-row {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  max-width: 640px;
-  margin: 0 auto;
-  padding: 14px 28px 0;
-  color: var(--text-muted);
-}
-
-.icon-button,
-.text-button {
+.icon-button {
   background: none;
   border: none;
   padding: 0;
   color: inherit;
   cursor: pointer;
+  display: block;
+}
+
+.header-icon {
+  width: 40px;
+  height: 40px;
+  display: block;
+  border-radius: 10px;
+  transition: opacity 0.4s ease;
+}
+
+.app-header.is-refreshing .header-icon {
+  opacity: 0.35;
+}
+
+.wordmark {
+  letter-spacing: -0.01em;
 }
 
 .text-button {
+  background: none;
+  border: none;
+  padding: 0;
   color: var(--text-muted);
+  cursor: pointer;
 }
 
 .text-button:active {
@@ -85,7 +102,7 @@ button {
 .article-list {
   max-width: 640px;
   margin: 0 auto;
-  padding: 40px 28px calc(env(safe-area-inset-bottom) + 56px);
+  padding: 0 28px calc(env(safe-area-inset-bottom) + 56px);
   display: flex;
   flex-direction: column;
   gap: 40px;
@@ -110,7 +127,6 @@ button {
 
 .entry-title {
   color: var(--text);
-  font-weight: 600;
 }
 
 .entry-meta {
@@ -152,6 +168,7 @@ button {
   color: var(--text);
   font-family: inherit;
   font-size: inherit;
+  font-weight: inherit;
   line-height: inherit;
 }
 

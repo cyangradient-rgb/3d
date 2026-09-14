@@ -3,10 +3,10 @@ const POLL_INTERVAL_MS = 5 * 60 * 1000;
 const DISABLED_SOURCES_KEY = "publicationsFeed.disabledSourceIds";
 const CACHED_FEED_KEY = "publicationsFeed.cachedFeed";
 
+const appHeaderEl = document.querySelector(".app-header");
 const articleListEl = document.getElementById("articleList");
 const emptyStateEl = document.getElementById("emptyState");
 const statusTextEl = document.getElementById("statusText");
-const refreshButton = document.getElementById("refreshButton");
 const emptyRefreshButton = document.getElementById("emptyRefreshButton");
 const sourcesButton = document.getElementById("sourcesButton");
 const sourcesDialog = document.getElementById("sourcesDialog");
@@ -164,6 +164,8 @@ function renderSourcesList() {
 }
 
 function renderStatus() {
+  appHeaderEl.classList.toggle("is-refreshing", isRefreshing);
+
   if (isRefreshing) {
     statusTextEl.textContent = "refreshing";
     return;
@@ -215,7 +217,6 @@ function hydrateFromCache() {
   }
 }
 
-refreshButton.addEventListener("click", refresh);
 emptyRefreshButton.addEventListener("click", refresh);
 sourcesButton.addEventListener("click", () => sourcesDialog.showModal());
 closeSourcesButton.addEventListener("click", () => sourcesDialog.close());
@@ -228,6 +229,35 @@ document.addEventListener("visibilitychange", () => {
 });
 
 setInterval(refresh, POLL_INTERVAL_MS);
+
+// Pull-to-refresh: a downward drag starting from the very top of the page.
+const PULL_THRESHOLD_PX = 70;
+let pullStartY = null;
+
+document.addEventListener(
+  "touchstart",
+  (event) => {
+    pullStartY = window.scrollY === 0 ? event.touches[0].clientY : null;
+  },
+  { passive: true }
+);
+
+document.addEventListener(
+  "touchmove",
+  (event) => {
+    if (pullStartY === null) return;
+    const delta = event.touches[0].clientY - pullStartY;
+    if (delta > PULL_THRESHOLD_PX) {
+      pullStartY = null;
+      refresh();
+    }
+  },
+  { passive: true }
+);
+
+document.addEventListener("touchend", () => {
+  pullStartY = null;
+});
 
 hydrateFromCache();
 refresh();
