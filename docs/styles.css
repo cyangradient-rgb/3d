@@ -169,6 +169,9 @@ button {
 .entry-meta {
   color: var(--text-muted);
   margin-top: 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .entry-image {
