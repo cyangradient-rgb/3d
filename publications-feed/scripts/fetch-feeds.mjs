@@ -131,6 +131,36 @@ async function fetchSource(source) {
   }
 }
 
+// Sorting purely by publishedAt lets a high-frequency source (Hacker News,
+// say) flood the top of the feed just because it posts more often than
+// everyone else. Interleave instead: each "round" takes at most one article
+// per source (that source's next-most-recent), rounds ordered by recency
+// among that round's picks — so no source can appear twice before every
+// other active source has had a turn, while the feed still reads roughly
+// newest-first overall.
+function interleaveBySource(articles) {
+  const bySource = new Map();
+  for (const article of articles) {
+    if (!bySource.has(article.sourceId)) bySource.set(article.sourceId, []);
+    bySource.get(article.sourceId).push(article);
+  }
+  for (const queue of bySource.values()) {
+    queue.sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0));
+  }
+
+  const queues = Array.from(bySource.values());
+  const interleaved = [];
+  for (let round = 0; interleaved.length < articles.length; round++) {
+    const picks = queues
+      .filter((queue) => queue.length > round)
+      .map((queue) => queue[round])
+      .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0));
+    if (picks.length === 0) break;
+    interleaved.push(...picks);
+  }
+  return interleaved;
+}
+
 async function main() {
   const sources = JSON.parse(await readFile(SOURCES_PATH, "utf8"));
   const previousFeed = await loadPreviousFeed();
@@ -165,9 +195,7 @@ async function main() {
     }
   }
 
-  const articles = Array.from(merged.values())
-    .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0))
-    .slice(0, MAX_TOTAL_ITEMS);
+  const articles = interleaveBySource(Array.from(merged.values())).slice(0, MAX_TOTAL_ITEMS);
 
   const output = {
     generatedAt: new Date().toISOString(),
