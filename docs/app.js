@@ -1,3 +1,11 @@
+// Some browsers try to restore the previous scroll position on reload —
+// override that so the page always starts at the top, with the logo where
+// it's meant to be, rather than wherever the user last scrolled to.
+if ("scrollRestoration" in history) {
+  history.scrollRestoration = "manual";
+}
+window.scrollTo(0, 0);
+
 const FEED_URL = "feed.json";
 const POLL_INTERVAL_MS = 5 * 60 * 1000;
 const SELECTED_SOURCES_KEY = "chip.selectedSourceIds";
