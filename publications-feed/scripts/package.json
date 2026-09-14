@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "fetch": "node fetch-feeds.mjs"
+    "fetch": "node fetch-feeds.mjs",
+    "discover": "node discover-feeds.mjs"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
