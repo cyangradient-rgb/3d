@@ -75,16 +75,6 @@ function buildArticleCard(article) {
     entry.rel = "noopener noreferrer";
   }
 
-  if (isSafeHttpUrl(article.imageUrl)) {
-    const img = document.createElement("img");
-    img.className = "entry-image";
-    img.loading = "lazy";
-    img.alt = "";
-    img.src = article.imageUrl;
-    img.onerror = () => img.remove();
-    entry.appendChild(img);
-  }
-
   const body = document.createElement("div");
   body.className = "entry-body";
 
@@ -101,6 +91,16 @@ function buildArticleCard(article) {
   body.appendChild(meta);
 
   entry.appendChild(body);
+
+  if (isSafeHttpUrl(article.imageUrl)) {
+    const img = document.createElement("img");
+    img.className = "entry-image";
+    img.loading = "lazy";
+    img.alt = "";
+    img.src = article.imageUrl;
+    img.onerror = () => img.remove();
+    entry.appendChild(img);
+  }
 
   return entry;
 }
