@@ -243,35 +243,29 @@ document.addEventListener("visibilitychange", () => {
 setInterval(refresh, POLL_INTERVAL_MS);
 
 // Pull-to-refresh: a downward drag starting from the very top of the page.
-// The header icon grows with the pull (eased, with a soft rubber-band cap
-// past the threshold) and springs back to size on release, triggering a
-// refresh only if the pull went far enough.
+// Deliberately simple — just detect the threshold crossing once and play a
+// single fixed, subtle up-and-back animation, rather than tracking the
+// drag distance live. Live 1:1 tracking fought with the browser's own
+// touch/scroll handling and looked janky in practice.
 const PULL_THRESHOLD_PX = 70;
-const PULL_ICON_MAX_SCALE = 1.6;
-const PULL_ICON_OVERSHOOT_SCALE = 1.75;
 let pullStartY = null;
+let pullTriggered = false;
 
-function scaleForPullDelta(delta) {
-  const clamped = Math.max(0, delta);
-  const t = Math.min(clamped / PULL_THRESHOLD_PX, 1);
-  const eased = 1 - (1 - t) * (1 - t); // ease-out
-  let scale = 1 + eased * (PULL_ICON_MAX_SCALE - 1);
-  if (clamped > PULL_THRESHOLD_PX) {
-    const extra = Math.min((clamped - PULL_THRESHOLD_PX) / 300, 1);
-    scale += extra * (PULL_ICON_OVERSHOOT_SCALE - PULL_ICON_MAX_SCALE);
-  }
-  return scale;
+function playPullRefreshAnimation() {
+  headerIconEl.classList.remove("is-pull-refreshing");
+  void headerIconEl.offsetWidth; // restart the animation if triggered again quickly
+  headerIconEl.classList.add("is-pull-refreshing");
 }
+
+headerIconEl.addEventListener("animationend", () => {
+  headerIconEl.classList.remove("is-pull-refreshing");
+});
 
 document.addEventListener(
   "touchstart",
   (event) => {
-    if (window.scrollY === 0) {
-      pullStartY = event.touches[0].clientY;
-      headerIconEl.classList.add("is-pulling");
-    } else {
-      pullStartY = null;
-    }
+    pullStartY = window.scrollY === 0 ? event.touches[0].clientY : null;
+    pullTriggered = false;
   },
   { passive: true }
 );
@@ -279,25 +273,20 @@ document.addEventListener(
 document.addEventListener(
   "touchmove",
   (event) => {
-    if (pullStartY === null) return;
+    if (pullStartY === null || pullTriggered) return;
     const delta = event.touches[0].clientY - pullStartY;
-    if (delta <= 0) return;
-    // Take over the gesture while actively pulling down from the top, so
-    // the browser's own rubber-band bounce doesn't run at the same time as
-    // (and visually fight with) our own scale animation.
-    event.preventDefault();
-    headerIconEl.style.transform = `scale(${scaleForPullDelta(delta)})`;
+    if (delta > PULL_THRESHOLD_PX) {
+      pullTriggered = true;
+      playPullRefreshAnimation();
+      refresh();
+    }
   },
-  { passive: false }
+  { passive: true }
 );
 
-document.addEventListener("touchend", (event) => {
-  if (pullStartY === null) return;
-  const delta = (event.changedTouches[0]?.clientY ?? pullStartY) - pullStartY;
-  headerIconEl.classList.remove("is-pulling");
-  headerIconEl.style.transform = "";
+document.addEventListener("touchend", () => {
   pullStartY = null;
-  if (delta > PULL_THRESHOLD_PX) refresh();
+  pullTriggered = false;
 });
 
 hydrateFromCache();
