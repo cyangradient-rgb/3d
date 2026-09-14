@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:26:55.741Z",
+  "generatedAt": "2026-09-14T02:06:09.044Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -38,8 +38,8 @@
       "name": "Science | AAAS",
       "siteUrl": "https://www.science.org",
       "category": "science",
-      "status": "error",
-      "error": "HTTP 403"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "new-norm",
@@ -244,6 +244,39 @@
   ],
   "articles": [
     {
+      "id": "https://news.ycombinator.com/item?id=49690554",
+      "title": "The case against JPEG XL",
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "summary": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/ Comments URL: https://news.ycombinator.com/item?id=49690554 Points: 31 # Comments: 19",
+      "publishedAt": "2026-09-14T01:02:37.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=309290",
+      "title": "Battery-powered drone shatters world record, uses propulsion system assembled at US Army depot",
+      "link": "https://interestingengineering.com/military/battery-powered-drone-world-endurance-record",
+      "summary": "A battery-powered drone recently shattered a world endurance record. The small unmanned aircraft system flew...",
+      "publishedAt": "2026-09-14T00:53:43.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/drone-flight.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49690260",
+      "title": "Open-Source AI and Open Models Reading List",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 18 # Comments: 1",
+      "publishedAt": "2026-09-14T00:22:51.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "https://thelocalproject.com.au/?p=464487",
       "title": "Veil House by HA Design Group and VICELLO – The Local Project",
       "link": "https://thelocalproject.com.au/articles/veil-house-by-ha-design-group-and-vicello-the-local-project/",
@@ -258,7 +291,7 @@
       "id": "https://news.ycombinator.com/item?id=49690051",
       "title": "The Coming War on General Computation (2011)",
       "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 10 # Comments: 0",
+      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 46 # Comments: 9",
       "publishedAt": "2026-09-13T23:54:55.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -299,21 +332,10 @@
       "category": "general"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49689664",
-      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
-      "link": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/ Comments URL: https://news.ycombinator.com/item?id=49689664 Points: 10 # Comments: 0",
-      "publishedAt": "2026-09-13T23:05:13.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
       "id": "https://news.ycombinator.com/item?id=49689460",
       "title": "The contagion of fear",
       "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 93 # Comments: 66",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 135 # Comments: 92",
       "publishedAt": "2026-09-13T22:38:18.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -324,7 +346,7 @@
       "id": "https://news.ycombinator.com/item?id=49689048",
       "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
       "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 37 # Comments: 13",
+      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 81 # Comments: 40",
       "publishedAt": "2026-09-13T21:47:04.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -357,7 +379,7 @@
       "id": "https://news.ycombinator.com/item?id=49688766",
       "title": "Why is privacy so hard?",
       "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/ Comments URL: https://news.ycombinator.com/item?id=49688766 Points: 11 # Comments: 9",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/ Comments URL: https://news.ycombinator.com/item?id=49688766 Points: 28 # Comments: 23",
       "publishedAt": "2026-09-13T21:13:43.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -368,7 +390,7 @@
       "id": "https://news.ycombinator.com/item?id=49688695",
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 363 # Comments: 144",
+      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 471 # Comments: 200",
       "publishedAt": "2026-09-13T21:06:13.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -390,7 +412,7 @@
       "id": "https://news.ycombinator.com/item?id=49688391",
       "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
       "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 46 # Comments: 6",
+      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 61 # Comments: 8",
       "publishedAt": "2026-09-13T20:33:18.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -409,10 +431,21 @@
       "category": "tech"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49688259",
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https://news.ycombinator.com/item?id=49688259 Points: 43 # Comments: 90",
+      "publishedAt": "2026-09-13T20:19:06.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49688157",
       "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
       "link": "https://twitter.com/TechEmails/status/2099214399840059428",
-      "summary": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428 Comments URL: https://news.ycombinator.com/item?id=49688157 Points: 255 # Comments: 103",
+      "summary": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428 Comments URL: https://news.ycombinator.com/item?id=49688157 Points: 278 # Comments: 118",
       "publishedAt": "2026-09-13T20:08:45.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -519,21 +552,10 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49686503",
-      "title": "Device Drivers lab exercise – COSC562",
-      "link": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-      "summary": "Article URL: https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html Comments URL: https://news.ycombinator.com/item?id=49686503 Points: 28 # Comments: 2",
-      "publishedAt": "2026-09-13T17:41:50.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
       "id": "https://news.ycombinator.com/item?id=49686445",
       "title": "Why is Google still serving dodgy ads?",
       "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 520 # Comments: 249",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 596 # Comments: 278",
       "publishedAt": "2026-09-13T17:37:44.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -555,8 +577,19 @@
       "id": "https://news.ycombinator.com/item?id=49686380",
       "title": "Ask HN: What are you working on? (September 2026)",
       "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 63 # Comments: 101",
+      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 85 # Comments: 172",
       "publishedAt": "2026-09-13T17:31:38.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49685991",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "summary": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460 Comments URL: https://news.ycombinator.com/item?id=49685991 Points: 263 # Comments: 196",
+      "publishedAt": "2026-09-13T16:52:33.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -610,19 +643,8 @@
       "id": "https://news.ycombinator.com/item?id=49685253",
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 334 # Comments: 170",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 359 # Comments: 192",
       "publishedAt": "2026-09-13T15:44:38.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49685037",
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "summary": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/ Comments URL: https://news.ycombinator.com/item?id=49685037 Points: 56 # Comments: 33",
-      "publishedAt": "2026-09-13T15:24:05.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -638,17 +660,6 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49684778",
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "link": "https://cpak.it/",
-      "summary": "Article URL: https://cpak.it/ Comments URL: https://news.ycombinator.com/item?id=49684778 Points: 46 # Comments: 17",
-      "publishedAt": "2026-09-13T15:02:56.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "PH2PRPHLsbgPyFQAodXG8D",
@@ -676,7 +687,7 @@
       "id": "https://news.ycombinator.com/item?id=49684393",
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 361 # Comments: 171",
+      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 382 # Comments: 176",
       "publishedAt": "2026-09-13T14:28:36.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -698,7 +709,7 @@
       "id": "https://news.ycombinator.com/item?id=49684356",
       "title": "CUDA for AMD on Windows",
       "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 132 # Comments: 67",
+      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 141 # Comments: 72",
       "publishedAt": "2026-09-13T14:25:13.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -731,7 +742,7 @@
       "id": "https://news.ycombinator.com/item?id=49684196",
       "title": "Making Startups Powerful",
       "link": "https://paulgraham.com/powerful.html",
-      "summary": "Article URL: https://paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=49684196 Points: 149 # Comments: 68",
+      "summary": "Article URL: https://paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=49684196 Points: 163 # Comments: 73",
       "publishedAt": "2026-09-13T14:09:53.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -775,7 +786,7 @@
       "id": "https://news.ycombinator.com/item?id=49683953",
       "title": "Data collected by cars and sold to third parties",
       "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "summary": "https://web.archive.org/web/20260913134705/https://www.theve... https://archive.ph/TWEVZ Comments URL: https://news.ycombinator.com/item?id=49683953 Points: 278 # Comments: 146",
+      "summary": "https://web.archive.org/web/20260913134705/https://www.theve... https://archive.ph/TWEVZ Comments URL: https://news.ycombinator.com/item?id=49683953 Points: 309 # Comments: 160",
       "publishedAt": "2026-09-13T13:45:08.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -841,30 +852,8 @@
       "id": "https://news.ycombinator.com/item?id=49683262",
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689 Comments URL: https://news.ycombinator.com/item?id=49683262 Points: 190 # Comments: 47",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689 Comments URL: https://news.ycombinator.com/item?id=49683262 Points: 206 # Comments: 47",
       "publishedAt": "2026-09-13T12:30:15.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=309321",
-      "title": "Bill Gates-backed nuclear fusion firm gets Hyundai Motor backing in $1 billion raise",
-      "link": "https://interestingengineering.com/energy/nuclear-fusion-firm-hyundai-motor-backing",
-      "summary": "Bill Gates-backed US nuclear fusion firm Commonwealth Fusion Systems has secured an investment from South...",
-      "publishedAt": "2026-09-13T12:24:48.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/CFS.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49683033",
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "summary": "Article URL: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet Comments URL: https://news.ycombinator.com/item?id=49683033 Points: 110 # Comments: 40",
-      "publishedAt": "2026-09-13T12:01:52.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1014,6 +1003,17 @@
       "category": "local"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49681152",
+      "title": "JetKVM Mini",
+      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 528 # Comments: 213",
+      "publishedAt": "2026-09-13T07:49:46.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "https://techcrunch.com/?p=3163427",
       "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
@@ -1157,23 +1157,23 @@
       "category": "general"
     },
     {
-      "id": "zXGYv9qDeiaxrwFRM8kikP",
-      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
-      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
-      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
-      "publishedAt": "2026-09-12T14:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
-      "sourceId": "space-com",
-      "sourceName": "Space.com",
-      "category": "science"
-    },
-    {
       "id": "QfLpWHhM3idVG33xjLtmDb",
       "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
       "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered.",
       "publishedAt": "2026-09-12T14:00:00.000Z",
       "imageUrl": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
+      "sourceId": "space-com",
+      "sourceName": "Space.com",
+      "category": "science"
+    },
+    {
+      "id": "zXGYv9qDeiaxrwFRM8kikP",
+      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
+      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
+      "publishedAt": "2026-09-12T14:00:00.000Z",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
