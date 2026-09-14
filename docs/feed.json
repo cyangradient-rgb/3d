@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:01:40.031Z",
+  "generatedAt": "2026-09-14T03:54:05.509Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -154,26 +154,10 @@
       "error": null
     },
     {
-      "id": "the-verge",
-      "name": "The Verge",
-      "siteUrl": "https://www.theverge.com",
-      "category": "tech",
-      "status": "ok",
-      "error": null
-    },
-    {
       "id": "brighter-side",
       "name": "The Brighter Side of News",
       "siteUrl": "https://www.thebrighterside.news",
       "category": "general",
-      "status": "ok",
-      "error": null
-    },
-    {
-      "id": "techcrunch",
-      "name": "TechCrunch",
-      "siteUrl": "https://techcrunch.com",
-      "category": "tech",
       "status": "ok",
       "error": null
     },
@@ -248,6 +232,14 @@
       "category": "design",
       "status": "ok",
       "error": null
+    },
+    {
+      "id": "pitchfork",
+      "name": "Pitchfork",
+      "siteUrl": "https://pitchfork.com",
+      "category": "art",
+      "status": "ok",
+      "error": null
     }
   ],
   "articles": [
@@ -263,11 +255,11 @@
       "category": "local"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690943",
-      "title": "Show HN: Is It Greg?",
-      "link": "https://github.com/antoineleclair/is-it-greg",
-      "summary": "My friend Greg often posts incredible things he just made, just for fun. Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG! A few things he made that I think are amazing: - ikea complexity i…",
-      "publishedAt": "2026-09-14T01:58:41.000Z",
+      "id": "https://news.ycombinator.com/item?id=49691343",
+      "title": "Nike exits the S&amp;P 100 after 18 years and a $200B market-cap wipeout",
+      "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "summary": "Article URL: https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/ Comments URL: https://news.ycombinator.com/item?id=49691343 Points: 18 # Comments: 10",
+      "publishedAt": "2026-09-14T02:50:40.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -307,6 +299,17 @@
       "category": "general"
     },
     {
+      "id": "6aa707a21c090bc17993dee9",
+      "title": "Chief Keef Postpones First Chicago Show in Over a Decade",
+      "link": "https://pitchfork.com/story/chief-keef-postpones-first-chicago-show-in-over-a-decade/",
+      "summary": "The rapper’s homecoming concert has been pushed back to September 23",
+      "publishedAt": "2026-09-13T22:20:29.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa70b095775d0e93c3b64f3/master/pass/GettyImages-2208808552.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "4RLa8nSzxoUF9ohdK4bhWF",
       "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
@@ -316,28 +319,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163457",
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying d…",
-      "publishedAt": "2026-09-13T21:30:00.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.theverge.com/?p=994441",
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet'…",
-      "publishedAt": "2026-09-13T19:41:48.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
     },
     {
       "id": "https://minimalissimo.com/articles/ane-lykkes-sculptural-light",
@@ -473,9 +454,9 @@
     },
     {
       "id": "CBMiW0FVX3lxTE1MRHBtd0dtb1Z6ZEptRmMtNkN3VzFLUHJRZnZDMEJFSnJBa0RCMVJTMG91TTg3ZGlESUQyRHk5dWtqOGw3TDQ4aEZPek1FV3pHR0JaTzBPM1lFdEU",
-      "title": "Designing America - arenamag.com",
+      "title": "Designing America - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MRHBtd0dtb1Z6ZEptRmMtNkN3VzFLUHJRZnZDMEJFSnJBa0RCMVJTMG91TTg3ZGlESUQyRHk5dWtqOGw3TDQ4aEZPek1FV3pHR0JaTzBPM1lFdEU?oc=5",
-      "summary": "Designing America arenamag.com",
+      "summary": "Designing America Arena Magazine",
       "publishedAt": "2026-09-08T00:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -495,9 +476,9 @@
     },
     {
       "id": "CBMiZEFVX3lxTE1QSHVHenJoZDJqYUtlZGlGRXhaRUVQSHFCeU01SW1iT2RLTldHdlJtLXBNVm54d1RSS2YyU3NYcUktRzBUREh3WXVBVUljM3RiN1RxMjFQaXBrU0EzbFpQZ18xaVY",
-      "title": "Casa Guadalupe by HANGHAR - thisispaper.com",
+      "title": "Casa Guadalupe by HANGHAR - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSHVHenJoZDJqYUtlZGlGRXhaRUVQSHFCeU01SW1iT2RLTldHdlJtLXBNVm54d1RSS2YyU3NYcUktRzBUREh3WXVBVUljM3RiN1RxMjFQaXBrU0EzbFpQZ18xaVY?oc=5",
-      "summary": "Casa Guadalupe by HANGHAR thisispaper.com",
+      "summary": "Casa Guadalupe by HANGHAR Thisispaper",
       "publishedAt": "2026-09-03T18:28:58.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -582,11 +563,11 @@
       "category": "local"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690678",
-      "title": "The Malicious Use of Artificial Intelligence",
-      "link": "https://arxiv.org/abs/1802.07228",
-      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 9 # Comments: 0",
-      "publishedAt": "2026-09-14T01:22:35.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690943",
+      "title": "Show HN: Is It Greg?",
+      "link": "https://github.com/antoineleclair/is-it-greg",
+      "summary": "My friend Greg often posts incredible things he just made, just for fun. Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG! A few things he made that I think are amazing: - ikea complexity i…",
+      "publishedAt": "2026-09-14T01:58:41.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -615,17 +596,6 @@
       "category": "science"
     },
     {
-      "id": "https://techcrunch.com/?p=3163467",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "publishedAt": "2026-09-13T20:49:38.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "https://www.thebrighterside.news/api/preview?id=126741&secret=cM2XMtKpK3Lj&nonce=3a2561ed6e",
       "title": "A missing super-Earth may have been swallowed up by the Sun billions of years ago",
       "link": "https://www.thebrighterside.news/post/a-missing-super-earth-may-have-been-swallowed-up-by-the-sun-billions-of-years-ago/",
@@ -637,17 +607,6 @@
       "category": "general"
     },
     {
-      "id": "https://www.theverge.com/?p=994426",
-      "title": "Apple is reportedly working on iPhone game controllers",
-      "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, M…",
-      "publishedAt": "2026-09-13T18:30:16.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "GvK9nxVswVmyjxUjdtLH3d",
       "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
@@ -657,6 +616,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa6c0ba5775d0e93c3b63f3",
+      "title": "The Raincoats, X-Ray Spex, and the Slits Members Form Supergroup",
+      "link": "https://pitchfork.com/story/the-raincoats-x-ray-spex-and-the-slits-members-form-supergroup/",
+      "summary": "Gina Birch, Hollie Cook, Lora Logic, and Paul Dean will perform together at a London punk festival next month",
+      "publishedAt": "2026-09-13T17:07:29.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa6d398ebe07e992ee6d1d2/master/pass/MixCollage-13-Sep-2026-12-46-PM-2646.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMiW0FVX3lxTE1ub1REbVVoSVRxanl0enpKMkpibURwRzlRV0dKRElnVmtYOXVrVHMyb2hpVzFQN3ZrY1B2b1Q2VXR6Sy1FUGJ5eVIwaW1icVlwU2oyRFpnUlNmTFE",
@@ -792,9 +762,9 @@
     },
     {
       "id": "CBMilwFBVV95cUxOS0wyVmczbGVwWkNYUkQxSjFHaU9UT0cxc2gtcDh3U2I1dWVSUzY5T1lmZ1hGWDViTEZ4MGdTdE9Jc2htMG9kWE5QS0xVUGVlZUJRQW9TejdnWnF3V1ZhZTBtckRiY0xIQy01LWtmNnRsRFZJcGFhTHdsWUdtWVdhWHZOM2R5TVRncjBlczctWnpoSEFLRFZn",
-      "title": "Nichigetsu by Studio Inhalt - thisispaper.com",
+      "title": "Nichigetsu by Studio Inhalt - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0wyVmczbGVwWkNYUkQxSjFHaU9UT0cxc2gtcDh3U2I1dWVSUzY5T1lmZ1hGWDViTEZ4MGdTdE9Jc2htMG9kWE5QS0xVUGVlZUJRQW9TejdnWnF3V1ZhZTBtckRiY0xIQy01LWtmNnRsRFZJcGFhTHdsWUdtWVdhWHZOM2R5TVRncjBlczctWnpoSEFLRFZn?oc=5",
-      "summary": "Nichigetsu by Studio Inhalt thisispaper.com",
+      "summary": "Nichigetsu by Studio Inhalt Thisispaper",
       "publishedAt": "2026-09-02T16:30:12.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -836,9 +806,9 @@
     },
     {
       "id": "CBMiY0FVX3lxTE5CTWFORmZqNE1Tb1l3bzUwZlNKdUR0bHFqbGxUZUtSMk9mdk9wV1IwMUowdVF1WmJFUElIREczS0dTWXJvak1ueFpyZmRGR3FiNnVyRnhBaWVzUXRwT3F4akpocw",
-      "title": "Build Your Own Frontier - arenamag.com",
+      "title": "Build Your Own Frontier - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CTWFORmZqNE1Tb1l3bzUwZlNKdUR0bHFqbGxUZUtSMk9mdk9wV1IwMUowdVF1WmJFUElIREczS0dTWXJvak1ueFpyZmRGR3FiNnVyRnhBaWVzUXRwT3F4akpocw?oc=5",
-      "summary": "Build Your Own Frontier arenamag.com",
+      "summary": "Build Your Own Frontier Arena Magazine",
       "publishedAt": "2026-07-02T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -890,11 +860,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690614",
-      "title": "Show HN: Exploring the intersection of prediction markets and social media",
-      "link": "https://www.thevidmarket.com/",
-      "summary": "The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like. Comments URL: https://news.ycombinator.com/item?id=49690614 Points: 3 # Comments: 0",
-      "publishedAt": "2026-09-14T01:14:25.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690678",
+      "title": "The Malicious Use of Artificial Intelligence",
+      "link": "https://arxiv.org/abs/1802.07228",
+      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 18 # Comments: 4",
+      "publishedAt": "2026-09-14T01:22:35.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -910,17 +880,6 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163451",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "publishedAt": "2026-09-13T20:28:00.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "https://interestingengineering.com/?p=309304",
@@ -945,15 +904,15 @@
       "category": "general"
     },
     {
-      "id": "https://www.theverge.com/?p=994415",
-      "title": "The Units’ Digital Stimulation is synthpunk perfection",
-      "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
-      "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to ge…",
-      "publishedAt": "2026-09-13T17:36:10.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/a1818657383_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
+      "id": "6aa6b28806b9407f07718076",
+      "title": "Listen to Jeff Tweedy Cover Twisted Teens’ “Wild Connection”",
+      "link": "https://pitchfork.com/story/jeff-tweedy-twisted-teens-cover/",
+      "summary": "The Wilco frontman shared the cover of the Blame the Clown track to his Substack",
+      "publishedAt": "2026-09-13T15:07:16.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa6b4023f5a3f6fe040eae0/master/pass/GettyImages-2290338970.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "PH2PRPHLsbgPyFQAodXG8D",
@@ -1111,9 +1070,9 @@
     },
     {
       "id": "CBMiVkFVX3lxTE1Pb0Q1UVVSaG14b09pNXF4QzE4U3dIWlRIQUJ4OFJ3MmQ0Vk5oaUdQcEZNTUpyQVZnUWN2eEM0MzdVNEZJMjdTTUNzVjFTVzlfa0JMM1Jn",
-      "title": "Ruby by NOVSEP - thisispaper.com",
+      "title": "Ruby by NOVSEP - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pb0Q1UVVSaG14b09pNXF4QzE4U3dIWlRIQUJ4OFJ3MmQ0Vk5oaUdQcEZNTUpyQVZnUWN2eEM0MzdVNEZJMjdTTUNzVjFTVzlfa0JMM1Jn?oc=5",
-      "summary": "Ruby by NOVSEP thisispaper.com",
+      "summary": "Ruby by NOVSEP Thisispaper",
       "publishedAt": "2026-09-02T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -1144,9 +1103,9 @@
     },
     {
       "id": "CBMiQEFVX3lxTE9LSXJ5ZGpuRGhuR0NaajlaQUhsM3FNRHhmM2JfUGhncUdZdksxQ2tfLXdFOU02RGRUdlBnc1RHRjU",
-      "title": "Arena Magazine - arenamag.com",
+      "title": "Arena Magazine - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9LSXJ5ZGpuRGhuR0NaajlaQUhsM3FNRHhmM2JfUGhncUdZdksxQ2tfLXdFOU02RGRUdlBnc1RHRjU?oc=5",
-      "summary": "Arena Magazine arenamag.com",
+      "summary": "Arena Magazine Arena Magazine",
       "publishedAt": "2026-06-27T21:03:49.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -1166,9 +1125,9 @@
     },
     {
       "id": "CBMib0FVX3lxTE1yLTNzS0Y1Rkw3QkprRmdpVFlzQm4zejhsbzZMQzVyX1VwQW9JOEVXa2JBRGJSZTl1cDA3VjNZc3JIYWJXUFNMM2VncFdhSGZWZktud21JSXBoSzBQOXJxelRXSHZ3X2s2VjczbWxpTQ",
-      "title": "banda agency office | ater.architects - New Norm Magazine",
+      "title": "banda agency office by ater.architects - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yLTNzS0Y1Rkw3QkprRmdpVFlzQm4zejhsbzZMQzVyX1VwQW9JOEVXa2JBRGJSZTl1cDA3VjNZc3JIYWJXUFNMM2VncFdhSGZWZktud21JSXBoSzBQOXJxelRXSHZ3X2s2VjczbWxpTQ?oc=5",
-      "summary": "banda agency office | ater.architects New Norm Magazine",
+      "summary": "banda agency office by ater.architects New Norm Magazine",
       "publishedAt": "2026-01-06T10:54:11.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -1209,11 +1168,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690529",
-      "title": "AI is not a normal technology",
-      "link": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology Comments URL: https://news.ycombinator.com/item?id=49690529 Points: 12 # Comments: 19",
-      "publishedAt": "2026-09-14T01:00:09.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690614",
+      "title": "Show HN: Exploring the intersection of prediction markets and social media",
+      "link": "https://www.thevidmarket.com/",
+      "summary": "The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like. Comments URL: https://news.ycombinator.com/item?id=49690614 Points: 7 # Comments: 0",
+      "publishedAt": "2026-09-14T01:14:25.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1229,17 +1188,6 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163449",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "publishedAt": "2026-09-13T19:40:15.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "https://interestingengineering.com/?p=309343",
@@ -1264,17 +1212,6 @@
       "category": "general"
     },
     {
-      "id": "https://www.theverge.com/?p=994405",
-      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-      "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
-      "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall…",
-      "publishedAt": "2026-09-13T14:28:12.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286668940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "taxxZ9mn4iyZnCEccSiuNH",
       "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
       "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
@@ -1295,6 +1232,17 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
+    },
+    {
+      "id": "6aa4215bfc44394c8a822fd0",
+      "title": "In Visible Silence",
+      "link": "https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/",
+      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the second album from a mischievous group of provocateurs whose high-tech hijinks anticipa…",
+      "publishedAt": "2026-09-13T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa42086d587e093eaa81564/master/pass/The%20Art%20of%20Noise%20In%20Visible%20Silence.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMimAFBVV95cUxQRTRJQnVTSVRPX0d2Z0dJMGhMM3k4dHBfNUNpWG56WnBpMGNoZWI5Z1VMOWZVejFaVks1ZWpMRF9pMXVSRmo0MXE3MFhJcFMxRF9CUmpaX1VuUk1qTWxETVhNYWk1cThrX0VhSFJKV0tlaUptUDZPbWRKaDJoWVdkcHBvaF8xUC1kZEJJWlp5anMxQmhlMXhGYg",
@@ -1452,9 +1400,9 @@
     },
     {
       "id": "CBMiWkFVX3lxTFBCbTVGQVBaNDB3QmZxVUJnNlhhVWdpbXpWclRvNW0zTWdvc19BU05CaHNiR3owbzhxeDBjYWRMUEs3VUpUQXNFcGg5dzNXUW9yUThIUDRoUUdDQQ",
-      "title": "Second Life - thisispaper.com",
+      "title": "Second Life - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCbTVGQVBaNDB3QmZxVUJnNlhhVWdpbXpWclRvNW0zTWdvc19BU05CaHNiR3owbzhxeDBjYWRMUEs3VUpUQXNFcGg5dzNXUW9yUThIUDRoUUdDQQ?oc=5",
-      "summary": "Second Life thisispaper.com",
+      "summary": "Second Life Thisispaper",
       "publishedAt": "2026-07-08T09:47:17.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -1463,9 +1411,9 @@
     },
     {
       "id": "CBMiX0FVX3lxTE40eEdKalVfZ25uYVNwb1F1NWFpMWtrVnNEU3NMTDlGeFBDS0lJc3NXazZjQ2NJV0pwNzBNbUF3ZE9HUFdmQWRiSmdKdU1tYXExN3dNTUdMV1JtZjlBMlNn",
-      "title": "Shipyards, Graveyards - arenamag.com",
+      "title": "Shipyards, Graveyards - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40eEdKalVfZ25uYVNwb1F1NWFpMWtrVnNEU3NMTDlGeFBDS0lJc3NXazZjQ2NJV0pwNzBNbUF3ZE9HUFdmQWRiSmdKdU1tYXExN3dNTUdMV1JtZjlBMlNn?oc=5",
-      "summary": "Shipyards, Graveyards arenamag.com",
+      "summary": "Shipyards, Graveyards Arena Magazine",
       "publishedAt": "2026-06-25T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -1528,11 +1476,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690279",
-      "title": "Writing a better reality: The case for optimistic sci-fi",
-      "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-      "summary": "Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/ Comments URL: https://news.ycombinator.com/item?id=49690279 Points: 9 # Comments: 4",
-      "publishedAt": "2026-09-14T00:27:11.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690411",
+      "title": "AI Robots – When will they be in our homes",
+      "link": "https://spectrum.ieee.org/ai-robots",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-robots Comments URL: https://news.ycombinator.com/item?id=49690411 Points: 7 # Comments: 4",
+      "publishedAt": "2026-09-14T00:44:23.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1550,17 +1498,6 @@
       "category": "science"
     },
     {
-      "id": "https://techcrunch.com/?p=3163436",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "publishedAt": "2026-09-13T16:30:00.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "https://www.thebrighterside.news/api/preview?id=126677&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
       "title": "The Moon may have formed almost intact within hours of Theia smashing into Earth",
       "link": "https://www.thebrighterside.news/post/the-moon-may-have-formed-almost-intact-within-hours-of-theia-smashing-into-earth/",
@@ -1570,17 +1507,6 @@
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
-    },
-    {
-      "id": "https://www.theverge.com/?p=994393",
-      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
-      "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
-      "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam …",
-      "publishedAt": "2026-09-13T13:00:00.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/YMX3_03452_R_rgb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
     },
     {
       "id": "UMYok8kCaZgdN2YLoD4u7X",
@@ -1614,6 +1540,17 @@
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
+    },
+    {
+      "id": "6aa2f4f23147308ef09ffa1c",
+      "title": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
+      "link": "https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/",
+      "summary": "Originally issued as tour-only CD-Rs, these four diaristic albums from the singer-songwriter bundle together half-formed suites of slow, seasick recordings aimed squarely at the die-hards.",
+      "publishedAt": "2026-09-12T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa2f33182c08b3dd55d3d44/master/pass/Mac%20DeMarco%20Dog%20on%20the%20Rock.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.themarginalian.org/?p=74745",
@@ -1771,9 +1708,9 @@
     },
     {
       "id": "CBMiWkFVX3lxTE5CQUp6VzRMd09pLWJIUE5aemZwTklDUWFSdFdLajBtb21pZ0lkVlNDWFpTOVhQeHdyVkxocWNHaEFOUE5kLTg0d1YtZ0tCUDdlYV8wZFYyZDEwUQ",
-      "title": "A Private Matter - arenamag.com",
+      "title": "A Private Matter - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CQUp6VzRMd09pLWJIUE5aemZwTklDUWFSdFdLajBtb21pZ0lkVlNDWFpTOVhQeHdyVkxocWNHaEFOUE5kLTg0d1YtZ0tCUDdlYV8wZFYyZDEwUQ?oc=5",
-      "summary": "A Private Matter arenamag.com",
+      "summary": "A Private Matter Arena Magazine",
       "publishedAt": "2026-06-23T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -1782,9 +1719,9 @@
     },
     {
       "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
-      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - thisispaper.com",
+      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
-      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi thisispaper.com",
+      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi Thisispaper",
       "publishedAt": "2026-04-17T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -1847,11 +1784,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690260",
-      "title": "Open-Source AI and Open Models Reading List",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 29 # Comments: 1",
-      "publishedAt": "2026-09-14T00:22:51.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690279",
+      "title": "Writing a better reality: The case for optimistic sci-fi",
+      "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+      "summary": "Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/ Comments URL: https://news.ycombinator.com/item?id=49690279 Points: 17 # Comments: 8",
+      "publishedAt": "2026-09-14T00:27:11.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1867,28 +1804,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163281",
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
-      "publishedAt": "2026-09-13T16:04:00.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.theverge.com/?p=994172",
-      "title": "Your car is selling your data",
-      "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. …",
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126687&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
@@ -1922,6 +1837,17 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
+    },
+    {
+      "id": "6a9893989151e0238dff5da2",
+      "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
+      "link": "https://pitchfork.com/story/lil-durk-acquitted-in-murder-for-hire-plot/",
+      "summary": "Prosecutors had argued Durk orchestrated a hit on the rapper Quando Rondo as revenge for King Von’s murder",
+      "publishedAt": "2026-09-12T00:19:04.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa48e57fc44394c8a823255/master/pass/GettyImages-2147538013.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMihgFBVV95cUxQRG9RRlNFOVZDLVZhbnRIWU1tQ2I5RXFhNlkwTjJmaTRnQ3BZUGI3N3pxWGdNemwxMDN2QklVTDVleUdxZTVEbExYZDVtZWZLVzR5UXZwMzlrWktmdGxNOUlWbE91WE1ydXhTXzlqTTljVS1tZlJCTlhXb1FlYS1IbzIwMUp3UQ",
@@ -2090,9 +2016,9 @@
     },
     {
       "id": "CBMiWEFVX3lxTFBxcWNMWEh5SEZ0bUxyb0pYbm5hWGVTV1lid2ZyX3pkWVFLbnVuSHFwUzdKZWt4RG5TaGRFTUg2YllTeW5yY0lEcUwxLXdJRk54V21BZmNXamM",
-      "title": "The Fifth Shift - arenamag.com",
+      "title": "The Fifth Shift - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxcWNMWEh5SEZ0bUxyb0pYbm5hWGVTV1lid2ZyX3pkWVFLbnVuSHFwUzdKZWt4RG5TaGRFTUg2YllTeW5yY0lEcUwxLXdJRk54V21BZmNXamM?oc=5",
-      "summary": "The Fifth Shift arenamag.com",
+      "summary": "The Fifth Shift Arena Magazine",
       "publishedAt": "2026-06-10T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -2101,9 +2027,9 @@
     },
     {
       "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
-      "title": "A Potter's Studio by Piercy&Company - thisispaper.com",
+      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
-      "summary": "A Potter's Studio by Piercy&Company thisispaper.com",
+      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
       "publishedAt": "2026-03-27T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -2166,11 +2092,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690174",
-      "title": "Apple's Dimensional Drawings",
-      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/ Comments URL: https://news.ycombinator.com/item?id=49690174 Points: 29 # Comments: 4",
-      "publishedAt": "2026-09-14T00:11:21.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690260",
+      "title": "Open-Source AI and Open Models Reading List",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 41 # Comments: 2",
+      "publishedAt": "2026-09-14T00:22:51.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2186,28 +2112,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163259",
-      "title": "Fusion power startups find new partners in the defense world",
-      "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-      "publishedAt": "2026-09-13T13:15:00.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.theverge.com/?p=994218",
-      "title": "Apple’s new phones are here",
-      "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-      "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I'…",
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=124699&secret=cM2XMtKpK3Lj&nonce=d5f87b22a7",
@@ -2252,6 +2156,17 @@
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
+    },
+    {
+      "id": "6aa449c2cb9b95cbc449780c",
+      "title": "Bon Iver Made a Jingle for a Local Bar’s Meatloaf Dippers",
+      "link": "https://pitchfork.com/story/bon-iver-made-a-jingle-for-a-local-bars-meatloaf-dippers/",
+      "summary": "Justin Vernon celebrates the breaded treats of Minnesota’s Howard’s Bar in a terrifically, terrifyingly jaunty tune",
+      "publishedAt": "2026-09-11T20:12:10.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa46017764808ac85c7d082/master/pass/bon-iver-dips-meatloaf.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1284967",
@@ -2409,9 +2324,9 @@
     },
     {
       "id": "CBMiTkFVX3lxTFBsaFVEbS04SlFWclR6UENGdGF0ZnNfTDY1MXpxYVRIQ1hISDBfYkNSN21aSk9FZlVFVGw1Q1N5RDRMenNoZ0hSUzFhVF8yQQ",
-      "title": "Wandering America - Preorder - arenamag.com",
+      "title": "Wandering America - Preorder - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsaFVEbS04SlFWclR6UENGdGF0ZnNfTDY1MXpxYVRIQ1hISDBfYkNSN21aSk9FZlVFVGw1Q1N5RDRMenNoZ0hSUzFhVF8yQQ?oc=5",
-      "summary": "Wandering America - Preorder arenamag.com",
+      "summary": "Wandering America - Preorder Arena Magazine",
       "publishedAt": "2026-06-05T04:33:51.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -2420,9 +2335,9 @@
     },
     {
       "id": "CBMiYkFVX3lxTE1rWWdkRUpEbjY0dzV0NTUzUmt1eUxER1RWSUhoc1M3UHpGLVBfZjVEeXFvX3hkMW5ZZElHc3M5UmI1WGpwa3VqcFZqemdjYUZCcWY5Z1lqWFVrenk3aWZsNXVn",
-      "title": "W.E.I.R.D. by Nicolò Rinaldi - thisispaper.com",
+      "title": "W.E.I.R.D. by Nicolò Rinaldi - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rWWdkRUpEbjY0dzV0NTUzUmt1eUxER1RWSUhoc1M3UHpGLVBfZjVEeXFvX3hkMW5ZZElHc3M5UmI1WGpwa3VqcFZqemdjYUZCcWY5Z1lqWFVrenk3aWZsNXVn?oc=5",
-      "summary": "W.E.I.R.D. by Nicolò Rinaldi thisispaper.com",
+      "summary": "W.E.I.R.D. by Nicolò Rinaldi Thisispaper",
       "publishedAt": "2026-03-20T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -2485,11 +2400,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690139",
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "summary": "Article URL: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts Comments URL: https://news.ycombinator.com/item?id=49690139 Points: 10 # Comments: 0",
-      "publishedAt": "2026-09-14T00:07:09.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690174",
+      "title": "Apple's Dimensional Drawings",
+      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/ Comments URL: https://news.ycombinator.com/item?id=49690174 Points: 48 # Comments: 8",
+      "publishedAt": "2026-09-14T00:11:21.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2505,28 +2420,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163427",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-      "publishedAt": "2026-09-12T23:25:38.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.theverge.com/?p=994383",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but th…",
-      "publishedAt": "2026-09-12T21:41:36.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=124400&secret=cM2XMtKpK3Lj&nonce=4dfbc6e638",
@@ -2571,6 +2464,17 @@
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
+    },
+    {
+      "id": "6aa42b4620783d7990d463c0",
+      "title": "Quavo Announces Pharrell Williams-Produced Album",
+      "link": "https://pitchfork.com/story/quavo-announces-pharrell-williams-produced-album-qromelife/",
+      "summary": "The long-teased Qrömelife now has a release date",
+      "publishedAt": "2026-09-11T18:06:20.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa4564bba6eb6de196fdcd0/master/pass/QuavoQLPress1.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1284952",
@@ -2728,9 +2632,9 @@
     },
     {
       "id": "CBMiaEFVX3lxTE5iY3V3Zjgxa1oxN3RTeEZVb2s5clNYcGdJNkxNa1NEelFZdkNkRERQbXZwT1NkS1ZfOGY3TTRSZ3c3VVk3ZndMYzRNUHYtbHliMW1VMXEyZDEwVDFoaWFnd01PNl9zcnBM",
-      "title": "Principals: Matthew Kinsella - arenamag.com",
+      "title": "Principals: Matthew Kinsella - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iY3V3Zjgxa1oxN3RTeEZVb2s5clNYcGdJNkxNa1NEelFZdkNkRERQbXZwT1NkS1ZfOGY3TTRSZ3c3VVk3ZndMYzRNUHYtbHliMW1VMXEyZDEwVDFoaWFnd01PNl9zcnBM?oc=5",
-      "summary": "Principals: Matthew Kinsella arenamag.com",
+      "summary": "Principals: Matthew Kinsella Arena Magazine",
       "publishedAt": "2026-04-03T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -2739,9 +2643,9 @@
     },
     {
       "id": "CBMiY0FVX3lxTE5Ud3o4cERPZElwdzM4dFlJSnpoRkJjVDdOdzlDZm5TSXZRQUhFcDR2MDF0ZW9LMGRQT3NDT0FWTVF0LVZpaGJFQ3lJUGI4MmZnOW9mdXJFUUs5dUNGbjZmbGtrVQ",
-      "title": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez - thisispaper.com",
+      "title": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ud3o4cERPZElwdzM4dFlJSnpoRkJjVDdOdzlDZm5TSXZRQUhFcDR2MDF0ZW9LMGRQT3NDT0FWTVF0LVZpaGJFQ3lJUGI4MmZnOW9mdXJFUUs5dUNGbjZmbGtrVQ?oc=5",
-      "summary": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez thisispaper.com",
+      "summary": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez Thisispaper",
       "publishedAt": "2026-01-21T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -2804,11 +2708,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690051",
-      "title": "The Coming War on General Computation (2011)",
-      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 55 # Comments: 14",
-      "publishedAt": "2026-09-13T23:54:55.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690139",
+      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "summary": "Article URL: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts Comments URL: https://news.ycombinator.com/item?id=49690139 Points: 13 # Comments: 0",
+      "publishedAt": "2026-09-14T00:07:09.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2824,28 +2728,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://www.theverge.com/?p=994384",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-im…",
-      "publishedAt": "2026-09-12T21:16:28.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163386",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "publishedAt": "2026-09-12T20:19:16.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126621&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
@@ -2868,6 +2750,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa412c50069b4832f6a96ab",
+      "title": "Brent Hinds Estate Sues Mastodon",
+      "link": "https://pitchfork.com/story/brent-hinds-estate-sues-mastodon/",
+      "summary": "The estate disputes whether an $80,000 check from the band covers Hinds’ share in Mastodon’s interests",
+      "publishedAt": "2026-09-11T18:04:57.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa44295fc33f9dc43bef792/master/pass/mastodon-sued-brent-hinds.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1284948",
@@ -3047,9 +2940,9 @@
     },
     {
       "id": "CBMiZkFVX3lxTE1KMmtGc2d4bTI0eGZiN2RTdEZZTm4tZnl5eHQ0dHI2UVdjNVBTbDFVNWZ4Q0s5dU1UU3VjTUdpZFBtZHZvemN1WHFhT3hzZVROczlyYThaMlJCeFhoNUNCRGNBWXJTdw",
-      "title": "A Quest for Consciousness - arenamag.com",
+      "title": "A Quest for Consciousness - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMmtGc2d4bTI0eGZiN2RTdEZZTm4tZnl5eHQ0dHI2UVdjNVBTbDFVNWZ4Q0s5dU1UU3VjTUdpZFBtZHZvemN1WHFhT3hzZVROczlyYThaMlJCeFhoNUNCRGNBWXJTdw?oc=5",
-      "summary": "A Quest for Consciousness arenamag.com",
+      "summary": "A Quest for Consciousness Arena Magazine",
       "publishedAt": "2026-04-02T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -3058,9 +2951,9 @@
     },
     {
       "id": "CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg",
-      "title": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP - thisispaper.com",
+      "title": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg?oc=5",
-      "summary": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP thisispaper.com",
+      "summary": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP Thisispaper",
       "publishedAt": "2025-06-17T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -3123,11 +3016,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49689460",
-      "title": "The contagion of fear",
-      "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 158 # Comments: 124",
-      "publishedAt": "2026-09-13T22:38:18.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690051",
+      "title": "The Coming War on General Computation (2011)",
+      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 59 # Comments: 14",
+      "publishedAt": "2026-09-13T23:54:55.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3143,28 +3036,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://www.theverge.com/?p=994371",
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in…",
-      "publishedAt": "2026-09-12T20:08:09.000Z",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STC2026_GalleryIMG_0008_PT6120_rgba.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceId": "the-verge",
-      "sourceName": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163373",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "publishedAt": "2026-09-12T19:34:44.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126204&secret=cM2XMtKpK3Lj&nonce=a2b53023f2",
@@ -3187,6 +3058,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa4216f6f843ad22cbe608e",
+      "title": "Dolly Parton Is Getting Her Own Airport",
+      "link": "https://pitchfork.com/story/dolly-parton-is-getting-her-own-airport/",
+      "summary": "Nashville International Airport is being renamed in honor of the late country icon",
+      "publishedAt": "2026-09-11T17:50:03.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa43d05cb9b95cbc44977c2/master/pass/Dolly-Parton.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://coloradosun.com/?p=502012",
@@ -3366,9 +3248,9 @@
     },
     {
       "id": "CBMicEFVX3lxTE9Nb1l4ZVZiZVY5ekpyTEdtbU1WdFQ4QS0xeV9abFIwN0l6UzltNkdrZkp4dzk1Zi13bmRYM204WDg4NlVBREt3VmZXcmdnZGxiYThhRGpnakZXUWlQa2lEZ1FZczR4aXM1NXRxcHM3WF8",
-      "title": "The Man With The Golden Satellite - arenamag.com",
+      "title": "The Man With The Golden Satellite - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Nb1l4ZVZiZVY5ekpyTEdtbU1WdFQ4QS0xeV9abFIwN0l6UzltNkdrZkp4dzk1Zi13bmRYM204WDg4NlVBREt3VmZXcmdnZGxiYThhRGpnakZXUWlQa2lEZ1FZczR4aXM1NXRxcHM3WF8?oc=5",
-      "summary": "The Man With The Golden Satellite arenamag.com",
+      "summary": "The Man With The Golden Satellite Arena Magazine",
       "publishedAt": "2026-03-30T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -3388,9 +3270,9 @@
     },
     {
       "id": "CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ",
-      "title": "Art Biotop Water Garden by Junya Ishigami - thisispaper.com",
+      "title": "Art Biotop Water Garden by Junya Ishigami - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ?oc=5",
-      "summary": "Art Biotop Water Garden by Junya Ishigami thisispaper.com",
+      "summary": "Art Biotop Water Garden by Junya Ishigami Thisispaper",
       "publishedAt": "2025-03-10T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -3442,25 +3324,14 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49689048",
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 105 # Comments: 49",
-      "publishedAt": "2026-09-13T21:47:04.000Z",
+      "id": "https://news.ycombinator.com/item?id=49689460",
+      "title": "The contagion of fear",
+      "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 170 # Comments: 130",
+      "publishedAt": "2026-09-13T22:38:18.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163377",
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "summary": "Tesla’s halo sports car was first announced in November 2017.",
-      "publishedAt": "2026-09-12T19:21:19.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
       "category": "tech"
     },
     {
@@ -3473,6 +3344,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa42d32b2fc3a5873c487b5",
+      "title": "“skin”",
+      "link": "https://pitchfork.com/reviews/kllhhr-skin/",
+      "summary": "The ambient rapper’s surprise breakout single is a barren transmission from the other side of grief.",
+      "publishedAt": "2026-09-11T16:49:20.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa42da6b2fc3a5873c487ba/master/pass/kllhhr:%20%E2%80%9Cskin%E2%80%9D.png",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.themarginalian.org/?p=82587",
@@ -3553,9 +3435,9 @@
     },
     {
       "id": "CBMiWEFVX3lxTE1wLUVsMnJlWEYyNlNrdHZBTm1iSnFDbmo5MW5IWG9YZERFN2xTTFR3dnVWdVNIQ0IxWW81dmRzNXBjX3VKQXBxNURoeWgtZmFBdHM1NUR5TmY",
-      "title": "The Silicon Man - arenamag.com",
+      "title": "The Silicon Man - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wLUVsMnJlWEYyNlNrdHZBTm1iSnFDbmo5MW5IWG9YZERFN2xTTFR3dnVWdVNIQ0IxWW81dmRzNXBjX3VKQXBxNURoeWgtZmFBdHM1NUR5TmY?oc=5",
-      "summary": "The Silicon Man arenamag.com",
+      "summary": "The Silicon Man Arena Magazine",
       "publishedAt": "2026-03-20T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -3575,9 +3457,9 @@
     },
     {
       "id": "CBMiY0FVX3lxTE5FOGhGUGZqZzVidThvUFduMFc4bDBIdERhRzdNS1UxTHNsTVFZSXdsM01KYVBYOTZoRUdtY01yNTQyR1JkV2NiVUJ6OVN1clMyU1FaSnBUdk1tRmI3elA4MHg5WQ",
-      "title": "Human Nature by Lucas Foglia - thisispaper.com",
+      "title": "Human Nature by Lucas Foglia - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FOGhGUGZqZzVidThvUFduMFc4bDBIdERhRzdNS1UxTHNsTVFZSXdsM01KYVBYOTZoRUdtY01yNTQyR1JkV2NiVUJ6OVN1clMyU1FaSnBUdk1tRmI3elA4MHg5WQ?oc=5",
-      "summary": "Human Nature by Lucas Foglia thisispaper.com",
+      "summary": "Human Nature by Lucas Foglia Thisispaper",
       "publishedAt": "2024-03-01T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -3596,25 +3478,14 @@
       "category": "general"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49688766",
-      "title": "Why is privacy so hard?",
-      "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/ Comments URL: https://news.ycombinator.com/item?id=49688766 Points: 32 # Comments: 35",
-      "publishedAt": "2026-09-13T21:13:43.000Z",
+      "id": "https://news.ycombinator.com/item?id=49689048",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 115 # Comments: 59",
+      "publishedAt": "2026-09-13T21:47:04.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163369",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "publishedAt": "2026-09-12T14:40:00.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
       "category": "tech"
     },
     {
@@ -3627,6 +3498,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa41c91fc44394c8a822fc1",
+      "title": "Charli XCX Announces 2027 European Tour Dates",
+      "link": "https://pitchfork.com/story/charli-xcx-2027-europe-tour-dates-music-fashion-film/",
+      "summary": "Music, Fashion, Film gets a six-date run next February",
+      "publishedAt": "2026-09-11T15:47:47.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa41dc30069b4832f6a978e/master/pass/GettyImages-2288754233.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMiggFBVV95cUxNYTY0UEt6UXFlNGRGUHFrbng0WlU0RGJqcVg3WnFWSzlCdHkwYm1IcW1tdWJKTmN0SnA3QV9yaVg1bmhhR2FHblViWE9xS0xTZkV2aERib1hoSV94OWRRVmtoZmk3YS1hSXdaVndpXzM2UzZ6SFlPVGZjamNEU2hHQnZR",
@@ -3707,9 +3589,9 @@
     },
     {
       "id": "CBMiQkFVX3lxTE0yUUVfWVFxd1RxYXp3b0tKMzl0allmYTJoZnF2RUVWbUJsak1uampoWjU5OGdDbXZwaUJRekVSWE1wZw",
-      "title": "Silicon - Preorder the Book - arenamag.com",
+      "title": "Silicon - Preorder the Book - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yUUVfWVFxd1RxYXp3b0tKMzl0allmYTJoZnF2RUVWbUJsak1uampoWjU5OGdDbXZwaUJRekVSWE1wZw?oc=5",
-      "summary": "Silicon - Preorder the Book arenamag.com",
+      "summary": "Silicon - Preorder the Book Arena Magazine",
       "publishedAt": "2026-03-18T18:26:50.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -3740,9 +3622,9 @@
     },
     {
       "id": "CBMiYkFVX3lxTE9tOEFQLU9hWkc4NUlFWXlUb1pnYlZ3XzJVLVdWYm5KUkVCWWJjUDBWMl9hYUNlcW1qX2dLT01HQk5DVzJ1dEh5eFRmcmZzVVJTNmV6U2FoY3VkMUx5NENfR1lR",
-      "title": "Pimlico Armchair by Mentsen - thisispaper.com",
+      "title": "Pimlico Armchair by Mentsen - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tOEFQLU9hWkc4NUlFWXlUb1pnYlZ3XzJVLVdWYm5KUkVCWWJjUDBWMl9hYUNlcW1qX2dLT01HQk5DVzJ1dEh5eFRmcmZzVVJTNmV6U2FoY3VkMUx5NENfR1lR?oc=5",
-      "summary": "Pimlico Armchair by Mentsen thisispaper.com",
+      "summary": "Pimlico Armchair by Mentsen Thisispaper",
       "publishedAt": "2023-04-28T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -3753,22 +3635,11 @@
       "id": "https://news.ycombinator.com/item?id=49688695",
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 526 # Comments: 234",
+      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 565 # Comments: 248",
       "publishedAt": "2026-09-13T21:06:13.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163323",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "publishedAt": "2026-09-11T22:58:17.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
       "category": "tech"
     },
     {
@@ -3781,6 +3652,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa1ae94b3d5e748ab16ac3a",
+      "title": "10 New Albums You Should Listen to Now: This Is Lorelei, Alex G, and More",
+      "link": "https://pitchfork.com/story/10-new-albums-you-should-listen-to-now-this-is-lorelei-alex-g-and-more/",
+      "summary": "Stream new releases from This Is Lorelei, Alex G, Haruomi Hosono, and Sylvan Esso",
+      "publishedAt": "2026-09-11T14:43:19.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa1b585b3d5e748ab16ac68/master/pass/This%20Is%20Lorelei%20by%20Eve%20Alpert%20-%203.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMiY0FVX3lxTFBTZXd4T2tOaU1GWENfcmNrRW5ZQ1NZOS0xZjMyNk9BTUR6SnI3TWM2WGxLSzdsOHppZkoyLU9NNHNCSlVEeEN6cDNsMTBFWXd2RUx5alpydmFwSGJjX0VfRUVfSQ",
@@ -3861,9 +3743,9 @@
     },
     {
       "id": "CBMiYEFVX3lxTE5RMHdURWJjVHJMbzlNOEhFRTdtdEFpcGgycmNVeml4cFlxamtFbGxuOVFwaTlnYWZpQ0dqYUNzS0RwbGRHLXlwM0ZKYXcyNUM4VWFEYktkRFJmYTZwMW1FNQ",
-      "title": "Stealing Like a State - arenamag.com",
+      "title": "Stealing Like a State - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RMHdURWJjVHJMbzlNOEhFRTdtdEFpcGgycmNVeml4cFlxamtFbGxuOVFwaTlnYWZpQ0dqYUNzS0RwbGRHLXlwM0ZKYXcyNUM4VWFEYktkRFJmYTZwMW1FNQ?oc=5",
-      "summary": "Stealing Like a State arenamag.com",
+      "summary": "Stealing Like a State Arena Magazine",
       "publishedAt": "2026-02-26T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -3894,9 +3776,9 @@
     },
     {
       "id": "CBMidEFVX3lxTE1KcUQxZzZfb243NnVVM2xzc2d2ZlZJSmQza01wVUdaa3pWbVJmZFJ4T2xKdUZZbDVYanVUSnZnTXRxWFNGa09fNC1HLWNPd1NQMldrZGVDdDBRWU5jSjFrdUVMUDhTWTFiX3JTM3BRdGI4WURY",
-      "title": "Lee Ufan Museum by Tadao Ando captured by Dan Preston - thisispaper.com",
+      "title": "Lee Ufan Museum by Tadao Ando captured by Dan Preston - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KcUQxZzZfb243NnVVM2xzc2d2ZlZJSmQza01wVUdaa3pWbVJmZFJ4T2xKdUZZbDVYanVUSnZnTXRxWFNGa09fNC1HLWNPd1NQMldrZGVDdDBRWU5jSjFrdUVMUDhTWTFiX3JTM3BRdGI4WURY?oc=5",
-      "summary": "Lee Ufan Museum by Tadao Ando captured by Dan Preston thisispaper.com",
+      "summary": "Lee Ufan Museum by Tadao Ando captured by Dan Preston Thisispaper",
       "publishedAt": "2023-03-08T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -3907,22 +3789,11 @@
       "id": "https://news.ycombinator.com/item?id=49688391",
       "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
       "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 67 # Comments: 8",
+      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 69 # Comments: 8",
       "publishedAt": "2026-09-13T20:33:18.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163211",
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "publishedAt": "2026-09-11T21:19:05.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
       "category": "tech"
     },
     {
@@ -3935,6 +3806,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa316d649c2370d978b80ac",
+      "title": "Modest Mouse and My Morning Jacket Share Neil Young Covers",
+      "link": "https://pitchfork.com/story/modest-mouse-and-my-morning-jacket-share-neil-young-covers/",
+      "summary": "Listen to the indie rock titans’ respective takes on “Barstool Blues” and “Like a Hurricane”",
+      "publishedAt": "2026-09-11T14:24:35.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa40ec1764808ac85c7cdf6/master/pass/modest-mouse-my-morning-jacket-neil-young-covers.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMibEFVX3lxTE4yME5xcVFYXzBfeVBaVzdLNkxvZ21yWFhpSDVkX0NsOVYtNDVYZHJ4aGZudUJsWFBzX2IybmtLMEFja3RCUnJFRU10NEE5ckR0dkxlY0toZWFSQnBJTW9Kb1FDQjkySmlSVTdrVA",
@@ -4015,9 +3897,9 @@
     },
     {
       "id": "CBMiPEFVX3lxTE5uZmI5cURvRE15eFk2MlQzSEg3U3NDMWtIc1Fka1JhNDFxVU5aMU1HMEtwWkUwbWFvQWtDdQ",
-      "title": "Arena Magazine - arenamag.com",
+      "title": "Arena Magazine - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5uZmI5cURvRE15eFk2MlQzSEg3U3NDMWtIc1Fka1JhNDFxVU5aMU1HMEtwWkUwbWFvQWtDdQ?oc=5",
-      "summary": "Arena Magazine arenamag.com",
+      "summary": "Arena Magazine Arena Magazine",
       "publishedAt": "2026-02-21T09:38:17.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -4048,9 +3930,9 @@
     },
     {
       "id": "CBMiZ0FVX3lxTE80OVBpaks2aklmLXAyTFhGMEJabUV5emZIWWN3SHlsNjZyOWRWLUdVYXlsUXh6ZXhBZFZ2WDNadW5lZnctYkJhRUJvNXRPSnZzMFFnaXltTmc5Z05pNGRyVXltYXNlVEk",
-      "title": "FUTURE SENSITIVE by Lucy McRae - thisispaper.com",
+      "title": "FUTURE SENSITIVE by Lucy McRae - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80OVBpaks2aklmLXAyTFhGMEJabUV5emZIWWN3SHlsNjZyOWRWLUdVYXlsUXh6ZXhBZFZ2WDNadW5lZnctYkJhRUJvNXRPSnZzMFFnaXltTmc5Z05pNGRyVXltYXNlVEk?oc=5",
-      "summary": "FUTURE SENSITIVE by Lucy McRae thisispaper.com",
+      "summary": "FUTURE SENSITIVE by Lucy McRae Thisispaper",
       "publishedAt": "2022-11-24T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -4061,22 +3943,11 @@
       "id": "https://news.ycombinator.com/item?id=49688259",
       "title": "Mullenweg has returned as CEO after attempted board ouster",
       "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https://news.ycombinator.com/item?id=49688259 Points: 57 # Comments: 112",
+      "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https://news.ycombinator.com/item?id=49688259 Points: 68 # Comments: 122",
       "publishedAt": "2026-09-13T20:19:06.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163179",
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "publishedAt": "2026-09-11T20:59:47.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
       "category": "tech"
     },
     {
@@ -4089,6 +3960,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa2dd912d59bd8ddb27db77",
+      "title": "Kendrick Lamar Joins Jhené Aiko on New Song “So Good”",
+      "link": "https://pitchfork.com/story/kendrick-lamar-joins-jhene-aiko-on-new-song-so-good/",
+      "summary": "The pair reunite on Aiko’s new album Westside Whimsy",
+      "publishedAt": "2026-09-11T04:15:08.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa2e95083657f6731165cdc/master/pass/kendrick-lamar-jhene-aiko-new-song-so-good-2.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.dwell.com/article/sothebys-international-cycladic-mykonos-real-estate-8f379158",
@@ -4169,9 +4051,9 @@
     },
     {
       "id": "CBMiaEFVX3lxTE1LTDh2WUxkRXpKZEZpR0xYWDVQVjBQSEJublRWSGNBa0xRZ3BTcHlYVmp0dV9FM2hfWFJrN3Z2OVlqQlFSZjMzel9YMXNPdkxKTHUzZ2Iwcjc3a2ZnRnp2a2lTME5hVUt5",
-      "title": "Black Gold and Grey Markets - arenamag.com",
+      "title": "Black Gold and Grey Markets - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LTDh2WUxkRXpKZEZpR0xYWDVQVjBQSEJublRWSGNBa0xRZ3BTcHlYVmp0dV9FM2hfWFJrN3Z2OVlqQlFSZjMzel9YMXNPdkxKTHUzZ2Iwcjc3a2ZnRnp2a2lTME5hVUt5?oc=5",
-      "summary": "Black Gold and Grey Markets arenamag.com",
+      "summary": "Black Gold and Grey Markets Arena Magazine",
       "publishedAt": "2025-12-11T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -4202,9 +4084,9 @@
     },
     {
       "id": "CBMimgFBVV95cUxOdHNGdlJhbWtLRWFXS2FPQkNPdkl0c2l4RTdDcVVJVTZVb25neF80RGowdGhMZGlvUFFObjdZb25meDBBMzFaQXdMbjh4SVlGS0pWM0w5N2d0TnNUT3V6VzdhSUdtMFNvSWlWdGNKUk1RblFfS2RUUm00QnFBeUNKRm8wMXN4b0FleXVNSGM3N25NZFJVcXRNZGVn",
-      "title": "Wikileaks HQ / Pionen White Mountain by Albert France-Lanord Architects - thisispaper.com",
+      "title": "Wikileaks HQ / Pionen White Mountain by Albert France-Lanord Architects - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHNGdlJhbWtLRWFXS2FPQkNPdkl0c2l4RTdDcVVJVTZVb25neF80RGowdGhMZGlvUFFObjdZb25meDBBMzFaQXdMbjh4SVlGS0pWM0w5N2d0TnNUT3V6VzdhSUdtMFNvSWlWdGNKUk1RblFfS2RUUm00QnFBeUNKRm8wMXN4b0FleXVNSGM3N25NZFJVcXRNZGVn?oc=5",
-      "summary": "Wikileaks HQ / Pionen White Mountain by Albert France-Lanord Architects thisispaper.com",
+      "summary": "Wikileaks HQ / Pionen White Mountain by Albert France-Lanord Architects Thisispaper",
       "publishedAt": "2022-04-11T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -4215,22 +4097,11 @@
       "id": "https://news.ycombinator.com/item?id=49686445",
       "title": "Why is Google still serving dodgy ads?",
       "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 628 # Comments: 297",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 652 # Comments: 305",
       "publishedAt": "2026-09-13T17:37:44.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163181",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "publishedAt": "2026-09-11T20:57:36.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
       "category": "tech"
     },
     {
@@ -4243,6 +4114,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa2e1bad7cc50afedcb93e9",
+      "title": "The Singer in My Band",
+      "link": "https://pitchfork.com/reviews/albums/this-is-lorelei-the-singer-in-my-band/",
+      "summary": "On his first album for Matador, Nate Amos trades the magpie charm of his past solo work for a warm, twangy, and tightly constructed approach. It’s the sound of a songwriter sketching out his own gospel.",
+      "publishedAt": "2026-09-11T04:03:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6a3aa2af3d85cbbe413a9dc2/master/pass/This%20Is%20Lorelei%20-%20The%20Singer%20in%20My%20Band%20_%20Album%20Art%20(1).jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.dwell.com/article/sothebys-international-logan-residence-kalispell-real-estate-2d211f90",
@@ -4323,9 +4205,9 @@
     },
     {
       "id": "CBMiYEFVX3lxTE1vbTU2ckdBV3RKX3VnY2JFcTA4WkJUWmE4bTlQcHlWeW5wSUtTbnVfbUlPOEhkbmxOZ1p3M2hnZW1VclhFN1hvS3hTTUlDREI5ZW5qdkV4ZmJ5UUkxWUF0UA",
-      "title": "The Diffusion Dilemma - arenamag.com",
+      "title": "The Diffusion Dilemma - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vbTU2ckdBV3RKX3VnY2JFcTA4WkJUWmE4bTlQcHlWeW5wSUtTbnVfbUlPOEhkbmxOZ1p3M2hnZW1VclhFN1hvS3hTTUlDREI5ZW5qdkV4ZmJ5UUkxWUF0UA?oc=5",
-      "summary": "The Diffusion Dilemma arenamag.com",
+      "summary": "The Diffusion Dilemma Arena Magazine",
       "publishedAt": "2025-09-01T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -4356,9 +4238,9 @@
     },
     {
       "id": "CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw",
-      "title": "Jutaku - thisispaper.com",
+      "title": "Jutaku - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw?oc=5",
-      "summary": "Jutaku thisispaper.com",
+      "summary": "Jutaku Thisispaper",
       "publishedAt": "2021-10-05T06:52:38.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -4369,22 +4251,11 @@
       "id": "https://news.ycombinator.com/item?id=49686380",
       "title": "Ask HN: What are you working on? (September 2026)",
       "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 97 # Comments: 212",
+      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 103 # Comments: 241",
       "publishedAt": "2026-09-13T17:31:38.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3162257",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "publishedAt": "2026-09-11T20:33:18.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
       "category": "tech"
     },
     {
@@ -4397,6 +4268,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa1bd5457e7f037d30c8509",
+      "title": "Distance in Static",
+      "link": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+      "summary": "On what he has hinted may be his final “traditional” LP as Bonobo, the UK producer cycles through moods and styles, with a particular focus on the clubby soundscapes of his DJ era.",
+      "publishedAt": "2026-09-11T04:02:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa1bae87fc5f11743d20ac7/master/pass/Bonobo%20-%20Distance%20in%20Static.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.dwell.com/article/sothebys-international-neutral-oasis-hampton-real-estate-fa92b47b",
@@ -4477,9 +4359,9 @@
     },
     {
       "id": "CBMiP0FVX3lxTE1iT2NRMktGLUo4amw2eWZ1VTRuNjAyeXBxRl9iQjNkMjdPOHFSZkJGekJIRER5TWExRTMtb2JGdw",
-      "title": "Arena Store - arenamag.com",
+      "title": "Arena Store - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1iT2NRMktGLUo4amw2eWZ1VTRuNjAyeXBxRl9iQjNkMjdPOHFSZkJGekJIRER5TWExRTMtb2JGdw?oc=5",
-      "summary": "Arena Store arenamag.com",
+      "summary": "Arena Store Arena Magazine",
       "publishedAt": "2025-08-25T00:06:26.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -4510,9 +4392,9 @@
     },
     {
       "id": "CBMiTkFVX3lxTE5UdDdTanNzNzNucUh1LVVkT3pvbU9ueS1xV1lDaDdxM1cwWlJ0YnhfNExzNzZUeVNpaXhMUU95bnRMOVdNSzVzSkNYYW93QQ",
-      "title": "Lisbon Guide - thisispaper.com",
+      "title": "Lisbon Guide - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UdDdTanNzNzNucUh1LVVkT3pvbU9ueS1xV1lDaDdxM1cwWlJ0YnhfNExzNzZUeVNpaXhMUU95bnRMOVdNSzVzSkNYYW93QQ?oc=5",
-      "summary": "Lisbon Guide thisispaper.com",
+      "summary": "Lisbon Guide Thisispaper",
       "publishedAt": "2021-10-05T04:49:13.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
@@ -4523,22 +4405,11 @@
       "id": "https://news.ycombinator.com/item?id=49684393",
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 388 # Comments: 177",
+      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 395 # Comments: 180",
       "publishedAt": "2026-09-13T14:28:36.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163158",
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "publishedAt": "2026-09-11T20:30:17.000Z",
-      "imageUrl": null,
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch",
       "category": "tech"
     },
     {
@@ -4551,6 +4422,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "6aa1ca16b66f8d2775ba6dd3",
+      "title": "Slime Language 3",
+      "link": "https://pitchfork.com/reviews/albums/young-stoner-life-young-thug-slime-language-3/",
+      "summary": "The gargantuan third installment of Young Thug’s label compilation series inducts a new class of YSL and ØWay acolytes to the collective’s post-RICO reconstruction. It’s a rich and unwieldy text.",
+      "publishedAt": "2026-09-11T04:01:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6a9103e5bea3737e9c6f8c11/master/pass/Young-Thug-Slime-Language-3-Side-B.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.dwell.com/article/skyline-inspired-architectural-appliances-dacor-contemporary-collection-42acfe2a",
@@ -4620,9 +4502,9 @@
     },
     {
       "id": "CBMiREFVX3lxTE5GSW1oalFPb3F0R3hGTWlicjBoSTZQazNfV2NmLW8tam5uSkpjdS1UMTRMMWdwZEd2RWI0NnVvM0V6YVps",
-      "title": "Arena Issue 009 - arenamag.com",
+      "title": "Arena Issue 009 - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GSW1oalFPb3F0R3hGTWlicjBoSTZQazNfV2NmLW8tam5uSkpjdS1UMTRMMWdwZEd2RWI0NnVvM0V6YVps?oc=5",
-      "summary": "Arena Issue 009 arenamag.com",
+      "summary": "Arena Issue 009 Arena Magazine",
       "publishedAt": "2025-06-03T02:20:30.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
@@ -4650,6 +4532,116 @@
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
       "category": "general"
+    },
+    {
+      "id": "CBMiY0FVX3lxTE1keUx6S09FQWpNVENMbHdYUUtwbGdkZEtkQ3FSUG10blp2YzVXeHF0UmhzZWV1ekQ1STVzSVZlbFBLeThOVVo3Q3BJMy1aYUsyVjBWbWZzUXMteC1DWjI3b1pZOA",
+      "title": "Frequently Asked Questions | New Norm - New Norm - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1keUx6S09FQWpNVENMbHdYUUtwbGdkZEtkQ3FSUG10blp2YzVXeHF0UmhzZWV1ekQ1STVzSVZlbFBLeThOVVo3Q3BJMy1aYUsyVjBWbWZzUXMteC1DWjI3b1pZOA?oc=5",
+      "summary": "Frequently Asked Questions | New Norm - New Norm New Norm Magazine",
+      "publishedAt": "2021-12-31T18:20:40.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMibEFVX3lxTE5XZUtZZi1ra013cUViNDEyZVNMSlQtWEJ1YTNzaFlqcENDTktyOXY3RG1KUFdFbTRNRXplMkFGb01zbnV4WUhvQjFYLXFsSUhkMG1LYzZBUXFsVFA3WmN5c0Fmb2wzdmRjTHJvQg",
+      "title": "Casa no Tempo captured by Thisispaper Studio - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZUtZZi1ra013cUViNDEyZVNMSlQtWEJ1YTNzaFlqcENDTktyOXY3RG1KUFdFbTRNRXplMkFGb01zbnV4WUhvQjFYLXFsSUhkMG1LYzZBUXFsVFA3WmN5c0Fmb2wzdmRjTHJvQg?oc=5",
+      "summary": "Casa no Tempo captured by Thisispaper Studio Thisispaper",
+      "publishedAt": "2021-08-04T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49684356",
+      "title": "CUDA for AMD on Windows",
+      "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 145 # Comments: 73",
+      "publishedAt": "2026-09-13T14:25:13.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "yDkngrHUpQ3DLs2fLbnMEh",
+      "title": "60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet",
+      "link": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet",
+      "summary": "Federation fashions have gone through many evolutions over the last six decades, from pastel pajamas to back-breaking Spandex.",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/tEKKbZr2kLR2RE5Pe8NPgM-1280-80.jpg",
+      "sourceId": "space-com",
+      "sourceName": "Space.com",
+      "category": "science"
+    },
+    {
+      "id": "6aa2e7a42d59bd8ddb27db81",
+      "title": "Nine",
+      "link": "https://pitchfork.com/reviews/albums/russian-circles-nine/",
+      "summary": "The instrumental trio spends its ninth album almost entirely in attack mode, pulling from death metal and hardcore for one of its heaviest and most riff-forward releases to date.",
+      "publishedAt": "2026-09-11T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa2e72b2d59bd8ddb27db7c/master/pass/Russian%20Circles-Nine.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://www.dwell.com/article/museum-tower-house-a-teatro-and-balcony-studio-tower-home-4bd41df0",
+      "title": "This Monolithic Home in Los Angeles References the City’s First Museum",
+      "link": "https://www.dwell.com/article/museum-tower-house-a-teatro-and-balcony-studio-tower-home-4bd41df0",
+      "summary": "Architect David Gonzalez Rojas designed it after the nearby Southwest Museum’s signature tower, which he visited as a kid.",
+      "publishedAt": "2026-09-07T17:04:10.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7483358646235897856/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=87867",
+      "title": "How to Reconcile Your Most Painful Mistakes: The Life-Shaping Difference Between Regret and Remorse",
+      "link": "https://www.themarginalian.org/2026/09/05/regret-remorse/",
+      "summary": "You know it, that awful moment your coherent self-image shatters and a part of you, shadowy and untended, splits off to cause harm and havoc as the rest of you watches helplessly, wincing. You know the next moment, too — the desperate wish …",
+      "publishedAt": "2026-09-05T21:28:32.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/bookofhumanemotions_smith.jpg?fit=320%2C488&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "urn:id:9067",
+      "title": "The neverending house",
+      "link": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
+      "summary": "The self-built homes of Santiago are precarious and ever changing. They are, always and at once, being and becoming - by Consuelo Araos Read on Aeon",
+      "publishedAt": "2026-08-14T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/aa9106e2-93ab-404f-b220-bcdb87e02b4d/victorias-house-final-.jpg?width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "aeon",
+      "sourceName": "Aeon",
+      "category": "ideas"
+    },
+    {
+      "id": "https://philosophynow.org/issues/175/Letters",
+      "title": "Letters",
+      "link": "https://philosophynow.org/issues/175/Letters",
+      "summary": "Living & Dead Letters • Is Antinatalism Misogynistic? • Is This The End? • Listening To The Enemy • Will to Power Over The Will to Power • Islamic Issues • Critical Habermas • Sincere Hypocrisy • Tallis’s Ghost Stories",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "philosophy-now",
+      "sourceName": "Philosophy Now",
+      "category": "ideas"
+    },
+    {
+      "id": "https://minimalissimo.com/articles/mono-a-cutlery",
+      "title": "Mono A Cutlery",
+      "link": "https://minimalissimo.com/articles/mono-a-cutlery",
+      "summary": "Originally designed in 1958 by Peter Raacke, Mono A remains one of the most reduced expressions of post-war everyday German design. The 4-piece set brings together the essential elements of the table in a single, continuous material languag…",
+      "publishedAt": "2026-07-14T15:47:30.000Z",
+      "imageUrl": "https://minimalissimo.com/api/media/file/website-60.jpg",
+      "sourceId": "minimalissimo",
+      "sourceName": "Minimalissimo",
+      "category": "design"
     }
   ]
 }
