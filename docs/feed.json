@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:54:05.509Z",
+  "generatedAt": "2026-09-14T04:05:16.267Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -240,9 +240,52 @@
       "category": "art",
       "status": "ok",
       "error": null
+    },
+    {
+      "id": "lions-roar",
+      "name": "Lion's Roar",
+      "siteUrl": "https://www.lionsroar.com",
+      "category": "ideas",
+      "status": "ok",
+      "error": null
+    },
+    {
+      "id": "mindful",
+      "name": "Mindful",
+      "siteUrl": "https://www.mindful.org",
+      "category": "ideas",
+      "status": "ok",
+      "error": null
+    },
+    {
+      "id": "greater-good",
+      "name": "Greater Good Magazine",
+      "siteUrl": "https://greatergood.berkeley.edu",
+      "category": "ideas",
+      "status": "ok",
+      "error": null
+    },
+    {
+      "id": "psyche",
+      "name": "Psyche",
+      "siteUrl": "https://psyche.co",
+      "category": "ideas",
+      "status": "ok",
+      "error": null
     }
   ],
   "articles": [
+    {
+      "id": "6a7cc3b26382d4fd01729d7d",
+      "title": "Synthetic Water Music",
+      "link": "https://pitchfork.com/reviews/albums/various-artists-synthetic-water-music/",
+      "summary": "Following a 2023 compilation dedicated to birdsong, the Slovak label Mappa turns its focus to aquascapes both real and imagined, spanning decades of field recordings and ambient experiments.",
+      "publishedAt": "2026-09-14T04:01:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa424d1ce5a0c8cb6c99c4f/master/pass/Various%20Artists%20Synthetic%20Water%20Music.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
     {
       "id": "https://boulderreportinglab.org/?p=125522",
       "title": "Boulder County voters will decide a $30 million-a-year childcare tax. Here’s what it would do.",
@@ -258,7 +301,7 @@
       "id": "https://news.ycombinator.com/item?id=49691343",
       "title": "Nike exits the S&amp;P 100 after 18 years and a $200B market-cap wipeout",
       "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-      "summary": "Article URL: https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/ Comments URL: https://news.ycombinator.com/item?id=49691343 Points: 18 # Comments: 10",
+      "summary": "https://archive.ph/8NmSg Comments URL: https://news.ycombinator.com/item?id=49691343 Points: 25 # Comments: 14",
       "publishedAt": "2026-09-14T02:50:40.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -297,17 +340,6 @@
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
-    },
-    {
-      "id": "6aa707a21c090bc17993dee9",
-      "title": "Chief Keef Postpones First Chicago Show in Over a Decade",
-      "link": "https://pitchfork.com/story/chief-keef-postpones-first-chicago-show-in-over-a-decade/",
-      "summary": "The rapper’s homecoming concert has been pushed back to September 23",
-      "publishedAt": "2026-09-13T22:20:29.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa70b095775d0e93c3b64f3/master/pass/GettyImages-2208808552.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "4RLa8nSzxoUF9ohdK4bhWF",
@@ -431,6 +463,17 @@
       "category": "design"
     },
     {
+      "id": "https://greatergood.berkeley.edu/article/item/can_community_programs_reduce_gun_violence#When:11:29:00Z",
+      "title": "Can Community Programs Reduce Gun Violence?",
+      "link": "https://greatergood.berkeley.edu/article/item/can_community_programs_reduce_gun_violence",
+      "summary": "A new study by researchers at UC Berkeley’s Center for Global Healthy Cities published in the Journal of the American Medical Association Network Open found that the California city of Richmond’s Office of Neighborhood Safety (ONS) was resp…",
+      "publishedAt": "2026-09-11T11:29:00.000Z",
+      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/Peacemaker_Fellowship_Public_Health_Model.jpg",
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "urn:id:9121",
       "title": "Penchants of the polymaths",
       "link": "https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation",
@@ -439,6 +482,17 @@
       "imageUrl": "https://images.aeonmedia.co/images/1024a5cb-d702-4ff5-b6b1-6c3e993da1eb/essay-chronology-of-ancient-nations-biruni.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
+      "category": "ideas"
+    },
+    {
+      "id": "urn:id:9025",
+      "title": "Why women’s laughter has long been treated as a threat",
+      "link": "https://psyche.co/ideas/why-womens-laughter-has-long-been-treated-as-a-threat",
+      "summary": "Traditional patriarchy has always told women not to laugh. Today, female laughter still disturbs a male-dominated world - by Abílio Almeida Read on Psyche",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/fcfca42e-6307-4326-8bde-3947f0a8c5b3/sz-spain-panos_00042665.jpg?top=123&amp;left=0&amp;cropWidth=2352&amp;cropHeight=1323&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
       "category": "ideas"
     },
     {
@@ -451,6 +505,17 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
+    },
+    {
+      "id": "https://www.mindful.org/?p=668751",
+      "title": "Our Practice Starts With Ourselves—But It Doesn’t End There",
+      "link": "https://www.mindful.org/our-practice-starts-with-ourselves-ripple-effect/",
+      "summary": "September’s Teacher of the Month Mark Bertin offers a reflection on why we practice at all, and how our commitment to staying present has a ripple effect on our whole lives. The post Our Practice Starts With Ourselves—But It Doesn’t End The…",
+      "publishedAt": "2026-09-09T23:24:16.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
     },
     {
       "id": "CBMiW0FVX3lxTE1MRHBtd0dtb1Z6ZEptRmMtNkN3VzFLUHJRZnZDMEJFSnJBa0RCMVJTMG91TTg3ZGlESUQyRHk5dWtqOGw3TDQ4aEZPek1FV3pHR0JaTzBPM1lFdEU",
@@ -484,6 +549,17 @@
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
       "category": "design"
+    },
+    {
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=72720",
+      "title": "A Prayer for Nepal and Tibet, and How to Help",
+      "link": "https://www.lionsroar.com/a-prayer-for-nepal-and-tibet-and-how-to-help/",
+      "summary": "James Gritz reflects on the devastating flash floods in Nepal and Tibet and shares resources for those looking to support relief efforts. The post A Prayer for Nepal and Tibet, and How to Help appeared first on Lion’s Roar.",
+      "publishedAt": "2026-09-01T14:57:54.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "https://philosophynow.org/issues/175/Mental_Continental",
@@ -552,6 +628,17 @@
       "category": "design"
     },
     {
+      "id": "6aa423d7ba6eb6de196fdb4b",
+      "title": "Gao Dan Dan EP",
+      "link": "https://pitchfork.com/reviews/albums/helena-gao-gao-dan-dan-ep/",
+      "summary": "The Danish Chinese musician (and Zara Larsson collaborator) concentrates her multi-cultural cool into a collection of bilingual club bangers and sparkling alt-pop gems.",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa422cfb2fc3a5873c48719/master/pass/Helena%20Gao%20Gao%20Dan%20Dan%20EP.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "https://boulderreportinglab.org/?p=125511",
       "title": "Nicole Speer and Mark Wallach: Boulder’s facilities funding debate deserves facts, not misinformation",
       "link": "https://boulderreportinglab.org/2026/09/13/nicole-speer-and-mark-wallach-boulders-facilities-funding-debate-deserves-facts-not-misinformation/",
@@ -563,11 +650,11 @@
       "category": "local"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690943",
-      "title": "Show HN: Is It Greg?",
-      "link": "https://github.com/antoineleclair/is-it-greg",
-      "summary": "My friend Greg often posts incredible things he just made, just for fun. Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG! A few things he made that I think are amazing: - ikea complexity i…",
-      "publishedAt": "2026-09-14T01:58:41.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690678",
+      "title": "The Malicious Use of Artificial Intelligence",
+      "link": "https://arxiv.org/abs/1802.07228",
+      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 21 # Comments: 5",
+      "publishedAt": "2026-09-14T01:22:35.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -616,17 +703,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6aa6c0ba5775d0e93c3b63f3",
-      "title": "The Raincoats, X-Ray Spex, and the Slits Members Form Supergroup",
-      "link": "https://pitchfork.com/story/the-raincoats-x-ray-spex-and-the-slits-members-form-supergroup/",
-      "summary": "Gina Birch, Hollie Cook, Lora Logic, and Paul Dean will perform together at a London punk festival next month",
-      "publishedAt": "2026-09-13T17:07:29.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa6d398ebe07e992ee6d1d2/master/pass/MixCollage-13-Sep-2026-12-46-PM-2646.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "CBMiW0FVX3lxTE1ub1REbVVoSVRxanl0enpKMkpibURwRzlRV0dKRElnVmtYOXVrVHMyb2hpVzFQN3ZrY1B2b1Q2VXR6Sy1FUGJ5eVIwaW1icVlwU2oyRFpnUlNmTFE",
@@ -761,6 +837,39 @@
       "category": "ideas"
     },
     {
+      "id": "urn:id:9065",
+      "title": "The longest walk",
+      "link": "https://psyche.co/videos/for-a-gay-catholic-priest-coming-out-was-its-own-leap-of-faith",
+      "summary": "How Father Michael Shanahan reconciled his identity with the Catholic Church’s position on homosexuality - Directed by John Haley Watch on Psyche",
+      "publishedAt": "2026-09-10T10:01:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/a6a8cfe7-d36e-4ee2-8731-f6949a816ef5/the-longest-walk-landscape-1.jpg?top=0&amp;left=0&amp;cropWidth=2560&amp;cropHeight=1440&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=668729",
+      "title": "Uncovering Our Inherent Wholeness: A Conversation with Janice Martellucci of Peace in Schools",
+      "link": "https://www.mindful.org/uncovering-our-inherent-wholeness-a-conversation-with-janice-martellucci-of-peace-in-schools/",
+      "summary": "Peace In Schools Executive Director Janice Martellucci discusses the benefits of incorporating intentional, evidence-based mindfulness training into regular school curriculum, and the far-reaching value of simply equipping kids to meet and …",
+      "publishedAt": "2026-09-09T18:33:32.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/you_might_be_experiencing_rustout_not_burnout_at_work#When:15:13:00Z",
+      "title": "You Might Be Experiencing Rustout, Not Burnout, at Work",
+      "link": "https://greatergood.berkeley.edu/article/item/you_might_be_experiencing_rustout_not_burnout_at_work",
+      "summary": "Some forms of distress at work are easy to recognize because they interrupt someone’s daily performance and the work of those around them: For example, a person on your team becomes visibly exhausted, they are irritable, or they’re frequent…",
+      "publishedAt": "2026-09-09T15:13:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "CBMilwFBVV95cUxOS0wyVmczbGVwWkNYUkQxSjFHaU9UT0cxc2gtcDh3U2I1dWVSUzY5T1lmZ1hGWDViTEZ4MGdTdE9Jc2htMG9kWE5QS0xVUGVlZUJRQW9TejdnWnF3V1ZhZTBtckRiY0xIQy01LWtmNnRsRFZJcGFhTHdsWUdtWVdhWHZOM2R5TVRncjBlczctWnpoSEFLRFZn",
       "title": "Nichigetsu by Studio Inhalt - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0wyVmczbGVwWkNYUkQxSjFHaU9UT0cxc2gtcDh3U2I1dWVSUzY5T1lmZ1hGWDViTEZ4MGdTdE9Jc2htMG9kWE5QS0xVUGVlZUJRQW9TejdnWnF3V1ZhZTBtckRiY0xIQy01LWtmNnRsRFZJcGFhTHdsWUdtWVdhWHZOM2R5TVRncjBlczctWnpoSEFLRFZn?oc=5",
@@ -770,6 +879,17 @@
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
       "category": "design"
+    },
+    {
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=72711",
+      "title": "The Metta of Mister Rogers",
+      "link": "https://www.lionsroar.com/the-metta-of-mister-rogers/",
+      "summary": "Twenty-five years after his last episode aired, Gayathri Narayanan reflects on Fred Rogers’ enduring practice of loving-kindness, acceptance, and seeing the good in others. The post The Metta of Mister Rogers appeared first on Lion’s Roar.",
+      "publishedAt": "2026-09-01T14:43:48.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "https://www.densediscovery.com/issues/404/",
@@ -860,11 +980,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690678",
-      "title": "The Malicious Use of Artificial Intelligence",
-      "link": "https://arxiv.org/abs/1802.07228",
-      "summary": "Article URL: https://arxiv.org/abs/1802.07228 Comments URL: https://news.ycombinator.com/item?id=49690678 Points: 18 # Comments: 4",
-      "publishedAt": "2026-09-14T01:22:35.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690614",
+      "title": "Show HN: Exploring the intersection of prediction markets and social media",
+      "link": "https://www.thevidmarket.com/",
+      "summary": "The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like. Comments URL: https://news.ycombinator.com/item?id=49690614 Points: 7 # Comments: 1",
+      "publishedAt": "2026-09-14T01:14:25.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -880,6 +1000,17 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
+    },
+    {
+      "id": "6aa707a21c090bc17993dee9",
+      "title": "Chief Keef Postpones First Chicago Show in Over a Decade",
+      "link": "https://pitchfork.com/story/chief-keef-postpones-first-chicago-show-in-over-a-decade/",
+      "summary": "The rapper’s homecoming concert has been pushed back to September 23",
+      "publishedAt": "2026-09-13T22:20:29.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa70b095775d0e93c3b64f3/master/pass/GettyImages-2208808552.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://interestingengineering.com/?p=309304",
@@ -902,17 +1033,6 @@
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
-    },
-    {
-      "id": "6aa6b28806b9407f07718076",
-      "title": "Listen to Jeff Tweedy Cover Twisted Teens’ “Wild Connection”",
-      "link": "https://pitchfork.com/story/jeff-tweedy-twisted-teens-cover/",
-      "summary": "The Wilco frontman shared the cover of the Blame the Clown track to his Substack",
-      "publishedAt": "2026-09-13T15:07:16.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa6b4023f5a3f6fe040eae0/master/pass/GettyImages-2290338970.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "PH2PRPHLsbgPyFQAodXG8D",
@@ -1047,6 +1167,17 @@
       "category": "ideas"
     },
     {
+      "id": "urn:id:9127",
+      "title": "Impatience is an emotion, not a trait",
+      "link": "https://psyche.co/notes-to-self/why-it-helps-to-see-impatience-as-an-emotion-not-a-trait",
+      "summary": "Watching Penelope’s heroic wait in The Odyssey made me lament my impatience. But maybe I’ve been thinking about it wrong - by Amy Arthur Read on Psyche",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/bfb38aca-b015-4273-8896-8f9d34e045b5/penelope-waiting-detail.jpg?top=116&amp;left=0&amp;cropWidth=2208&amp;cropHeight=1242&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
       "title": "A New Kind Of Creative Poverty",
       "link": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
@@ -1069,6 +1200,28 @@
       "category": "design"
     },
     {
+      "id": "https://www.mindful.org/?p=668738",
+      "title": "Janice Martellucci: Meditation for Transitions",
+      "link": "https://www.mindful.org/janice-martellucci-meditation-for-transitions/",
+      "summary": "Whether you’re letting go of the old, embracing the new, or both, this meditation is perfect for meeting transition with curiosity and care. The post Janice Martellucci: Meditation for Transitions appeared first on Mindful.",
+      "publishedAt": "2026-09-08T15:59:44.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/five_things_students_taught_us_about_connecting_across_differences#When:12:20:00Z",
+      "title": "Five Things Students Taught Us About Connecting Across Differences",
+      "link": "https://greatergood.berkeley.edu/article/item/five_things_students_taught_us_about_connecting_across_differences",
+      "summary": "When I’m producing a documentary, one of my favorite parts of the process is the moment when a bit of our footage sticks to me. Permanently. I never know when it will happen, but it always does. The sticky bit could be a snippet of dialogue…",
+      "publishedAt": "2026-09-08T12:20:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "CBMiVkFVX3lxTE1Pb0Q1UVVSaG14b09pNXF4QzE4U3dIWlRIQUJ4OFJ3MmQ0Vk5oaUdQcEZNTUpyQVZnUWN2eEM0MzdVNEZJMjdTTUNzVjFTVzlfa0JMM1Jn",
       "title": "Ruby by NOVSEP - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pb0Q1UVVSaG14b09pNXF4QzE4U3dIWlRIQUJ4OFJ3MmQ0Vk5oaUdQcEZNTUpyQVZnUWN2eEM0MzdVNEZJMjdTTUNzVjFTVzlfa0JMM1Jn?oc=5",
@@ -1078,6 +1231,17 @@
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
       "category": "design"
+    },
+    {
+      "id": "https://lionsroar.com/lr-article/detox-your-mind-5-practices-to-purify-the-3-poisons/",
+      "title": "Detox Your Mind: 5 Practices to Purify the 3 Poisons",
+      "link": "https://www.lionsroar.com/practices-to-purify-three-poisons/",
+      "summary": "Five Buddhist teachers share practices to clear away the poisons that cause suffering and obscure your natural enlightenment. The post Detox Your Mind: 5 Practices to Purify the 3 Poisons appeared first on Lion’s Roar.",
+      "publishedAt": "2026-09-01T03:20:00.000Z",
+      "imageUrl": "https://lionsroar.com/wp-content/uploads/2023/09/DP211789-Full.jpg",
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "https://www.densediscovery.com/issues/403/",
@@ -1168,11 +1332,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690614",
-      "title": "Show HN: Exploring the intersection of prediction markets and social media",
-      "link": "https://www.thevidmarket.com/",
-      "summary": "The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like. Comments URL: https://news.ycombinator.com/item?id=49690614 Points: 7 # Comments: 0",
-      "publishedAt": "2026-09-14T01:14:25.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690411",
+      "title": "AI Robots – When will they be in our homes",
+      "link": "https://spectrum.ieee.org/ai-robots",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-robots Comments URL: https://news.ycombinator.com/item?id=49690411 Points: 9 # Comments: 4",
+      "publishedAt": "2026-09-14T00:44:23.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1199,6 +1363,17 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
+    },
+    {
+      "id": "6aa6c0ba5775d0e93c3b63f3",
+      "title": "The Raincoats, X-Ray Spex, and the Slits Members Form Supergroup",
+      "link": "https://pitchfork.com/story/the-raincoats-x-ray-spex-and-the-slits-members-form-supergroup/",
+      "summary": "Gina Birch, Hollie Cook, Lora Logic, and Paul Dean will perform together at a London punk festival next month",
+      "publishedAt": "2026-09-13T17:07:29.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa6d398ebe07e992ee6d1d2/master/pass/MixCollage-13-Sep-2026-12-46-PM-2646.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126667&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
@@ -1232,17 +1407,6 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "6aa4215bfc44394c8a822fd0",
-      "title": "In Visible Silence",
-      "link": "https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/",
-      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the second album from a mischievous group of provocateurs whose high-tech hijinks anticipa…",
-      "publishedAt": "2026-09-13T04:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa42086d587e093eaa81564/master/pass/The%20Art%20of%20Noise%20In%20Visible%20Silence.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "CBMimAFBVV95cUxQRTRJQnVTSVRPX0d2Z0dJMGhMM3k4dHBfNUNpWG56WnBpMGNoZWI5Z1VMOWZVejFaVks1ZWpMRF9pMXVSRmo0MXE3MFhJcFMxRF9CUmpaX1VuUk1qTWxETVhNYWk1cThrX0VhSFJKV0tlaUptUDZPbWRKaDJoWVdkcHBvaF8xUC1kZEJJWlp5anMxQmhlMXhGYg",
@@ -1355,6 +1519,17 @@
       "category": "ideas"
     },
     {
+      "id": "urn:id:9084",
+      "title": "How to be a word detective",
+      "link": "https://psyche.co/guides/how-to-be-a-word-detective",
+      "summary": "Etymology unravels the mysteries of language and the hidden webs that link people across the world. Here’s how to dive in - by Danny Bate Read on Psyche",
+      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/3df79fbc-cb65-400e-81d6-be1262952598/scribe.jpg?top=241&amp;left=0&amp;cropWidth=1648&amp;cropHeight=927&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
       "id": "https://minimalissimo.com/articles/passage",
       "title": "Passage",
       "link": "https://minimalissimo.com/articles/passage",
@@ -1366,6 +1541,28 @@
       "category": "design"
     },
     {
+      "id": "https://www.mindful.org/?p=15546",
+      "title": "How to Shift Mental Gears: 10 Ways to Build Resilience",
+      "link": "https://www.mindful.org/building-resilience-shift-mental-gears/",
+      "summary": "If we view challenges as stressful setbacks, there's an opportunity to shift our perspective and grow from our experiences. The post How to Shift Mental Gears: 10 Ways to Build Resilience appeared first on Mindful.",
+      "publishedAt": "2026-09-04T21:26:48.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/as_people_live_longer_how_can_we_live_better#When:12:47:00Z",
+      "title": "As People Live Longer, How Can We Live Better?",
+      "link": "https://greatergood.berkeley.edu/article/item/as_people_live_longer_how_can_we_live_better",
+      "summary": "When the Stanford Center on Longevity launched in 2007, founding director Laura Carstensen spent a lot of time correcting misperceptions. “The initial response people had was, ‘Like the Methuselah Foundation? You are going to extend life?’”…",
+      "publishedAt": "2026-09-04T12:47:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
       "title": "Your Perception Of Time Is, In Fact, Warped",
       "link": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
@@ -1374,6 +1571,17 @@
       "imageUrl": "https://noemamag.imgix.net/2026/08/EleniDebo-Noema-TimeFlies-Illustration.jpg?fm=pjpg&ixlib=php-3.3.1&s=f60c30711cc4063e4f76982e45598eb1",
       "sourceId": "noema",
       "sourceName": "Noema Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "https://lionsroar.com/?post_type=lr-article&p=72644",
+      "title": "How Dance Becomes an Offering",
+      "link": "https://www.lionsroar.com/how-dance-becomes-an-offering/",
+      "summary": "Karen Greenspan explores the rich traditions of sacred dance in Vajrayana Buddhism, where movement becomes a way to welcome, invoke, offer, and bless. The post How Dance Becomes an Offering appeared first on Lion’s Roar.",
+      "publishedAt": "2026-08-25T19:05:56.000Z",
+      "imageUrl": "https://lionsroar.com/wp-content/uploads/2026/08/tara-mandala-1024x768.jpg",
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
       "category": "ideas"
     },
     {
@@ -1476,11 +1684,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690411",
-      "title": "AI Robots – When will they be in our homes",
-      "link": "https://spectrum.ieee.org/ai-robots",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-robots Comments URL: https://news.ycombinator.com/item?id=49690411 Points: 7 # Comments: 4",
-      "publishedAt": "2026-09-14T00:44:23.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690279",
+      "title": "Writing a better reality: The case for optimistic sci-fi",
+      "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+      "summary": "Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/ Comments URL: https://news.ycombinator.com/item?id=49690279 Points: 19 # Comments: 10",
+      "publishedAt": "2026-09-14T00:27:11.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1496,6 +1704,17 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
+    },
+    {
+      "id": "6aa6b28806b9407f07718076",
+      "title": "Listen to Jeff Tweedy Cover Twisted Teens’ “Wild Connection”",
+      "link": "https://pitchfork.com/story/jeff-tweedy-twisted-teens-cover/",
+      "summary": "The Wilco frontman shared the cover of the Blame the Clown track to his Substack",
+      "publishedAt": "2026-09-13T15:07:16.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa6b4023f5a3f6fe040eae0/master/pass/GettyImages-2290338970.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126677&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
@@ -1540,17 +1759,6 @@
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
-    },
-    {
-      "id": "6aa2f4f23147308ef09ffa1c",
-      "title": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
-      "link": "https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/",
-      "summary": "Originally issued as tour-only CD-Rs, these four diaristic albums from the singer-songwriter bundle together half-formed suites of slow, seasick recordings aimed squarely at the die-hards.",
-      "publishedAt": "2026-09-12T04:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa2f33182c08b3dd55d3d44/master/pass/Mac%20DeMarco%20Dog%20on%20the%20Rock.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://www.themarginalian.org/?p=74745",
@@ -1641,6 +1849,17 @@
       "category": "local"
     },
     {
+      "id": "urn:id:9133",
+      "title": "Town square",
+      "link": "https://psyche.co/videos/inside-the-alzheimers-care-centre-where-its-always-the-1950s",
+      "summary": "Complete with a retro diner, vintage cars and a classic movie theatre – step into a mini town built to spark memories - Directed by Josh Izenberg Watch on Psyche",
+      "publishedAt": "2026-09-08T10:01:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/82d11f4d-d5eb-42bd-8b3b-151e3364ceb6/town-square-landscape-1-v2.jpg?top=0&amp;left=0&amp;cropWidth=2560&amp;cropHeight=1440&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
       "id": "https://tricycle.org/?p=84977",
       "title": "The Dhamma of Dolly Parton",
       "link": "https://tricycle.org/article/dolly-parton-buddhism/",
@@ -1674,6 +1893,17 @@
       "category": "design"
     },
     {
+      "id": "https://greatergood.berkeley.edu/article/item/am_i_doing_this_right_teens#When:12:45:00Z",
+      "title": "Am I Doing This Right? Teen Edition",
+      "link": "https://greatergood.berkeley.edu/article/item/am_i_doing_this_right_teens",
+      "summary": "Parenting a teen can sometimes make you nostalgic for the early years, when you could still scoop up a frustrated toddler and redirect her with bubbles. In the teen years, sweet hugs can provoke eye rolls; a well-intentioned “How was your d…",
+      "publishedAt": "2026-09-03T12:45:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.noemamag.com/optimized-offspring",
       "title": "Optimized Offspring",
       "link": "https://www.noemamag.com/optimized-offspring",
@@ -1682,6 +1912,28 @@
       "imageUrl": "https://noemamag.imgix.net/2026/09/Noema_Babies_FINAL_LR.jpg?fm=pjpg&ixlib=php-3.3.1&s=36a0474a740594764b7f9adb67fc557a",
       "sourceId": "noema",
       "sourceName": "Noema Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=53081",
+      "title": "Jeneé Johnson: Build Resilience by Staying in the Moment",
+      "link": "https://www.mindful.org/build-resilience-by-staying-in-the-moment/",
+      "summary": "Jenée Johnson leads a practice to foster returning to ourselves whenever our mind wanders. The post Jeneé Johnson: Build Resilience by Staying in the Moment appeared first on Mindful.",
+      "publishedAt": "2026-08-31T23:10:19.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://lionsroar.com/?post_type=lr-article&p=72478",
+      "title": "Uganda Buddhist Centre seeks to save wetland, build Africa’s first dedicated retreat center",
+      "link": "https://www.lionsroar.com/uganda-buddhist-centre-seeks-to-save-wetland-build-africas-first-dedicated-retreat-center/",
+      "summary": "As Bhante Buddharakkhita's Uganda Buddhist Centre marks 20 years, supporters worldwide are mobilizing to save a threatened wetland and build the continent's first retreat center built solely to share the dhamma. The post Uganda Buddhist Cen…",
+      "publishedAt": "2026-08-18T16:03:15.000Z",
+      "imageUrl": "https://lionsroar.com/wp-content/uploads/2026/08/Bhante-B-1013x1024.jpg",
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
       "category": "ideas"
     },
     {
@@ -1784,11 +2036,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690279",
-      "title": "Writing a better reality: The case for optimistic sci-fi",
-      "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-      "summary": "Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/ Comments URL: https://news.ycombinator.com/item?id=49690279 Points: 17 # Comments: 8",
-      "publishedAt": "2026-09-14T00:27:11.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690260",
+      "title": "Open-Source AI and Open Models Reading List",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 47 # Comments: 3",
+      "publishedAt": "2026-09-14T00:22:51.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1839,12 +2091,12 @@
       "category": "local"
     },
     {
-      "id": "6a9893989151e0238dff5da2",
-      "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
-      "link": "https://pitchfork.com/story/lil-durk-acquitted-in-murder-for-hire-plot/",
-      "summary": "Prosecutors had argued Durk orchestrated a hit on the rapper Quando Rondo as revenge for King Von’s murder",
-      "publishedAt": "2026-09-12T00:19:04.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa48e57fc44394c8a823255/master/pass/GettyImages-2147538013.jpg",
+      "id": "6aa4215bfc44394c8a822fd0",
+      "title": "In Visible Silence",
+      "link": "https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/",
+      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the second album from a mischievous group of provocateurs whose high-tech hijinks anticipa…",
+      "publishedAt": "2026-09-13T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa42086d587e093eaa81564/master/pass/The%20Art%20of%20Noise%20In%20Visible%20Silence.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -1949,6 +2201,17 @@
       "category": "local"
     },
     {
+      "id": "urn:id:8821",
+      "title": "Lessons from Wyatt Earp country",
+      "link": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man",
+      "summary": "How does a man show up for his community? I learned from an old farmer on the edge of the desert - by Zeno Franco Read on Psyche",
+      "publishedAt": "2026-09-08T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/0bb61557-1f19-466a-a4ab-e50c174d4e62/mentone.jpg?top=302&amp;left=9&amp;cropWidth=2864&amp;cropHeight=1611&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
       "id": "urn:id:9081",
       "title": "The planet is… up to something",
       "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times",
@@ -1971,6 +2234,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_predict_the_right_partner_for_you#When:14:35:00Z",
+      "title": "Can Artificial Intelligence Predict the Right Partner for You?",
+      "link": "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_predict_the_right_partner_for_you",
+      "summary": "Finding love is big business (a multi-billion–dollar industry), and artificial intelligence is transforming that business. Dating apps are increasingly outsourcing user matching to AI. Recent examples range from Overtone, an AI-powered matc…",
+      "publishedAt": "2026-09-02T14:35:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole",
       "title": "Subjective Perspective Makes Objective Reality ‘Everywhere Whole’",
       "link": "https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole",
@@ -1979,6 +2253,17 @@
       "imageUrl": "https://noemamag.imgix.net/2026/08/Noema_Feature_Color_V1-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=c9b03712bc77111ac52f85babb444e8f",
       "sourceId": "noema",
       "sourceName": "Noema Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=668025",
+      "title": "The Predictive Shadow",
+      "link": "https://www.mindful.org/the-predictive-shadow/",
+      "summary": "Our brains are prediction machines trying to keep us safe. But over time, we can wind up habitually choosing the relative safety of assumption over the risk of uncertainty. Mindful contributor Cathering Swett examines how we can work more s…",
+      "publishedAt": "2026-08-27T11:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -1991,6 +2276,17 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
+    },
+    {
+      "id": "https://lionsroar.com/lr-article/preparing-to-die/",
+      "title": "Buddhist Practices to Prepare You for Death",
+      "link": "https://www.lionsroar.com/preparing-to-die/",
+      "summary": "Death is a journey into the unknown. Like any journey, it goes better if you’re prepared. Andrew Holecek shares teachings from Tibetan Buddhism to help. The post Buddhist Practices to Prepare You for Death appeared first on Lion’s Roar.",
+      "publishedAt": "2026-08-10T20:31:00.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "https://www.densediscovery.com/issues/400/",
@@ -2092,11 +2388,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690260",
-      "title": "Open-Source AI and Open Models Reading List",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 41 # Comments: 2",
-      "publishedAt": "2026-09-14T00:22:51.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690174",
+      "title": "Apple's Dimensional Drawings",
+      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/ Comments URL: https://news.ycombinator.com/item?id=49690174 Points: 58 # Comments: 10",
+      "publishedAt": "2026-09-14T00:11:21.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2125,12 +2421,12 @@
       "category": "general"
     },
     {
-      "id": "QfLpWHhM3idVG33xjLtmDb",
-      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
-      "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered.",
+      "id": "zXGYv9qDeiaxrwFRM8kikP",
+      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
+      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
       "publishedAt": "2026-09-12T14:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
@@ -2147,6 +2443,17 @@
       "category": "local"
     },
     {
+      "id": "6aa2f4f23147308ef09ffa1c",
+      "title": "Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan",
+      "link": "https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/",
+      "summary": "Originally issued as tour-only CD-Rs, these four diaristic albums from the singer-songwriter bundle together half-formed suites of slow, seasick recordings aimed squarely at the die-hards.",
+      "publishedAt": "2026-09-12T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa2f33182c08b3dd55d3d44/master/pass/Mac%20DeMarco%20Dog%20on%20the%20Rock.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "CBMikgFBVV95cUxQd254NUhvSEh2OVA2cjJsUjZqNjREcXU5eEUzWFk0STIzd2ZhYkxoeDlmVjVPOUlZY1lwVFFadWRaWDFkcFdvTkJMbk1YNHp0aDZ4aG5sQ2FMRGg3NXlIaVdnWk81MFZWR1FXeVBzcnZVMVp1OHZuTnViSlVOcGt0dmtEekVqWndZSGNqTXpmYlRxdw",
       "title": "CU Buffs football scouting report vs. Weber State - Daily Camera",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd254NUhvSEh2OVA2cjJsUjZqNjREcXU5eEUzWFk0STIzd2ZhYkxoeDlmVjVPOUlZY1lwVFFadWRaWDFkcFdvTkJMbk1YNHp0aDZ4aG5sQ2FMRGg3NXlIaVdnWk81MFZWR1FXeVBzcnZVMVp1OHZuTnViSlVOcGt0dmtEekVqWndZSGNqTXpmYlRxdw?oc=5",
@@ -2156,17 +2463,6 @@
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
-    },
-    {
-      "id": "6aa449c2cb9b95cbc449780c",
-      "title": "Bon Iver Made a Jingle for a Local Bar’s Meatloaf Dippers",
-      "link": "https://pitchfork.com/story/bon-iver-made-a-jingle-for-a-local-bars-meatloaf-dippers/",
-      "summary": "Justin Vernon celebrates the breaded treats of Minnesota’s Howard’s Bar in a terrifically, terrifyingly jaunty tune",
-      "publishedAt": "2026-09-11T20:12:10.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa46017764808ac85c7d082/master/pass/bon-iver-dips-meatloaf.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1284967",
@@ -2268,6 +2564,17 @@
       "category": "ideas"
     },
     {
+      "id": "urn:id:8944",
+      "title": "Is it morally wrong to not take care of yourself?",
+      "link": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
+      "summary": "The philosophical debate goes on. But our research on self-obligations suggests there’s a common, consequential view - by Laura K Soter & Fan Yang Read on Psyche",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/bdc352d9-85f3-44b4-bcad-be060911b2fb/sz-beraud_-_trois_personnages_dans_un_cafe_vers_1890.jpg?top=163&amp;left=0&amp;cropWidth=2416&amp;cropHeight=1359&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
       "id": "https://tricycle.org/?p=84950",
       "title": "The Vow Verse to Arouse Aspiration",
       "link": "https://tricycle.org/article/hiromi-ito-vow-verse/",
@@ -2276,6 +2583,17 @@
       "imageUrl": null,
       "sourceId": "tricycle",
       "sourceName": "Tricycle: The Buddhist Review",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/your_happiness_connection_calendar_for_september_2026#When:11:20:00Z",
+      "title": "Your Happiness &amp; Connection Calendar for September 2026",
+      "link": "https://greatergood.berkeley.edu/article/item/your_happiness_connection_calendar_for_september_2026",
+      "summary": "Our monthly Happiness Calendar is a day-by-day guide to well-being. This month, we’re offering a special Happiness & Connection Calendar in partnership with the US Chamber of Connection—and we hope it inspires you to invite someone to belon…",
+      "publishedAt": "2026-09-01T11:20:00.000Z",
+      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/GGSC_Happiness___Connection_Calendar_Sep_2026.jpg",
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
       "category": "ideas"
     },
     {
@@ -2290,6 +2608,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://www.mindful.org/?p=25231",
+      "title": "The Breathscape Practice for Cultivating Mindfulness",
+      "link": "https://www.mindful.org/the-breathscape-practice-for-cultivating-mindfulness/",
+      "summary": "A 20-minute meditation from Jon Kabat-Zinn to allow you to tap into your capacity to be in touch with your experience, and be awake and aware with no agenda other than to be awake and aware. The post The Breathscape Practice for Cultivating…",
+      "publishedAt": "2026-08-26T00:43:23.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
       "id": "https://minimalissimo.com/articles/norma",
       "title": "Norma",
       "link": "https://minimalissimo.com/articles/norma",
@@ -2299,6 +2628,17 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
+    },
+    {
+      "id": "https://lionsroar.com/?post_type=lr-article&p=72343",
+      "title": "Sikh & Buddhist",
+      "link": "https://www.lionsroar.com/sikh-buddhist/",
+      "summary": "Jhani Randhawa traces the philosophical convergences between their two spiritual traditions, exploring how both illuminate fearlessness, interdependence, and the possibility of collective liberation. The post Sikh & Buddhist appeared first …",
+      "publishedAt": "2026-08-10T18:04:16.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "https://philosophynow.org/issues/175/Why_Classical_Liberals_Should_Embrace_Foucault",
@@ -2400,11 +2740,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690174",
-      "title": "Apple's Dimensional Drawings",
-      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/ Comments URL: https://news.ycombinator.com/item?id=49690174 Points: 48 # Comments: 8",
-      "publishedAt": "2026-09-14T00:11:21.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690139",
+      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "summary": "Article URL: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts Comments URL: https://news.ycombinator.com/item?id=49690139 Points: 15 # Comments: 1",
+      "publishedAt": "2026-09-14T00:07:09.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2433,12 +2773,12 @@
       "category": "general"
     },
     {
-      "id": "zXGYv9qDeiaxrwFRM8kikP",
-      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
-      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
-      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
+      "id": "QfLpWHhM3idVG33xjLtmDb",
+      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
+      "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered.",
       "publishedAt": "2026-09-12T14:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
@@ -2455,6 +2795,17 @@
       "category": "local"
     },
     {
+      "id": "6a9893989151e0238dff5da2",
+      "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
+      "link": "https://pitchfork.com/story/lil-durk-acquitted-in-murder-for-hire-plot/",
+      "summary": "Prosecutors had argued Durk orchestrated a hit on the rapper Quando Rondo as revenge for King Von’s murder",
+      "publishedAt": "2026-09-12T00:19:04.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa48e57fc44394c8a823255/master/pass/GettyImages-2147538013.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "CBMiigFBVV95cUxPRl84THY1X0gyc3dFUm93VDk3SGdqQlViRHo5ZklETy1zaXphc0pRQVBnX251Y292b1YtcWFMS2Z5M2dGdGg1anVBdFI5WjJEWllFeWNacDByQzZRNlRQZlIweFlNRmNtM1U3LWNxQTFrVnFhNVJXNmp6elFlblBpcnN6S0xuTXBXQ3c",
       "title": "Home opener offers mental test for CU Buffs against Weber State - Daily Camera",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRl84THY1X0gyc3dFUm93VDk3SGdqQlViRHo5ZklETy1zaXphc0pRQVBnX251Y292b1YtcWFMS2Z5M2dGdGg1anVBdFI5WjJEWllFeWNacDByQzZRNlRQZlIweFlNRmNtM1U3LWNxQTFrVnFhNVJXNmp6elFlblBpcnN6S0xuTXBXQ3c?oc=5",
@@ -2464,17 +2815,6 @@
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
-    },
-    {
-      "id": "6aa42b4620783d7990d463c0",
-      "title": "Quavo Announces Pharrell Williams-Produced Album",
-      "link": "https://pitchfork.com/story/quavo-announces-pharrell-williams-produced-album-qromelife/",
-      "summary": "The long-teased Qrömelife now has a release date",
-      "publishedAt": "2026-09-11T18:06:20.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa4564bba6eb6de196fdcd0/master/pass/QuavoQLPress1.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1284952",
@@ -2587,6 +2927,28 @@
       "category": "ideas"
     },
     {
+      "id": "urn:id:9072",
+      "title": "Absence of presence and presence of absence",
+      "link": "https://psyche.co/notes-to-self/the-absence-of-presence-and-the-presence-of-absence",
+      "summary": "Mindfulness experts teach us to be present in the moment. I suggest an antidote – a meditation that’s focused on absence - by Nigel Warburton Read on Psyche",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/c34b2e1a-d283-42fa-871d-476545887190/sz-par213014.jpg?top=190&amp;left=4&amp;cropWidth=2496&amp;cropHeight=1404&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/the_overlooked_ways_love_shows_up_in_urban_areas#When:15:31:00Z",
+      "title": "The Overlooked Ways Love Shows Up in Urban Spaces",
+      "link": "https://greatergood.berkeley.edu/article/item/the_overlooked_ways_love_shows_up_in_urban_areas",
+      "summary": "Over the past two decades, my doctoral students and I have focused on studying love, care, kindness, and compassion in urban settings. Why? Because social science research on life in America’s cities is desperately incomplete. Much like the…",
+      "publishedAt": "2026-08-31T15:31:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.noemamag.com/when-the-ai-says-to-kill",
       "title": "When The AI Says To Kill",
       "link": "https://www.noemamag.com/when-the-ai-says-to-kill",
@@ -2595,6 +2957,17 @@
       "imageUrl": "https://noemamag.imgix.net/2026/08/Noema_AIGhostGun_final.jpg?fm=pjpg&ixlib=php-3.3.1&s=712272f797d3a3dd80e6355eb0aac50c",
       "sourceId": "noema",
       "sourceName": "Noema Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=667998",
+      "title": "7 Simple Techniques for Releasing Tension from Fingertips to Palms",
+      "link": "https://www.mindful.org/7-simple-techniques-for-releasing-tension-from-fingertips-to-palms/",
+      "summary": "Our hands carry, fold, type, hold, grasp, and steady us all day long. Try these mindful techniques for releasing tension when your hands and wrists need a little extra TLC. The post 7 Simple Techniques for Releasing Tension from Fingertips …",
+      "publishedAt": "2026-08-21T03:53:07.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -2607,6 +2980,17 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
+    },
+    {
+      "id": "https://lionsroar.com/?post_type=lr-article&p=55360",
+      "title": "The Longing That Keeps Me Company",
+      "link": "https://www.lionsroar.com/the-longing-that-keeps-me-company/",
+      "summary": "From childhood to the meditation hall, Susan Moon reflects on how longing has been both her companion and her teacher. The post The Longing That Keeps Me Company appeared first on Lion’s Roar.",
+      "publishedAt": "2026-08-10T14:09:31.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "https://philosophynow.org/issues/175/The_Strength_of_Quiet_Rebellion",
@@ -2708,11 +3092,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690139",
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "summary": "Article URL: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts Comments URL: https://news.ycombinator.com/item?id=49690139 Points: 13 # Comments: 0",
-      "publishedAt": "2026-09-14T00:07:09.000Z",
+      "id": "https://news.ycombinator.com/item?id=49690051",
+      "title": "The Coming War on General Computation (2011)",
+      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 61 # Comments: 14",
+      "publishedAt": "2026-09-13T23:54:55.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2752,12 +3136,12 @@
       "category": "science"
     },
     {
-      "id": "6aa412c50069b4832f6a96ab",
-      "title": "Brent Hinds Estate Sues Mastodon",
-      "link": "https://pitchfork.com/story/brent-hinds-estate-sues-mastodon/",
-      "summary": "The estate disputes whether an $80,000 check from the band covers Hinds’ share in Mastodon’s interests",
-      "publishedAt": "2026-09-11T18:04:57.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa44295fc33f9dc43bef792/master/pass/mastodon-sued-brent-hinds.jpg",
+      "id": "6aa449c2cb9b95cbc449780c",
+      "title": "Bon Iver Made a Jingle for a Local Bar’s Meatloaf Dippers",
+      "link": "https://pitchfork.com/story/bon-iver-made-a-jingle-for-a-local-bars-meatloaf-dippers/",
+      "summary": "Justin Vernon celebrates the breaded treats of Minnesota’s Howard’s Bar in a terrifically, terrifyingly jaunty tune",
+      "publishedAt": "2026-09-11T20:12:10.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa46017764808ac85c7d082/master/pass/bon-iver-dips-meatloaf.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -2895,6 +3279,28 @@
       "category": "ideas"
     },
     {
+      "id": "urn:id:8921",
+      "title": "Why you should try living without free will for two weeks",
+      "link": "https://psyche.co/ideas/why-you-should-try-living-without-free-will-for-two-weeks",
+      "summary": "Set aside the philosophical debates and act as if there is no free will. It leads to less blaming and better questions - by Tara-Lyn Camilleri Read on Psyche",
+      "publishedAt": "2026-09-03T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/aa39596d-82cf-4968-99b8-026e78143fc1/sz-final-gettyimages-1042683874.jpg?top=131&amp;left=0&amp;cropWidth=2496&amp;cropHeight=1404&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/what_does_gen_z_think_about_political_polarization#When:11:22:00Z",
+      "title": "What Does Gen Z Think About Political Polarization?",
+      "link": "https://greatergood.berkeley.edu/article/item/what_does_gen_z_think_about_political_polarization",
+      "summary": "Polarization is a fact of political life in the U.S. today. Gen Z, however, is less inclined than older generations to view it as a permanent fixture in American politics, according to research by students in the Stanford political science …",
+      "publishedAt": "2026-08-28T11:22:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age",
       "title": "Introducing Noema Issue VII: The Next Axial Age",
       "link": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age",
@@ -2915,6 +3321,28 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
+    },
+    {
+      "id": "https://www.mindful.org/?p=636953",
+      "title": "A 12-Minute Body Scan Meditation for Letting Go of Stress and Falling Asleep",
+      "link": "https://www.mindful.org/a-12-minute-body-scan-meditation-for-letting-go-of-stress-and-falling-asleep/",
+      "summary": "This week, Kelly Boys leads us in a body scan meditation to let go of stress we may be holding in our bodies so we can surrender into rest. The post A 12-Minute Body Scan Meditation for Letting Go of Stress and Falling Asleep appeared first…",
+      "publishedAt": "2026-08-18T18:45:05.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://lionsroar.com/?post_type=lr-article&p=64671",
+      "title": "How Patience Helps You Stay Present",
+      "link": "https://www.lionsroar.com/patience-opens-the-heart/",
+      "summary": "Allyson Pimentel on how patience opens your heart in the face of difficulty, allowing compassion and wisdom to be your guide. The post How Patience Helps You Stay Present appeared first on Lion’s Roar.",
+      "publishedAt": "2026-08-09T18:14:00.000Z",
+      "imageUrl": "https://lionsroar.com/wp-content/uploads/2025/11/golden-buddha-statue-back-dagerotip-1024x576.jpg",
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "https://philosophynow.org/issues/175/Fun_With_Deleuze_and_Guattari",
@@ -3016,11 +3444,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49690051",
-      "title": "The Coming War on General Computation (2011)",
-      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 59 # Comments: 14",
-      "publishedAt": "2026-09-13T23:54:55.000Z",
+      "id": "https://news.ycombinator.com/item?id=49689460",
+      "title": "The contagion of fear",
+      "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 176 # Comments: 133",
+      "publishedAt": "2026-09-13T22:38:18.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3060,12 +3488,12 @@
       "category": "science"
     },
     {
-      "id": "6aa4216f6f843ad22cbe608e",
-      "title": "Dolly Parton Is Getting Her Own Airport",
-      "link": "https://pitchfork.com/story/dolly-parton-is-getting-her-own-airport/",
-      "summary": "Nashville International Airport is being renamed in honor of the late country icon",
-      "publishedAt": "2026-09-11T17:50:03.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa43d05cb9b95cbc44977c2/master/pass/Dolly-Parton.jpeg",
+      "id": "6aa42b4620783d7990d463c0",
+      "title": "Quavo Announces Pharrell Williams-Produced Album",
+      "link": "https://pitchfork.com/story/quavo-announces-pharrell-williams-produced-album-qromelife/",
+      "summary": "The long-teased Qrömelife now has a release date",
+      "publishedAt": "2026-09-11T18:06:20.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa4564bba6eb6de196fdcd0/master/pass/QuavoQLPress1.jpeg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -3203,6 +3631,28 @@
       "category": "ideas"
     },
     {
+      "id": "urn:id:8931",
+      "title": "Logistics underpins power – and logistics is female",
+      "link": "https://psyche.co/ideas/logistics-underpins-power-and-logistics-is-female",
+      "summary": "A women’s history of logistics from the battlefields of 19th-century Europe to middle-class households and sex trafficking - by Susan Zieger Read on Psyche",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/bae94660-e877-4281-8f9b-b8b683f7cd25/this-master-pnp-ppmsca-51700-51756a.jpg?top=212&amp;left=9&amp;cropWidth=2656&amp;cropHeight=1494&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/four_ways_to_help_newcomers_feel_like_they_belong#When:18:09:00Z",
+      "title": "Four Ways to Help Newcomers Feel Like They Belong",
+      "link": "https://greatergood.berkeley.edu/article/item/four_ways_to_help_newcomers_feel_like_they_belong",
+      "summary": "Liz Cahill was born and raised in Philadelphia. Her whole family is from Philadelphia, going back generations. One day, she was offered an internship in the Bay Area and decided to make the leap, despite not knowing anything about it or any…",
+      "publishedAt": "2026-08-26T18:09:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://minimalissimo.com/articles/desktop-folder",
       "title": "Desktop Folder",
       "link": "https://minimalissimo.com/articles/desktop-folder",
@@ -3222,6 +3672,28 @@
       "imageUrl": "https://noemamag.imgix.net/2026/08/Noema_Color_V1-26-scaled.jpg?fm=pjpg&ixlib=php-3.3.1&s=8fac3a499ee7f390ee49c471ac3a8746",
       "sourceId": "noema",
       "sourceName": "Noema Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=667960",
+      "title": "Do Something That Is Not Nothing",
+      "link": "https://www.mindful.org/do-something-that-is-not-nothing-to-form-a-new-health-habit/",
+      "summary": "If you’ve been struggling to make a new health habit stick—the solution might be easier (and shorter) than you think. The post Do Something That Is Not Nothing appeared first on Mindful.",
+      "publishedAt": "2026-08-12T20:31:19.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://lionsroar.com/?post_type=lr-article&p=72295",
+      "title": "Celebrating an American Bodhisattva",
+      "link": "https://www.lionsroar.com/celebrating-an-american-bodhisattva/",
+      "summary": "Melvin McLeod attends the memorial for Robert Thurman. The post Celebrating an American Bodhisattva appeared first on Lion’s Roar.",
+      "publishedAt": "2026-08-05T13:35:25.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
       "category": "ideas"
     },
     {
@@ -3324,11 +3796,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49689460",
-      "title": "The contagion of fear",
-      "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 170 # Comments: 130",
-      "publishedAt": "2026-09-13T22:38:18.000Z",
+      "id": "https://news.ycombinator.com/item?id=49689048",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 122 # Comments: 63",
+      "publishedAt": "2026-09-13T21:47:04.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3346,12 +3818,12 @@
       "category": "science"
     },
     {
-      "id": "6aa42d32b2fc3a5873c487b5",
-      "title": "“skin”",
-      "link": "https://pitchfork.com/reviews/kllhhr-skin/",
-      "summary": "The ambient rapper’s surprise breakout single is a barren transmission from the other side of grief.",
-      "publishedAt": "2026-09-11T16:49:20.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa42da6b2fc3a5873c487ba/master/pass/kllhhr:%20%E2%80%9Cskin%E2%80%9D.png",
+      "id": "6aa412c50069b4832f6a96ab",
+      "title": "Brent Hinds Estate Sues Mastodon",
+      "link": "https://pitchfork.com/story/brent-hinds-estate-sues-mastodon/",
+      "summary": "The estate disputes whether an $80,000 check from the band covers Hinds’ share in Mastodon’s interests",
+      "publishedAt": "2026-09-11T18:04:57.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa44295fc33f9dc43bef792/master/pass/mastodon-sued-brent-hinds.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -3398,6 +3870,28 @@
       "imageUrl": "https://images.aeonmedia.co/images/6311f093-ca53-432a-86b4-5bce84e5e000/essay-panos_00193525.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
+      "category": "ideas"
+    },
+    {
+      "id": "urn:id:9060",
+      "title": "The human frequency",
+      "link": "https://psyche.co/portraits/dj-william-goldsmith-on-the-human-art-of-internet-radio",
+      "summary": "With Radio Paradise, William Goldsmith built an internet radio station that’s become a living argument for taste, trust and the art of choosing what comes next - by Greg Easley Read on Psyche",
+      "publishedAt": "2026-08-31T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/6d567ad7-e38b-4492-a6db-c7a0788177fa/sz-fullsizerender.jpg?top=135&amp;left=0&amp;cropWidth=2576&amp;cropHeight=1449&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/three_qualities_that_can_make_you_an_inspiring_leader#When:11:22:00Z",
+      "title": "Three Qualities That Can Make You an Inspiring Leader",
+      "link": "https://greatergood.berkeley.edu/article/item/three_qualities_that_can_make_you_an_inspiring_leader",
+      "summary": "Imagine you’re on a plane and suddenly hear an explosion. The whole plane rattles, and you see the left engine is on fire. After another loud noise, you realize there’s a hole in the side of the aircraft. As air rushes out, the plane is rap…",
+      "publishedAt": "2026-08-25T11:22:00.000Z",
+      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/CPO_Bug-name_RBG_Maize+Blue.png",
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
       "category": "ideas"
     },
     {
@@ -3478,11 +3972,11 @@
       "category": "general"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49689048",
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 115 # Comments: 59",
-      "publishedAt": "2026-09-13T21:47:04.000Z",
+      "id": "https://news.ycombinator.com/item?id=49688695",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 578 # Comments: 252",
+      "publishedAt": "2026-09-13T21:06:13.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3500,12 +3994,12 @@
       "category": "science"
     },
     {
-      "id": "6aa41c91fc44394c8a822fc1",
-      "title": "Charli XCX Announces 2027 European Tour Dates",
-      "link": "https://pitchfork.com/story/charli-xcx-2027-europe-tour-dates-music-fashion-film/",
-      "summary": "Music, Fashion, Film gets a six-date run next February",
-      "publishedAt": "2026-09-11T15:47:47.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa41dc30069b4832f6a978e/master/pass/GettyImages-2288754233.jpg",
+      "id": "6aa4216f6f843ad22cbe608e",
+      "title": "Dolly Parton Is Getting Her Own Airport",
+      "link": "https://pitchfork.com/story/dolly-parton-is-getting-her-own-airport/",
+      "summary": "Nashville International Airport is being renamed in honor of the late country icon",
+      "publishedAt": "2026-09-11T17:50:03.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa43d05cb9b95cbc44977c2/master/pass/Dolly-Parton.jpeg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -3544,6 +4038,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://greatergood.berkeley.edu/article/item/nine_conversationstarting_movies_to_watch_with_your_partner#When:16:54:00Z",
+      "title": "Nine Conversation-Starting Movies to Watch With Your Romantic Partner",
+      "link": "https://greatergood.berkeley.edu/article/item/nine_conversationstarting_movies_to_watch_with_your_partner",
+      "summary": "Movie date nights have long been a ritual of romance, from first dates to married couples’ standing nights out. You can probably name movies that leave you feeling warm, hopeful, excited, stimulated, and sometimes a little more in love with…",
+      "publishedAt": "2026-08-24T16:54:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "urn:id:9053",
       "title": "The fog of hunger",
       "link": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
@@ -3552,6 +4057,17 @@
       "imageUrl": "https://images.aeonmedia.co/images/8faddae4-306f-4e06-81c2-183366800391/essay-v2-nyc34743.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
+      "category": "ideas"
+    },
+    {
+      "id": "urn:id:9038",
+      "title": "Everything is going to be fine",
+      "link": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what",
+      "summary": "What a classist, a psychologist and preppers have to say about the end of the world, and what you might do about it - Directed by Ryan Malloy Watch on Psyche",
+      "publishedAt": "2026-08-20T10:01:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/737e3143-0725-4594-aaa6-7c4dd5d5d209/everything-is-going-to-be-fine-landscape-1.jpg?top=21&amp;left=0&amp;cropWidth=2000&amp;cropHeight=1125&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
       "category": "ideas"
     },
     {
@@ -3632,11 +4148,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49688695",
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 565 # Comments: 248",
-      "publishedAt": "2026-09-13T21:06:13.000Z",
+      "id": "https://news.ycombinator.com/item?id=49688391",
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 70 # Comments: 8",
+      "publishedAt": "2026-09-13T20:33:18.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3654,12 +4170,12 @@
       "category": "science"
     },
     {
-      "id": "6aa1ae94b3d5e748ab16ac3a",
-      "title": "10 New Albums You Should Listen to Now: This Is Lorelei, Alex G, and More",
-      "link": "https://pitchfork.com/story/10-new-albums-you-should-listen-to-now-this-is-lorelei-alex-g-and-more/",
-      "summary": "Stream new releases from This Is Lorelei, Alex G, Haruomi Hosono, and Sylvan Esso",
-      "publishedAt": "2026-09-11T14:43:19.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa1b585b3d5e748ab16ac68/master/pass/This%20Is%20Lorelei%20by%20Eve%20Alpert%20-%203.jpg",
+      "id": "6aa42d32b2fc3a5873c487b5",
+      "title": "“skin”",
+      "link": "https://pitchfork.com/reviews/kllhhr-skin/",
+      "summary": "The ambient rapper’s surprise breakout single is a barren transmission from the other side of grief.",
+      "publishedAt": "2026-09-11T16:49:20.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa42da6b2fc3a5873c487ba/master/pass/kllhhr:%20%E2%80%9Cskin%E2%80%9D.png",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -3706,6 +4222,28 @@
       "imageUrl": "https://images.aeonmedia.co/images/82a196ab-9e8c-4452-8c6d-319f97c0246d/a-vocabulary-for-the-future-touch-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
+      "category": "ideas"
+    },
+    {
+      "id": "urn:id:9041",
+      "title": "How to rediscover your purpose later in life",
+      "link": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
+      "summary": "You don’t have to ‘reinvent’ yourself to live happily after 60. There’s a better approach grounded in lifespan psychology - by Denise Taylor Read on Psyche",
+      "publishedAt": "2026-08-20T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/fc9ce543-4c3f-4448-9741-f519eb7135fc/nyc8443.jpg?top=55&amp;left=0&amp;cropWidth=1056&amp;cropHeight=594&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/how_your_imagination_can_work_for_you_or_against_you#When:16:07:00Z",
+      "title": "How Your Imagination Can Work for You or Against You",
+      "link": "https://greatergood.berkeley.edu/article/item/how_your_imagination_can_work_for_you_or_against_you",
+      "summary": "I have a pretty vivid imagination, sometimes for the good, sometimes not. I love it when it helps me to create new stories or songs, or when I can daydream about fun times ahead. But it can also lead to fear or worry, like when I imagine so…",
+      "publishedAt": "2026-08-19T16:07:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
       "category": "ideas"
     },
     {
@@ -3786,11 +4324,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49688391",
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 69 # Comments: 8",
-      "publishedAt": "2026-09-13T20:33:18.000Z",
+      "id": "https://news.ycombinator.com/item?id=49688259",
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https://news.ycombinator.com/item?id=49688259 Points: 71 # Comments: 126",
+      "publishedAt": "2026-09-13T20:19:06.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3808,12 +4346,12 @@
       "category": "science"
     },
     {
-      "id": "6aa316d649c2370d978b80ac",
-      "title": "Modest Mouse and My Morning Jacket Share Neil Young Covers",
-      "link": "https://pitchfork.com/story/modest-mouse-and-my-morning-jacket-share-neil-young-covers/",
-      "summary": "Listen to the indie rock titans’ respective takes on “Barstool Blues” and “Like a Hurricane”",
-      "publishedAt": "2026-09-11T14:24:35.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa40ec1764808ac85c7cdf6/master/pass/modest-mouse-my-morning-jacket-neil-young-covers.jpeg",
+      "id": "6aa41c91fc44394c8a822fc1",
+      "title": "Charli XCX Announces 2027 European Tour Dates",
+      "link": "https://pitchfork.com/story/charli-xcx-2027-europe-tour-dates-music-fashion-film/",
+      "summary": "Music, Fashion, Film gets a six-date run next February",
+      "publishedAt": "2026-09-11T15:47:47.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa41dc30069b4832f6a978e/master/pass/GettyImages-2288754233.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -3860,6 +4398,28 @@
       "imageUrl": "https://images.aeonmedia.co/images/feb30884-154c-41ba-a04f-79e7037a973a/cj_aeon_boto.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
+      "category": "ideas"
+    },
+    {
+      "id": "urn:id:8927",
+      "title": "Arabic has four words for sadness. Philosophy explains why",
+      "link": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why",
+      "summary": "More subtly nuanced than standard diagnostic categories, Arabic lets speakers articulate a world of emotional experiences - by Chereen Shurafa Read on Psyche",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/ce4c734b-c715-4472-bfc2-5f14b0cd88f4/sz-mg199752.jpg?top=264&amp;left=0&amp;cropWidth=2576&amp;cropHeight=1449&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/do_you_compare_yourself_to_your_partner_its_not_all_bad#When:15:16:00Z",
+      "title": "Do You Compare Yourself to Your Partner? It’s Not All Bad",
+      "link": "https://greatergood.berkeley.edu/article/item/do_you_compare_yourself_to_your_partner_its_not_all_bad",
+      "summary": "After venturing through the wasteland of modern dating, it would be natural to harbor disdain for social comparison. Dating apps require you to stand out, which means you can’t just be yourself; you need to sell yourself as more appealing t…",
+      "publishedAt": "2026-08-17T15:16:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
       "category": "ideas"
     },
     {
@@ -3940,11 +4500,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49688259",
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https://news.ycombinator.com/item?id=49688259 Points: 68 # Comments: 122",
-      "publishedAt": "2026-09-13T20:19:06.000Z",
+      "id": "https://news.ycombinator.com/item?id=49686445",
+      "title": "Why is Google still serving dodgy ads?",
+      "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 657 # Comments: 307",
+      "publishedAt": "2026-09-13T17:37:44.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3962,12 +4522,12 @@
       "category": "science"
     },
     {
-      "id": "6aa2dd912d59bd8ddb27db77",
-      "title": "Kendrick Lamar Joins Jhené Aiko on New Song “So Good”",
-      "link": "https://pitchfork.com/story/kendrick-lamar-joins-jhene-aiko-on-new-song-so-good/",
-      "summary": "The pair reunite on Aiko’s new album Westside Whimsy",
-      "publishedAt": "2026-09-11T04:15:08.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa2e95083657f6731165cdc/master/pass/kendrick-lamar-jhene-aiko-new-song-so-good-2.jpeg",
+      "id": "6aa1ae94b3d5e748ab16ac3a",
+      "title": "10 New Albums You Should Listen to Now: This Is Lorelei, Alex G, and More",
+      "link": "https://pitchfork.com/story/10-new-albums-you-should-listen-to-now-this-is-lorelei-alex-g-and-more/",
+      "summary": "Stream new releases from This Is Lorelei, Alex G, Haruomi Hosono, and Sylvan Esso",
+      "publishedAt": "2026-09-11T14:43:19.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa1b585b3d5e748ab16ac68/master/pass/This%20Is%20Lorelei%20by%20Eve%20Alpert%20-%203.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4014,6 +4574,28 @@
       "imageUrl": "https://images.aeonmedia.co/images/6f12f62c-50bd-4de4-8ea8-542a57cb8b19/the-conscience-files-landscape-2.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
+      "category": "ideas"
+    },
+    {
+      "id": "urn:id:9055",
+      "title": "Don’t let nature slip out of reach",
+      "link": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
+      "summary": "Research on the ‘extinction of experience’ suggests many of us are losing vital connections to the natural world - by Hannah Seo Read on Psyche",
+      "publishedAt": "2026-08-18T10:00:00.000Z",
+      "imageUrl": "https://images.aeonmedia.co/images/568fce94-f106-4f39-97c9-478da4fba163/sz-liam-hans-ad2qiuro94u-unsplash.jpg?top=191&amp;left=0&amp;cropWidth=3664&amp;cropHeight=2061&amp;width=1200&amp;quality=75&amp;format=auto",
+      "sourceId": "psyche",
+      "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/scientists_admit_mistakes_science_working_fauci_hearings#When:19:10:00Z",
+      "title": "When Scientists Admit Mistakes, That Means Science Is Working",
+      "link": "https://greatergood.berkeley.edu/article/item/scientists_admit_mistakes_science_working_fauci_hearings",
+      "summary": "When the first cases of COVID-19 were discovered in a hospital in Wuhan, I had already studied the U.S. public health response to seven epidemics and pandemics. I am no stranger to the role of politics in pandemic response. Still, the recen…",
+      "publishedAt": "2026-08-14T19:10:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
       "category": "ideas"
     },
     {
@@ -4091,556 +4673,6 @@
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49686445",
-      "title": "Why is Google still serving dodgy ads?",
-      "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 652 # Comments: 305",
-      "publishedAt": "2026-09-13T17:37:44.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "RVqYH5LMEDfLiiMcfvccq3",
-      "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
-      "summary": "Rocket Lab launched an Earth-observation satellite to orbit for a confidential customer on Thursday night (Sept. 10), without providing a livestream or many details about the mission.",
-      "publishedAt": "2026-09-11T19:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/kBheuqMF5cYky7WQbB2oyD-1280-80.jpg",
-      "sourceId": "space-com",
-      "sourceName": "Space.com",
-      "category": "science"
-    },
-    {
-      "id": "6aa2e1bad7cc50afedcb93e9",
-      "title": "The Singer in My Band",
-      "link": "https://pitchfork.com/reviews/albums/this-is-lorelei-the-singer-in-my-band/",
-      "summary": "On his first album for Matador, Nate Amos trades the magpie charm of his past solo work for a warm, twangy, and tightly constructed approach. It’s the sound of a songwriter sketching out his own gospel.",
-      "publishedAt": "2026-09-11T04:03:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6a3aa2af3d85cbbe413a9dc2/master/pass/This%20Is%20Lorelei%20-%20The%20Singer%20in%20My%20Band%20_%20Album%20Art%20(1).jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://www.dwell.com/article/sothebys-international-logan-residence-kalispell-real-estate-2d211f90",
-      "title": "In Montana, a Historic 1910 Colonial Revival Hits the Market for $2.5M",
-      "link": "https://www.dwell.com/article/sothebys-international-logan-residence-kalispell-real-estate-2d211f90",
-      "summary": "Beyond its preserved period details, the home offers a surprising amenity: a retro soda fountain in the basement.",
-      "publishedAt": "2026-09-08T16:34:16.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7497739574702895104/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
-    },
-    {
-      "id": "CBMimAFBVV95cUxQUFlBR250ZmQycXBtUWkybTUweUFFNV9OZmJ2akZXTzdOdmNoZUliNHliSG51UFJ6Y1pVSUI3Q1JPTTh2Qkh4N25URXJvVzNzLTJUSWdPcmU3anByUkNwY0dXNmN5SVE3ZWJtMXZoaXM2eVVSOUgzV3lDNUJaNVkwMzloOUxBaWNSZGFGNmJWVjEwOTk0aDBvaA",
-      "title": "From food truck district to DJ and big screens, Folsom Field gets a fan-friendly makeover for CU Buffs’ home opener - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFlBR250ZmQycXBtUWkybTUweUFFNV9OZmJ2akZXTzdOdmNoZUliNHliSG51UFJ6Y1pVSUI3Q1JPTTh2Qkh4N25URXJvVzNzLTJUSWdPcmU3anByUkNwY0dXNmN5SVE3ZWJtMXZoaXM2eVVSOUgzV3lDNUJaNVkwMzloOUxBaWNSZGFGNmJWVjEwOTk0aDBvaA?oc=5",
-      "summary": "From food truck district to DJ and big screens, Folsom Field gets a fan-friendly makeover for CU Buffs’ home opener Daily Camera",
-      "publishedAt": "2026-09-07T20:18:30.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=87873",
-      "title": "The True Purpose of Tarot",
-      "link": "https://www.themarginalian.org/2026/09/06/alejandro-jorodowsky-tarot/",
-      "summary": "“Nothing like this has ever happened before or will ever happen again,” a friend said to me about a lucky turn of events — a statement that struck me as touchingly self-negating: a recognition that life has violated her predictions about wh…",
-      "publishedAt": "2026-09-06T18:51:32.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/tarot_jorodowsky.jpg?fit=320%2C479&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "urn:id:9057",
-      "title": "In praise of zealotry",
-      "link": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
-      "summary": "Early feminists like Mary Astell and Catharine Macaulay refused their male peers’ advice to remain polite in debate. Why? - by Geertje Bol Read on Aeon",
-      "publishedAt": "2026-08-18T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/7658e7b8-9c34-41ec-b558-2302dd610d06/essay-bm-265686001.jpg?width=1200&amp;quality=75&amp;format=auto",
-      "sourceId": "aeon",
-      "sourceName": "Aeon",
-      "category": "ideas"
-    },
-    {
-      "id": "https://philosophynow.org/issues/175/On_War_Kabbalah_and_Collateral_Damage",
-      "title": "On War, Kabbalah &amp; Collateral Damage",
-      "link": "https://philosophynow.org/issues/175/On_War_Kabbalah_and_Collateral_Damage",
-      "summary": "Anton Koslov takes a concept from the Kabbalah to understand the nature of war.",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "philosophy-now",
-      "sourceName": "Philosophy Now",
-      "category": "ideas"
-    },
-    {
-      "id": "https://minimalissimo.com/articles/mono-twin",
-      "title": "Mono Twin",
-      "link": "https://minimalissimo.com/articles/mono-twin",
-      "summary": "Some objects reveal themselves only once they are held. At first glance, Mono's newly reissued Twin appears almost disarmingly simple: a stainless steel cylinder available in two heights. Yet its defining quality lies beyond the image. The …",
-      "publishedAt": "2026-07-23T15:24:06.000Z",
-      "imageUrl": "https://minimalissimo.com/api/media/file/mono-twin-featured-v3.png",
-      "sourceId": "minimalissimo",
-      "sourceName": "Minimalissimo",
-      "category": "design"
-    },
-    {
-      "id": "https://www.densediscovery.com/issues/390/",
-      "title": "DD390 / Your neatly labelled mind",
-      "link": "https://www.densediscovery.com/issues/390/",
-      "summary": "Issue 390: Your neatly labelled mind – Read the full issue in the archive.",
-      "publishedAt": "2026-05-25T08:16:04.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-390.jpg",
-      "sourceId": "dense-discovery",
-      "sourceName": "Dense Discovery",
-      "category": "design"
-    },
-    {
-      "id": "CBMiYEFVX3lxTE1vbTU2ckdBV3RKX3VnY2JFcTA4WkJUWmE4bTlQcHlWeW5wSUtTbnVfbUlPOEhkbmxOZ1p3M2hnZW1VclhFN1hvS3hTTUlDREI5ZW5qdkV4ZmJ5UUkxWUF0UA",
-      "title": "The Diffusion Dilemma - Arena Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vbTU2ckdBV3RKX3VnY2JFcTA4WkJUWmE4bTlQcHlWeW5wSUtTbnVfbUlPOEhkbmxOZ1p3M2hnZW1VclhFN1hvS3hTTUlDREI5ZW5qdkV4ZmJ5UUkxWUF0UA?oc=5",
-      "summary": "The Diffusion Dilemma Arena Magazine",
-      "publishedAt": "2025-09-01T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "arena-magazine",
-      "sourceName": "Arena Magazine",
-      "category": "ideas"
-    },
-    {
-      "id": "CBMiiAFBVV95cUxOaWlydlJvaExzem5mSUJGZVFnZUpDd1FrbmRpdmxOUlVZZkVjbjFWbHAxT0dQcnFFQjg0ZTU0MUZ3eG5ab3prUk9XemJHRHdLSTZKd2RlRk8yUnlJV3pSZXpRLXNHUFV3V3QyNHg3UEVVX2h3TWZwX19sMjB6c21HX0NuOTh2QVox",
-      "title": "Marc Andreessen's Guide to Career Planning - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWlydlJvaExzem5mSUJGZVFnZUpDd1FrbmRpdmxOUlVZZkVjbjFWbHAxT0dQcnFFQjg0ZTU0MUZ3eG5ab3prUk9XemJHRHdLSTZKd2RlRk8yUnlJV3pSZXpRLXNHUFV3V3QyNHg3UEVVX2h3TWZwX19sMjB6c21HX0NuOTh2QVox?oc=5",
-      "summary": "Marc Andreessen's Guide to Career Planning Read Something Great",
-      "publishedAt": "2023-05-12T02:40:13.000Z",
-      "imageUrl": null,
-      "sourceId": "read-something-great",
-      "sourceName": "Read Something Great",
-      "category": "general"
-    },
-    {
-      "id": "CBMiSEFVX3lxTE56Z3JtVno0Vm9VbGQzU1BUUGVKMmZUN09TRzFJNURuLUFVU1RrTHNweVdOdjkweVpKUGZsU1lycHpPUlhoZTh5Ng",
-      "title": "Submit a project - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56Z3JtVno0Vm9VbGQzU1BUUGVKMmZUN09TRzFJNURuLUFVU1RrTHNweVdOdjkweVpKUGZsU1lycHpPUlhoZTh5Ng?oc=5",
-      "summary": "Submit a project New Norm Magazine",
-      "publishedAt": "2023-02-26T22:18:22.000Z",
-      "imageUrl": null,
-      "sourceId": "new-norm",
-      "sourceName": "New Norm",
-      "category": "design"
-    },
-    {
-      "id": "CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw",
-      "title": "Jutaku - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw?oc=5",
-      "summary": "Jutaku Thisispaper",
-      "publishedAt": "2021-10-05T06:52:38.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49686380",
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 103 # Comments: 241",
-      "publishedAt": "2026-09-13T17:31:38.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "7oQs6iot6JF2y5uiLoWa3o",
-      "title": "Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal",
-      "link": "https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal",
-      "summary": "NordVPN is recommended as one of the best VPN services, offering online security and convenience, and is now up to $370 cheaper.",
-      "publishedAt": "2026-09-11T18:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/rixtntQwePZcN5CpmJkrnE-1280-80.jpg",
-      "sourceId": "space-com",
-      "sourceName": "Space.com",
-      "category": "science"
-    },
-    {
-      "id": "6aa1bd5457e7f037d30c8509",
-      "title": "Distance in Static",
-      "link": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
-      "summary": "On what he has hinted may be his final “traditional” LP as Bonobo, the UK producer cycles through moods and styles, with a particular focus on the clubby soundscapes of his DJ era.",
-      "publishedAt": "2026-09-11T04:02:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa1bae87fc5f11743d20ac7/master/pass/Bonobo%20-%20Distance%20in%20Static.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://www.dwell.com/article/sothebys-international-neutral-oasis-hampton-real-estate-fa92b47b",
-      "title": "Extend the Summer With Style From This $4.9M East Hampton  Home",
-      "link": "https://www.dwell.com/article/sothebys-international-neutral-oasis-hampton-real-estate-fa92b47b",
-      "summary": "The hilltop home of an interior designer comes move-in ready as a neutral-toned oasis.",
-      "publishedAt": "2026-09-08T16:32:59.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7497749579434332160/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=81375",
-      "title": "How to Apologize: Reflections on Forgiveness, Self-Forgiveness, and the Vulnerabilities of Being Human",
-      "link": "https://www.themarginalian.org/2026/09/06/how-to-apologize-ellen-bass/",
-      "summary": "\"It's permitted to receive solace for whatever you did or didn't do, pitiful, beautiful human.\"",
-      "publishedAt": "2026-09-06T16:29:04.000Z",
-      "imageUrl": "https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2015/02/davidthedreamer10.jpg",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "CBMiigFBVV95cUxQcjlHTDVNRlNkeWhPM052TjUzUmd3R2FvLS1Dby11Y2JrODc0UVdtQXlIemdhSTVvQmhkM3oxZ2ZpaGRuaS1KRG5Kbm5aMmZGSUxPQ1E3dThqLV80V2dTZnlVSTVzalVaWGIxWlY4NldCOW1jeFpFekM2UExTcDV3TXBvSVFJX2hLTmc",
-      "title": "Amy Redford, fellow filmmaking icons to dish behind-the-scenes Sundance stories at Denver event - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjlHTDVNRlNkeWhPM052TjUzUmd3R2FvLS1Dby11Y2JrODc0UVdtQXlIemdhSTVvQmhkM3oxZ2ZpaGRuaS1KRG5Kbm5aMmZGSUxPQ1E3dThqLV80V2dTZnlVSTVzalVaWGIxWlY4NldCOW1jeFpFekM2UExTcDV3TXBvSVFJX2hLTmc?oc=5",
-      "summary": "Amy Redford, fellow filmmaking icons to dish behind-the-scenes Sundance stories at Denver event Daily Camera",
-      "publishedAt": "2026-09-06T14:02:40.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "urn:id:8745",
-      "title": "The World Famous Gopher Hole Museum",
-      "link": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction",
-      "summary": "In this bittersweet portrait of a farm town in Canada, taxidermied gophers preserve a place that no longer exists - by Aeon Video Watch on Aeon",
-      "publishedAt": "2026-08-17T10:01:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/b594722b-be60-4aa8-9115-ca3ab802d61d/the-world-famous-gopher-hole-museum-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
-      "sourceId": "aeon",
-      "sourceName": "Aeon",
-      "category": "ideas"
-    },
-    {
-      "id": "https://philosophynow.org/issues/175/Ulrich_Metschl",
-      "title": "Ulrich Metschl",
-      "link": "https://philosophynow.org/issues/175/Ulrich_Metschl",
-      "summary": "Ulrich Metschl is an associate professor at the University of Innsbruck, Austria. Thiago Pinho talks with him about philosophical collaborations.",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "philosophy-now",
-      "sourceName": "Philosophy Now",
-      "category": "ideas"
-    },
-    {
-      "id": "https://minimalissimo.com/articles/mars-mellow-sneakers",
-      "title": "Mars Mellow Sneakers",
-      "link": "https://minimalissimo.com/articles/mars-mellow-sneakers",
-      "summary": "Mars Mellow by CRO sits within a growing shift in footwear design, where construction gives way to continuity of form. Defined by a softened, almost inflated geometry, it breaks convention, treating the shoe as a single resolved volume rath…",
-      "publishedAt": "2026-07-21T23:08:54.000Z",
-      "imageUrl": "https://minimalissimo.com/api/media/file/mars-mellow-stone.png",
-      "sourceId": "minimalissimo",
-      "sourceName": "Minimalissimo",
-      "category": "design"
-    },
-    {
-      "id": "https://www.densediscovery.com/issues/389/",
-      "title": "DD389 / Yours sincerely, prompt #41",
-      "link": "https://www.densediscovery.com/issues/389/",
-      "summary": "Issue 389: Yours sincerely, prompt #41 – Read the full issue in the archive.",
-      "publishedAt": "2026-05-18T07:51:22.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-389.jpg",
-      "sourceId": "dense-discovery",
-      "sourceName": "Dense Discovery",
-      "category": "design"
-    },
-    {
-      "id": "CBMiP0FVX3lxTE1iT2NRMktGLUo4amw2eWZ1VTRuNjAyeXBxRl9iQjNkMjdPOHFSZkJGekJIRER5TWExRTMtb2JGdw",
-      "title": "Arena Store - Arena Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1iT2NRMktGLUo4amw2eWZ1VTRuNjAyeXBxRl9iQjNkMjdPOHFSZkJGekJIRER5TWExRTMtb2JGdw?oc=5",
-      "summary": "Arena Store Arena Magazine",
-      "publishedAt": "2025-08-25T00:06:26.000Z",
-      "imageUrl": null,
-      "sourceId": "arena-magazine",
-      "sourceName": "Arena Magazine",
-      "category": "ideas"
-    },
-    {
-      "id": "CBMia0FVX3lxTFA4M3BFU1JBekoxOXp6RGlDNkFRNXktNVNxVTljZW5xSEFwVHc2VjVwcVY4UXR4MUpPYnZUREZRU2Q5cm9ZWE1rT1RQckU4QmNiQmJLdlVJOEx6ejQ1Q0JTbTllajE3NDNxUUtj",
-      "title": "The Disease of More - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4M3BFU1JBekoxOXp6RGlDNkFRNXktNVNxVTljZW5xSEFwVHc2VjVwcVY4UXR4MUpPYnZUREZRU2Q5cm9ZWE1rT1RQckU4QmNiQmJLdlVJOEx6ejQ1Q0JTbTllajE3NDNxUUtj?oc=5",
-      "summary": "The Disease of More Read Something Great",
-      "publishedAt": "2023-03-30T09:58:49.000Z",
-      "imageUrl": null,
-      "sourceId": "read-something-great",
-      "sourceName": "Read Something Great",
-      "category": "general"
-    },
-    {
-      "id": "CBMiVkFVX3lxTE42MEpNcF9GcWZXTUowSV9RanNFUzBhMHpDS3ZGbC1mQk53dzFQamRuQ1oxNjFPMU9ZNFo5YTUxMXh2djg3VjNaQnl4MlF4bkpvOHNtUU13",
-      "title": "Cedarwood | Dubrovska Studio - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42MEpNcF9GcWZXTUowSV9RanNFUzBhMHpDS3ZGbC1mQk53dzFQamRuQ1oxNjFPMU9ZNFo5YTUxMXh2djg3VjNaQnl4MlF4bkpvOHNtUU13?oc=5",
-      "summary": "Cedarwood | Dubrovska Studio New Norm Magazine",
-      "publishedAt": "2022-10-05T17:00:52.000Z",
-      "imageUrl": null,
-      "sourceId": "new-norm",
-      "sourceName": "New Norm",
-      "category": "design"
-    },
-    {
-      "id": "CBMiTkFVX3lxTE5UdDdTanNzNzNucUh1LVVkT3pvbU9ueS1xV1lDaDdxM1cwWlJ0YnhfNExzNzZUeVNpaXhMUU95bnRMOVdNSzVzSkNYYW93QQ",
-      "title": "Lisbon Guide - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UdDdTanNzNzNucUh1LVVkT3pvbU9ueS1xV1lDaDdxM1cwWlJ0YnhfNExzNzZUeVNpaXhMUU95bnRMOVdNSzVzSkNYYW93QQ?oc=5",
-      "summary": "Lisbon Guide Thisispaper",
-      "publishedAt": "2021-10-05T04:49:13.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49684393",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 395 # Comments: 180",
-      "publishedAt": "2026-09-13T14:28:36.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "XG9BJGpQ3UDwCpTykeVLTR",
-      "title": "The sun may once have swallowed a super-Earth planet and could still be hiding the evidence",
-      "link": "https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence",
-      "summary": "The sun may have swallowed a super-Earth planet in its early history, and our star may still be hiding the evidence, new research suggests.",
-      "publishedAt": "2026-09-11T16:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Rpzuqf8jNjyJJD9w4TL6qm-1280-80.png",
-      "sourceId": "space-com",
-      "sourceName": "Space.com",
-      "category": "science"
-    },
-    {
-      "id": "6aa1ca16b66f8d2775ba6dd3",
-      "title": "Slime Language 3",
-      "link": "https://pitchfork.com/reviews/albums/young-stoner-life-young-thug-slime-language-3/",
-      "summary": "The gargantuan third installment of Young Thug’s label compilation series inducts a new class of YSL and ØWay acolytes to the collective’s post-RICO reconstruction. It’s a rich and unwieldy text.",
-      "publishedAt": "2026-09-11T04:01:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6a9103e5bea3737e9c6f8c11/master/pass/Young-Thug-Slime-Language-3-Side-B.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://www.dwell.com/article/skyline-inspired-architectural-appliances-dacor-contemporary-collection-42acfe2a",
-      "title": "These Skyline-Inspired Appliances Are Designed to Blur the Boundaries of the Kitchen",
-      "link": "https://www.dwell.com/article/skyline-inspired-architectural-appliances-dacor-contemporary-collection-42acfe2a",
-      "summary": "Dacor’s Contemporary Collection of luxury appliances helps kitchens blend naturally into open-plan living spaces.",
-      "publishedAt": "2026-09-08T16:02:27.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7482865782539591680/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
-    },
-    {
-      "id": "https://www.brainpickings.org/?p=60799",
-      "title": "Erich Fromm’s 6 Rules of Listening: The Great Humanistic Philosopher and Psychologist on the Art of Unselfish Understanding",
-      "link": "https://www.themarginalian.org/2026/09/06/erich-fromm-the-art-of-listening/",
-      "summary": "\"Understanding and loving are inseparable. If they are separate, it is a cerebral process and the door to essential understanding remains closed.\"",
-      "publishedAt": "2026-09-06T04:04:17.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/04/fromm_artoflistening.jpg?fit=320%2C495&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "urn:id:9059",
-      "title": "Worm munch matters",
-      "link": "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
-      "summary": "The lives that slither and scurry beneath the soil’s surface are vital for ecological health: now we can listen in to them - by Ella Browning Read on Aeon",
-      "publishedAt": "2026-08-17T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/78d61ad2-131f-4408-97d9-c869e125bdcc/essay-v1-screenshot-2026-08-11-at-14_14_59.jpg?width=1200&amp;quality=75&amp;format=auto",
-      "sourceId": "aeon",
-      "sourceName": "Aeon",
-      "category": "ideas"
-    },
-    {
-      "id": "https://philosophynow.org/issues/175/Julian_the_Apostate_331-363",
-      "title": "Julian the Apostate (331-363)",
-      "link": "https://philosophynow.org/issues/175/Julian_the_Apostate_331-363",
-      "summary": "Eli Sclar reports on a weaponizer of tolerance.",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "philosophy-now",
-      "sourceName": "Philosophy Now",
-      "category": "ideas"
-    },
-    {
-      "id": "https://minimalissimo.com/articles/st-01-spinner-by-amsterdam-dynamics",
-      "title": "ST-01 Spinner by Amsterdam Dynamics",
-      "link": "https://minimalissimo.com/articles/st-01-spinner-by-amsterdam-dynamics",
-      "summary": "There is something quietly compelling about objects designed for no purpose beyond engagement. Amsterdam Dynamics' spinner strips the familiar fidget object back to its essence, where proportion, balance and material take precedence over no…",
-      "publishedAt": "2026-07-16T14:00:00.000Z",
-      "imageUrl": "https://minimalissimo.com/api/media/file/website-61.jpg",
-      "sourceId": "minimalissimo",
-      "sourceName": "Minimalissimo",
-      "category": "design"
-    },
-    {
-      "id": "https://www.densediscovery.com/issues/388/",
-      "title": "DD388 / Permission to play",
-      "link": "https://www.densediscovery.com/issues/388/",
-      "summary": "Issue 388: Permission to play – Read the full issue in the archive.",
-      "publishedAt": "2026-05-11T08:05:02.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-388.jpg",
-      "sourceId": "dense-discovery",
-      "sourceName": "Dense Discovery",
-      "category": "design"
-    },
-    {
-      "id": "CBMiREFVX3lxTE5GSW1oalFPb3F0R3hGTWlicjBoSTZQazNfV2NmLW8tam5uSkpjdS1UMTRMMWdwZEd2RWI0NnVvM0V6YVps",
-      "title": "Arena Issue 009 - Arena Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GSW1oalFPb3F0R3hGTWlicjBoSTZQazNfV2NmLW8tam5uSkpjdS1UMTRMMWdwZEd2RWI0NnVvM0V6YVps?oc=5",
-      "summary": "Arena Issue 009 Arena Magazine",
-      "publishedAt": "2025-06-03T02:20:30.000Z",
-      "imageUrl": null,
-      "sourceId": "arena-magazine",
-      "sourceName": "Arena Magazine",
-      "category": "ideas"
-    },
-    {
-      "id": "CBMickFVX3lxTFBHeDlxb3RJX0xQVTYyYVNhem5xa3JSUThKazBZbW80V3JlQXpLYXdLbVZGU2RnNUJmOVNhQmlveGVpWTNMbmh4d1JXWmRlX3hqSW9HeDJwTDVSZmo2MzFXQ3l3cHp5OFgtOFFBV2NWVzJDUQ",
-      "title": "Twin Peaks Timberwolves | High School Sports | BoCoPreps on DailyCamera.com - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHeDlxb3RJX0xQVTYyYVNhem5xa3JSUThKazBZbW80V3JlQXpLYXdLbVZGU2RnNUJmOVNhQmlveGVpWTNMbmh4d1JXWmRlX3hqSW9HeDJwTDVSZmo2MzFXQ3l3cHp5OFgtOFFBV2NWVzJDUQ?oc=5",
-      "summary": "Twin Peaks Timberwolves | High School Sports | BoCoPreps on DailyCamera.com Daily Camera",
-      "publishedAt": "2024-12-07T21:55:28.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "CBMigwFBVV95cUxOV1lmaWJTdjl5RHVpN3A5aFRkWXFhcm5JMVBTbTIxZTVJMjJubG9IZGpWRjBNMWpZUm10VkFCZE1vRWpJQXRjUGZRT2cxZmYyT2pEdlUwN2VfZWp4UnVQcTc1S1VseHg1b1N3b0xyLXc4Y3p6eWE4S2dGYVVEMGE5Y3p2MA",
-      "title": "Girl - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1lmaWJTdjl5RHVpN3A5aFRkWXFhcm5JMVBTbTIxZTVJMjJubG9IZGpWRjBNMWpZUm10VkFCZE1vRWpJQXRjUGZRT2cxZmYyT2pEdlUwN2VfZWp4UnVQcTc1S1VseHg1b1N3b0xyLXc4Y3p6eWE4S2dGYVVEMGE5Y3p2MA?oc=5",
-      "summary": "Girl Read Something Great",
-      "publishedAt": "2023-03-19T14:55:33.000Z",
-      "imageUrl": null,
-      "sourceId": "read-something-great",
-      "sourceName": "Read Something Great",
-      "category": "general"
-    },
-    {
-      "id": "CBMiY0FVX3lxTE1keUx6S09FQWpNVENMbHdYUUtwbGdkZEtkQ3FSUG10blp2YzVXeHF0UmhzZWV1ekQ1STVzSVZlbFBLeThOVVo3Q3BJMy1aYUsyVjBWbWZzUXMteC1DWjI3b1pZOA",
-      "title": "Frequently Asked Questions | New Norm - New Norm - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1keUx6S09FQWpNVENMbHdYUUtwbGdkZEtkQ3FSUG10blp2YzVXeHF0UmhzZWV1ekQ1STVzSVZlbFBLeThOVVo3Q3BJMy1aYUsyVjBWbWZzUXMteC1DWjI3b1pZOA?oc=5",
-      "summary": "Frequently Asked Questions | New Norm - New Norm New Norm Magazine",
-      "publishedAt": "2021-12-31T18:20:40.000Z",
-      "imageUrl": null,
-      "sourceId": "new-norm",
-      "sourceName": "New Norm",
-      "category": "design"
-    },
-    {
-      "id": "CBMibEFVX3lxTE5XZUtZZi1ra013cUViNDEyZVNMSlQtWEJ1YTNzaFlqcENDTktyOXY3RG1KUFdFbTRNRXplMkFGb01zbnV4WUhvQjFYLXFsSUhkMG1LYzZBUXFsVFA3WmN5c0Fmb2wzdmRjTHJvQg",
-      "title": "Casa no Tempo captured by Thisispaper Studio - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZUtZZi1ra013cUViNDEyZVNMSlQtWEJ1YTNzaFlqcENDTktyOXY3RG1KUFdFbTRNRXplMkFGb01zbnV4WUhvQjFYLXFsSUhkMG1LYzZBUXFsVFA3WmN5c0Fmb2wzdmRjTHJvQg?oc=5",
-      "summary": "Casa no Tempo captured by Thisispaper Studio Thisispaper",
-      "publishedAt": "2021-08-04T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49684356",
-      "title": "CUDA for AMD on Windows",
-      "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 145 # Comments: 73",
-      "publishedAt": "2026-09-13T14:25:13.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "yDkngrHUpQ3DLs2fLbnMEh",
-      "title": "60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet",
-      "link": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet",
-      "summary": "Federation fashions have gone through many evolutions over the last six decades, from pastel pajamas to back-breaking Spandex.",
-      "publishedAt": "2026-09-11T15:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/tEKKbZr2kLR2RE5Pe8NPgM-1280-80.jpg",
-      "sourceId": "space-com",
-      "sourceName": "Space.com",
-      "category": "science"
-    },
-    {
-      "id": "6aa2e7a42d59bd8ddb27db81",
-      "title": "Nine",
-      "link": "https://pitchfork.com/reviews/albums/russian-circles-nine/",
-      "summary": "The instrumental trio spends its ninth album almost entirely in attack mode, pulling from death metal and hardcore for one of its heaviest and most riff-forward releases to date.",
-      "publishedAt": "2026-09-11T04:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa2e72b2d59bd8ddb27db7c/master/pass/Russian%20Circles-Nine.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://www.dwell.com/article/museum-tower-house-a-teatro-and-balcony-studio-tower-home-4bd41df0",
-      "title": "This Monolithic Home in Los Angeles References the City’s First Museum",
-      "link": "https://www.dwell.com/article/museum-tower-house-a-teatro-and-balcony-studio-tower-home-4bd41df0",
-      "summary": "Architect David Gonzalez Rojas designed it after the nearby Southwest Museum’s signature tower, which he visited as a kid.",
-      "publishedAt": "2026-09-07T17:04:10.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7483358646235897856/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=87867",
-      "title": "How to Reconcile Your Most Painful Mistakes: The Life-Shaping Difference Between Regret and Remorse",
-      "link": "https://www.themarginalian.org/2026/09/05/regret-remorse/",
-      "summary": "You know it, that awful moment your coherent self-image shatters and a part of you, shadowy and untended, splits off to cause harm and havoc as the rest of you watches helplessly, wincing. You know the next moment, too — the desperate wish …",
-      "publishedAt": "2026-09-05T21:28:32.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/bookofhumanemotions_smith.jpg?fit=320%2C488&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "urn:id:9067",
-      "title": "The neverending house",
-      "link": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
-      "summary": "The self-built homes of Santiago are precarious and ever changing. They are, always and at once, being and becoming - by Consuelo Araos Read on Aeon",
-      "publishedAt": "2026-08-14T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/aa9106e2-93ab-404f-b220-bcdb87e02b4d/victorias-house-final-.jpg?width=1200&amp;quality=75&amp;format=auto",
-      "sourceId": "aeon",
-      "sourceName": "Aeon",
-      "category": "ideas"
-    },
-    {
-      "id": "https://philosophynow.org/issues/175/Letters",
-      "title": "Letters",
-      "link": "https://philosophynow.org/issues/175/Letters",
-      "summary": "Living & Dead Letters • Is Antinatalism Misogynistic? • Is This The End? • Listening To The Enemy • Will to Power Over The Will to Power • Islamic Issues • Critical Habermas • Sincere Hypocrisy • Tallis’s Ghost Stories",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "philosophy-now",
-      "sourceName": "Philosophy Now",
-      "category": "ideas"
-    },
-    {
-      "id": "https://minimalissimo.com/articles/mono-a-cutlery",
-      "title": "Mono A Cutlery",
-      "link": "https://minimalissimo.com/articles/mono-a-cutlery",
-      "summary": "Originally designed in 1958 by Peter Raacke, Mono A remains one of the most reduced expressions of post-war everyday German design. The 4-piece set brings together the essential elements of the table in a single, continuous material languag…",
-      "publishedAt": "2026-07-14T15:47:30.000Z",
-      "imageUrl": "https://minimalissimo.com/api/media/file/website-60.jpg",
-      "sourceId": "minimalissimo",
-      "sourceName": "Minimalissimo",
       "category": "design"
     }
   ]
