@@ -41,12 +41,12 @@ jobs:
       - name: Commit updated feed.json
         run: |
           cd "$GITHUB_WORKSPACE"
-          if git diff --quiet -- publications-feed/docs/feed.json; then
+          if git diff --quiet -- docs/feed.json; then
             echo "No changes to feed.json"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add publications-feed/docs/feed.json
+          git add docs/feed.json
           git commit -m "Refresh publications feed"
           git push

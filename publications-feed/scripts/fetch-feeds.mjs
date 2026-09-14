@@ -6,7 +6,7 @@ import Parser from "rss-parser";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SOURCES_PATH = path.join(__dirname, "sources.json");
-const OUTPUT_PATH = path.join(__dirname, "..", "docs", "feed.json");
+const OUTPUT_PATH = path.join(__dirname, "..", "..", "docs", "feed.json");
 
 const MAX_ITEMS_PER_SOURCE = 20;
 const MAX_TOTAL_ITEMS = 400;
