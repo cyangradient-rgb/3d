@@ -76,6 +76,21 @@ button {
   border: 0;
 }
 
+.app-header,
+.article-list,
+.empty-state {
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+body.is-loaded .app-header,
+body.is-loaded .article-list,
+body.is-loaded .empty-state {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 .app-header {
   display: flex;
   align-items: center;

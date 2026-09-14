@@ -18,6 +18,17 @@ const fontOptionButtons = document.querySelectorAll(".font-option");
 
 let currentFeed = null;
 let isRefreshing = false;
+let hasPlayedEntrance = false;
+
+// Fade + rise the whole UI in once on first paint (cache hydration or the
+// initial fetch, whichever renders first) — never again on later refreshes.
+function playEntranceOnce() {
+  if (hasPlayedEntrance) return;
+  hasPlayedEntrance = true;
+  requestAnimationFrame(() => {
+    document.body.classList.add("is-loaded");
+  });
+}
 
 // null means "all" (no filter). A non-null Set means "show only these" —
 // tapping a source chip switches from all -> just that source, and tapping
@@ -215,6 +226,7 @@ function render() {
 
   renderSourceChips();
   renderStatus();
+  playEntranceOnce();
 }
 
 function selectAllSources() {
