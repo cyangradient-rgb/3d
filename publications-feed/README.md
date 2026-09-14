@@ -1,4 +1,4 @@
-# Publications Feed (web app)
+# Chip (publications feed web app)
 
 A small, no-backend web app that merges your favorite publications' RSS/Atom
 feeds into one auto-refreshing, mobile-friendly reading list — installable

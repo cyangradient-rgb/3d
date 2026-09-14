@@ -66,52 +66,42 @@ function relativeTime(isoString) {
 }
 
 function buildArticleCard(article) {
-  const card = document.createElement(isSafeHttpUrl(article.link) ? "a" : "div");
-  card.className = "article-card";
+  const entry = document.createElement(isSafeHttpUrl(article.link) ? "a" : "div");
+  entry.className = "entry";
   if (isSafeHttpUrl(article.link)) {
-    card.href = article.link;
-    card.target = "_blank";
-    card.rel = "noopener noreferrer";
+    entry.href = article.link;
+    entry.target = "_blank";
+    entry.rel = "noopener noreferrer";
   }
-
-  const body = document.createElement("div");
-  body.className = "article-body";
-
-  const source = document.createElement("div");
-  source.className = "article-source";
-  source.textContent = article.sourceName ?? "";
-  body.appendChild(source);
-
-  const title = document.createElement("div");
-  title.className = "article-title";
-  title.textContent = article.title ?? "";
-  body.appendChild(title);
-
-  if (article.summary) {
-    const summary = document.createElement("div");
-    summary.className = "article-summary";
-    summary.textContent = article.summary;
-    body.appendChild(summary);
-  }
-
-  const time = document.createElement("div");
-  time.className = "article-time";
-  time.textContent = relativeTime(article.publishedAt);
-  body.appendChild(time);
-
-  card.appendChild(body);
 
   if (isSafeHttpUrl(article.imageUrl)) {
     const img = document.createElement("img");
-    img.className = "article-thumb";
+    img.className = "entry-image";
     img.loading = "lazy";
     img.alt = "";
     img.src = article.imageUrl;
     img.onerror = () => img.remove();
-    card.appendChild(img);
+    entry.appendChild(img);
   }
 
-  return card;
+  const body = document.createElement("div");
+  body.className = "entry-body";
+
+  const title = document.createElement("div");
+  title.className = "entry-title";
+  title.textContent = article.title ?? "";
+  body.appendChild(title);
+
+  const meta = document.createElement("div");
+  meta.className = "entry-meta";
+  meta.textContent = [article.sourceName, relativeTime(article.publishedAt)]
+    .filter(Boolean)
+    .join(" · ");
+  body.appendChild(meta);
+
+  entry.appendChild(body);
+
+  return entry;
 }
 
 function render() {
@@ -143,19 +133,17 @@ function renderSourcesList() {
 
   for (const source of currentFeed.sources) {
     const li = document.createElement("li");
+    li.className = "source-row";
 
-    const nameWrap = document.createElement("span");
     const enabled = !disabledSourceIds.has(source.id);
-    nameWrap.textContent = source.name + (source.status === "error" ? " ⚠" : "");
-    nameWrap.className = enabled ? "" : "source-name-disabled";
-    li.appendChild(nameWrap);
 
-    const toggle = document.createElement("button");
-    toggle.className = "source-toggle";
-    toggle.type = "button";
-    toggle.setAttribute("aria-checked", String(enabled));
-    toggle.setAttribute("aria-label", `Toggle ${source.name}`);
-    toggle.addEventListener("click", () => {
+    const nameButton = document.createElement("button");
+    nameButton.type = "button";
+    nameButton.textContent = source.name;
+    nameButton.className = enabled ? "" : "source-name-disabled";
+    nameButton.setAttribute("aria-pressed", String(enabled));
+    nameButton.setAttribute("aria-label", `Toggle ${source.name}`);
+    nameButton.addEventListener("click", () => {
       if (disabledSourceIds.has(source.id)) {
         disabledSourceIds.delete(source.id);
       } else {
@@ -164,7 +152,12 @@ function renderSourcesList() {
       saveDisabledSourceIds(disabledSourceIds);
       render();
     });
-    li.appendChild(toggle);
+    li.appendChild(nameButton);
+
+    const status = document.createElement("span");
+    status.className = "source-status";
+    status.textContent = source.status === "error" ? "!" : enabled ? "on" : "off";
+    li.appendChild(status);
 
     sourcesListEl.appendChild(li);
   }
@@ -172,14 +165,14 @@ function renderSourcesList() {
 
 function renderStatus() {
   if (isRefreshing) {
-    statusTextEl.textContent = "Refreshing…";
+    statusTextEl.textContent = "refreshing";
     return;
   }
   if (!currentFeed?.generatedAt) {
     statusTextEl.textContent = "";
     return;
   }
-  statusTextEl.textContent = `Updated ${relativeTime(currentFeed.generatedAt)}`;
+  statusTextEl.textContent = `updated ${relativeTime(currentFeed.generatedAt)}`;
 }
 
 async function refresh() {
@@ -200,9 +193,9 @@ async function refresh() {
   } catch (error) {
     console.error("Failed to refresh feed", error);
     if (!currentFeed) {
-      statusTextEl.textContent = "Couldn't load the feed.";
+      statusTextEl.textContent = "couldn't load";
     } else {
-      statusTextEl.textContent = "Couldn't refresh — showing saved articles";
+      statusTextEl.textContent = "couldn't refresh";
     }
   } finally {
     isRefreshing = false;
