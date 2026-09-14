@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-14T02:09:44.409Z",
+  "generatedAt": "2026-09-14T02:20:08.337Z",
   "sources": [
     {
       "id": "read-something-great",
       "name": "Read Something Great",
       "siteUrl": "https://www.readsomethinggreat.com",
       "category": "general",
-      "status": "error",
-      "error": "HTTP 403"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "noema",
@@ -46,8 +46,8 @@
       "name": "New Norm",
       "siteUrl": "https://www.newnormmag.com",
       "category": "design",
-      "status": "error",
-      "error": "HTTP 404"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "interesting-engineering",
@@ -86,8 +86,8 @@
       "name": "This is Paper",
       "siteUrl": "https://www.thisispaper.com",
       "category": "design",
-      "status": "error",
-      "error": "HTTP 404"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "emergence-magazine",
@@ -222,16 +222,16 @@
       "name": "Daily Camera",
       "siteUrl": "https://www.dailycamera.com",
       "category": "local",
-      "status": "error",
-      "error": "HTTP 403"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "arena-magazine",
       "name": "Arena Magazine",
       "siteUrl": "https://arenamag.com",
       "category": "ideas",
-      "status": "error",
-      "error": "HTTP 404"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "surface",
@@ -860,6 +860,17 @@
       "category": "science"
     },
     {
+      "id": "CBMihAFBVV95cUxQd29LcTNpN2FFNlVmZWFlUDlwNWhVcDB1RlBrb3E4WlRUZTg0bnRjWHljLVVxQjVRWFpxUmZjb21IWV9mLXM3RVdYbFhTOVNuNWJ0NGQ0YjBSR01tcldMaGRQeVI0U0pBbkNHa015OF80WVVXb05Jb1cxQnY5bnZUa3pGcEc",
+      "title": "Boulder says it needs $170M to replace a failing Public Safety Building. Here’s why. - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd29LcTNpN2FFNlVmZWFlUDlwNWhVcDB1RlBrb3E4WlRUZTg0bnRjWHljLVVxQjVRWFpxUmZjb21IWV9mLXM3RVdYbFhTOVNuNWJ0NGQ0YjBSR01tcldMaGRQeVI0U0pBbkNHa015OF80WVVXb05Jb1cxQnY5bnZUa3pGcEc?oc=5",
+      "summary": "Boulder says it needs $170M to replace a failing Public Safety Building. Here’s why. Daily Camera",
+      "publishedAt": "2026-09-13T12:44:08.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49683262",
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
@@ -924,6 +935,17 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
+    },
+    {
+      "id": "CBMiW0FVX3lxTE1ub1REbVVoSVRxanl0enpKMkpibURwRzlRV0dKRElnVmtYOXVrVHMyb2hpVzFQN3ZrY1B2b1Q2VXR6Sy1FUGJ5eVIwaW1icVlwU2oyRFpnUlNmTFE",
+      "title": "Sitemap - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ub1REbVVoSVRxanl0enpKMkpibURwRzlRV0dKRElnVmtYOXVrVHMyb2hpVzFQN3ZrY1B2b1Q2VXR6Sy1FUGJ5eVIwaW1icVlwU2oyRFpnUlNmTFE?oc=5",
+      "summary": "Sitemap Daily Camera",
+      "publishedAt": "2026-09-13T10:10:05.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=85026",
@@ -1023,6 +1045,39 @@
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "CBMiiAFBVV95cUxOdlBZb3k3X0pra2IwcXdjUlZ0ejVsblAyY29YXzVLTXJZdnhleURqcjdUSnpJN251d3dhcmJuOVhyVW5zaWM0VnprRWRHeHFaQXNxUmJ5b3Y4LVBMdS04UkpqREpjSERaMVMyYlZDdkZ1RURZaDNlbUQ0LWh1Q3pHX3BURXlkMUN4",
+      "title": "Micah Welch gives CU Buffs their first 100-yard rusher since 2022 - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlBZb3k3X0pra2IwcXdjUlZ0ejVsblAyY29YXzVLTXJZdnhleURqcjdUSnpJN251d3dhcmJuOVhyVW5zaWM0VnprRWRHeHFaQXNxUmJ5b3Y4LVBMdS04UkpqREpjSERaMVMyYlZDdkZ1RURZaDNlbUQ0LWh1Q3pHX3BURXlkMUN4?oc=5",
+      "summary": "Micah Welch gives CU Buffs their first 100-yard rusher since 2022 Daily Camera",
+      "publishedAt": "2026-09-13T04:39:35.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMimAFBVV95cUxQRTRJQnVTSVRPX0d2Z0dJMGhMM3k4dHBfNUNpWG56WnBpMGNoZWI5Z1VMOWZVejFaVks1ZWpMRF9pMXVSRmo0MXE3MFhJcFMxRF9CUmpaX1VuUk1qTWxETVhNYWk1cThrX0VhSFJKV0tlaUptUDZPbWRKaDJoWVdkcHBvaF8xUC1kZEJJWlp5anMxQmhlMXhGYg",
+      "title": "Julian Lewis throws for 366 yards in CU Buffs’ 52-21 rout of Weber State - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRTRJQnVTSVRPX0d2Z0dJMGhMM3k4dHBfNUNpWG56WnBpMGNoZWI5Z1VMOWZVejFaVks1ZWpMRF9pMXVSRmo0MXE3MFhJcFMxRF9CUmpaX1VuUk1qTWxETVhNYWk1cThrX0VhSFJKV0tlaUptUDZPbWRKaDJoWVdkcHBvaF8xUC1kZEJJWlp5anMxQmhlMXhGYg?oc=5",
+      "summary": "Julian Lewis throws for 366 yards in CU Buffs’ 52-21 rout of Weber State Daily Camera",
+      "publishedAt": "2026-09-13T02:38:02.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMijwFBVV95cUxQTlJWWFl2aGpscE5DUG9JalhUTlNVcGpJa3AzTTFUS3E0a3kydXdZdWR2WU5UZjBNbzBuTkRnRGpxeDc3eGdjLTdKZ3NGWXZxU3JlbGUtS0pHMGlfWVlyM29xQWRFZktxUnlIZlpVM2pRZUlqOVhiSHdzSTQyRlM2Z3dTUE9PV0NBWjU5SkVVOA",
+      "title": "CU Buffs football: Weber State in review - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlJWWFl2aGpscE5DUG9JalhUTlNVcGpJa3AzTTFUS3E0a3kydXdZdWR2WU5UZjBNbzBuTkRnRGpxeDc3eGdjLTdKZ3NGWXZxU3JlbGUtS0pHMGlfWVlyM29xQWRFZktxUnlIZlpVM2pRZUlqOVhiSHdzSTQyRlM2Z3dTUE9PV0NBWjU5SkVVOA?oc=5",
+      "summary": "CU Buffs football: Weber State in review Daily Camera",
+      "publishedAt": "2026-09-13T01:51:28.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://techcrunch.com/?p=3163427",
@@ -1311,6 +1366,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMihgFBVV95cUxQRG9RRlNFOVZDLVZhbnRIWU1tQ2I5RXFhNlkwTjJmaTRnQ3BZUGI3N3pxWGdNemwxMDN2QklVTDVleUdxZTVEbExYZDVtZWZLVzR5UXZwMzlrWktmdGxNOUlWbE91WE1ydXhTXzlqTTljVS1tZlJCTlhXb1FlYS1IbzIwMUp3UQ",
+      "title": "CU Buffs soccer routs Denver, unveils Wall of Honor at Prentup Field - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRG9RRlNFOVZDLVZhbnRIWU1tQ2I5RXFhNlkwTjJmaTRnQ3BZUGI3N3pxWGdNemwxMDN2QklVTDVleUdxZTVEbExYZDVtZWZLVzR5UXZwMzlrWktmdGxNOUlWbE91WE1ydXhTXzlqTTljVS1tZlJCTlhXb1FlYS1IbzIwMUp3UQ?oc=5",
+      "summary": "CU Buffs soccer routs Denver, unveils Wall of Honor at Prentup Field Daily Camera",
+      "publishedAt": "2026-09-11T23:09:21.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://techcrunch.com/?p=3163323",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -1320,6 +1386,17 @@
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "CBMikgFBVV95cUxQd254NUhvSEh2OVA2cjJsUjZqNjREcXU5eEUzWFk0STIzd2ZhYkxoeDlmVjVPOUlZY1lwVFFadWRaWDFkcFdvTkJMbk1YNHp0aDZ4aG5sQ2FMRGg3NXlIaVdnWk81MFZWR1FXeVBzcnZVMVp1OHZuTnViSlVOcGt0dmtEekVqWndZSGNqTXpmYlRxdw",
+      "title": "CU Buffs football scouting report vs. Weber State - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd254NUhvSEh2OVA2cjJsUjZqNjREcXU5eEUzWFk0STIzd2ZhYkxoeDlmVjVPOUlZY1lwVFFadWRaWDFkcFdvTkJMbk1YNHp0aDZ4aG5sQ2FMRGg3NXlIaVdnWk81MFZWR1FXeVBzcnZVMVp1OHZuTnViSlVOcGt0dmtEekVqWndZSGNqTXpmYlRxdw?oc=5",
+      "summary": "CU Buffs football scouting report vs. Weber State Daily Camera",
+      "publishedAt": "2026-09-11T22:37:35.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "http://www.brainpickings.org/?p=38804",
@@ -1342,6 +1419,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "CBMiigFBVV95cUxPRl84THY1X0gyc3dFUm93VDk3SGdqQlViRHo5ZklETy1zaXphc0pRQVBnX251Y292b1YtcWFMS2Z5M2dGdGg1anVBdFI5WjJEWllFeWNacDByQzZRNlRQZlIweFlNRmNtM1U3LWNxQTFrVnFhNVJXNmp6elFlblBpcnN6S0xuTXBXQ3c",
+      "title": "Home opener offers mental test for CU Buffs against Weber State - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRl84THY1X0gyc3dFUm93VDk3SGdqQlViRHo5ZklETy1zaXphc0pRQVBnX251Y292b1YtcWFMS2Z5M2dGdGg1anVBdFI5WjJEWllFeWNacDByQzZRNlRQZlIweFlNRmNtM1U3LWNxQTFrVnFhNVJXNmp6elFlblBpcnN6S0xuTXBXQ3c?oc=5",
+      "summary": "Home opener offers mental test for CU Buffs against Weber State Daily Camera",
+      "publishedAt": "2026-09-11T22:03:24.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://nautil.us/?p=1285002",
@@ -1982,6 +2070,28 @@
       "category": "design"
     },
     {
+      "id": "CBMijwFBVV95cUxPTEtJMF9hbFlHbHJiTWZDS0xyZnpxNEdqOGFTMFR6MVV3YUZobEZWQ2EtcjZEMUxEbElnLTNsSjZ6aFdNZm5GY2U1TU9LN2VYWm1PT2QyOVBscEY0R0NWMjNHd2dZYy15NlpobnEwR2dUYU81bXEtVmcxb3MxZlpTcWVWSzBPNTFJMDM4MVBhRQ",
+      "title": "Boulder Valley parents show up in droves to oppose school closures - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTEtJMF9hbFlHbHJiTWZDS0xyZnpxNEdqOGFTMFR6MVV3YUZobEZWQ2EtcjZEMUxEbElnLTNsSjZ6aFdNZm5GY2U1TU9LN2VYWm1PT2QyOVBscEY0R0NWMjNHd2dZYy15NlpobnEwR2dUYU81bXEtVmcxb3MxZlpTcWVWSzBPNTFJMDM4MVBhRQ?oc=5",
+      "summary": "Boulder Valley parents show up in droves to oppose school closures Daily Camera",
+      "publishedAt": "2026-09-09T20:56:08.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMiiwFBVV95cUxOWjdNbkpIT2UxbEctMGNnRlZFU19Zd1dKaVRSOFRxcml3S0RqZWdLbVJ0dTdMTF9jdEFFUk1vam5pM205N0oyVzlHdDVCY0hJdV9yMlNsZ0FjM19sa281X29kMzVXd0U5R3JOVWJtNEhoRUJoZG1rLTNhc2VuREZfdVN4WlNhWXBIdzNN",
+      "title": "Chauncey Gooden staking claim as CU Buffs’ next two-way star - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjdNbkpIT2UxbEctMGNnRlZFU19Zd1dKaVRSOFRxcml3S0RqZWdLbVJ0dTdMTF9jdEFFUk1vam5pM205N0oyVzlHdDVCY0hJdV9yMlNsZ0FjM19sa281X29kMzVXd0U5R3JOVWJtNEhoRUJoZG1rLTNhc2VuREZfdVN4WlNhWXBIdzNN?oc=5",
+      "summary": "Chauncey Gooden staking claim as CU Buffs’ next two-way star Daily Camera",
+      "publishedAt": "2026-09-09T20:46:07.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.themarginalian.org/?p=87890",
       "title": "How to Change Your Life",
       "link": "https://www.themarginalian.org/2026/09/09/how-to-change-your-life/",
@@ -2202,6 +2312,50 @@
       "category": "design"
     },
     {
+      "id": "CBMimwFBVV95cUxQMGtmMElEc1pmWDc0VGx2b3hHOVJTdVdVSlV4d3lGRkhtbEZ4enhaUUc5LWd6TmVjc2RVRDFHbTg4QWJFVUJLRFhHd1hsaTJnaW02QnlFbFVmLWFkcmk2SVlOM1I3WG42WkI4eVpqNkU2R1hwQUJnX0FPLVdscFVEWnhVQlJSNXluUElvVGpKaDlfaVI4VjhWMF9ocw",
+      "title": "Denver Nuggets, KJ Simpson to play exhibition game at CU Events Center - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGtmMElEc1pmWDc0VGx2b3hHOVJTdVdVSlV4d3lGRkhtbEZ4enhaUUc5LWd6TmVjc2RVRDFHbTg4QWJFVUJLRFhHd1hsaTJnaW02QnlFbFVmLWFkcmk2SVlOM1I3WG42WkI4eVpqNkU2R1hwQUJnX0FPLVdscFVEWnhVQlJSNXluUElvVGpKaDlfaVI4VjhWMF9ocw?oc=5",
+      "summary": "Denver Nuggets, KJ Simpson to play exhibition game at CU Events Center Daily Camera",
+      "publishedAt": "2026-09-08T21:52:06.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMiggFBVV95cUxNYTY0UEt6UXFlNGRGUHFrbng0WlU0RGJqcVg3WnFWSzlCdHkwYm1IcW1tdWJKTmN0SnA3QV9yaVg1bmhhR2FHblViWE9xS0xTZkV2aERib1hoSV94OWRRVmtoZmk3YS1hSXdaVndpXzM2UzZ6SFlPVGZjamNEU2hHQnZR",
+      "title": "CU Buffs turning focus to Weber State - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYTY0UEt6UXFlNGRGUHFrbng0WlU0RGJqcVg3WnFWSzlCdHkwYm1IcW1tdWJKTmN0SnA3QV9yaVg1bmhhR2FHblViWE9xS0xTZkV2aERib1hoSV94OWRRVmtoZmk3YS1hSXdaVndpXzM2UzZ6SFlPVGZjamNEU2hHQnZR?oc=5",
+      "summary": "CU Buffs turning focus to Weber State Daily Camera",
+      "publishedAt": "2026-09-08T20:29:10.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMiY0FVX3lxTFBTZXd4T2tOaU1GWENfcmNrRW5ZQ1NZOS0xZjMyNk9BTUR6SnI3TWM2WGxLSzdsOHppZkoyLU9NNHNCSlVEeEN6cDNsMTBFWXd2RUx5alpydmFwSGJjX0VfRUVfSQ",
+      "title": "Meta launches personal AI agent, Muse, emphasizes safety and privacy - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTZXd4T2tOaU1GWENfcmNrRW5ZQ1NZOS0xZjMyNk9BTUR6SnI3TWM2WGxLSzdsOHppZkoyLU9NNHNCSlVEeEN6cDNsMTBFWXd2RUx5alpydmFwSGJjX0VfRUVfSQ?oc=5",
+      "summary": "Meta launches personal AI agent, Muse, emphasizes safety and privacy Daily Camera",
+      "publishedAt": "2026-09-08T19:43:06.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMibEFVX3lxTE4yME5xcVFYXzBfeVBaVzdLNkxvZ21yWFhpSDVkX0NsOVYtNDVYZHJ4aGZudUJsWFBzX2IybmtLMEFja3RCUnJFRU10NEE5ckR0dkxlY0toZWFSQnBJTW9Kb1FDQjkySmlSVTdrVA",
+      "title": "Hungry black bears are running into trouble in the Rocky Mountains - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yME5xcVFYXzBfeVBaVzdLNkxvZ21yWFhpSDVkX0NsOVYtNDVYZHJ4aGZudUJsWFBzX2IybmtLMEFja3RCUnJFRU10NEE5ckR0dkxlY0toZWFSQnBJTW9Kb1FDQjkySmlSVTdrVA?oc=5",
+      "summary": "Hungry black bears are running into trouble in the Rocky Mountains Daily Camera",
+      "publishedAt": "2026-09-08T19:37:36.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://boulderreportinglab.org/?p=125237",
       "title": "Boulder Market Meals: Smoky chipotle meatballs with locally raised beef",
       "link": "https://boulderreportinglab.org/2026/09/08/boulder-market-meals-smoky-chipotle-meatballs-with-locally-raised-beef/",
@@ -2210,6 +2364,17 @@
       "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/MMSept8resized.jpg?fit=1024%2C685&amp;ssl=1",
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
+      "id": "CBMifkFVX3lxTFAxdy04QmFrbW9yZkxmeC13bXdHOUdWWnFkd0VLakdMYTJIcjBiR0ptcE54SjlBNUlqYWZrVjgxZlREMXFER0IwSzlPNzZhOW1tOHBad0hZYzhwcHp4MTNZNTZONVBsUmIzS2xHU2xMU0dsT080VEZhOWZTYV9ldw",
+      "title": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxdy04QmFrbW9yZkxmeC13bXdHOUdWWnFkd0VLakdMYTJIcjBiR0ptcE54SjlBNUlqYWZrVjgxZlREMXFER0IwSzlPNzZhOW1tOHBad0hZYzhwcHp4MTNZNTZONVBsUmIzS2xHU2xMU0dsT080VEZhOWZTYV9ldw?oc=5",
+      "summary": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war Daily Camera",
+      "publishedAt": "2026-09-08T16:23:50.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
       "category": "local"
     },
     {
@@ -2266,6 +2431,28 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiW0FVX3lxTE1MRHBtd0dtb1Z6ZEptRmMtNkN3VzFLUHJRZnZDMEJFSnJBa0RCMVJTMG91TTg3ZGlESUQyRHk5dWtqOGw3TDQ4aEZPek1FV3pHR0JaTzBPM1lFdEU",
+      "title": "Designing America - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MRHBtd0dtb1Z6ZEptRmMtNkN3VzFLUHJRZnZDMEJFSnJBa0RCMVJTMG91TTg3ZGlESUQyRHk5dWtqOGw3TDQ4aEZPek1FV3pHR0JaTzBPM1lFdEU?oc=5",
+      "summary": "Designing America arenamag.com",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMimAFBVV95cUxQUFlBR250ZmQycXBtUWkybTUweUFFNV9OZmJ2akZXTzdOdmNoZUliNHliSG51UFJ6Y1pVSUI3Q1JPTTh2Qkh4N25URXJvVzNzLTJUSWdPcmU3anByUkNwY0dXNmN5SVE3ZWJtMXZoaXM2eVVSOUgzV3lDNUJaNVkwMzloOUxBaWNSZGFGNmJWVjEwOTk0aDBvaA",
+      "title": "From food truck district to DJ and big screens, Folsom Field gets a fan-friendly makeover for CU Buffs’ home opener - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFlBR250ZmQycXBtUWkybTUweUFFNV9OZmJ2akZXTzdOdmNoZUliNHliSG51UFJ6Y1pVSUI3Q1JPTTh2Qkh4N25URXJvVzNzLTJUSWdPcmU3anByUkNwY0dXNmN5SVE3ZWJtMXZoaXM2eVVSOUgzV3lDNUJaNVkwMzloOUxBaWNSZGFGNmJWVjEwOTk0aDBvaA?oc=5",
+      "summary": "From food truck district to DJ and big screens, Folsom Field gets a fan-friendly makeover for CU Buffs’ home opener Daily Camera",
+      "publishedAt": "2026-09-07T20:18:30.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.themarginalian.org/?p=83327",
@@ -2376,6 +2563,17 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiigFBVV95cUxQcjlHTDVNRlNkeWhPM052TjUzUmd3R2FvLS1Dby11Y2JrODc0UVdtQXlIemdhSTVvQmhkM3oxZ2ZpaGRuaS1KRG5Kbm5aMmZGSUxPQ1E3dThqLV80V2dTZnlVSTVzalVaWGIxWlY4NldCOW1jeFpFekM2UExTcDV3TXBvSVFJX2hLTmc",
+      "title": "Amy Redford, fellow filmmaking icons to dish behind-the-scenes Sundance stories at Denver event - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjlHTDVNRlNkeWhPM052TjUzUmd3R2FvLS1Dby11Y2JrODc0UVdtQXlIemdhSTVvQmhkM3oxZ2ZpaGRuaS1KRG5Kbm5aMmZGSUxPQ1E3dThqLV80V2dTZnlVSTVzalVaWGIxWlY4NldCOW1jeFpFekM2UExTcDV3TXBvSVFJX2hLTmc?oc=5",
+      "summary": "Amy Redford, fellow filmmaking icons to dish behind-the-scenes Sundance stories at Denver event Daily Camera",
+      "publishedAt": "2026-09-06T14:02:40.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=84950",
@@ -2499,6 +2697,17 @@
       "category": "local"
     },
     {
+      "id": "CBMiZEFVX3lxTE1QSHVHenJoZDJqYUtlZGlGRXhaRUVQSHFCeU01SW1iT2RLTldHdlJtLXBNVm54d1RSS2YyU3NYcUktRzBUREh3WXVBVUljM3RiN1RxMjFQaXBrU0EzbFpQZ18xaVY",
+      "title": "Casa Guadalupe by HANGHAR - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSHVHenJoZDJqYUtlZGlGRXhaRUVQSHFCeU01SW1iT2RLTldHdlJtLXBNVm54d1RSS2YyU3NYcUktRzBUREh3WXVBVUljM3RiN1RxMjFQaXBrU0EzbFpQZ18xaVY?oc=5",
+      "summary": "Casa Guadalupe by HANGHAR thisispaper.com",
+      "publishedAt": "2026-09-03T18:28:58.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
       "title": "Your Perception Of Time Is, In Fact, Warped",
       "link": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
@@ -2541,6 +2750,28 @@
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
+    },
+    {
+      "id": "CBMilwFBVV95cUxOS0wyVmczbGVwWkNYUkQxSjFHaU9UT0cxc2gtcDh3U2I1dWVSUzY5T1lmZ1hGWDViTEZ4MGdTdE9Jc2htMG9kWE5QS0xVUGVlZUJRQW9TejdnWnF3V1ZhZTBtckRiY0xIQy01LWtmNnRsRFZJcGFhTHdsWUdtWVdhWHZOM2R5TVRncjBlczctWnpoSEFLRFZn",
+      "title": "Nichigetsu by Studio Inhalt - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0wyVmczbGVwWkNYUkQxSjFHaU9UT0cxc2gtcDh3U2I1dWVSUzY5T1lmZ1hGWDViTEZ4MGdTdE9Jc2htMG9kWE5QS0xVUGVlZUJRQW9TejdnWnF3V1ZhZTBtckRiY0xIQy01LWtmNnRsRFZJcGFhTHdsWUdtWVdhWHZOM2R5TVRncjBlczctWnpoSEFLRFZn?oc=5",
+      "summary": "Nichigetsu by Studio Inhalt thisispaper.com",
+      "publishedAt": "2026-09-02T16:30:12.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiVkFVX3lxTE1Pb0Q1UVVSaG14b09pNXF4QzE4U3dIWlRIQUJ4OFJ3MmQ0Vk5oaUdQcEZNTUpyQVZnUWN2eEM0MzdVNEZJMjdTTUNzVjFTVzlfa0JMM1Jn",
+      "title": "Ruby by NOVSEP - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pb0Q1UVVSaG14b09pNXF4QzE4U3dIWlRIQUJ4OFJ3MmQ0Vk5oaUdQcEZNTUpyQVZnUWN2eEM0MzdVNEZJMjdTTUNzVjFTVzlfa0JMM1Jn?oc=5",
+      "summary": "Ruby by NOVSEP thisispaper.com",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "https://www.noemamag.com/optimized-offspring",
@@ -3115,6 +3346,28 @@
       "category": "design"
     },
     {
+      "id": "CBMiZ0FVX3lxTE9WbE9NeE1Qb0kxbEd4NWpVTGlZX2luN19TRHdHekEyX2k5eEUxZF96ZlFraElGcnNTOHhiTF9BY05sOFVtZHRFOGpaWXh3ZkRiVFlVRUJ4VjNyeXJOaTE3NUtHbGpYWGc",
+      "title": "Montana Jewel by Homeroom Studio - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbE9NeE1Qb0kxbEd4NWpVTGlZX2luN19TRHdHekEyX2k5eEUxZF96ZlFraElGcnNTOHhiTF9BY05sOFVtZHRFOGpaWXh3ZkRiVFlVRUJ4VjNyeXJOaTE3NUtHbGpYWGc?oc=5",
+      "summary": "Montana Jewel by Homeroom Studio New Norm Magazine",
+      "publishedAt": "2026-07-27T10:10:15.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMihAFBVV95cUxPQVV1c2VSLWllVm00RW1LSWNRNjlmRk9iMUgxenhMS2dVMnhUczBUcFBtX2E0b0FGTjd6c2R3LWJRb1ZtNjFjYm1peXZ4MzlrQWdZaDF0VEMwc21rbVVudFF4Q1ZEVkpiZTlPQzF1M2RWR2dHMUVRa3MwZWNQaVlTemRHX2o",
+      "title": "Naushad Ali Flagship Atelier by The Architecture Story - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVV1c2VSLWllVm00RW1LSWNRNjlmRk9iMUgxenhMS2dVMnhUczBUcFBtX2E0b0FGTjd6c2R3LWJRb1ZtNjFjYm1peXZ4MzlrQWdZaDF0VEMwc21rbVVudFF4Q1ZEVkpiZTlPQzF1M2RWR2dHMUVRa3MwZWNQaVlTemRHX2o?oc=5",
+      "summary": "Naushad Ali Flagship Atelier by The Architecture Story New Norm Magazine",
+      "publishedAt": "2026-07-27T09:57:42.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
       "id": "https://www.densediscovery.com/issues/399/",
       "title": "DD399 / Not a machine: on fragility and self-worth",
       "link": "https://www.densediscovery.com/issues/399/",
@@ -3124,6 +3377,17 @@
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
+    },
+    {
+      "id": "CBMicEFVX3lxTE1ZYS1ubjNnZ3dtckdaN1dYYVJmVlZqZWt0ZWUyU18ybk4yZ01lLXd6THFVNnpBQmVvUmVORHFFdjNlX0I2bTFVQ1BKZWNrbGxiOUptbThmTGdRN2FYZzY1ZlBxaDljUFBwZXAxZlAtenk",
+      "title": "The Death of The Middle - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZYS1ubjNnZ3dtckdaN1dYYVJmVlZqZWt0ZWUyU18ybk4yZ01lLXd6THFVNnpBQmVvUmVORHFFdjNlX0I2bTFVQ1BKZWNrbGxiOUptbThmTGdRN2FYZzY1ZlBxaDljUFBwZXAxZlAtenk?oc=5",
+      "summary": "The Death of The Middle Read Something Great",
+      "publishedAt": "2026-07-24T20:30:30.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
     },
     {
       "id": "https://minimalissimo.com/articles/mono-twin",
@@ -3203,6 +3467,17 @@
       "category": "design"
     },
     {
+      "id": "CBMiWkFVX3lxTFBCbTVGQVBaNDB3QmZxVUJnNlhhVWdpbXpWclRvNW0zTWdvc19BU05CaHNiR3owbzhxeDBjYWRMUEs3VUpUQXNFcGg5dzNXUW9yUThIUDRoUUdDQQ",
+      "title": "Second Life - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCbTVGQVBaNDB3QmZxVUJnNlhhVWdpbXpWclRvNW0zTWdvc19BU05CaHNiR3owbzhxeDBjYWRMUEs3VUpUQXNFcGg5dzNXUW9yUThIUDRoUUdDQQ?oc=5",
+      "summary": "Second Life thisispaper.com",
+      "publishedAt": "2026-07-08T09:47:17.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "https://www.densediscovery.com/issues/396/",
       "title": "DD396 / On being properly unwell",
       "link": "https://www.densediscovery.com/issues/396/",
@@ -3214,6 +3489,17 @@
       "category": "design"
     },
     {
+      "id": "CBMiY0FVX3lxTE5CTWFORmZqNE1Tb1l3bzUwZlNKdUR0bHFqbGxUZUtSMk9mdk9wV1IwMUowdVF1WmJFUElIREczS0dTWXJvak1ueFpyZmRGR3FiNnVyRnhBaWVzUXRwT3F4akpocw",
+      "title": "Build Your Own Frontier - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CTWFORmZqNE1Tb1l3bzUwZlNKdUR0bHFqbGxUZUtSMk9mdk9wV1IwMUowdVF1WmJFUElIREczS0dTWXJvak1ueFpyZmRGR3FiNnVyRnhBaWVzUXRwT3F4akpocw?oc=5",
+      "summary": "Build Your Own Frontier arenamag.com",
+      "publishedAt": "2026-07-02T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.densediscovery.com/issues/395/",
       "title": "DD395 / Everything bleeds into everything",
       "link": "https://www.densediscovery.com/issues/395/",
@@ -3223,6 +3509,50 @@
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
+    },
+    {
+      "id": "CBMiY0FVX3lxTFB3WkRMZzI4bzdFWXc5OG16ZUNzSHVHV3RqZ18wQmQwUW5yZnl1WXRoYU8xRVVENEl5SjNtQXEwcWVuai1TaXNRejZMZFdiTm5PSHhtVG5UdC1iVnYzbzFfdVZfWQ",
+      "title": "Read Something Great - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3WkRMZzI4bzdFWXc5OG16ZUNzSHVHV3RqZ18wQmQwUW5yZnl1WXRoYU8xRVVENEl5SjNtQXEwcWVuai1TaXNRejZMZFdiTm5PSHhtVG5UdC1iVnYzbzFfdVZfWQ?oc=5",
+      "summary": "Read Something Great Read Something Great",
+      "publishedAt": "2026-06-27T23:59:31.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMiQEFVX3lxTE9LSXJ5ZGpuRGhuR0NaajlaQUhsM3FNRHhmM2JfUGhncUdZdksxQ2tfLXdFOU02RGRUdlBnc1RHRjU",
+      "title": "Arena Magazine - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9LSXJ5ZGpuRGhuR0NaajlaQUhsM3FNRHhmM2JfUGhncUdZdksxQ2tfLXdFOU02RGRUdlBnc1RHRjU?oc=5",
+      "summary": "Arena Magazine arenamag.com",
+      "publishedAt": "2026-06-27T21:03:49.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiX0FVX3lxTE40eEdKalVfZ25uYVNwb1F1NWFpMWtrVnNEU3NMTDlGeFBDS0lJc3NXazZjQ2NJV0pwNzBNbUF3ZE9HUFdmQWRiSmdKdU1tYXExN3dNTUdMV1JtZjlBMlNn",
+      "title": "Shipyards, Graveyards - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40eEdKalVfZ25uYVNwb1F1NWFpMWtrVnNEU3NMTDlGeFBDS0lJc3NXazZjQ2NJV0pwNzBNbUF3ZE9HUFdmQWRiSmdKdU1tYXExN3dNTUdMV1JtZjlBMlNn?oc=5",
+      "summary": "Shipyards, Graveyards arenamag.com",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiWkFVX3lxTE5CQUp6VzRMd09pLWJIUE5aemZwTklDUWFSdFdLajBtb21pZ0lkVlNDWFpTOVhQeHdyVkxocWNHaEFOUE5kLTg0d1YtZ0tCUDdlYV8wZFYyZDEwUQ",
+      "title": "A Private Matter - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CQUp6VzRMd09pLWJIUE5aemZwTklDUWFSdFdLajBtb21pZ0lkVlNDWFpTOVhQeHdyVkxocWNHaEFOUE5kLTg0d1YtZ0tCUDdlYV8wZFYyZDEwUQ?oc=5",
+      "summary": "A Private Matter arenamag.com",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
     },
     {
       "id": "https://www.densediscovery.com/issues/394/",
@@ -3247,6 +3577,17 @@
       "category": "design"
     },
     {
+      "id": "CBMiWEFVX3lxTFBxcWNMWEh5SEZ0bUxyb0pYbm5hWGVTV1lid2ZyX3pkWVFLbnVuSHFwUzdKZWt4RG5TaGRFTUg2YllTeW5yY0lEcUwxLXdJRk54V21BZmNXamM",
+      "title": "The Fifth Shift - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxcWNMWEh5SEZ0bUxyb0pYbm5hWGVTV1lid2ZyX3pkWVFLbnVuSHFwUzdKZWt4RG5TaGRFTUg2YllTeW5yY0lEcUwxLXdJRk54V21BZmNXamM?oc=5",
+      "summary": "The Fifth Shift arenamag.com",
+      "publishedAt": "2026-06-10T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.densediscovery.com/issues/392/",
       "title": "DD392 / Rest with a receipt",
       "link": "https://www.densediscovery.com/issues/392/",
@@ -3256,6 +3597,17 @@
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
+    },
+    {
+      "id": "CBMiTkFVX3lxTFBsaFVEbS04SlFWclR6UENGdGF0ZnNfTDY1MXpxYVRIQ1hISDBfYkNSN21aSk9FZlVFVGw1Q1N5RDRMenNoZ0hSUzFhVF8yQQ",
+      "title": "Wandering America - Preorder - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsaFVEbS04SlFWclR6UENGdGF0ZnNfTDY1MXpxYVRIQ1hISDBfYkNSN21aSk9FZlVFVGw1Q1N5RDRMenNoZ0hSUzFhVF8yQQ?oc=5",
+      "summary": "Wandering America - Preorder arenamag.com",
+      "publishedAt": "2026-06-05T04:33:51.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
     },
     {
       "id": "https://www.densediscovery.com/issues/391/",
@@ -3324,6 +3676,358 @@
       "category": "design"
     },
     {
+      "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
+      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
+      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi thisispaper.com",
+      "publishedAt": "2026-04-17T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiaEFVX3lxTE5iY3V3Zjgxa1oxN3RTeEZVb2s5clNYcGdJNkxNa1NEelFZdkNkRERQbXZwT1NkS1ZfOGY3TTRSZ3c3VVk3ZndMYzRNUHYtbHliMW1VMXEyZDEwVDFoaWFnd01PNl9zcnBM",
+      "title": "Principals: Matthew Kinsella - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iY3V3Zjgxa1oxN3RTeEZVb2s5clNYcGdJNkxNa1NEelFZdkNkRERQbXZwT1NkS1ZfOGY3TTRSZ3c3VVk3ZndMYzRNUHYtbHliMW1VMXEyZDEwVDFoaWFnd01PNl9zcnBM?oc=5",
+      "summary": "Principals: Matthew Kinsella arenamag.com",
+      "publishedAt": "2026-04-03T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiZkFVX3lxTE1KMmtGc2d4bTI0eGZiN2RTdEZZTm4tZnl5eHQ0dHI2UVdjNVBTbDFVNWZ4Q0s5dU1UU3VjTUdpZFBtZHZvemN1WHFhT3hzZVROczlyYThaMlJCeFhoNUNCRGNBWXJTdw",
+      "title": "A Quest for Consciousness - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMmtGc2d4bTI0eGZiN2RTdEZZTm4tZnl5eHQ0dHI2UVdjNVBTbDFVNWZ4Q0s5dU1UU3VjTUdpZFBtZHZvemN1WHFhT3hzZVROczlyYThaMlJCeFhoNUNCRGNBWXJTdw?oc=5",
+      "summary": "A Quest for Consciousness arenamag.com",
+      "publishedAt": "2026-04-02T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMicEFVX3lxTE9Nb1l4ZVZiZVY5ekpyTEdtbU1WdFQ4QS0xeV9abFIwN0l6UzltNkdrZkp4dzk1Zi13bmRYM204WDg4NlVBREt3VmZXcmdnZGxiYThhRGpnakZXUWlQa2lEZ1FZczR4aXM1NXRxcHM3WF8",
+      "title": "The Man With The Golden Satellite - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Nb1l4ZVZiZVY5ekpyTEdtbU1WdFQ4QS0xeV9abFIwN0l6UzltNkdrZkp4dzk1Zi13bmRYM204WDg4NlVBREt3VmZXcmdnZGxiYThhRGpnakZXUWlQa2lEZ1FZczR4aXM1NXRxcHM3WF8?oc=5",
+      "summary": "The Man With The Golden Satellite arenamag.com",
+      "publishedAt": "2026-03-30T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
+      "title": "A Potter's Studio by Piercy&Company - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
+      "summary": "A Potter's Studio by Piercy&Company thisispaper.com",
+      "publishedAt": "2026-03-27T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiY0FVX3lxTE1DenNFaDJ2dllHZUFrVDZ4TVpuOHJUbG5kYjcxMUh6R0ZSZllFd05TQ1EwRlBBM2dQb2pwUThEcG1HdzlwMkRHSzkwNVZCVkdoMTdTM0xEcmxIeDJHWkNIQ0hFMA",
+      "title": "Crony Beliefs - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DenNFaDJ2dllHZUFrVDZ4TVpuOHJUbG5kYjcxMUh6R0ZSZllFd05TQ1EwRlBBM2dQb2pwUThEcG1HdzlwMkRHSzkwNVZCVkdoMTdTM0xEcmxIeDJHWkNIQ0hFMA?oc=5",
+      "summary": "Crony Beliefs Read Something Great",
+      "publishedAt": "2026-03-23T23:51:16.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMiYkFVX3lxTE1rWWdkRUpEbjY0dzV0NTUzUmt1eUxER1RWSUhoc1M3UHpGLVBfZjVEeXFvX3hkMW5ZZElHc3M5UmI1WGpwa3VqcFZqemdjYUZCcWY5Z1lqWFVrenk3aWZsNXVn",
+      "title": "W.E.I.R.D. by Nicolò Rinaldi - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rWWdkRUpEbjY0dzV0NTUzUmt1eUxER1RWSUhoc1M3UHpGLVBfZjVEeXFvX3hkMW5ZZElHc3M5UmI1WGpwa3VqcFZqemdjYUZCcWY5Z1lqWFVrenk3aWZsNXVn?oc=5",
+      "summary": "W.E.I.R.D. by Nicolò Rinaldi thisispaper.com",
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiWEFVX3lxTE1wLUVsMnJlWEYyNlNrdHZBTm1iSnFDbmo5MW5IWG9YZERFN2xTTFR3dnVWdVNIQ0IxWW81dmRzNXBjX3VKQXBxNURoeWgtZmFBdHM1NUR5TmY",
+      "title": "The Silicon Man - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wLUVsMnJlWEYyNlNrdHZBTm1iSnFDbmo5MW5IWG9YZERFN2xTTFR3dnVWdVNIQ0IxWW81dmRzNXBjX3VKQXBxNURoeWgtZmFBdHM1NUR5TmY?oc=5",
+      "summary": "The Silicon Man arenamag.com",
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiQkFVX3lxTE0yUUVfWVFxd1RxYXp3b0tKMzl0allmYTJoZnF2RUVWbUJsak1uampoWjU5OGdDbXZwaUJRekVSWE1wZw",
+      "title": "Silicon - Preorder the Book - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yUUVfWVFxd1RxYXp3b0tKMzl0allmYTJoZnF2RUVWbUJsak1uampoWjU5OGdDbXZwaUJRekVSWE1wZw?oc=5",
+      "summary": "Silicon - Preorder the Book arenamag.com",
+      "publishedAt": "2026-03-18T18:26:50.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiYEFVX3lxTE5RMHdURWJjVHJMbzlNOEhFRTdtdEFpcGgycmNVeml4cFlxamtFbGxuOVFwaTlnYWZpQ0dqYUNzS0RwbGRHLXlwM0ZKYXcyNUM4VWFEYktkRFJmYTZwMW1FNQ",
+      "title": "Stealing Like a State - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RMHdURWJjVHJMbzlNOEhFRTdtdEFpcGgycmNVeml4cFlxamtFbGxuOVFwaTlnYWZpQ0dqYUNzS0RwbGRHLXlwM0ZKYXcyNUM4VWFEYktkRFJmYTZwMW1FNQ?oc=5",
+      "summary": "Stealing Like a State arenamag.com",
+      "publishedAt": "2026-02-26T08:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiPEFVX3lxTE5uZmI5cURvRE15eFk2MlQzSEg3U3NDMWtIc1Fka1JhNDFxVU5aMU1HMEtwWkUwbWFvQWtDdQ",
+      "title": "Arena Magazine - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5uZmI5cURvRE15eFk2MlQzSEg3U3NDMWtIc1Fka1JhNDFxVU5aMU1HMEtwWkUwbWFvQWtDdQ?oc=5",
+      "summary": "Arena Magazine arenamag.com",
+      "publishedAt": "2026-02-21T09:38:17.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMilgFBVV95cUxNQ2VQSExMaFhTQ01UV3N1WFZSdWs5RGppa0RnZXlieFBWTHlPSmE5N1hZSVcyYk02dnRiV0Fic0xDVzVIM3QtNGhXcUhTWEJnTGJxcjBnamhZLVI0MWo1WE5BUi16Ul9rbGZyS3BPeklwMnpiZ0hFZV83bnNrR21pYVlhbFFGQXZFYmozWGYyRXhBcS1DeEE",
+      "title": "Engineers of the Soul: Ideology in Xi Jinping's China - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2VQSExMaFhTQ01UV3N1WFZSdWs5RGppa0RnZXlieFBWTHlPSmE5N1hZSVcyYk02dnRiV0Fic0xDVzVIM3QtNGhXcUhTWEJnTGJxcjBnamhZLVI0MWo1WE5BUi16Ul9rbGZyS3BPeklwMnpiZ0hFZV83bnNrR21pYVlhbFFGQXZFYmozWGYyRXhBcS1DeEE?oc=5",
+      "summary": "Engineers of the Soul: Ideology in Xi Jinping's China Read Something Great",
+      "publishedAt": "2026-02-07T17:37:08.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMiY0FVX3lxTE5Ud3o4cERPZElwdzM4dFlJSnpoRkJjVDdOdzlDZm5TSXZRQUhFcDR2MDF0ZW9LMGRQT3NDT0FWTVF0LVZpaGJFQ3lJUGI4MmZnOW9mdXJFUUs5dUNGbjZmbGtrVQ",
+      "title": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ud3o4cERPZElwdzM4dFlJSnpoRkJjVDdOdzlDZm5TSXZRQUhFcDR2MDF0ZW9LMGRQT3NDT0FWTVF0LVZpaGJFQ3lJUGI4MmZnOW9mdXJFUUs5dUNGbjZmbGtrVQ?oc=5",
+      "summary": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez thisispaper.com",
+      "publishedAt": "2026-01-21T08:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMib0FVX3lxTE1yLTNzS0Y1Rkw3QkprRmdpVFlzQm4zejhsbzZMQzVyX1VwQW9JOEVXa2JBRGJSZTl1cDA3VjNZc3JIYWJXUFNMM2VncFdhSGZWZktud21JSXBoSzBQOXJxelRXSHZ3X2s2VjczbWxpTQ",
+      "title": "banda agency office | ater.architects - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yLTNzS0Y1Rkw3QkprRmdpVFlzQm4zejhsbzZMQzVyX1VwQW9JOEVXa2JBRGJSZTl1cDA3VjNZc3JIYWJXUFNMM2VncFdhSGZWZktud21JSXBoSzBQOXJxelRXSHZ3X2s2VjczbWxpTQ?oc=5",
+      "summary": "banda agency office | ater.architects New Norm Magazine",
+      "publishedAt": "2026-01-06T10:54:11.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiaEFVX3lxTE1LTDh2WUxkRXpKZEZpR0xYWDVQVjBQSEJublRWSGNBa0xRZ3BTcHlYVmp0dV9FM2hfWFJrN3Z2OVlqQlFSZjMzel9YMXNPdkxKTHUzZ2Iwcjc3a2ZnRnp2a2lTME5hVUt5",
+      "title": "Black Gold and Grey Markets - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LTDh2WUxkRXpKZEZpR0xYWDVQVjBQSEJublRWSGNBa0xRZ3BTcHlYVmp0dV9FM2hfWFJrN3Z2OVlqQlFSZjMzel9YMXNPdkxKTHUzZ2Iwcjc3a2ZnRnp2a2lTME5hVUt5?oc=5",
+      "summary": "Black Gold and Grey Markets arenamag.com",
+      "publishedAt": "2025-12-11T08:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMidEFVX3lxTE9jM180YzZSSEdQelBBQXhHY21yQTRJZ3l2ZUVaY0UyZmRrZHI2UEU0U281MTNGeGNuZDVNNkRxQ25DSnpMeTdUY3RCWHk1V19OM19nTkJKMm9Za1ZsTVhSZWd6RGdSMG11WXp2VlJfcnp6ejVF",
+      "title": "A Home Between Journeys by Intheory Design - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jM180YzZSSEdQelBBQXhHY21yQTRJZ3l2ZUVaY0UyZmRrZHI2UEU0U281MTNGeGNuZDVNNkRxQ25DSnpMeTdUY3RCWHk1V19OM19nTkJKMm9Za1ZsTVhSZWd6RGdSMG11WXp2VlJfcnp6ejVF?oc=5",
+      "summary": "A Home Between Journeys by Intheory Design New Norm Magazine",
+      "publishedAt": "2025-12-02T06:31:45.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiYEFVX3lxTE1vbTU2ckdBV3RKX3VnY2JFcTA4WkJUWmE4bTlQcHlWeW5wSUtTbnVfbUlPOEhkbmxOZ1p3M2hnZW1VclhFN1hvS3hTTUlDREI5ZW5qdkV4ZmJ5UUkxWUF0UA",
+      "title": "The Diffusion Dilemma - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vbTU2ckdBV3RKX3VnY2JFcTA4WkJUWmE4bTlQcHlWeW5wSUtTbnVfbUlPOEhkbmxOZ1p3M2hnZW1VclhFN1hvS3hTTUlDREI5ZW5qdkV4ZmJ5UUkxWUF0UA?oc=5",
+      "summary": "The Diffusion Dilemma arenamag.com",
+      "publishedAt": "2025-09-01T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiP0FVX3lxTE1iT2NRMktGLUo4amw2eWZ1VTRuNjAyeXBxRl9iQjNkMjdPOHFSZkJGekJIRER5TWExRTMtb2JGdw",
+      "title": "Arena Store - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1iT2NRMktGLUo4amw2eWZ1VTRuNjAyeXBxRl9iQjNkMjdPOHFSZkJGekJIRER5TWExRTMtb2JGdw?oc=5",
+      "summary": "Arena Store arenamag.com",
+      "publishedAt": "2025-08-25T00:06:26.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMibkFVX3lxTE9jRVdjcFFWSjBOdnNESUw1NGlybWl2R0djaUtmdUc2eW8xUVRvYy01dDZQVlBYOEhOblJqbjVEMWREMXEyNWxWSHFGWDJWeG1OSWlvTHljR2lic0xCdHZoVjlydXdTR0s4SEhzS2dn",
+      "title": "Shang Residences at Wack Wack by Little Tipsy Mostly Creative (LTMC) - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jRVdjcFFWSjBOdnNESUw1NGlybWl2R0djaUtmdUc2eW8xUVRvYy01dDZQVlBYOEhOblJqbjVEMWREMXEyNWxWSHFGWDJWeG1OSWlvTHljR2lic0xCdHZoVjlydXdTR0s4SEhzS2dn?oc=5",
+      "summary": "Shang Residences at Wack Wack by Little Tipsy Mostly Creative (LTMC) New Norm Magazine",
+      "publishedAt": "2025-08-17T21:43:25.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiV0FVX3lxTFBEenB5WnVyVGlWU1l1S1M1WnJLenN0ZktQX1ZuZ0dmeWN1WVV2eFF6MEE3eENTdWdzbDQ1Vmo4YmlLWkoxTTZUM0lQeGJ1SUFnYXBRbERpYw",
+      "title": "BROM by AtelierCarle - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEenB5WnVyVGlWU1l1S1M1WnJLenN0ZktQX1ZuZ0dmeWN1WVV2eFF6MEE3eENTdWdzbDQ1Vmo4YmlLWkoxTTZUM0lQeGJ1SUFnYXBRbERpYw?oc=5",
+      "summary": "BROM by AtelierCarle New Norm Magazine",
+      "publishedAt": "2025-07-29T22:40:35.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiZEFVX3lxTFA4ZGtoX3A4XzdxaTIwT3B3bGFDLVZyN3BrTkZuME4zUFZpX0dUNVBvM1VKVHh2U25zM3laV0tGUko1dEVGcVU3N0dKQUY4TjZGTUFWOTlMN1ZPZEV4MXB3cmc0Zmg",
+      "title": "The Terrace by Intheory Design - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4ZGtoX3A4XzdxaTIwT3B3bGFDLVZyN3BrTkZuME4zUFZpX0dUNVBvM1VKVHh2U25zM3laV0tGUko1dEVGcVU3N0dKQUY4TjZGTUFWOTlMN1ZPZEV4MXB3cmc0Zmg?oc=5",
+      "summary": "The Terrace by Intheory Design New Norm Magazine",
+      "publishedAt": "2025-06-30T07:23:49.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg",
+      "title": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg?oc=5",
+      "summary": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP thisispaper.com",
+      "publishedAt": "2025-06-17T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiREFVX3lxTE5GSW1oalFPb3F0R3hGTWlicjBoSTZQazNfV2NmLW8tam5uSkpjdS1UMTRMMWdwZEd2RWI0NnVvM0V6YVps",
+      "title": "Arena Issue 009 - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GSW1oalFPb3F0R3hGTWlicjBoSTZQazNfV2NmLW8tam5uSkpjdS1UMTRMMWdwZEd2RWI0NnVvM0V6YVps?oc=5",
+      "summary": "Arena Issue 009 arenamag.com",
+      "publishedAt": "2025-06-03T02:20:30.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
+      "title": "FOX Home by Yara Lysiuk - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE?oc=5",
+      "summary": "FOX Home by Yara Lysiuk New Norm Magazine",
+      "publishedAt": "2025-05-27T02:21:54.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3",
+      "title": "Rootdown | BEAMS - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3?oc=5",
+      "summary": "Rootdown | BEAMS New Norm Magazine",
+      "publishedAt": "2025-05-27T02:03:31.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiZkFVX3lxTE54RVdXcXBGNzNsVXFfbks3WGhWTjNoc2t1S1puMzUzeTZ0NWhlN3UtcjROcGNKcTBrY21LWjR0YUZSZUVmRGw5Z3lWd2xjRVNHR3l3cFJFb3NDVl9tVmY5bkNOSXctQQ",
+      "title": "The Sea Monster that Flew - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54RVdXcXBGNzNsVXFfbks3WGhWTjNoc2t1S1puMzUzeTZ0NWhlN3UtcjROcGNKcTBrY21LWjR0YUZSZUVmRGw5Z3lWd2xjRVNHR3l3cFJFb3NDVl9tVmY5bkNOSXctQQ?oc=5",
+      "summary": "The Sea Monster that Flew arenamag.com",
+      "publishedAt": "2025-05-20T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg",
+      "title": "Pantheone Audio - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg?oc=5",
+      "summary": "Pantheone Audio New Norm Magazine",
+      "publishedAt": "2025-04-10T07:30:22.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ",
+      "title": "Art Biotop Water Garden by Junya Ishigami - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ?oc=5",
+      "summary": "Art Biotop Water Garden by Junya Ishigami thisispaper.com",
+      "publishedAt": "2025-03-10T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU",
+      "title": "PNY in Reims, France by Rudy Guénaire - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU?oc=5",
+      "summary": "PNY in Reims, France by Rudy Guénaire New Norm Magazine",
+      "publishedAt": "2025-02-07T15:07:15.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw",
+      "title": "Noodle In Transit by Office AIO - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw?oc=5",
+      "summary": "Noodle In Transit by Office AIO New Norm Magazine",
+      "publishedAt": "2024-12-30T13:42:20.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMickFVX3lxTFBHeDlxb3RJX0xQVTYyYVNhem5xa3JSUThKazBZbW80V3JlQXpLYXdLbVZGU2RnNUJmOVNhQmlveGVpWTNMbmh4d1JXWmRlX3hqSW9HeDJwTDVSZmo2MzFXQ3l3cHp5OFgtOFFBV2NWVzJDUQ",
+      "title": "Twin Peaks Timberwolves | High School Sports | BoCoPreps on DailyCamera.com - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHeDlxb3RJX0xQVTYyYVNhem5xa3JSUThKazBZbW80V3JlQXpLYXdLbVZGU2RnNUJmOVNhQmlveGVpWTNMbmh4d1JXWmRlX3hqSW9HeDJwTDVSZmo2MzFXQ3l3cHp5OFgtOFFBV2NWVzJDUQ?oc=5",
+      "summary": "Twin Peaks Timberwolves | High School Sports | BoCoPreps on DailyCamera.com Daily Camera",
+      "publishedAt": "2024-12-07T21:55:28.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMibkFVX3lxTE1VcnhiR1dUY2dseGJ4ZXV3QXpKU0hZU3dQakhzMXU4LU9NUE1WMjl0eGZ0ZHdSSEhUSjhfUHlMcDc1Q2FmeTZSZV9RLU9udFR5aEhaMktrYk9BemltYU1nM2lFTUdmamVtbjY5bTln",
+      "title": "A Project of One's Own - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VcnhiR1dUY2dseGJ4ZXV3QXpKU0hZU3dQakhzMXU4LU9NUE1WMjl0eGZ0ZHdSSEhUSjhfUHlMcDc1Q2FmeTZSZV9RLU9udFR5aEhaMktrYk9BemltYU1nM2lFTUdmamVtbjY5bTln?oc=5",
+      "summary": "A Project of One's Own Read Something Great",
+      "publishedAt": "2024-09-25T18:48:31.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
       "id": "https://assemblepapers.com.au/?p=34290",
       "title": "Serving an evolving community at Kensington Neighbourhood House",
       "link": "https://assemblepapers.com.au/2024/08/17/serving-an-evolving-community-at-kensington-neighbourhood-house/",
@@ -3333,6 +4037,17 @@
       "sourceId": "assemble-papers",
       "sourceName": "Assemble Papers",
       "category": "design"
+    },
+    {
+      "id": "CBMiOEFVX3lxTFB4MFMtbV8taVVRZVp1dUF1MmNyX2k3R2NZMkhrTHp3ODRUNmpPRERBc2JkRDFGZzhE",
+      "title": "Arena Magazine - arenamag.com",
+      "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFB4MFMtbV8taVVRZVp1dUF1MmNyX2k3R2NZMkhrTHp3ODRUNmpPRERBc2JkRDFGZzhE?oc=5",
+      "summary": "Arena Magazine arenamag.com",
+      "publishedAt": "2024-07-31T23:29:23.000Z",
+      "imageUrl": null,
+      "sourceId": "arena-magazine",
+      "sourceName": "Arena Magazine",
+      "category": "ideas"
     },
     {
       "id": "https://assemblepapers.com.au/?p=33543",
@@ -3354,6 +4069,17 @@
       "imageUrl": "https://assemblepapers.com.au/assemblepapers/wp-content/uploads/2024/05/s2-1200x900.jpg",
       "sourceId": "assemble-papers",
       "sourceName": "Assemble Papers",
+      "category": "design"
+    },
+    {
+      "id": "CBMiVkFVX3lxTFBiZW9id0tRVGVlWWdGTnJFcFNkMTU2VHIyLUlJTHpRMDZXWklkeFpORzA3R0U5UHVzU0QtRmgzM2hIalRweWtwTXRnXzM4dTRJYk1LdGR3",
+      "title": "HOUSE FC | fws_work - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZW9id0tRVGVlWWdGTnJFcFNkMTU2VHIyLUlJTHpRMDZXWklkeFpORzA3R0U5UHVzU0QtRmgzM2hIalRweWtwTXRnXzM4dTRJYk1LdGR3?oc=5",
+      "summary": "HOUSE FC | fws_work New Norm Magazine",
+      "publishedAt": "2024-07-17T13:04:41.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
       "category": "design"
     },
     {
@@ -3390,6 +4116,17 @@
       "category": "design"
     },
     {
+      "id": "CBMiZkFVX3lxTE9YbGxPS3JobzFER0NELUltdVRORjZCenJsMmpMN2hITzdmV0tDbDJ2eURnVmRlcHlwRllXVzhZUE0xeDhBUHh4cTNqMHNJQk5ZQmlwUVZQcWlJRUZWcWNvLUhmV1JYZw",
+      "title": "REINTERPRETING VINTAGE FLAIR - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YbGxPS3JobzFER0NELUltdVRORjZCenJsMmpMN2hITzdmV0tDbDJ2eURnVmRlcHlwRllXVzhZUE0xeDhBUHh4cTNqMHNJQk5ZQmlwUVZQcWlJRUZWcWNvLUhmV1JYZw?oc=5",
+      "summary": "REINTERPRETING VINTAGE FLAIR New Norm Magazine",
+      "publishedAt": "2024-06-14T12:35:30.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
       "id": "https://assemblepapers.com.au/?p=33313",
       "title": "In Dialogue: Densifying Cities",
       "link": "https://assemblepapers.com.au/2024/06/13/in-dialogue-densifying-cities/",
@@ -3410,6 +4147,17 @@
       "sourceId": "assemble-papers",
       "sourceName": "Assemble Papers",
       "category": "design"
+    },
+    {
+      "id": "CBMia0FVX3lxTFBmS0FIWnY2elJIUHlTUkZUUFRTdGxCYWphOGdabkRiUlhMZDFXTlR3MEZJSGt0U01MWDdDTkVFYllFMmY3TnRPOC14djhBX0dkbi14d0htQUlsejVUTUlKV282SF9ia0NVeG9Z",
+      "title": "CU Buff Sports Coverage Buffzone - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmS0FIWnY2elJIUHlTUkZUUFRTdGxCYWphOGdabkRiUlhMZDFXTlR3MEZJSGt0U01MWDdDTkVFYllFMmY3TnRPOC14djhBX0dkbi14d0htQUlsejVUTUlKV282SF9ia0NVeG9Z?oc=5",
+      "summary": "CU Buff Sports Coverage Buffzone Daily Camera",
+      "publishedAt": "2024-05-21T18:41:59.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://assemblepapers.com.au/?p=33146",
@@ -3434,6 +4182,94 @@
       "category": "design"
     },
     {
+      "id": "CBMif0FVX3lxTE1PMzhXRl9sZXF2Yzh4VkRsLW5tNjR3NFNJVDZZZGxJRHlIZENsU2xkXzRqM1lnUzFVZldTR0hwQ1QxcUtDWDVxS2d5ZnhKMV9abVFuU3ozSko2NEtBZW9TQWQySWtaVmxkVF94S0FOYmtodUJXZ1QyZTFEQmRWQlk",
+      "title": "Adventist Medical Centre | Napp Studio & Architects - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMzhXRl9sZXF2Yzh4VkRsLW5tNjR3NFNJVDZZZGxJRHlIZENsU2xkXzRqM1lnUzFVZldTR0hwQ1QxcUtDWDVxS2d5ZnhKMV9abVFuU3ozSko2NEtBZW9TQWQySWtaVmxkVF94S0FOYmtodUJXZ1QyZTFEQmRWQlk?oc=5",
+      "summary": "Adventist Medical Centre | Napp Studio & Architects New Norm Magazine",
+      "publishedAt": "2024-05-03T21:29:06.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMifEFVX3lxTE9YQlotdGxfeGpUQ0dmMGw0Wmp6ZGFjN3FFc3IxbHJ1eXZBZDJITXZQcm1ER3RSbjR4SmpfXzBZcW1KV0lqUnN6UHV4WmhpNjZqdmp4bHNCclF0SlRFd25BT1BVemY4VDNaREhscl95aHRTYU92NHZVc2UtSWQ",
+      "title": "Growth Loops are the New Funnels - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YQlotdGxfeGpUQ0dmMGw0Wmp6ZGFjN3FFc3IxbHJ1eXZBZDJITXZQcm1ER3RSbjR4SmpfXzBZcW1KV0lqUnN6UHV4WmhpNjZqdmp4bHNCclF0SlRFd25BT1BVemY4VDNaREhscl95aHRTYU92NHZVc2UtSWQ?oc=5",
+      "summary": "Growth Loops are the New Funnels Read Something Great",
+      "publishedAt": "2024-04-25T15:43:44.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMiY0FVX3lxTE5FOGhGUGZqZzVidThvUFduMFc4bDBIdERhRzdNS1UxTHNsTVFZSXdsM01KYVBYOTZoRUdtY01yNTQyR1JkV2NiVUJ6OVN1clMyU1FaSnBUdk1tRmI3elA4MHg5WQ",
+      "title": "Human Nature by Lucas Foglia - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FOGhGUGZqZzVidThvUFduMFc4bDBIdERhRzdNS1UxTHNsTVFZSXdsM01KYVBYOTZoRUdtY01yNTQyR1JkV2NiVUJ6OVN1clMyU1FaSnBUdk1tRmI3elA4MHg5WQ?oc=5",
+      "summary": "Human Nature by Lucas Foglia thisispaper.com",
+      "publishedAt": "2024-03-01T08:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMimAFBVV95cUxPS1FJNW5PQmw5Y3EzY043SVpRczFEYXhaWGh5aXBMU0wtbl83SjVHX25sTDBwUXpuQ2RZT09xY1JIcUtzUUtORXA0bmJFc0h0YmZoSTZIN0l4a0wtdGNMWkg2WGZTWnh2aXBiLU9iT1hLcktBSlBJbFdPYlNrNEh3azNpU08wXzJJOGZKVV9OYS1zQlcxMW9IaQ",
+      "title": "Entropy: Why Life Always Seems to Get More Complicated - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1FJNW5PQmw5Y3EzY043SVpRczFEYXhaWGh5aXBMU0wtbl83SjVHX25sTDBwUXpuQ2RZT09xY1JIcUtzUUtORXA0bmJFc0h0YmZoSTZIN0l4a0wtdGNMWkg2WGZTWnh2aXBiLU9iT1hLcktBSlBJbFdPYlNrNEh3azNpU08wXzJJOGZKVV9OYS1zQlcxMW9IaQ?oc=5",
+      "summary": "Entropy: Why Life Always Seems to Get More Complicated Read Something Great",
+      "publishedAt": "2024-01-31T15:32:40.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ",
+      "title": "The Three Sides of Risk - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ?oc=5",
+      "summary": "The Three Sides of Risk Read Something Great",
+      "publishedAt": "2023-12-02T06:44:31.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc",
+      "title": "Hugging the X-Axis - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc?oc=5",
+      "summary": "Hugging the X-Axis Read Something Great",
+      "publishedAt": "2023-11-07T15:38:45.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw",
+      "title": "The Bus Ticket Theory of Genius - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw?oc=5",
+      "summary": "The Bus Ticket Theory of Genius Read Something Great",
+      "publishedAt": "2023-10-25T09:42:32.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg",
+      "title": "Default Alive or Default Dead - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg?oc=5",
+      "summary": "Default Alive or Default Dead Read Something Great",
+      "publishedAt": "2023-10-24T16:29:40.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
       "id": "https://dailystoic.com/?p=14933",
       "title": "How To Deal With Regret ( 3 Stoic Strategies to Live Free)",
       "link": "https://dailystoic.com/how-to-deal-with-regret-3-stoic-strategies-to-live-free/",
@@ -3456,6 +4292,61 @@
       "category": "ideas"
     },
     {
+      "id": "CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B",
+      "title": "The Tail End - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B?oc=5",
+      "summary": "The Tail End Read Something Great",
+      "publishedAt": "2023-07-17T22:13:10.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMickFVX3lxTFA3enhDTEZMdnVqY2tvTXlsQ2lDanBCTXYwZU5aNWgyTW5vOHZmNWN0SHBsM2ZQcHJ5Y25Zb0RzOW9RcHNOeG1ZaDJ6Q1lBMElHMVNMaEZtSjQ1S2NFMHdOYXFRbndtT2xuRWp2VFROY1dKZw",
+      "title": "Keep Your Identity Small - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3enhDTEZMdnVqY2tvTXlsQ2lDanBCTXYwZU5aNWgyTW5vOHZmNWN0SHBsM2ZQcHJ5Y25Zb0RzOW9RcHNOeG1ZaDJ6Q1lBMElHMVNMaEZtSjQ1S2NFMHdOYXFRbndtT2xuRWp2VFROY1dKZw?oc=5",
+      "summary": "Keep Your Identity Small Read Something Great",
+      "publishedAt": "2023-06-23T13:17:30.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMidEFVX3lxTE9pV1RiMnBJejJBV01GX18yeHhjZEVOcUlTcXRaRzhXbWZGU3kwalBzT3FNbldsa2dZVE5HMF9ROU5RWDlsZ1hSVkcyNzlqYjU2SGlUOGVqLWxqTnI4Nkl5Ul9NdVBwZ2xpekE0d2J6MzlycS1X",
+      "title": "The Finality of Everything - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pV1RiMnBJejJBV01GX18yeHhjZEVOcUlTcXRaRzhXbWZGU3kwalBzT3FNbldsa2dZVE5HMF9ROU5RWDlsZ1hSVkcyNzlqYjU2SGlUOGVqLWxqTnI4Nkl5Ul9NdVBwZ2xpekE0d2J6MzlycS1X?oc=5",
+      "summary": "The Finality of Everything Read Something Great",
+      "publishedAt": "2023-06-19T15:12:40.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMikwFBVV95cUxOMFZIdGloeC1IcUpraDBVM0NGeTRwcWhWWnR0ZGgtQUhjNmZJZUg2SkRUYzZ4cVphMERVd0lTbHAzWjZEejI1VS1Qdjh0Q3hQWHd1WDhjUVRKX2dNRXJ4ZGdnMURHYVIyY3J1OXo5QVc4MXltUU8tMjhJaHpTd2FnZTJnN3BucmtoRVpNUkVQcjJvUlE",
+      "title": "6 Harsh Truths That Will Make You a Better Person - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMFZIdGloeC1IcUpraDBVM0NGeTRwcWhWWnR0ZGgtQUhjNmZJZUg2SkRUYzZ4cVphMERVd0lTbHAzWjZEejI1VS1Qdjh0Q3hQWHd1WDhjUVRKX2dNRXJ4ZGdnMURHYVIyY3J1OXo5QVc4MXltUU8tMjhJaHpTd2FnZTJnN3BucmtoRVpNUkVQcjJvUlE?oc=5",
+      "summary": "6 Harsh Truths That Will Make You a Better Person Read Something Great",
+      "publishedAt": "2023-05-29T07:01:00.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMiiAFBVV95cUxOaWlydlJvaExzem5mSUJGZVFnZUpDd1FrbmRpdmxOUlVZZkVjbjFWbHAxT0dQcnFFQjg0ZTU0MUZ3eG5ab3prUk9XemJHRHdLSTZKd2RlRk8yUnlJV3pSZXpRLXNHUFV3V3QyNHg3UEVVX2h3TWZwX19sMjB6c21HX0NuOTh2QVox",
+      "title": "Marc Andreessen's Guide to Career Planning - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWlydlJvaExzem5mSUJGZVFnZUpDd1FrbmRpdmxOUlVZZkVjbjFWbHAxT0dQcnFFQjg0ZTU0MUZ3eG5ab3prUk9XemJHRHdLSTZKd2RlRk8yUnlJV3pSZXpRLXNHUFV3V3QyNHg3UEVVX2h3TWZwX19sMjB6c21HX0NuOTh2QVox?oc=5",
+      "summary": "Marc Andreessen's Guide to Career Planning Read Something Great",
+      "publishedAt": "2023-05-12T02:40:13.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
       "id": "https://dailystoic.com/?p=14635",
       "title": "Perseverance: 7 Stoic Lessons on How To Keep Going",
       "link": "https://dailystoic.com/perseverance/",
@@ -3467,6 +4358,83 @@
       "category": "ideas"
     },
     {
+      "id": "CBMiYkFVX3lxTE9tOEFQLU9hWkc4NUlFWXlUb1pnYlZ3XzJVLVdWYm5KUkVCWWJjUDBWMl9hYUNlcW1qX2dLT01HQk5DVzJ1dEh5eFRmcmZzVVJTNmV6U2FoY3VkMUx5NENfR1lR",
+      "title": "Pimlico Armchair by Mentsen - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tOEFQLU9hWkc4NUlFWXlUb1pnYlZ3XzJVLVdWYm5KUkVCWWJjUDBWMl9hYUNlcW1qX2dLT01HQk5DVzJ1dEh5eFRmcmZzVVJTNmV6U2FoY3VkMUx5NENfR1lR?oc=5",
+      "summary": "Pimlico Armchair by Mentsen thisispaper.com",
+      "publishedAt": "2023-04-28T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMia0FVX3lxTFA4M3BFU1JBekoxOXp6RGlDNkFRNXktNVNxVTljZW5xSEFwVHc2VjVwcVY4UXR4MUpPYnZUREZRU2Q5cm9ZWE1rT1RQckU4QmNiQmJLdlVJOEx6ejQ1Q0JTbTllajE3NDNxUUtj",
+      "title": "The Disease of More - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4M3BFU1JBekoxOXp6RGlDNkFRNXktNVNxVTljZW5xSEFwVHc2VjVwcVY4UXR4MUpPYnZUREZRU2Q5cm9ZWE1rT1RQckU4QmNiQmJLdlVJOEx6ejQ1Q0JTbTllajE3NDNxUUtj?oc=5",
+      "summary": "The Disease of More Read Something Great",
+      "publishedAt": "2023-03-30T09:58:49.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMigwFBVV95cUxOV1lmaWJTdjl5RHVpN3A5aFRkWXFhcm5JMVBTbTIxZTVJMjJubG9IZGpWRjBNMWpZUm10VkFCZE1vRWpJQXRjUGZRT2cxZmYyT2pEdlUwN2VfZWp4UnVQcTc1S1VseHg1b1N3b0xyLXc4Y3p6eWE4S2dGYVVEMGE5Y3p2MA",
+      "title": "Girl - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1lmaWJTdjl5RHVpN3A5aFRkWXFhcm5JMVBTbTIxZTVJMjJubG9IZGpWRjBNMWpZUm10VkFCZE1vRWpJQXRjUGZRT2cxZmYyT2pEdlUwN2VfZWp4UnVQcTc1S1VseHg1b1N3b0xyLXc4Y3p6eWE4S2dGYVVEMGE5Y3p2MA?oc=5",
+      "summary": "Girl Read Something Great",
+      "publishedAt": "2023-03-19T14:55:33.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMinAFBVV95cUxOZXF5TENiOFZTOXJzT2xQcHQySFczZlRHMjZxNDU2aUpmQ3B4T2NqQTJDUDRkNElYM3VrNDFkQUYwOTRYX2ROTUxHYURwdmJDRzJmOUJkZUFSUUxXVDB5clRKLVdkQWkwWHZJWTNVbkJIWWo4bXpYV1RmTkEtZGlhSGpxT2ZmQVNxdGZhYTFsVE0tYjdhWEF5SmlJb20",
+      "title": "How the biggest consumer apps got their first 1,000 users - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXF5TENiOFZTOXJzT2xQcHQySFczZlRHMjZxNDU2aUpmQ3B4T2NqQTJDUDRkNElYM3VrNDFkQUYwOTRYX2ROTUxHYURwdmJDRzJmOUJkZUFSUUxXVDB5clRKLVdkQWkwWHZJWTNVbkJIWWo4bXpYV1RmTkEtZGlhSGpxT2ZmQVNxdGZhYTFsVE0tYjdhWEF5SmlJb20?oc=5",
+      "summary": "How the biggest consumer apps got their first 1,000 users Read Something Great",
+      "publishedAt": "2023-03-10T02:57:39.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
+    },
+    {
+      "id": "CBMidEFVX3lxTE1KcUQxZzZfb243NnVVM2xzc2d2ZlZJSmQza01wVUdaa3pWbVJmZFJ4T2xKdUZZbDVYanVUSnZnTXRxWFNGa09fNC1HLWNPd1NQMldrZGVDdDBRWU5jSjFrdUVMUDhTWTFiX3JTM3BRdGI4WURY",
+      "title": "Lee Ufan Museum by Tadao Ando captured by Dan Preston - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KcUQxZzZfb243NnVVM2xzc2d2ZlZJSmQza01wVUdaa3pWbVJmZFJ4T2xKdUZZbDVYanVUSnZnTXRxWFNGa09fNC1HLWNPd1NQMldrZGVDdDBRWU5jSjFrdUVMUDhTWTFiX3JTM3BRdGI4WURY?oc=5",
+      "summary": "Lee Ufan Museum by Tadao Ando captured by Dan Preston thisispaper.com",
+      "publishedAt": "2023-03-08T08:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiSEFVX3lxTE56Z3JtVno0Vm9VbGQzU1BUUGVKMmZUN09TRzFJNURuLUFVU1RrTHNweVdOdjkweVpKUGZsU1lycHpPUlhoZTh5Ng",
+      "title": "Submit a project - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56Z3JtVno0Vm9VbGQzU1BUUGVKMmZUN09TRzFJNURuLUFVU1RrTHNweVdOdjkweVpKUGZsU1lycHpPUlhoZTh5Ng?oc=5",
+      "summary": "Submit a project New Norm Magazine",
+      "publishedAt": "2023-02-26T22:18:22.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiZ0FVX3lxTE80OVBpaks2aklmLXAyTFhGMEJabUV5emZIWWN3SHlsNjZyOWRWLUdVYXlsUXh6ZXhBZFZ2WDNadW5lZnctYkJhRUJvNXRPSnZzMFFnaXltTmc5Z05pNGRyVXltYXNlVEk",
+      "title": "FUTURE SENSITIVE by Lucy McRae - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80OVBpaks2aklmLXAyTFhGMEJabUV5emZIWWN3SHlsNjZyOWRWLUdVYXlsUXh6ZXhBZFZ2WDNadW5lZnctYkJhRUJvNXRPSnZzMFFnaXltTmc5Z05pNGRyVXltYXNlVEk?oc=5",
+      "summary": "FUTURE SENSITIVE by Lucy McRae thisispaper.com",
+      "publishedAt": "2022-11-24T08:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "https://dailystoic.com/?p=14073",
       "title": "The 16 Greatest Lessons From 16 Years With Marcus Aurelius",
       "link": "https://dailystoic.com/the-16-greatest-lessons-from-16-years-with-marcus-aurelius/",
@@ -3476,6 +4444,17 @@
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiVkFVX3lxTE42MEpNcF9GcWZXTUowSV9RanNFUzBhMHpDS3ZGbC1mQk53dzFQamRuQ1oxNjFPMU9ZNFo5YTUxMXh2djg3VjNaQnl4MlF4bkpvOHNtUU13",
+      "title": "Cedarwood | Dubrovska Studio - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42MEpNcF9GcWZXTUowSV9RanNFUzBhMHpDS3ZGbC1mQk53dzFQamRuQ1oxNjFPMU9ZNFo5YTUxMXh2djg3VjNaQnl4MlF4bkpvOHNtUU13?oc=5",
+      "summary": "Cedarwood | Dubrovska Studio New Norm Magazine",
+      "publishedAt": "2022-10-05T17:00:52.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
     },
     {
       "id": "https://dailystoic.com/?p=13738",
@@ -3511,6 +4490,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMimgFBVV95cUxOdHNGdlJhbWtLRWFXS2FPQkNPdkl0c2l4RTdDcVVJVTZVb25neF80RGowdGhMZGlvUFFObjdZb25meDBBMzFaQXdMbjh4SVlGS0pWM0w5N2d0TnNUT3V6VzdhSUdtMFNvSWlWdGNKUk1RblFfS2RUUm00QnFBeUNKRm8wMXN4b0FleXVNSGM3N25NZFJVcXRNZGVn",
+      "title": "Wikileaks HQ / Pionen White Mountain by Albert France-Lanord Architects - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHNGdlJhbWtLRWFXS2FPQkNPdkl0c2l4RTdDcVVJVTZVb25neF80RGowdGhMZGlvUFFObjdZb25meDBBMzFaQXdMbjh4SVlGS0pWM0w5N2d0TnNUT3V6VzdhSUdtMFNvSWlWdGNKUk1RblFfS2RUUm00QnFBeUNKRm8wMXN4b0FleXVNSGM3N25NZFJVcXRNZGVn?oc=5",
+      "summary": "Wikileaks HQ / Pionen White Mountain by Albert France-Lanord Architects thisispaper.com",
+      "publishedAt": "2022-04-11T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "https://dailystoic.com/?p=12624",
       "title": "12 (Stoic) Rules For Life: An Ancient Guide to the Good Life",
       "link": "https://dailystoic.com/12-rules-for-life/",
@@ -3533,6 +4523,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMiY0FVX3lxTE1keUx6S09FQWpNVENMbHdYUUtwbGdkZEtkQ3FSUG10blp2YzVXeHF0UmhzZWV1ekQ1STVzSVZlbFBLeThOVVo3Q3BJMy1aYUsyVjBWbWZzUXMteC1DWjI3b1pZOA",
+      "title": "Frequently Asked Questions | New Norm - New Norm - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1keUx6S09FQWpNVENMbHdYUUtwbGdkZEtkQ3FSUG10blp2YzVXeHF0UmhzZWV1ekQ1STVzSVZlbFBLeThOVVo3Q3BJMy1aYUsyVjBWbWZzUXMteC1DWjI3b1pZOA?oc=5",
+      "summary": "Frequently Asked Questions | New Norm - New Norm New Norm Magazine",
+      "publishedAt": "2021-12-31T18:20:40.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
       "id": "https://dailystoic.com/?p=12039",
       "title": "Stoicism and The Law of Attraction: The Ancient Truth About Manifestation and Magical Thinking",
       "link": "https://dailystoic.com/law-of-attraction/",
@@ -3542,6 +4543,72 @@
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw",
+      "title": "Jutaku - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw?oc=5",
+      "summary": "Jutaku thisispaper.com",
+      "publishedAt": "2021-10-05T06:52:38.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiTkFVX3lxTE5UdDdTanNzNzNucUh1LVVkT3pvbU9ueS1xV1lDaDdxM1cwWlJ0YnhfNExzNzZUeVNpaXhMUU95bnRMOVdNSzVzSkNYYW93QQ",
+      "title": "Lisbon Guide - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UdDdTanNzNzNucUh1LVVkT3pvbU9ueS1xV1lDaDdxM1cwWlJ0YnhfNExzNzZUeVNpaXhMUU95bnRMOVdNSzVzSkNYYW93QQ?oc=5",
+      "summary": "Lisbon Guide thisispaper.com",
+      "publishedAt": "2021-10-05T04:49:13.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiVEFVX3lxTE5fdmdCaGxqN1UxTEVhakZWdmJTSEZrandDZU9qWXlBbGN3M2p6OTFJa2wzQ2NuNFJBZk9uRmxreW9LWUNkd2tXQmRFWll1djY4RkVlXw",
+      "title": "10 Questions with Floortje Roeper - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fdmdCaGxqN1UxTEVhakZWdmJTSEZrandDZU9qWXlBbGN3M2p6OTFJa2wzQ2NuNFJBZk9uRmxreW9LWUNkd2tXQmRFWll1djY4RkVlXw?oc=5",
+      "summary": "10 Questions with Floortje Roeper New Norm Magazine",
+      "publishedAt": "2021-09-27T02:15:55.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMibEFVX3lxTE5XZUtZZi1ra013cUViNDEyZVNMSlQtWEJ1YTNzaFlqcENDTktyOXY3RG1KUFdFbTRNRXplMkFGb01zbnV4WUhvQjFYLXFsSUhkMG1LYzZBUXFsVFA3WmN5c0Fmb2wzdmRjTHJvQg",
+      "title": "Casa no Tempo captured by Thisispaper Studio - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZUtZZi1ra013cUViNDEyZVNMSlQtWEJ1YTNzaFlqcENDTktyOXY3RG1KUFdFbTRNRXplMkFGb01zbnV4WUhvQjFYLXFsSUhkMG1LYzZBUXFsVFA3WmN5c0Fmb2wzdmRjTHJvQg?oc=5",
+      "summary": "Casa no Tempo captured by Thisispaper Studio thisispaper.com",
+      "publishedAt": "2021-08-04T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiQEFVX3lxTE9TY2htVzlHUXdtXzdpNy1OZ09zcGwwU0ltWGxkRkxJa2JUbWJIbUZQSGRKbFpKTFMwQ0dsSlB1bE4",
+      "title": "New Norm - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9TY2htVzlHUXdtXzdpNy1OZ09zcGwwU0ltWGxkRkxJa2JUbWJIbUZQSGRKbFpKTFMwQ0dsSlB1bE4?oc=5",
+      "summary": "New Norm New Norm Magazine",
+      "publishedAt": "2021-07-27T13:15:55.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiS0FVX3lxTE5idm1jR1dOdUJzU19sU3dLTWVCS2ZUWHFqN1Fja0V4bDJITHN0OF9vcF9IUHdYT2p2NE9rOW5idE9ZNC15RlA4M2p4QQ",
+      "title": "Read Something Great - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5idm1jR1dOdUJzU19sU3dLTWVCS2ZUWHFqN1Fja0V4bDJITHN0OF9vcF9IUHdYT2p2NE9rOW5idE9ZNC15RlA4M2p4QQ?oc=5",
+      "summary": "Read Something Great Read Something Great",
+      "publishedAt": "2021-06-12T12:09:30.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
     },
     {
       "id": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-3",
@@ -3555,102 +4622,25 @@
       "category": "design"
     },
     {
-      "id": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-2",
-      "title": "<p>Fonts in Popular Culture Identified Vol. 2</p>",
-      "link": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-2",
-      "summary": "This is the second installment of my blog series on Typewolf, where I identify the fonts used in popular things. The focus here is on anything you might encounter in contemporary visual culture—movie posters, album covers, TV shows, book co…",
-      "publishedAt": "2020-11-09T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2020-11-09/fonts-identified-collage.jpg",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
+      "id": "CBMiaEFVX3lxTE11U1E3UGFKT1pBc29taGtoV0w4TkpxeFI2eWMzWjZGZlk1VG1jQ3U0MVFJUDJMQmdjbXk4Qk11Y2dkbWNQRVNxcXRISUsyeC1YTHNTbndwOEFQbEtHVWNUSzkydThXYUtS",
+      "title": "Somalia Houses photographed by Olaf Unverzart shows a series of dwellings in the Somali-Ethiopian border area. - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11U1E3UGFKT1pBc29taGtoV0w4TkpxeFI2eWMzWjZGZlk1VG1jQ3U0MVFJUDJMQmdjbXk4Qk11Y2dkbWNQRVNxcXRISUsyeC1YTHNTbndwOEFQbEtHVWNUSzkydThXYUtS?oc=5",
+      "summary": "Somalia Houses photographed by Olaf Unverzart shows a series of dwellings in the Somali-Ethiopian border area. thisispaper.com",
+      "publishedAt": "2021-03-30T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
-      "id": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-1",
-      "title": "<p>Fonts in Popular Culture Identified Vol. 1</p>",
-      "link": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-1",
-      "summary": "Welcome to the first installment of a new series on Typewolf, where I’ll be identifying the fonts used in popular things. The focus here is on anything you might encounter in contemporary visual culture—movie posters, TV shows, book covers,…",
-      "publishedAt": "2020-04-13T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2020-04-13/fonts-identified-collage.jpg",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
-      "category": "design"
-    },
-    {
-      "id": "https://www.typewolf.com/blog/goodbye-to-favorite-sites-posts",
-      "title": "<p>After Nearly Five Years, I’m Saying Goodbye to My Favorite Sites of the Month Blog Posts</p>",
-      "link": "https://www.typewolf.com/blog/goodbye-to-favorite-sites-posts",
-      "summary": "I couldn’t keep writing these forever—it’s finally time to say goodbye. Begin here and travel back through 56 months of nice type. I started writing these monthly favorite site roundup posts way back in March 2014, about nine months after I…",
-      "publishedAt": "2018-11-01T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2018-11-01/typewolf-favorite-sites-collage.jpg",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
-      "category": "design"
-    },
-    {
-      "id": "https://www.typewolf.com/blog/favorite-sites-of-september-2018",
-      "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of September 2018</p>",
-      "link": "https://www.typewolf.com/blog/favorite-sites-of-september-2018",
-      "summary": "This is the 56th installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic details behind the designs. You can check out last month’s p…",
-      "publishedAt": "2018-10-03T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2018-10-03/04.png",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
-      "category": "design"
-    },
-    {
-      "id": "https://www.typewolf.com/blog/favorite-sites-of-august-2018",
-      "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of August 2018</p>",
-      "link": "https://www.typewolf.com/blog/favorite-sites-of-august-2018",
-      "summary": "This is the 55th installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic details behind the designs. You can check out last month’s p…",
-      "publishedAt": "2018-09-03T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2018-09-03/04.png",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
-      "category": "design"
-    },
-    {
-      "id": "https://www.typewolf.com/blog/favorite-sites-of-july-2018",
-      "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of July 2018</p>",
-      "link": "https://www.typewolf.com/blog/favorite-sites-of-july-2018",
-      "summary": "This is the 54th installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic details behind the designs. You can check out last month’s p…",
-      "publishedAt": "2018-08-01T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2018-08-01/04.png",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
-      "category": "design"
-    },
-    {
-      "id": "https://www.typewolf.com/blog/favorite-sites-of-june-2018",
-      "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of June 2018</p>",
-      "link": "https://www.typewolf.com/blog/favorite-sites-of-june-2018",
-      "summary": "This is the 53rd installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic details behind the designs. You can check out last month’s p…",
-      "publishedAt": "2018-07-05T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2018-07-05/04.png",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
-      "category": "design"
-    },
-    {
-      "id": "https://www.typewolf.com/blog/favorite-sites-of-may-2018",
-      "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of May 2018</p>",
-      "link": "https://www.typewolf.com/blog/favorite-sites-of-may-2018",
-      "summary": "This is the 52nd installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic details behind the designs. You can check out last month’s p…",
-      "publishedAt": "2018-06-03T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2018-06-03/04.png",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
-      "category": "design"
-    },
-    {
-      "id": "https://www.typewolf.com/blog/favorite-sites-of-april-2018",
-      "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of April 2018</p>",
-      "link": "https://www.typewolf.com/blog/favorite-sites-of-april-2018",
-      "summary": "This is the 51st installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic details behind the designs. You can check out last month’s p…",
-      "publishedAt": "2018-05-03T00:00:00.000Z",
-      "imageUrl": "https://www.typewolf.com/assets/blog/2018-05-03/04.jpg",
-      "sourceId": "typewolf",
-      "sourceName": "Typewolf",
+      "id": "CBMifEFVX3lxTE0yalREMWxTWkFIWklac1lYT0NZMERmREpYS0dIVi1DVGxCTVduN3JuUVZMa1MxVUZYWEZCcjhQTk0zVGpDVXlLNXNFYmsyX3RxdWg2Z2hzam1xRVhSMUR3S3M4bHRmYUtrQUFZdVo4Nl9PdHVuQk5vR3owbXQ",
+      "title": "Villa Extramuros captured by Thisispaper Studio - thisispaper.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yalREMWxTWkFIWklac1lYT0NZMERmREpYS0dIVi1DVGxCTVduN3JuUVZMa1MxVUZYWEZCcjhQTk0zVGpDVXlLNXNFYmsyX3RxdWg2Z2hzam1xRVhSMUR3S3M4bHRmYUtrQUFZdVo4Nl9PdHVuQk5vR3owbXQ?oc=5",
+      "summary": "Villa Extramuros captured by Thisispaper Studio thisispaper.com",
+      "publishedAt": "2021-02-04T08:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     }
   ]
