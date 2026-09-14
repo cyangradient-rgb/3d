@@ -18,7 +18,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&family=Instrument+Sans:wght@400&family=Instrument+Serif&display=swap" rel="stylesheet" />
 
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -42,6 +42,14 @@
     <div class="sources-dialog-header">
       <span class="wordmark">Sources</span>
       <button id="closeSourcesButton" class="text-button">Done</button>
+    </div>
+    <div class="font-toggle-row">
+      <span class="dialog-section-label">type</span>
+      <div id="fontToggle" class="font-toggle" role="group" aria-label="Typeface">
+        <button type="button" class="font-option" data-font="mono">Aa</button>
+        <button type="button" class="font-option" data-font="serif">Aa</button>
+        <button type="button" class="font-option" data-font="sans">Aa</button>
+      </div>
     </div>
     <div id="sourcesList" class="sources-chips" role="group" aria-label="Filter by source"></div>
   </dialog>
