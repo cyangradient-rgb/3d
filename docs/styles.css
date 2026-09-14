@@ -104,7 +104,7 @@ body.is-loaded .empty-state {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: calc(env(safe-area-inset-top) + 90px) 28px 40px;
+  padding: calc(env(safe-area-inset-top) + 40px) 28px 40px;
 }
 
 .icon-button {
