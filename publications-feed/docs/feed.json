@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:18:48.832Z",
+  "generatedAt": "2026-09-14T00:23:32.051Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -7,7 +7,7 @@
       "siteUrl": "https://www.readsomethinggreat.com",
       "category": "general",
       "status": "error",
-      "error": "Status code 403"
+      "error": "HTTP 403"
     },
     {
       "id": "noema",
@@ -38,8 +38,8 @@
       "name": "Science | AAAS",
       "siteUrl": "https://www.science.org",
       "category": "science",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 403"
     },
     {
       "id": "new-norm",
@@ -47,7 +47,7 @@
       "siteUrl": "https://www.newnormmag.com",
       "category": "design",
       "status": "error",
-      "error": "Status code 404"
+      "error": "HTTP 404"
     },
     {
       "id": "interesting-engineering",
@@ -87,7 +87,7 @@
       "siteUrl": "https://www.thisispaper.com",
       "category": "design",
       "status": "error",
-      "error": "Status code 404"
+      "error": "HTTP 404"
     },
     {
       "id": "emergence-magazine",
@@ -127,7 +127,7 @@
       "siteUrl": "https://dailystoic.com",
       "category": "ideas",
       "status": "error",
-      "error": "Invalid character in entity name\nLine: 17\nColumn: 76\nChar: &"
+      "error": "Unencoded <\nLine: 61\nColumn: 158\nChar: \\"
     },
     {
       "id": "the-marginalian",
@@ -135,7 +135,7 @@
       "siteUrl": "https://www.themarginalian.org",
       "category": "ideas",
       "status": "error",
-      "error": "Status code 404"
+      "error": "HTTP 404"
     },
     {
       "id": "colorado-sun",
@@ -166,8 +166,8 @@
       "name": "The Brighter Side of News",
       "siteUrl": "https://www.thebrighterside.news",
       "category": "general",
-      "status": "error",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "techcrunch",
@@ -191,7 +191,7 @@
       "siteUrl": "https://www.fuktmagazine.com",
       "category": "art",
       "status": "error",
-      "error": "Status code 404"
+      "error": "HTTP 404"
     },
     {
       "id": "assemble-papers",
@@ -214,8 +214,8 @@
       "name": "The Local Project",
       "siteUrl": "https://thelocalproject.com.au",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 403"
     },
     {
       "id": "daily-camera",
@@ -223,7 +223,7 @@
       "siteUrl": "https://www.dailycamera.com",
       "category": "local",
       "status": "error",
-      "error": "Status code 403"
+      "error": "HTTP 403"
     },
     {
       "id": "arena-magazine",
@@ -231,7 +231,7 @@
       "siteUrl": "https://arenamag.com",
       "category": "ideas",
       "status": "error",
-      "error": "Status code 404"
+      "error": "HTTP 404"
     },
     {
       "id": "surface",
@@ -253,6 +253,17 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49690051",
+      "title": "The Coming War on General Computation (2011)",
+      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 10 # Comments: 0",
+      "publishedAt": "2026-09-13T23:54:55.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
     },
     {
       "id": "https://thelocalproject.com.au/?p=463603",
@@ -277,11 +288,22 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49689706",
-      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
-      "link": "https://openai.com/index/better-language-models/",
-      "summary": "Article URL: https://openai.com/index/better-language-models/ Comments URL: https://news.ycombinator.com/item?id=49689706 Points: 42 # Comments: 19",
-      "publishedAt": "2026-09-13T23:11:17.000Z",
+      "id": "https://www.thebrighterside.news/api/preview?id=126750&secret=cM2XMtKpK3Lj&nonce=3a2561ed6e",
+      "title": "Scientists find evidence for an ancient supercontinent that covered 80 percent of Earth’s surface",
+      "link": "https://www.thebrighterside.news/post/scientists-find-evidence-for-an-ancient-supercontinent-that-covered-80-percent-of-earths-surface/",
+      "summary": "Isotope mapping reveals millions of square kilometers of lost Gondwanan crust hidden beneath Asia, Europe and North America. The post Scientists find evidence for an ancient supercontinent that covered 80 percent of Earth’s surface appeared…",
+      "publishedAt": "2026-09-13T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/Screenshot-2026-09-13-124638.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49689664",
+      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+      "link": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/ Comments URL: https://news.ycombinator.com/item?id=49689664 Points: 10 # Comments: 0",
+      "publishedAt": "2026-09-13T23:05:13.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -291,7 +313,7 @@
       "id": "https://news.ycombinator.com/item?id=49689460",
       "title": "The contagion of fear",
       "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 86 # Comments: 49",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 93 # Comments: 66",
       "publishedAt": "2026-09-13T22:38:18.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -302,7 +324,7 @@
       "id": "https://news.ycombinator.com/item?id=49689048",
       "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
       "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 29 # Comments: 7",
+      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 37 # Comments: 13",
       "publishedAt": "2026-09-13T21:47:04.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -335,7 +357,7 @@
       "id": "https://news.ycombinator.com/item?id=49688766",
       "title": "Why is privacy so hard?",
       "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/ Comments URL: https://news.ycombinator.com/item?id=49688766 Points: 8 # Comments: 7",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/ Comments URL: https://news.ycombinator.com/item?id=49688766 Points: 11 # Comments: 9",
       "publishedAt": "2026-09-13T21:13:43.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -346,7 +368,7 @@
       "id": "https://news.ycombinator.com/item?id=49688695",
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 342 # Comments: 136",
+      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 363 # Comments: 144",
       "publishedAt": "2026-09-13T21:06:13.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -368,7 +390,7 @@
       "id": "https://news.ycombinator.com/item?id=49688391",
       "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
       "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 43 # Comments: 6",
+      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 46 # Comments: 6",
       "publishedAt": "2026-09-13T20:33:18.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -390,12 +412,23 @@
       "id": "https://news.ycombinator.com/item?id=49688157",
       "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
       "link": "https://twitter.com/TechEmails/status/2099214399840059428",
-      "summary": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428 Comments URL: https://news.ycombinator.com/item?id=49688157 Points: 252 # Comments: 102",
+      "summary": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428 Comments URL: https://news.ycombinator.com/item?id=49688157 Points: 255 # Comments: 103",
       "publishedAt": "2026-09-13T20:08:45.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=126741&secret=cM2XMtKpK3Lj&nonce=3a2561ed6e",
+      "title": "A missing super-Earth may have been swallowed up by the Sun billions of years ago",
+      "link": "https://www.thebrighterside.news/post/a-missing-super-earth-may-have-been-swallowed-up-by-the-sun-billions-of-years-ago/",
+      "summary": "A lost planet 5 to 10 times Earth's mass may have fallen into the young Sun and left clues detectable billions of years later. The post A missing super-Earth may have been swallowed up by the Sun billions of years ago appeared first on The …",
+      "publishedAt": "2026-09-13T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/star-eating-planet-1.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "https://www.theverge.com/?p=994441",
@@ -464,6 +497,17 @@
       "category": "science"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=126656&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
+      "title": "Natural compound linked to pomegranates targets a hard-to-treat form of heart failure",
+      "link": "https://www.thebrighterside.news/post/natural-compound-linked-to-pomegranates-targets-a-hard-to-treat-form-of-heart-failure/",
+      "summary": "Urolithin A heart failure research points to a new pathway for improving heart relaxation in a hard-to-treat condition. The post Natural compound linked to pomegranates targets a hard-to-treat form of heart failure appeared first on The Bri…",
+      "publishedAt": "2026-09-13T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/shutterstock_2449777431-scaled.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "GvK9nxVswVmyjxUjdtLH3d",
       "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
@@ -478,7 +522,7 @@
       "id": "https://news.ycombinator.com/item?id=49686503",
       "title": "Device Drivers lab exercise – COSC562",
       "link": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-      "summary": "Article URL: https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html Comments URL: https://news.ycombinator.com/item?id=49686503 Points: 26 # Comments: 2",
+      "summary": "Article URL: https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html Comments URL: https://news.ycombinator.com/item?id=49686503 Points: 28 # Comments: 2",
       "publishedAt": "2026-09-13T17:41:50.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -489,7 +533,7 @@
       "id": "https://news.ycombinator.com/item?id=49686445",
       "title": "Why is Google still serving dodgy ads?",
       "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 508 # Comments: 242",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 520 # Comments: 249",
       "publishedAt": "2026-09-13T17:37:44.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -511,7 +555,7 @@
       "id": "https://news.ycombinator.com/item?id=49686380",
       "title": "Ask HN: What are you working on? (September 2026)",
       "link": "https://news.ycombinator.com/item?id=49686380",
-      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 58 # Comments: 88",
+      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 63 # Comments: 101",
       "publishedAt": "2026-09-13T17:31:38.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -541,6 +585,17 @@
       "category": "tech"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=126667&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
+      "title": "Alien technology could be hiding as microscopic dust on the Moon",
+      "link": "https://www.thebrighterside.news/post/alien-technology-could-be-hiding-as-microscopic-dust-on-the-moon/",
+      "summary": "Scientists propose examining lunar soil for tiny engineered particles that could preserve evidence of civilizations long since vanished. The post Alien technology could be hiding as microscopic dust on the Moon appeared first on The Brighte…",
+      "publishedAt": "2026-09-13T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/moon-particles.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "https://techcrunch.com/?p=3163281",
       "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
       "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
@@ -555,7 +610,7 @@
       "id": "https://news.ycombinator.com/item?id=49685253",
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 329 # Comments: 168",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 334 # Comments: 170",
       "publishedAt": "2026-09-13T15:44:38.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -566,7 +621,7 @@
       "id": "https://news.ycombinator.com/item?id=49685037",
       "title": "Libraries Run Rust Inside Python (With PyO3)",
       "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "summary": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/ Comments URL: https://news.ycombinator.com/item?id=49685037 Points: 54 # Comments: 33",
+      "summary": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/ Comments URL: https://news.ycombinator.com/item?id=49685037 Points: 56 # Comments: 33",
       "publishedAt": "2026-09-13T15:24:05.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -588,7 +643,7 @@
       "id": "https://news.ycombinator.com/item?id=49684778",
       "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
       "link": "https://cpak.it/",
-      "summary": "Article URL: https://cpak.it/ Comments URL: https://news.ycombinator.com/item?id=49684778 Points: 45 # Comments: 16",
+      "summary": "Article URL: https://cpak.it/ Comments URL: https://news.ycombinator.com/item?id=49684778 Points: 46 # Comments: 17",
       "publishedAt": "2026-09-13T15:02:56.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -621,7 +676,7 @@
       "id": "https://news.ycombinator.com/item?id=49684393",
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 356 # Comments: 170",
+      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 361 # Comments: 171",
       "publishedAt": "2026-09-13T14:28:36.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -643,7 +698,7 @@
       "id": "https://news.ycombinator.com/item?id=49684356",
       "title": "CUDA for AMD on Windows",
       "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 131 # Comments: 67",
+      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 132 # Comments: 67",
       "publishedAt": "2026-09-13T14:25:13.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -665,12 +720,23 @@
       "id": "https://news.ycombinator.com/item?id=49684196",
       "title": "Making Startups Powerful",
       "link": "https://paulgraham.com/powerful.html",
-      "summary": "Article URL: https://paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=49684196 Points: 146 # Comments: 67",
+      "summary": "Article URL: https://paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=49684196 Points: 149 # Comments: 68",
       "publishedAt": "2026-09-13T14:09:53.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=126677&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
+      "title": "The Moon may have formed almost intact within hours of Theia smashing into Earth",
+      "link": "https://www.thebrighterside.news/post/the-moon-may-have-formed-almost-intact-within-hours-of-theia-smashing-into-earth/",
+      "summary": "Treating ancient Earth and Theia as solid geological bodies transforms simulations of the collision that may have created the Moon. The post The Moon may have formed almost intact within hours of Theia smashing into Earth appeared first on …",
+      "publishedAt": "2026-09-13T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/moon-collision.webp?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "taxxZ9mn4iyZnCEccSiuNH",
@@ -698,7 +764,7 @@
       "id": "https://news.ycombinator.com/item?id=49683953",
       "title": "Data collected by cars and sold to third parties",
       "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "summary": "https://web.archive.org/web/20260913134705/https://www.theve... https://archive.ph/TWEVZ Comments URL: https://news.ycombinator.com/item?id=49683953 Points: 271 # Comments: 147",
+      "summary": "https://web.archive.org/web/20260913134705/https://www.theve... https://archive.ph/TWEVZ Comments URL: https://news.ycombinator.com/item?id=49683953 Points: 278 # Comments: 146",
       "publishedAt": "2026-09-13T13:45:08.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -764,7 +830,7 @@
       "id": "https://news.ycombinator.com/item?id=49683262",
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689 Comments URL: https://news.ycombinator.com/item?id=49683262 Points: 187 # Comments: 46",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689 Comments URL: https://news.ycombinator.com/item?id=49683262 Points: 190 # Comments: 47",
       "publishedAt": "2026-09-13T12:30:15.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -786,7 +852,7 @@
       "id": "https://news.ycombinator.com/item?id=49683033",
       "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
       "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "summary": "Article URL: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet Comments URL: https://news.ycombinator.com/item?id=49683033 Points: 109 # Comments: 40",
+      "summary": "Article URL: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet Comments URL: https://news.ycombinator.com/item?id=49683033 Points: 110 # Comments: 40",
       "publishedAt": "2026-09-13T12:01:52.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
@@ -825,6 +891,17 @@
       "sourceId": "the-verge",
       "sourceName": "The Verge",
       "category": "tech"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=126687&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
+      "title": "A giant Pompeii-scale eruption buried an ancient Andes landscape and preserved it for 22 million years",
+      "link": "https://www.thebrighterside.news/post/a-giant-pompeii-scale-eruption-buried-an-ancient-andes-landscape-and-preserved-it-for-22-million-years/",
+      "summary": "An enormous Chilean eruption buried an ancient landscape whose shape now reveals how quickly the Andes were rising before disaster struck. The post A giant Pompeii-scale eruption buried an ancient Andes landscape and preserved it for 22 mil…",
+      "publishedAt": "2026-09-13T11:51:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/volcano-1.webp?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
@@ -926,17 +1003,6 @@
       "category": "local"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49681152",
-      "title": "JetKVM Mini",
-      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 519 # Comments: 210",
-      "publishedAt": "2026-09-13T07:49:46.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
       "id": "https://techcrunch.com/?p=3163427",
       "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
@@ -946,6 +1012,17 @@
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=124699&secret=cM2XMtKpK3Lj&nonce=d5f87b22a7",
+      "title": "New electronic skin sensor detects touch, pressure and nearby objects",
+      "link": "https://www.thebrighterside.news/post/new-electronic-skin-sensor-detects-touch-pressure-and-nearby-objects/",
+      "summary": "Hanyang University researchers built a compact electronic skin sensor that detects touch, pressure and proximity. The post New electronic skin sensor detects touch, pressure and nearby objects appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-12T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/sk-1-scaled.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "https://www.theverge.com/?p=994383",
@@ -1014,6 +1091,28 @@
       "category": "tech"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=124400&secret=cM2XMtKpK3Lj&nonce=4dfbc6e638",
+      "title": "Wearable electric field therapy slows aggressive breast cancer, study finds",
+      "link": "https://www.thebrighterside.news/post/wearable-electric-field-therapy-slows-aggressive-breast-cancer-study-finds/",
+      "summary": "Low-intensity electric fields slowed triple-negative breast cancer growth and spread in preclinical models. The post Wearable electric field therapy slows aggressive breast cancer, study finds appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-12T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/sensor.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=126621&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
+      "title": "Scientists find a way to run error-protected quantum operations 1,000 times faster",
+      "link": "https://www.thebrighterside.news/post/scientists-find-a-way-to-run-error-protected-quantum-operations-1000-times-faster/",
+      "summary": "Quantum lattice gates could replace thousands of control cycles with one, reducing the time fragile quantum information stays exposed to errors. The post Scientists find a way to run error-protected quantum operations 1,000 times faster app…",
+      "publishedAt": "2026-09-12T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/quantum-computer-4-1-scaled.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "https://techcrunch.com/?p=3163369",
       "title": "Revolut confirms customer data breach through fake government requests",
       "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
@@ -1025,15 +1124,15 @@
       "category": "tech"
     },
     {
-      "id": "zXGYv9qDeiaxrwFRM8kikP",
-      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
-      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
-      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
-      "publishedAt": "2026-09-12T14:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
-      "sourceId": "space-com",
-      "sourceName": "Space.com",
-      "category": "science"
+      "id": "https://www.thebrighterside.news/api/preview?id=126204&secret=cM2XMtKpK3Lj&nonce=a2b53023f2",
+      "title": "Before MeerKAT, South Africa’s Karoo telescope had its own ways of reading the stars",
+      "link": "https://www.thebrighterside.news/post/before-meerkat-south-africas-karoo-telescope-had-its-own-ways-of-reading-the-stars/",
+      "summary": "Around the SKA telescope, old star stories survive through practical knowledge, new meanings and changing community traditions. The post Before MeerKAT, South Africa’s Karoo telescope had its own ways of reading the stars appeared first on …",
+      "publishedAt": "2026-09-12T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/shutterstock_2413071997-1.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "QfLpWHhM3idVG33xjLtmDb",
@@ -1042,6 +1141,17 @@
       "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered.",
       "publishedAt": "2026-09-12T14:00:00.000Z",
       "imageUrl": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
+      "sourceId": "space-com",
+      "sourceName": "Space.com",
+      "category": "science"
+    },
+    {
+      "id": "zXGYv9qDeiaxrwFRM8kikP",
+      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
+      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
+      "publishedAt": "2026-09-12T14:00:00.000Z",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
@@ -1503,7 +1613,7 @@
       "link": "https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation",
       "summary": "The fathers of Islamic science hold lessons for students: breadth over specialisation, and never let constraints get in the way - by Mariam Sabri Read on Aeon",
       "publishedAt": "2026-09-11T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/1024a5cb-d702-4ff5-b6b1-6c3e993da1eb/essay-chronology-of-ancient-nations-biruni.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/1024a5cb-d702-4ff5-b6b1-6c3e993da1eb/essay-chronology-of-ancient-nations-biruni.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -1646,7 +1756,7 @@
       "link": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness",
       "summary": "Can we test for AI consciousness when we don’t understand our own? Getting into John Searle’s ‘Chinese room’ experiment - by Aeon Video Watch on Aeon",
       "publishedAt": "2026-09-10T10:01:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/4040d550-762e-46f4-92ba-431242992b66/the-chinese-room-experiment-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/4040d550-762e-46f4-92ba-431242992b66/the-chinese-room-experiment-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -1668,7 +1778,7 @@
       "link": "https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health",
       "summary": "Saffron and ostrich liver were prescribed but so were exercise, gardens, animals, socialising, and music - by Katherine Harvey Read on Aeon",
       "publishedAt": "2026-09-10T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/f5b2d9a3-db7d-49c3-b79d-a14788da0cb0/essay-bathing.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/f5b2d9a3-db7d-49c3-b79d-a14788da0cb0/essay-bathing.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -1811,7 +1921,7 @@
       "link": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past",
       "summary": "Indigenous knowledge and art overwrite colonial cartography to correct the historical record in Central Australia - by Aeon Video Watch on Aeon",
       "publishedAt": "2026-09-09T10:01:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/ccb069b4-41d7-49c4-b8f8-c0330199dced/making-revisions-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/ccb069b4-41d7-49c4-b8f8-c0330199dced/making-revisions-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2009,7 +2119,7 @@
       "link": "https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common",
       "summary": "Physicians reject palmistry as nonsense. But reading the creases of our palms for hidden meaning is what doctors have always done - by Alison Bashford Read on Aeon",
       "publishedAt": "2026-09-08T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/4efb216a-7579-4e44-b972-2f527d9d4854/test-fig_-1.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/4efb216a-7579-4e44-b972-2f527d9d4854/test-fig_-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2031,7 +2141,7 @@
       "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times",
       "summary": "An astronaut’s image of Earth from the 2026 lunar flyby reveals not our profound smallness but our growing significance - by Aeon Video Watch on Aeon",
       "publishedAt": "2026-09-07T10:01:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/ecd022e4-779f-4b7c-8b20-8c8e3ebae780/this-planet-is-up-to-something-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/ecd022e4-779f-4b7c-8b20-8c8e3ebae780/this-planet-is-up-to-something-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2053,7 +2163,7 @@
       "link": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
       "summary": "A century ago, the Pan-American road promised a new era of fraternity between the two continents. Did it succeed? - by Shawn Miller Read on Aeon",
       "publishedAt": "2026-09-07T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/7ceec72b-c3a7-478b-891f-6d9e32f1bbad/sz-final-essay-gettyimages-1151909862.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/7ceec72b-c3a7-478b-891f-6d9e32f1bbad/sz-final-essay-gettyimages-1151909862.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2130,7 +2240,7 @@
       "link": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it",
       "summary": "Neoliberal policies have hollowed out democracies and spawned unchecked oligarchs. Grasping their structure points to a fix - by Les Coleman Read on Aeon",
       "publishedAt": "2026-09-04T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/0104da2d-f55d-4db7-933e-ad6ea30d78a8/essay-gettyimages-1916677655.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/0104da2d-f55d-4db7-933e-ad6ea30d78a8/essay-gettyimages-1916677655.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2207,7 +2317,7 @@
       "link": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance",
       "summary": "Hans Christian Andersen’s tantrum in Charles Dickens’s garden was a case of ‘too muchness’, emotions bursting past respectability - by Siobhan Unwin & Kathryne Ford Read on Aeon",
       "publishedAt": "2026-09-03T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/5644fcf3-600d-4249-8909-475112d8fd6f/essay-v2-.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/5644fcf3-600d-4249-8909-475112d8fd6f/essay-v2-.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2229,7 +2339,7 @@
       "link": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
       "summary": "We are most human when we play freely, imaginatively, pointlessly. Gamification risks atrophying that most precious capacity - by Justin Neuman Read on Aeon",
       "publishedAt": "2026-09-01T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/e2cbb509-e695-4191-8ab0-d8a48f630ec2/essay-gettyimages-2257653140.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/e2cbb509-e695-4191-8ab0-d8a48f630ec2/essay-gettyimages-2257653140.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2240,7 +2350,7 @@
       "link": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
       "summary": "The nation’s water is secure, but its food is another matter: lessons from the city-state in efficiency versus self-sufficiency - by Peter A Coclanis Read on Aeon",
       "publishedAt": "2026-08-31T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/6311f093-ca53-432a-86b4-5bce84e5e000/essay-panos_00193525.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/6311f093-ca53-432a-86b4-5bce84e5e000/essay-panos_00193525.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2339,7 +2449,7 @@
       "link": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
       "summary": "From childhood, women are trained to restrict their appetite. And there’s a huge, hidden, cognitive price to pay for it - by Sarah Berg Read on Aeon",
       "publishedAt": "2026-08-21T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/8faddae4-306f-4e06-81c2-183366800391/essay-v2-nyc34743.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/8faddae4-306f-4e06-81c2-183366800391/essay-v2-nyc34743.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2350,7 +2460,7 @@
       "link": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
       "summary": "A mesmerising blend of words and images make touch a doorway into the deepest questions in physics and philosophy - by Aeon Video Watch on Aeon",
       "publishedAt": "2026-08-20T10:01:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/82a196ab-9e8c-4452-8c6d-319f97c0246d/a-vocabulary-for-the-future-touch-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/82a196ab-9e8c-4452-8c6d-319f97c0246d/a-vocabulary-for-the-future-touch-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2361,7 +2471,7 @@
       "link": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
       "summary": "The Andoque of the Amazon know what we have forgotten: the forest’s most beautiful creatures are also its most dangerous - by Eliran Arazi Read on Aeon",
       "publishedAt": "2026-08-20T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/feb30884-154c-41ba-a04f-79e7037a973a/cj_aeon_boto.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/feb30884-154c-41ba-a04f-79e7037a973a/cj_aeon_boto.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2383,7 +2493,7 @@
       "link": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park",
       "summary": "The sorrows and redemptions of visitors who mailed their ‘souvenirs’ back to Arizona’s Petrified Forest National Park - by Aeon Video Watch on Aeon",
       "publishedAt": "2026-08-19T10:01:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/6f12f62c-50bd-4de4-8ea8-542a57cb8b19/the-conscience-files-landscape-2.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/6f12f62c-50bd-4de4-8ea8-542a57cb8b19/the-conscience-files-landscape-2.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2405,7 +2515,7 @@
       "link": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
       "summary": "Early feminists like Mary Astell and Catharine Macaulay refused their male peers’ advice to remain polite in debate. Why? - by Geertje Bol Read on Aeon",
       "publishedAt": "2026-08-18T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/7658e7b8-9c34-41ec-b558-2302dd610d06/essay-bm-265686001.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/7658e7b8-9c34-41ec-b558-2302dd610d06/essay-bm-265686001.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2416,7 +2526,7 @@
       "link": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction",
       "summary": "In this bittersweet portrait of a farm town in Canada, taxidermied gophers preserve a place that no longer exists - by Aeon Video Watch on Aeon",
       "publishedAt": "2026-08-17T10:01:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/b594722b-be60-4aa8-9115-ca3ab802d61d/the-world-famous-gopher-hole-museum-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/b594722b-be60-4aa8-9115-ca3ab802d61d/the-world-famous-gopher-hole-museum-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2427,7 +2537,7 @@
       "link": "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
       "summary": "The lives that slither and scurry beneath the soil’s surface are vital for ecological health: now we can listen in to them - by Ella Browning Read on Aeon",
       "publishedAt": "2026-08-17T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/78d61ad2-131f-4408-97d9-c869e125bdcc/essay-v1-screenshot-2026-08-11-at-14_14_59.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/78d61ad2-131f-4408-97d9-c869e125bdcc/essay-v1-screenshot-2026-08-11-at-14_14_59.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2471,7 +2581,7 @@
       "link": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
       "summary": "The self-built homes of Santiago are precarious and ever changing. They are, always and at once, being and becoming - by Consuelo Araos Read on Aeon",
       "publishedAt": "2026-08-14T10:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/aa9106e2-93ab-404f-b220-bcdb87e02b4d/victorias-house-final-.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/aa9106e2-93ab-404f-b220-bcdb87e02b4d/victorias-house-final-.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2482,7 +2592,7 @@
       "link": "https://aeon.co/videos/in-the-remote-desert-an-awe-inspiring-artwork-collapses-time-and-space",
       "summary": "After half a century in the making, an observatory in New Mexico lets viewers peer 13,000 years into the future and the past - by Aeon Video Watch on Aeon",
       "publishedAt": "2026-08-13T10:01:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/69ac625c-bb60-4efa-bff6-e7baa5dfa410/where-the-earth-meets-the-sky-landscape-1-v3.jpg?width=1200&quality=75&format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/69ac625c-bb60-4efa-bff6-e7baa5dfa410/where-the-earth-meets-the-sky-landscape-1-v3.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
@@ -2577,7 +2687,7 @@
     },
     {
       "id": "https://philosophynow.org/issues/175/Hustle_Culture_and_the_Illusion_of_Freedom",
-      "title": "Hustle Culture & the Illusion of Freedom",
+      "title": "Hustle Culture &amp; the Illusion of Freedom",
       "link": "https://philosophynow.org/issues/175/Hustle_Culture_and_the_Illusion_of_Freedom",
       "summary": "Daneyal Afaqui critiques modern work culture, with input from Theodor Adorno.",
       "publishedAt": "2026-08-03T00:00:00.000Z",
@@ -2588,7 +2698,7 @@
     },
     {
       "id": "https://philosophynow.org/issues/175/Simone_Weil_and_Animal_Suffering",
-      "title": "Simone Weil & Animal Suffering",
+      "title": "Simone Weil &amp; Animal Suffering",
       "link": "https://philosophynow.org/issues/175/Simone_Weil_and_Animal_Suffering",
       "summary": "Michela Dianetti & Chiara Li Mandri say non-human beings don’t need to be persons for us to care about them. Simone Weil offers another way.",
       "publishedAt": "2026-08-03T00:00:00.000Z",
@@ -2632,7 +2742,7 @@
     },
     {
       "id": "https://philosophynow.org/issues/175/Fun_With_Deleuze_and_Guattari",
-      "title": "Fun With Deleuze & Guattari",
+      "title": "Fun With Deleuze &amp; Guattari",
       "link": "https://philosophynow.org/issues/175/Fun_With_Deleuze_and_Guattari",
       "summary": "D.E. Tarkington offers some cool conceptual tricks to impress your friends at parties.",
       "publishedAt": "2026-08-03T00:00:00.000Z",
@@ -2698,7 +2808,7 @@
     },
     {
       "id": "https://philosophynow.org/issues/175/Between_Missiles_and_Morality",
-      "title": "Between Missiles & Morality",
+      "title": "Between Missiles &amp; Morality",
       "link": "https://philosophynow.org/issues/175/Between_Missiles_and_Morality",
       "summary": "AmirAli Maleki considers Hart, al-Farabi, and the Puzzled Man in wartime.",
       "publishedAt": "2026-08-03T00:00:00.000Z",
@@ -2709,7 +2819,7 @@
     },
     {
       "id": "https://philosophynow.org/issues/175/On_War_Kabbalah_and_Collateral_Damage",
-      "title": "On War, Kabbalah & Collateral Damage",
+      "title": "On War, Kabbalah &amp; Collateral Damage",
       "link": "https://philosophynow.org/issues/175/On_War_Kabbalah_and_Collateral_Damage",
       "summary": "Anton Koslov takes a concept from the Kabbalah to understand the nature of war.",
       "publishedAt": "2026-08-03T00:00:00.000Z",
