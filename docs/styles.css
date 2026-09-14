@@ -159,6 +159,7 @@ button {
   height: 96px;
   flex: none;
   object-fit: cover;
+  border-radius: 24px;
   background: var(--text-muted);
   opacity: 0.12;
 }
