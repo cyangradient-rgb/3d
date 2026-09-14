@@ -76,8 +76,10 @@ button {
 
 .header-icon {
   width: 40px;
-  height: auto;
+  height: 40px;
+  object-fit: contain;
   display: block;
+  transform-origin: 50% 50%;
   transition: opacity 0.4s ease;
 }
 
