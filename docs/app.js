@@ -240,13 +240,35 @@ document.addEventListener("visibilitychange", () => {
 setInterval(refresh, POLL_INTERVAL_MS);
 
 // Pull-to-refresh: a downward drag starting from the very top of the page.
+// The header icon grows with the pull (eased, with a soft rubber-band cap
+// past the threshold) and springs back to size on release, triggering a
+// refresh only if the pull went far enough.
 const PULL_THRESHOLD_PX = 70;
+const PULL_ICON_MAX_SCALE = 1.6;
+const PULL_ICON_OVERSHOOT_SCALE = 1.75;
 let pullStartY = null;
+
+function scaleForPullDelta(delta) {
+  const clamped = Math.max(0, delta);
+  const t = Math.min(clamped / PULL_THRESHOLD_PX, 1);
+  const eased = 1 - (1 - t) * (1 - t); // ease-out
+  let scale = 1 + eased * (PULL_ICON_MAX_SCALE - 1);
+  if (clamped > PULL_THRESHOLD_PX) {
+    const extra = Math.min((clamped - PULL_THRESHOLD_PX) / 300, 1);
+    scale += extra * (PULL_ICON_OVERSHOOT_SCALE - PULL_ICON_MAX_SCALE);
+  }
+  return scale;
+}
 
 document.addEventListener(
   "touchstart",
   (event) => {
-    pullStartY = window.scrollY === 0 ? event.touches[0].clientY : null;
+    if (window.scrollY === 0) {
+      pullStartY = event.touches[0].clientY;
+      headerIconEl.classList.add("is-pulling");
+    } else {
+      pullStartY = null;
+    }
   },
   { passive: true }
 );
@@ -256,16 +278,18 @@ document.addEventListener(
   (event) => {
     if (pullStartY === null) return;
     const delta = event.touches[0].clientY - pullStartY;
-    if (delta > PULL_THRESHOLD_PX) {
-      pullStartY = null;
-      refresh();
-    }
+    headerIconEl.style.transform = `scale(${scaleForPullDelta(delta)})`;
   },
   { passive: true }
 );
 
-document.addEventListener("touchend", () => {
+document.addEventListener("touchend", (event) => {
+  if (pullStartY === null) return;
+  const delta = (event.changedTouches[0]?.clientY ?? pullStartY) - pullStartY;
+  headerIconEl.classList.remove("is-pulling");
+  headerIconEl.style.transform = "";
   pullStartY = null;
+  if (delta > PULL_THRESHOLD_PX) refresh();
 });
 
 hydrateFromCache();
