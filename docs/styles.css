@@ -5,6 +5,9 @@
   --text-muted: #8c8476;
   --surface: #faf8f4;
   --chip-bg: #f0ece3;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --font-serif: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --font-sans: "Instrument Sans", -apple-system, "Helvetica Neue", Arial, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -31,13 +34,21 @@ body {
 }
 
 body {
-  font-family: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-family: var(--font-mono);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   text-transform: lowercase;
   -webkit-text-size-adjust: 100%;
   padding-bottom: env(safe-area-inset-bottom);
+}
+
+body[data-font="serif"] {
+  font-family: var(--font-serif);
+}
+
+body[data-font="sans"] {
+  font-family: var(--font-sans);
 }
 
 button {
@@ -149,6 +160,27 @@ button {
   gap: 40px;
 }
 
+.date-divider {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  color: var(--text-muted);
+}
+
+.squiggle {
+  flex: 1;
+  height: 8px;
+  background-color: var(--text-muted);
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='8' viewBox='0 0 16 8'%3E%3Cpath d='M0 4 Q4 0 8 4 T16 4' fill='none' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='8' viewBox='0 0 16 8'%3E%3Cpath d='M0 4 Q4 0 8 4 T16 4' fill='none' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E");
+  -webkit-mask-repeat: repeat-x;
+  mask-repeat: repeat-x;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: 16px 8px;
+  mask-size: 16px 8px;
+}
+
 .entry {
   display: flex;
   align-items: flex-start;
@@ -243,6 +275,59 @@ button {
   align-items: baseline;
   justify-content: space-between;
   padding: 28px 28px 20px;
+}
+
+.font-toggle-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 0 28px 24px;
+}
+
+.dialog-section-label {
+  color: var(--text-muted);
+}
+
+.font-toggle {
+  display: flex;
+  gap: 10px;
+}
+
+.font-option {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 16px;
+  background: var(--chip-bg);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 18px;
+  text-transform: none;
+  transition: transform 0.15s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.15s ease, color 0.15s ease;
+}
+
+.font-option:active {
+  transform: scale(0.92);
+}
+
+.font-option.is-selected {
+  background: var(--text);
+  color: var(--bg);
+}
+
+.font-option[data-font="mono"] {
+  font-family: var(--font-mono);
+}
+
+.font-option[data-font="serif"] {
+  font-family: var(--font-serif);
+}
+
+.font-option[data-font="sans"] {
+  font-family: var(--font-sans);
 }
 
 .sources-chips {

@@ -2,6 +2,7 @@ const FEED_URL = "feed.json";
 const POLL_INTERVAL_MS = 5 * 60 * 1000;
 const SELECTED_SOURCES_KEY = "chip.selectedSourceIds";
 const CACHED_FEED_KEY = "publicationsFeed.cachedFeed";
+const FONT_KEY = "chip.font";
 
 const appHeaderEl = document.querySelector(".app-header");
 const headerIconEl = document.querySelector(".header-icon");
@@ -13,6 +14,7 @@ const sourcesButton = document.getElementById("sourcesButton");
 const sourcesDialog = document.getElementById("sourcesDialog");
 const closeSourcesButton = document.getElementById("closeSourcesButton");
 const sourcesListEl = document.getElementById("sourcesList");
+const fontOptionButtons = document.querySelectorAll(".font-option");
 
 let currentFeed = null;
 let isRefreshing = false;
@@ -45,6 +47,26 @@ function saveSelectedSourceIds(set) {
 
 let selectedSourceIds = loadSelectedSourceIds();
 
+function loadFont() {
+  try {
+    const raw = localStorage.getItem(FONT_KEY);
+    return raw === "serif" || raw === "sans" ? raw : "mono";
+  } catch {
+    return "mono";
+  }
+}
+
+function saveFont(font) {
+  try {
+    localStorage.setItem(FONT_KEY, font);
+  } catch {
+    // localStorage unavailable (private mode etc); selection just won't persist.
+  }
+}
+
+let currentFont = loadFont();
+document.body.setAttribute("data-font", currentFont);
+
 function isSafeHttpUrl(url) {
   if (typeof url !== "string") return false;
   return /^https:\/\//i.test(url) || /^http:\/\//i.test(url);
@@ -76,6 +98,47 @@ function relativeTime(isoString) {
   if (months < 12) return `${Math.floor(months)}mo`;
 
   return `${Math.floor(days / 365.25)}y`;
+}
+
+// Groups articles into "today" / "yesterday" / weekday / date sections as
+// the feed is walked in its existing (source-diversified) order — no
+// re-sorting, just a divider wherever the calendar day changes.
+function dateGroupLabel(isoString) {
+  const date = new Date(isoString);
+  if (Number.isNaN(date.getTime())) return null;
+
+  const now = new Date();
+  const startOfDay = (d) => new Date(d.getFullYear(), d.getMonth(), d.getDate());
+  const diffDays = Math.round((startOfDay(now) - startOfDay(date)) / 86400000);
+
+  if (diffDays <= 0) return "today";
+  if (diffDays === 1) return "yesterday";
+  if (diffDays < 7) return date.toLocaleDateString(undefined, { weekday: "long" });
+
+  const sameYear = date.getFullYear() === now.getFullYear();
+  return date.toLocaleDateString(undefined, {
+    month: "short",
+    day: "numeric",
+    year: sameYear ? undefined : "numeric",
+  });
+}
+
+function buildDateDivider(label) {
+  const divider = document.createElement("div");
+  divider.className = "date-divider";
+
+  const leftSquiggle = document.createElement("span");
+  leftSquiggle.className = "squiggle";
+
+  const labelEl = document.createElement("span");
+  labelEl.className = "date-divider-label";
+  labelEl.textContent = label;
+
+  const rightSquiggle = document.createElement("span");
+  rightSquiggle.className = "squiggle";
+
+  divider.append(leftSquiggle, labelEl, rightSquiggle);
+  return divider;
 }
 
 function buildArticleCard(article) {
@@ -131,7 +194,13 @@ function render() {
   } else {
     emptyStateEl.hidden = true;
     const fragment = document.createDocumentFragment();
+    let lastGroupLabel = null;
     for (const article of visibleArticles) {
+      const groupLabel = dateGroupLabel(article.publishedAt);
+      if (groupLabel && groupLabel !== lastGroupLabel) {
+        fragment.appendChild(buildDateDivider(groupLabel));
+        lastGroupLabel = groupLabel;
+      }
       fragment.appendChild(buildArticleCard(article));
     }
     articleListEl.appendChild(fragment);
@@ -254,6 +323,25 @@ closeSourcesButton.addEventListener("click", () => sourcesDialog.close());
 sourcesDialog.addEventListener("click", (event) => {
   if (event.target === sourcesDialog) sourcesDialog.close();
 });
+
+function renderFontToggle() {
+  fontOptionButtons.forEach((button) => {
+    const isSelected = button.dataset.font === currentFont;
+    button.classList.toggle("is-selected", isSelected);
+    button.setAttribute("aria-pressed", String(isSelected));
+  });
+}
+
+fontOptionButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    currentFont = button.dataset.font;
+    document.body.setAttribute("data-font", currentFont);
+    saveFont(currentFont);
+    renderFontToggle();
+  });
+});
+
+renderFontToggle();
 
 document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "visible") refresh();
