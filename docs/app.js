@@ -69,9 +69,9 @@ let selectedSourceIds = loadSelectedSourceIds();
 function loadFont() {
   try {
     const raw = localStorage.getItem(FONT_KEY);
-    return raw === "mono" || raw === "sans" ? raw : "serif";
+    return raw === "serif" || raw === "sans" ? raw : "mono";
   } catch {
-    return "serif";
+    return "mono";
   }
 }
 
