@@ -1,6 +1,6 @@
 const FEED_URL = "feed.json";
 const POLL_INTERVAL_MS = 5 * 60 * 1000;
-const DISABLED_SOURCES_KEY = "publicationsFeed.disabledSourceIds";
+const SELECTED_SOURCES_KEY = "chip.selectedSourceIds";
 const CACHED_FEED_KEY = "publicationsFeed.cachedFeed";
 
 const appHeaderEl = document.querySelector(".app-header");
@@ -17,24 +17,33 @@ const sourcesListEl = document.getElementById("sourcesList");
 let currentFeed = null;
 let isRefreshing = false;
 
-function loadDisabledSourceIds() {
+// null means "all" (no filter). A non-null Set means "show only these" —
+// tapping a source chip switches from all -> just that source, and tapping
+// more chips adds to the set; emptying the set falls back to "all".
+function loadSelectedSourceIds() {
   try {
-    const raw = localStorage.getItem(DISABLED_SOURCES_KEY);
-    return new Set(raw ? JSON.parse(raw) : []);
+    const raw = localStorage.getItem(SELECTED_SOURCES_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) && parsed.length > 0 ? new Set(parsed) : null;
   } catch {
-    return new Set();
+    return null;
   }
 }
 
-function saveDisabledSourceIds(set) {
+function saveSelectedSourceIds(set) {
   try {
-    localStorage.setItem(DISABLED_SOURCES_KEY, JSON.stringify(Array.from(set)));
+    if (set === null) {
+      localStorage.removeItem(SELECTED_SOURCES_KEY);
+    } else {
+      localStorage.setItem(SELECTED_SOURCES_KEY, JSON.stringify(Array.from(set)));
+    }
   } catch {
-    // localStorage unavailable (private mode etc); toggles just won't persist.
+    // localStorage unavailable (private mode etc); selection just won't persist.
   }
 }
 
-let disabledSourceIds = loadDisabledSourceIds();
+let selectedSourceIds = loadSelectedSourceIds();
 
 function isSafeHttpUrl(url) {
   if (typeof url !== "string") return false;
@@ -111,9 +120,10 @@ function buildArticleCard(article) {
 function render() {
   if (!currentFeed) return;
 
-  const visibleArticles = currentFeed.articles.filter(
-    (article) => !disabledSourceIds.has(article.sourceId)
-  );
+  const visibleArticles =
+    selectedSourceIds === null
+      ? currentFeed.articles
+      : currentFeed.articles.filter((article) => selectedSourceIds.has(article.sourceId));
 
   articleListEl.innerHTML = "";
   if (visibleArticles.length === 0) {
@@ -127,43 +137,52 @@ function render() {
     articleListEl.appendChild(fragment);
   }
 
-  renderSourcesList();
+  renderSourceChips();
   renderStatus();
 }
 
-function renderSourcesList() {
+function selectAllSources() {
+  selectedSourceIds = null;
+  saveSelectedSourceIds(null);
+  render();
+}
+
+function toggleSource(sourceId) {
+  const next = selectedSourceIds === null ? new Set() : new Set(selectedSourceIds);
+  if (next.has(sourceId)) {
+    next.delete(sourceId);
+  } else {
+    next.add(sourceId);
+  }
+  selectedSourceIds = next.size === 0 ? null : next;
+  saveSelectedSourceIds(selectedSourceIds);
+  render();
+}
+
+function renderSourceChips() {
   sourcesListEl.innerHTML = "";
   if (!currentFeed) return;
 
+  const allChip = document.createElement("button");
+  allChip.type = "button";
+  allChip.className = "source-chip" + (selectedSourceIds === null ? " is-selected" : "");
+  allChip.textContent = "all";
+  allChip.setAttribute("aria-pressed", String(selectedSourceIds === null));
+  allChip.addEventListener("click", selectAllSources);
+  sourcesListEl.appendChild(allChip);
+
   for (const source of currentFeed.sources) {
-    const li = document.createElement("li");
-    li.className = "source-row";
-
-    const enabled = !disabledSourceIds.has(source.id);
-
-    const nameButton = document.createElement("button");
-    nameButton.type = "button";
-    nameButton.textContent = source.name;
-    nameButton.className = enabled ? "" : "source-name-disabled";
-    nameButton.setAttribute("aria-pressed", String(enabled));
-    nameButton.setAttribute("aria-label", `Toggle ${source.name}`);
-    nameButton.addEventListener("click", () => {
-      if (disabledSourceIds.has(source.id)) {
-        disabledSourceIds.delete(source.id);
-      } else {
-        disabledSourceIds.add(source.id);
-      }
-      saveDisabledSourceIds(disabledSourceIds);
-      render();
-    });
-    li.appendChild(nameButton);
-
-    const status = document.createElement("span");
-    status.className = "source-status";
-    status.textContent = source.status === "error" ? "!" : enabled ? "on" : "off";
-    li.appendChild(status);
-
-    sourcesListEl.appendChild(li);
+    const isSelected = selectedSourceIds !== null && selectedSourceIds.has(source.id);
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.className =
+      "source-chip" +
+      (isSelected ? " is-selected" : "") +
+      (source.status === "error" ? " has-error" : "");
+    chip.textContent = source.name;
+    chip.setAttribute("aria-pressed", String(isSelected));
+    chip.addEventListener("click", () => toggleSource(source.id));
+    sourcesListEl.appendChild(chip);
   }
 }
 
