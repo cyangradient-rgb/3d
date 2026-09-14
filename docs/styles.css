@@ -39,7 +39,7 @@ body {
 
 body {
   font-family: var(--font-mono);
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 400;
   line-height: 1.5;
   text-transform: lowercase;
@@ -297,7 +297,7 @@ body.is-loaded .empty-state {
 .sources-dialog-header {
   display: flex;
   align-items: baseline;
-  justify-content: space-between;
+  justify-content: flex-end;
   padding: 28px 28px 20px;
 }
 
