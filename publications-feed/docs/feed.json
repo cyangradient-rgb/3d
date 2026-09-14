@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:23:32.051Z",
+  "generatedAt": "2026-09-14T00:26:55.741Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -127,15 +127,15 @@
       "siteUrl": "https://dailystoic.com",
       "category": "ideas",
       "status": "error",
-      "error": "Unencoded <\nLine: 61\nColumn: 158\nChar: \\"
+      "error": "Unexpected close tag\nLine: 371\nColumn: 21\nChar: >"
     },
     {
       "id": "the-marginalian",
       "name": "The Marginalian",
       "siteUrl": "https://www.themarginalian.org",
       "category": "ideas",
-      "status": "error",
-      "error": "HTTP 404"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "colorado-sun",
@@ -717,6 +717,17 @@
       "category": "design"
     },
     {
+      "id": "https://www.themarginalian.org/?p=76365",
+      "title": "The Fascinating Science of How We Think Not with the Brain But with the World",
+      "link": "https://www.themarginalian.org/2026/09/13/the-extended-mind/",
+      "summary": "\"By reaching beyond the brain... we are able to focus more intently, comprehend more deeply, and create more imaginatively — to entertain ideas that would be literally unthinkable by the brain alone.\"",
+      "publishedAt": "2026-09-13T14:11:15.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/03/theextendedmind_anniemurphypaul.jpg?fit=320%2C480&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49684196",
       "title": "Making Startups Powerful",
       "link": "https://paulgraham.com/powerful.html",
@@ -1036,6 +1047,17 @@
       "category": "tech"
     },
     {
+      "id": "https://www.themarginalian.org/?p=85924",
+      "title": "How to Be a Good Explorer on the Lifelong Expedition to Yourself",
+      "link": "https://www.themarginalian.org/2026/09/12/pessoa-explorer/",
+      "summary": "Life is an ongoing expedition into the brambled tendrilled wilderness of ourselves, continually stymied by all we mistake for a final destination — success, superhuman strength, the love of another. Along the way, we keep confusing experime…",
+      "publishedAt": "2026-09-12T21:22:03.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/09/pessoa_bookofdisquiet.jpg?fit=320%2C491&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.theverge.com/?p=994384",
       "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
@@ -1135,23 +1157,23 @@
       "category": "general"
     },
     {
-      "id": "QfLpWHhM3idVG33xjLtmDb",
-      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
-      "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered.",
-      "publishedAt": "2026-09-12T14:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
-      "sourceId": "space-com",
-      "sourceName": "Space.com",
-      "category": "science"
-    },
-    {
       "id": "zXGYv9qDeiaxrwFRM8kikP",
       "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
       "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
       "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
       "publishedAt": "2026-09-12T14:00:00.000Z",
       "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZHqtoJ2BkAUKFNEeAyhwsT-1280-80.jpg",
+      "sourceId": "space-com",
+      "sourceName": "Space.com",
+      "category": "science"
+    },
+    {
+      "id": "QfLpWHhM3idVG33xjLtmDb",
+      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
+      "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered.",
+      "publishedAt": "2026-09-12T14:00:00.000Z",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/hk2QfJCsYUxDW9cEihGLMo-1280-80.jpg",
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
@@ -1256,6 +1278,17 @@
       "category": "science"
     },
     {
+      "id": "https://www.brainpickings.org/?p=57385",
+      "title": "A Beginning, Not a Decline: Colette on the Splendor of Autumn and the Autumn of Life",
+      "link": "https://www.themarginalian.org/2026/09/11/colette-autumn/",
+      "summary": "In praise of \"the gaiety of those who have nothing more to lose and so excel at giving.\"",
+      "publishedAt": "2026-09-12T01:44:53.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/08/colette_earthlyparadise.jpg?fit=320%2C498&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://techcrunch.com/?p=3163323",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -1265,6 +1298,17 @@
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "http://www.brainpickings.org/?p=38804",
+      "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
+      "link": "https://www.themarginalian.org/2026/09/11/dostoyevsky-dream/",
+      "summary": "\"And it is so simple... You will instantly find how to live.\"",
+      "publishedAt": "2026-09-11T22:19:03.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/dostoyvesky_awritersdiary.jpg?w=680&#038;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "i3PCg3h6SZEX69LkCQHmXL",
@@ -1364,6 +1408,17 @@
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=74745",
+      "title": "Why Leaves Change Color and How We Become Who We Are: The Science of Chlorophyll and the Poetics of Personhood",
+      "link": "https://www.themarginalian.org/2026/09/11/why-leaves-change-color/",
+      "summary": "\"We reach forth and strain every nerve, but we seize only a bit of the curtain that hides the infinite from us.\"",
+      "publishedAt": "2026-09-11T20:23:43.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/arthurrackham_autumnfairies.jpg?resize=680%2C480&#038;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://nautil.us/?p=1284975",
@@ -1696,6 +1751,17 @@
       "category": "science"
     },
     {
+      "id": "https://www.themarginalian.org/?p=87899",
+      "title": "The Unspeakable World: Alan Watts on How to Touch the Pulse of Life",
+      "link": "https://www.themarginalian.org/2026/09/10/alan-watts-unspeakable-world/",
+      "summary": "What makes life so disorienting is that its greatest revelations and greatest transformations are inarticulable. William James knew this when he listed ineffability as the first of the four features of transcendent experiences. Everything b…",
+      "publishedAt": "2026-09-11T02:44:27.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/talkingzen_watts.jpg?fit=320%2C448&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://nautil.us/?p=1284956",
       "title": "AI Engineers Are Having Their Oppenheimer “Destroyer of Worlds” Moment",
       "link": "https://nautil.us/ai-engineers-are-having-their-oppenheimer-destroyer-of-worlds-moment-1284956/",
@@ -1705,6 +1771,17 @@
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
+    },
+    {
+      "id": "https://www.brainpickings.org/?p=51630",
+      "title": "Albert Camus on the Source of Strength and How to Save Our Sanity in Trying Times",
+      "link": "https://www.themarginalian.org/2026/09/10/albert-camus-almond-trees-character/",
+      "summary": "\"In the depths of winter, I finally learned that within me there lay an invincible summer.\"",
+      "publishedAt": "2026-09-10T21:31:49.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/11/albertcamus_essays.jpg?fit=263%2C388&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://boulderreportinglab.org/?p=125387",
@@ -1839,6 +1916,17 @@
       "category": "science"
     },
     {
+      "id": "https://www.themarginalian.org/?p=82514",
+      "title": "The New Science of Plant Intelligence and the Mystery of What Makes a Mind",
+      "link": "https://www.themarginalian.org/2026/09/09/the-light-eaters/",
+      "summary": "\"Every thought that has ever passed through your brain was made possible by plants.\"",
+      "publishedAt": "2026-09-10T03:06:37.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/05/thelighteaters.jpg?fit=320%2C486&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
       "title": "Mind-altering drugs played key role in rise of Andean civilization",
       "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
@@ -1870,6 +1958,17 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=87890",
+      "title": "How to Change Your Life",
+      "link": "https://www.themarginalian.org/2026/09/09/how-to-change-your-life/",
+      "summary": "HOW TO CHANGE YOUR LIFE by Maria Popova Don’t try to wash your tired hands clean from the bloodshed of your private wars. Just unclench the fist that has come to feel like home and let the story slip between your trembling fingers into the …",
+      "publishedAt": "2026-09-09T19:49:45.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/treerings_negative_Marginalian.jpg?resize=680%2C680&#038;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
@@ -2048,6 +2147,28 @@
       "category": "science"
     },
     {
+      "id": "https://www.brainpickings.org/?p=65243",
+      "title": "Kahlil Gibran on the Courage to Weather the Uncertainties of Love",
+      "link": "https://www.themarginalian.org/2026/09/08/kahlil-gibran-prophet-love/",
+      "summary": "\"Think not you can direct the course of love, for love, if it finds you worthy, directs your course.\"",
+      "publishedAt": "2026-09-09T01:39:39.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/09/kahlilgibran_theprophet.jpg?fit=320%2C462&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=82587",
+      "title": "The Paradoxes and Possibilities of Transformation: Adam Phillips on Our Ambivalent Desire for Change",
+      "link": "https://www.themarginalian.org/2026/09/08/on-wanting-to-change-adam-phillips/",
+      "summary": "\"There is no description of a life without an account of the changes that are possible within it.\"",
+      "publishedAt": "2026-09-09T01:38:09.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/06/adamphillips_change.jpg?fit=320%2C487&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://thelocalproject.com.au/?p=464034",
       "title": "Pocketbook Hudson Hotel and Baths by Charlap Hyman & Herrero – Issue 21 Feature – The Local Project",
       "link": "https://thelocalproject.com.au/articles/pocketbook-hudson-hotel-and-baths-by-charlap-hyman-herrero-issue-21-feature-the-local-project/",
@@ -2136,6 +2257,39 @@
       "category": "design"
     },
     {
+      "id": "https://www.themarginalian.org/?p=87883",
+      "title": "How to Break Free from the Tyranny of Certainty: The Japanese Concept of “Ma”",
+      "link": "https://www.themarginalian.org/2026/09/07/ma/",
+      "summary": "“Whatever inspiration is, it’s born from a continuous ‘I don’t know,'” the Polish poet Wisława Szymborska observed in her magnificent Nobel Prize acceptance speech. But despite all we know about the power of liminality and threshold states,…",
+      "publishedAt": "2026-09-08T02:08:36.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/travelinginthebardo.jpg?fit=320%2C463&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=83327",
+      "title": "How Not to Waste Your Wildness",
+      "link": "https://www.themarginalian.org/2026/09/07/dont-waste-your-wildness/",
+      "summary": "\"What is wild cannot be bought or sold, borrowed or copied. It is. Unmistakable, unforgettable, unshamable, elemental as earth and ice, water, fire and air, a quintessence, pure spirit, resolving into no constituents. Don't waste your wildn…",
+      "publishedAt": "2026-09-07T19:25:02.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/10/wild_jaygriffiths.jpg?fit=320%2C475&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=82567",
+      "title": "Polyvagal Theory and the Neurobiology of Connection: The Science of Rupture, Repair, and Reciprocity",
+      "link": "https://www.themarginalian.org/2026/09/07/polyvagal-theory/",
+      "summary": "\"The mind narrates what the nervous system knows. Story follows state.\"",
+      "publishedAt": "2026-09-07T16:06:37.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/05/polyvagal_dana.jpg?fit=320%2C487&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "urn:id:9081",
       "title": "The planet is… up to something",
       "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times",
@@ -2191,6 +2345,39 @@
       "category": "local"
     },
     {
+      "id": "https://www.brainpickings.org/?p=70899",
+      "title": "I Long to Read More in the Book of You: Moomins Creator Tove Jansson’s Tender and Passionate Letters to the Love of Her Life",
+      "link": "https://www.themarginalian.org/2026/09/06/tove-jansson-letters-tuulikki-pietila/",
+      "summary": "\"I’m so unused to being happy that I haven’t really come to terms with what it involves... I feel like a garden that’s finally been watered, so my flowers can bloom.\"",
+      "publishedAt": "2026-09-07T01:39:00.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/06/lettersfromtove.jpg?fit=320%2C481&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=87873",
+      "title": "The True Purpose of Tarot",
+      "link": "https://www.themarginalian.org/2026/09/06/alejandro-jorodowsky-tarot/",
+      "summary": "“Nothing like this has ever happened before or will ever happen again,” a friend said to me about a lucky turn of events — a statement that struck me as touchingly self-negating: a recognition that life has violated her predictions about wh…",
+      "publishedAt": "2026-09-06T18:51:32.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/tarot_jorodowsky.jpg?fit=320%2C479&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=81375",
+      "title": "How to Apologize: Reflections on Forgiveness, Self-Forgiveness, and the Vulnerabilities of Being Human",
+      "link": "https://www.themarginalian.org/2026/09/06/how-to-apologize-ellen-bass/",
+      "summary": "\"It's permitted to receive solace for whatever you did or didn't do, pitiful, beautiful human.\"",
+      "publishedAt": "2026-09-06T16:29:04.000Z",
+      "imageUrl": "https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2015/02/davidthedreamer10.jpg",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://tricycle.org/?p=84950",
       "title": "The Vow Verse to Arouse Aspiration",
       "link": "https://tricycle.org/article/hiromi-ito-vow-verse/",
@@ -2199,6 +2386,39 @@
       "imageUrl": null,
       "sourceId": "tricycle",
       "sourceName": "Tricycle: The Buddhist Review",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.brainpickings.org/?p=60799",
+      "title": "Erich Fromm’s 6 Rules of Listening: The Great Humanistic Philosopher and Psychologist on the Art of Unselfish Understanding",
+      "link": "https://www.themarginalian.org/2026/09/06/erich-fromm-the-art-of-listening/",
+      "summary": "\"Understanding and loving are inseparable. If they are separate, it is a cerebral process and the door to essential understanding remains closed.\"",
+      "publishedAt": "2026-09-06T04:04:17.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/04/fromm_artoflistening.jpg?fit=320%2C495&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=87867",
+      "title": "How to Reconcile Your Most Painful Mistakes: The Life-Shaping Difference Between Regret and Remorse",
+      "link": "https://www.themarginalian.org/2026/09/05/regret-remorse/",
+      "summary": "You know it, that awful moment your coherent self-image shatters and a part of you, shadowy and untended, splits off to cause harm and havoc as the rest of you watches helplessly, wincing. You know the next moment, too — the desperate wish …",
+      "publishedAt": "2026-09-05T21:28:32.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/bookofhumanemotions_smith.jpg?fit=320%2C488&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=84912",
+      "title": "How Two Souls Can Interact with One Another: Simone de Beauvoir on Love and Friendship",
+      "link": "https://www.themarginalian.org/2026/09/05/simone-de-beauvoir-love-friendship/",
+      "summary": "It is in relationships that we discover both our depths and our limits, there that we anneal ourselves and transcend ourselves, there that we are hurt the most and there that we find the most healing. But despite what a crucible of our emot…",
+      "publishedAt": "2026-09-05T19:42:07.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/04/debeauvoir_memoir.jpg?fit=320%2C491&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
       "category": "ideas"
     },
     {
