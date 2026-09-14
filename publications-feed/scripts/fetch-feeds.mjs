@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import zlib from "node:zlib";
 import Parser from "rss-parser";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -11,12 +12,12 @@ const MAX_ITEMS_PER_SOURCE = 20;
 const MAX_TOTAL_ITEMS = 400;
 const FETCH_TIMEOUT_MS = 15000;
 
+// A generic "bot"-labeled UA gets flatly 403'd by some publishers' anti-bot
+// rules; a realistic browser UA is standard practice for feed readers.
+const USER_AGENT =
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36";
+
 const parser = new Parser({
-  timeout: FETCH_TIMEOUT_MS,
-  headers: {
-    "User-Agent":
-      "Mozilla/5.0 (compatible; PublicationsFeedBot/1.0; +https://github.com/)",
-  },
   customFields: {
     item: [
       ["media:content", "mediaContent", { keepArray: true }],
@@ -24,6 +25,36 @@ const parser = new Parser({
     ],
   },
 });
+
+// We fetch the raw feed ourselves (instead of parser.parseURL) so we can:
+//  - use AbortSignal.timeout for a real, socket-level cancel (rss-parser's
+//    own `timeout` option isn't reliably enforced against every host)
+//  - recover from a server that sends gzip bytes without declaring
+//    Content-Encoding, which otherwise looks like garbage to the XML parser
+//  - sanitize the occasional bare "&" that some feeds emit unescaped, which
+//    would otherwise fail the whole feed on one bad character
+async function fetchFeedXml(url, timeoutMs) {
+  const response = await fetch(url, {
+    headers: {
+      "User-Agent": USER_AGENT,
+      Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+    },
+    redirect: "follow",
+    signal: AbortSignal.timeout(timeoutMs),
+  });
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+  let buffer = Buffer.from(await response.arrayBuffer());
+  if (buffer.length > 2 && buffer[0] === 0x1f && buffer[1] === 0x8b) {
+    buffer = zlib.gunzipSync(buffer);
+  }
+  return buffer.toString("utf-8");
+}
+
+function sanitizeXmlEntities(xml) {
+  return xml.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, "&amp;");
+}
 
 function stripHtml(html, limit = 240) {
   if (!html) return "";
@@ -58,28 +89,6 @@ function articleId(item) {
   return item.guid || item.id || item.link;
 }
 
-// rss-parser's own `timeout` option isn't reliable against every host (some
-// connections never settle it), so race it against a timeout of our own —
-// this is what actually guarantees the job can't hang on one bad feed.
-function withTimeout(promise, ms, label) {
-  return new Promise((resolve, reject) => {
-    const timer = setTimeout(
-      () => reject(new Error(`Timed out after ${ms}ms fetching ${label}`)),
-      ms
-    );
-    promise.then(
-      (value) => {
-        clearTimeout(timer);
-        resolve(value);
-      },
-      (error) => {
-        clearTimeout(timer);
-        reject(error);
-      }
-    );
-  });
-}
-
 async function loadPreviousFeed() {
   try {
     const raw = await readFile(OUTPUT_PATH, "utf8");
@@ -91,11 +100,8 @@ async function loadPreviousFeed() {
 
 async function fetchSource(source) {
   try {
-    const feed = await withTimeout(
-      parser.parseURL(source.feedUrl),
-      FETCH_TIMEOUT_MS + 5000,
-      source.feedUrl
-    );
+    const xml = await fetchFeedXml(source.feedUrl, FETCH_TIMEOUT_MS);
+    const feed = await parser.parseString(sanitizeXmlEntities(xml));
     const articles = (feed.items ?? [])
       .filter((item) => item.title && item.link)
       .slice(0, MAX_ITEMS_PER_SOURCE)
