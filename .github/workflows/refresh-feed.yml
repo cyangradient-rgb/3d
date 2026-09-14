@@ -8,7 +8,7 @@ on:
     branches: [main]
     paths:
       - "publications-feed/scripts/**"
-      - "publications-feed/.github/workflows/refresh-feed.yml"
+      - ".github/workflows/refresh-feed.yml"
 
 permissions:
   contents: write
