@@ -201,15 +201,17 @@ body.is-loaded .empty-state {
   color: var(--text-muted);
 }
 
-.divider-leaf {
+.squiggle {
   flex: none;
-  display: inline-block;
-  font-size: 20px;
-  line-height: 1;
-}
-
-.divider-leaf-right {
-  transform: scaleX(-1);
+  width: 36px;
+  height: 8px;
+  background-color: var(--text-muted);
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='8' viewBox='0 0 36 8'%3E%3Cpath d='M0 4 Q4.5 0 9 4 T18 4 Q22.5 0 27 4 T36 4' fill='none' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='8' viewBox='0 0 36 8'%3E%3Cpath d='M0 4 Q4.5 0 9 4 T18 4 Q22.5 0 27 4 T36 4' fill='none' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E");
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
 }
 
 .entry {
