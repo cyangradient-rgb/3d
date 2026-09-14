@@ -21,20 +21,18 @@
 </head>
 <body>
   <header class="app-header">
-    <span class="wordmark">Chip</span>
-    <button id="sourcesButton" class="text-button" aria-label="Publications" aria-haspopup="dialog">Sources</button>
+    <button id="sourcesButton" class="icon-button" aria-label="Sources" aria-haspopup="dialog">
+      <img src="icons/icon-192.png" alt="" class="header-icon" />
+    </button>
   </header>
 
-  <div class="status-row">
-    <span id="statusText">loading</span>
-    <button id="refreshButton" class="text-button" aria-label="Refresh now">Refresh</button>
-  </div>
+  <span id="statusText" class="visually-hidden" aria-live="polite"></span>
 
   <main id="articleList" class="article-list" aria-live="polite"></main>
 
   <div id="emptyState" class="empty-state" hidden>
     <p>no articles yet</p>
-    <button id="emptyRefreshButton" class="text-button">Refresh</button>
+    <button id="emptyRefreshButton" class="text-button">refresh</button>
   </div>
 
   <dialog id="sourcesDialog" class="sources-dialog">
