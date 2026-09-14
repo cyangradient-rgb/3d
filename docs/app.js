@@ -41,29 +41,32 @@ function isSafeHttpUrl(url) {
   return /^https:\/\//i.test(url) || /^http:\/\//i.test(url);
 }
 
+// Compact form ("13h" rather than "13 hours ago") — units are unambiguous
+// enough on their own that the "ago" reads as implied.
 function relativeTime(isoString) {
   if (!isoString) return "";
   const date = new Date(isoString);
   if (Number.isNaN(date.getTime())) return "";
-  const diffSeconds = Math.round((date.getTime() - Date.now()) / 1000);
-  const rtf = new Intl.RelativeTimeFormat("en", { numeric: "auto" });
-  const divisions = [
-    { amount: 60, unit: "second" },
-    { amount: 60, unit: "minute" },
-    { amount: 24, unit: "hour" },
-    { amount: 7, unit: "day" },
-    { amount: 4.34524, unit: "week" },
-    { amount: 12, unit: "month" },
-    { amount: Number.POSITIVE_INFINITY, unit: "year" },
-  ];
-  let duration = diffSeconds;
-  for (const division of divisions) {
-    if (Math.abs(duration) < division.amount) {
-      return rtf.format(Math.round(duration), division.unit);
-    }
-    duration /= division.amount;
-  }
-  return "";
+  const diffSeconds = Math.max(0, Math.round((Date.now() - date.getTime()) / 1000));
+
+  if (diffSeconds < 60) return "now";
+
+  const minutes = diffSeconds / 60;
+  if (minutes < 60) return `${Math.floor(minutes)}m`;
+
+  const hours = minutes / 60;
+  if (hours < 24) return `${Math.floor(hours)}h`;
+
+  const days = hours / 24;
+  if (days < 7) return `${Math.floor(days)}d`;
+
+  const weeks = days / 7;
+  if (weeks < 4.34524) return `${Math.floor(weeks)}w`;
+
+  const months = days / 30.44;
+  if (months < 12) return `${Math.floor(months)}mo`;
+
+  return `${Math.floor(days / 365.25)}y`;
 }
 
 function buildArticleCard(article) {
