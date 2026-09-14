@@ -75,9 +75,8 @@ button {
 
 .header-icon {
   width: 40px;
-  height: 40px;
+  height: auto;
   display: block;
-  border-radius: 10px;
   transition: opacity 0.4s ease;
 }
 
