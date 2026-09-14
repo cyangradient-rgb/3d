@@ -20,6 +20,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     defaults:
       run:
         working-directory: publications-feed/scripts
@@ -35,6 +36,7 @@ jobs:
 
       - name: Fetch feeds
         run: npm run fetch
+        timeout-minutes: 3
 
       - name: Commit updated feed.json
         run: |

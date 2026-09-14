@@ -58,6 +58,28 @@ function articleId(item) {
   return item.guid || item.id || item.link;
 }
 
+// rss-parser's own `timeout` option isn't reliable against every host (some
+// connections never settle it), so race it against a timeout of our own —
+// this is what actually guarantees the job can't hang on one bad feed.
+function withTimeout(promise, ms, label) {
+  return new Promise((resolve, reject) => {
+    const timer = setTimeout(
+      () => reject(new Error(`Timed out after ${ms}ms fetching ${label}`)),
+      ms
+    );
+    promise.then(
+      (value) => {
+        clearTimeout(timer);
+        resolve(value);
+      },
+      (error) => {
+        clearTimeout(timer);
+        reject(error);
+      }
+    );
+  });
+}
+
 async function loadPreviousFeed() {
   try {
     const raw = await readFile(OUTPUT_PATH, "utf8");
@@ -69,7 +91,11 @@ async function loadPreviousFeed() {
 
 async function fetchSource(source) {
   try {
-    const feed = await parser.parseURL(source.feedUrl);
+    const feed = await withTimeout(
+      parser.parseURL(source.feedUrl),
+      FETCH_TIMEOUT_MS + 5000,
+      source.feedUrl
+    );
     const articles = (feed.items ?? [])
       .filter((item) => item.title && item.link)
       .slice(0, MAX_ITEMS_PER_SOURCE)
@@ -144,7 +170,14 @@ async function main() {
   }
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    // A stalled connection to some host can leave a dangling socket that
+    // keeps the event loop alive well past our own timeouts; force exit
+    // once the output is written rather than hoping Node drains naturally.
+    process.exit(0);
+  })
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
