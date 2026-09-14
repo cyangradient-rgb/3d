@@ -183,10 +183,17 @@ function buildArticleCard(article) {
 function render() {
   if (!currentFeed) return;
 
-  const visibleArticles =
+  // The underlying feed order is round-robined across sources to keep any
+  // one source from dominating, so it isn't strictly chronological — sort
+  // for display so the "today" / "yesterday" / ... dividers read in order
+  // instead of jumping backward and forward in time.
+  const visibleArticles = (
     selectedSourceIds === null
       ? currentFeed.articles
-      : currentFeed.articles.filter((article) => selectedSourceIds.has(article.sourceId));
+      : currentFeed.articles.filter((article) => selectedSourceIds.has(article.sourceId))
+  )
+    .slice()
+    .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0));
 
   articleListEl.innerHTML = "";
   if (visibleArticles.length === 0) {
