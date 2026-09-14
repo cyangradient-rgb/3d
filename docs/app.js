@@ -281,9 +281,14 @@ document.addEventListener(
   (event) => {
     if (pullStartY === null) return;
     const delta = event.touches[0].clientY - pullStartY;
+    if (delta <= 0) return;
+    // Take over the gesture while actively pulling down from the top, so
+    // the browser's own rubber-band bounce doesn't run at the same time as
+    // (and visually fight with) our own scale animation.
+    event.preventDefault();
     headerIconEl.style.transform = `scale(${scaleForPullDelta(delta)})`;
   },
-  { passive: true }
+  { passive: false }
 );
 
 document.addEventListener("touchend", (event) => {
