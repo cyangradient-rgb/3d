@@ -34,10 +34,14 @@ const parser = new Parser({
 //  - sanitize the occasional bare "&" that some feeds emit unescaped, which
 //    would otherwise fail the whole feed on one bad character
 async function fetchFeedXml(url, timeoutMs) {
+  // Deliberately no custom Accept header: the discover-feeds.mjs probes (no
+  // Accept override) reached feeds that 403'd when this fetch sent an
+  // RSS-specific Accept header, on hosts whose WAF apparently treats that
+  // header as bot-like. A plain default Accept looks more like a browser to
+  // them, ironically.
   const response = await fetch(url, {
     headers: {
       "User-Agent": USER_AGENT,
-      Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
     },
     redirect: "follow",
     signal: AbortSignal.timeout(timeoutMs),
