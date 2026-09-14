@@ -4,6 +4,7 @@ const DISABLED_SOURCES_KEY = "publicationsFeed.disabledSourceIds";
 const CACHED_FEED_KEY = "publicationsFeed.cachedFeed";
 
 const appHeaderEl = document.querySelector(".app-header");
+const headerIconEl = document.querySelector(".header-icon");
 const articleListEl = document.getElementById("articleList");
 const emptyStateEl = document.getElementById("emptyState");
 const statusTextEl = document.getElementById("statusText");
@@ -218,7 +219,15 @@ function hydrateFromCache() {
 }
 
 emptyRefreshButton.addEventListener("click", refresh);
-sourcesButton.addEventListener("click", () => sourcesDialog.showModal());
+sourcesButton.addEventListener("click", () => {
+  headerIconEl.classList.remove("is-bouncing");
+  void headerIconEl.offsetWidth; // restart the animation even on rapid taps
+  headerIconEl.classList.add("is-bouncing");
+  sourcesDialog.showModal();
+});
+headerIconEl.addEventListener("animationend", () => {
+  headerIconEl.classList.remove("is-bouncing");
+});
 closeSourcesButton.addEventListener("click", () => sourcesDialog.close());
 sourcesDialog.addEventListener("click", (event) => {
   if (event.target === sourcesDialog) sourcesDialog.close();
