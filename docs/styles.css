@@ -1,17 +1,19 @@
 :root {
   color-scheme: light dark;
-  --bg: #ffffff;
-  --text: #111111;
-  --text-muted: #8a8a8a;
-  --surface: #ffffff;
+  --bg: #faf8f4;
+  --text: #1a1611;
+  --text-muted: #8c8476;
+  --surface: #faf8f4;
+  --chip-bg: #f0ece3;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0a0a0a;
-    --text: #f2f2f2;
-    --text-muted: #7a7a7a;
-    --surface: #0a0a0a;
+    --bg: #14110d;
+    --text: #f3efe8;
+    --text-muted: #8f8779;
+    --surface: #14110d;
+    --chip-bg: #221d17;
   }
 }
 
@@ -203,6 +205,7 @@ button {
 
 .sources-dialog {
   border: none;
+  border-radius: 32px 32px 0 0;
   padding: 0;
   width: 100%;
   max-width: 480px;
@@ -219,6 +222,21 @@ button {
   background: rgba(0, 0, 0, 0.3);
 }
 
+@keyframes sheet-bounce-in {
+  0% {
+    transform: translateY(28px) scale(0.95);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.sources-dialog[open] {
+  animation: sheet-bounce-in 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
 .sources-dialog-header {
   display: flex;
   align-items: baseline;
@@ -226,40 +244,43 @@ button {
   padding: 28px 28px 20px;
 }
 
-.sources-list {
-  list-style: none;
+.sources-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
   margin: 0;
   padding: 0 28px calc(env(safe-area-inset-bottom) + 32px);
-  max-height: 70vh;
+  max-height: 60vh;
   overflow-y: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
 }
 
-.source-row {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 12px;
-}
-
-.source-row button {
-  background: none;
+.source-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 10px 18px;
   border: none;
-  padding: 0;
+  border-radius: 999px;
+  background: var(--chip-bg);
   color: var(--text);
-  text-align: left;
   cursor: pointer;
   font-family: inherit;
   font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  transition: transform 0.15s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.15s ease, color 0.15s ease;
 }
 
-.source-name-disabled {
-  color: var(--text-muted);
+.source-chip:active {
+  transform: scale(0.92);
 }
 
-.source-status {
-  color: var(--text-muted);
-  flex: none;
+.source-chip.is-selected {
+  background: var(--text);
+  color: var(--bg);
+}
+
+.source-chip.has-error::after {
+  content: "!";
+  opacity: 0.6;
 }
