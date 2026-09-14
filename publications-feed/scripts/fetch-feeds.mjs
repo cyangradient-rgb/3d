@@ -116,7 +116,7 @@ async function fetchSource(source) {
       .slice(0, MAX_ITEMS_PER_SOURCE)
       .map((item) => ({
         id: articleId(item),
-        title: item.title.trim(),
+        title: stripHtml(item.title, Infinity),
         link: item.link,
         summary: stripHtml(item.contentSnippet || item.content || item.summary || ""),
         publishedAt: item.isoDate || (item.pubDate ? new Date(item.pubDate).toISOString() : null),
