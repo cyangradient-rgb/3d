@@ -138,17 +138,21 @@ function buildDateDivider(label) {
   const divider = document.createElement("div");
   divider.className = "date-divider";
 
-  const leftSquiggle = document.createElement("span");
-  leftSquiggle.className = "squiggle";
+  const leftLeaf = document.createElement("span");
+  leftLeaf.className = "divider-leaf divider-leaf-left";
+  leftLeaf.textContent = "❧";
+  leftLeaf.setAttribute("aria-hidden", "true");
 
   const labelEl = document.createElement("span");
   labelEl.className = "date-divider-label";
   labelEl.textContent = label;
 
-  const rightSquiggle = document.createElement("span");
-  rightSquiggle.className = "squiggle";
+  const rightLeaf = document.createElement("span");
+  rightLeaf.className = "divider-leaf divider-leaf-right";
+  rightLeaf.textContent = "❧";
+  rightLeaf.setAttribute("aria-hidden", "true");
 
-  divider.append(leftSquiggle, labelEl, rightSquiggle);
+  divider.append(leftLeaf, labelEl, rightLeaf);
   return divider;
 }
 
