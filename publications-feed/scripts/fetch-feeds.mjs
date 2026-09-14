@@ -53,7 +53,12 @@ async function fetchFeedXml(url, timeoutMs) {
 }
 
 function sanitizeXmlEntities(xml) {
-  return xml.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, "&amp;");
+  return xml
+    .replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, "&amp;")
+    // A "<" is only valid XML as the start of a tag, comment, CDATA, or
+    // processing instruction — a bare "<" in text content (e.g. "< 3" or a
+    // math comparison) fails the whole feed otherwise.
+    .replace(/<(?![a-zA-Z/!?])/g, "&lt;");
 }
 
 function stripHtml(html, limit = 240) {
