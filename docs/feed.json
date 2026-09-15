@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T03:34:17.287Z",
+  "generatedAt": "2026-09-15T09:13:07.653Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -126,8 +126,8 @@
       "name": "Daily Stoic",
       "siteUrl": "https://dailystoic.com",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "the-marginalian",
@@ -284,6 +284,39 @@
   ],
   "articles": [
     {
+      "id": "https://www.surfacemag.com/?p=211555",
+      "title": "For Its 25th Anniversary, the Houston Center for Contemporary Craft Explores the Legacy of Silver, and Other News.",
+      "link": "https://www.surfacemag.com/articles/houston-center-for-contemporary-craft-explores-the-legacy-of-silver/",
+      "summary": "Plus, Rimowa partners with Faber-Castell, and Renaissance scholar Vincent Delieuvin is confirmed to lead the Louvre's painting department. Photo by Photo by David Hunter Hale. For its 25th anniversary, the Houston Center for Contemporary Cr…",
+      "publishedAt": "2026-09-15T09:11:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49708774",
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "summary": "Article URL: https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013 Comments URL: https://news.ycombinator.com/item?id=49708774 Points: 0 # Comments: 0",
+      "publishedAt": "2026-09-15T07:00:30.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "6aa814340d8209284f1f588d",
+      "title": "Believer",
+      "link": "https://pitchfork.com/reviews/albums/angela-autumn-believer/",
+      "summary": "The Nashville-based songwriter channels her Appalachian roots into empathetic, slightly psychedelic banjo- and guitar-led songs that explore what a leap of faith can offer when certainty is gone.",
+      "publishedAt": "2026-09-15T04:03:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa1b4e647cdf650cd630001/master/pass/126849.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "https://coloradosun.com/?p=502236",
       "title": "US Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
       "link": "https://coloradosun.com/2026/09/14/trump-ballot-supreme-court-ruling-colorado-impact/",
@@ -304,17 +337,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49706223",
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 52 # Com…",
-      "publishedAt": "2026-09-15T00:40:14.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=125044&secret=cM2XMtKpK3Lj&nonce=4a19f28423",
@@ -405,17 +427,6 @@
       "category": "ideas"
     },
     {
-      "id": "6a9864420d8477415f9006f1",
-      "title": "Wavves’ Nathan Williams Details Rerecorded Cherry Soda Album",
-      "link": "https://pitchfork.com/story/wavves-to-rerecord-say-anything-collab-album-cherry-soda-max-bemis-allegations/",
-      "summary": "Say Anything’s Max Bemis was booted from the project following accusations of inappropriate conduct with underage fans",
-      "publishedAt": "2026-09-14T17:34:41.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa81ca02dcf20c85979f85c/master/pass/Wavves-Nathan-Williams.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "https://greatergood.berkeley.edu/article/item/how_love_saves_lives#When:14:54:00Z",
       "title": "How Love Saves Lives",
       "link": "https://greatergood.berkeley.edu/article/item/how_love_saves_lives",
@@ -480,17 +491,6 @@
       "sourceId": "tricycle",
       "sourceName": "Tricycle: The Buddhist Review",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=211447",
-      "title": "Marc Jacobs Celebrates the Return of Marc Jacobs Beauty With a NYFW Party",
-      "link": "https://www.surfacemag.com/articles/marc-jacobs-celebrates-the-return-of-marc-jacobs-beauty-with-a-party-at-sartianos/",
-      "summary": "In true downtown Manhattan style, Marc Jacobs threw a party at Sartiano's to celebrate the return of his eponymous beauty label after 13 years away. Steeped in 2010s nostalgia, Marc Jacobs Beauty relaunches with bolder color, distinctive me…",
-      "publishedAt": "2026-09-14T09:51:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
     },
     {
       "id": "https://www.densediscovery.com/issues/406/",
@@ -582,9 +582,9 @@
     },
     {
       "id": "CBMicEFVX3lxTE1ZYS1ubjNnZ3dtckdaN1dYYVJmVlZqZWt0ZWUyU18ybk4yZ01lLXd6THFVNnpBQmVvUmVORHFFdjNlX0I2bTFVQ1BKZWNrbGxiOUptbThmTGdRN2FYZzY1ZlBxaDljUFBwZXAxZlAtenk",
-      "title": "The Death of The Middle - Read Something Great",
+      "title": "The Death of The Middle - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZYS1ubjNnZ3dtckdaN1dYYVJmVlZqZWt0ZWUyU18ybk4yZ01lLXd6THFVNnpBQmVvUmVORHFFdjNlX0I2bTFVQ1BKZWNrbGxiOUptbThmTGdRN2FYZzY1ZlBxaDljUFBwZXAxZlAtenk?oc=5",
-      "summary": "The Death of The Middle Read Something Great",
+      "summary": "The Death of The Middle readsomethinggreat.com",
       "publishedAt": "2026-07-24T20:30:30.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -647,6 +647,28 @@
       "category": "design"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49708431",
+      "title": "I can't stop thinking about Papua New Guinea",
+      "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "summary": "Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua Comments URL: https://news.ycombinator.com/item?id=49708431 Points: 65 # Comments: 15",
+      "publishedAt": "2026-09-15T06:16:24.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "6aa814b2ae3e28fd3939bde0",
+      "title": "Anatomy of a Brief Romance",
+      "link": "https://pitchfork.com/reviews/albums/bloc-party-anatomy-of-a-brief-romance/",
+      "summary": "Twenty-one years ago, the group opened its debut LP with a breakup song for the ages. Its latest comeback is a breakup record that may have even longtime fans eyeing the exit.",
+      "publishedAt": "2026-09-15T04:02:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa812d3643c10588dc1bdfd/master/pass/Bloc%20Party%20-%20Anatomy%20of%20a%20Brief%20Romance.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "https://interestingengineering.com/?p=309728",
       "title": "Fully integrated 6,000-mile Sentinel missile assembled vertically for the first time",
       "link": "https://interestingengineering.com/military/sentinel-missile-6000-mile-range-vertical-assembly",
@@ -656,17 +678,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49705442",
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "link": "https://github.com/JamesRyanATX/fcbnerd",
-      "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 44 # Comments: 9",
-      "publishedAt": "2026-09-14T23:01:36.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "https://coloradosun.com/?p=502197",
@@ -724,17 +735,6 @@
       "category": "local"
     },
     {
-      "id": "6aa44195fc33f9dc43bef78d",
-      "title": "Ella Langley’s “Choosin’ Texas” Ties Record for Most Weeks at No. 1",
-      "link": "https://pitchfork.com/story/ella-langleys-choosin-texas-ties-record-for-most-weeks-spent-at-no-1/",
-      "summary": "The country smash is a hair’s breadth from surpassing Mariah Carey’s “All I Want for Christmas Is You”",
-      "publishedAt": "2026-09-14T17:20:37.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa4548ecb9b95cbc4497817/master/pass/Ella-Langley.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "https://www.dwell.com/article/before-and-after-san-francisco-fog-b52bda49",
       "title": "Before & After: They Remodeled Their San Francisco Home to Capture Views of the City’s Famous Fog",
       "link": "https://www.dwell.com/article/before-and-after-san-francisco-fog-b52bda49",
@@ -790,11 +790,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.surfacemag.com/?p=211470",
-      "title": "Dr. Maria Geyman on Family, Memory, and the Making of With Tea",
-      "link": "https://www.surfacemag.com/articles/dr-maria-geyman-on-family-memory-and-the-making-of-with-tea/",
-      "summary": "The naturopathic doctor and Masha Tea founder discusses her Ukrainian grandmother's Brooklyn apartment, the herbalism behind her blends, and why she wanted her debut book to weave together travel, history, and ritual. From With Tea by Maria…",
-      "publishedAt": "2026-09-14T09:31:00.000Z",
+      "id": "https://www.surfacemag.com/?p=211447",
+      "title": "Marc Jacobs Celebrates the Return of Marc Jacobs Beauty With a NYFW Party",
+      "link": "https://www.surfacemag.com/articles/marc-jacobs-celebrates-the-return-of-marc-jacobs-beauty-with-a-party-at-sartianos/",
+      "summary": "In true downtown Manhattan style, Marc Jacobs threw a party at Sartiano's to celebrate the return of his eponymous beauty label after 13 years away. Steeped in 2010s nostalgia, Marc Jacobs Beauty relaunches with bolder color, distinctive me…",
+      "publishedAt": "2026-09-14T09:51:00.000Z",
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
@@ -945,9 +945,9 @@
     },
     {
       "id": "CBMiY0FVX3lxTFB3WkRMZzI4bzdFWXc5OG16ZUNzSHVHV3RqZ18wQmQwUW5yZnl1WXRoYU8xRVVENEl5SjNtQXEwcWVuai1TaXNRejZMZFdiTm5PSHhtVG5UdC1iVnYzbzFfdVZfWQ",
-      "title": "Read Something Great - Read Something Great",
+      "title": "Read Something Great - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3WkRMZzI4bzdFWXc5OG16ZUNzSHVHV3RqZ18wQmQwUW5yZnl1WXRoYU8xRVVENEl5SjNtQXEwcWVuai1TaXNRejZMZFdiTm5PSHhtVG5UdC1iVnYzbzFfdVZfWQ?oc=5",
-      "summary": "Read Something Great Read Something Great",
+      "summary": "Read Something Great readsomethinggreat.com",
       "publishedAt": "2026-06-27T23:59:31.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -1010,6 +1010,28 @@
       "category": "design"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49707627",
+      "title": "Linux from Scratch",
+      "link": "https://www.linuxfromscratch.org/",
+      "summary": "Article URL: https://www.linuxfromscratch.org/ Comments URL: https://news.ycombinator.com/item?id=49707627 Points: 160 # Comments: 55",
+      "publishedAt": "2026-09-15T04:15:23.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "6aa821630d8209284f1f596b",
+      "title": "The World Is Yours",
+      "link": "https://pitchfork.com/reviews/albums/rio-da-yung-og-the-world-is-yours/",
+      "summary": "The 32-year-old rapper made his name with audacious punchlines and moments of startling candor, but his latest album is weighed down by a pervasive air of exhaustion.",
+      "publishedAt": "2026-09-15T04:01:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa81e5bba5465c58fc879cc/master/pass/Rio%20Da%20Yung%20OG%20-%20The%20World%20Is%20Yours.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "https://interestingengineering.com/?p=309727",
       "title": "UK-US supercomputers team up to combine tokamak data and build smarter fusion twins",
       "link": "https://interestingengineering.com/innovation/uk-us-fusion-supercomputers-ai-tokamak-digital-twins",
@@ -1019,17 +1041,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49704246",
-      "title": "Charts built for Chat",
-      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 131 # Comments: 41",
-      "publishedAt": "2026-09-14T21:22:54.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "https://nautil.us/?p=1285021",
@@ -1065,17 +1076,6 @@
       "category": "science"
     },
     {
-      "id": "6aa815a32dcf20c85979f7a7",
-      "title": "“Anonymat”",
-      "link": "https://pitchfork.com/reviews/lovnee-anonymat/",
-      "summary": "The Martinician rapper-singer’s new single has a little something for everyone.",
-      "publishedAt": "2026-09-14T16:45:32.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa8162cfc9433b4f792b65a/master/pass/lov.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "CBMieEFVX3lxTE1VMjQ0THdMU0lqbmJzMmktclF4TmRiR0JRVV84d1FoYmVlLThxOHYzMW1aVVlDcGZjNVUyOGZUMENESnBVT1hWX0lTXzIyZEo0VWlFRGd3V2Z0TnQ4WWJHT0owTklHa0pLd2hlNUpBSHlmajRfWVlmNg",
       "title": "Shooter remains at large after juvenile wounded at Longmont Dollar Tree - Daily Camera",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VMjQ0THdMU0lqbmJzMmktclF4TmRiR0JRVV84d1FoYmVlLThxOHYzMW1aVVlDcGZjNVUyOGZUMENESnBVT1hWX0lTXzIyZEo0VWlFRGd3V2Z0TnQ4WWJHT0owTklHa0pLd2hlNUpBSHlmajRfWVlmNg?oc=5",
@@ -1109,11 +1109,11 @@
       "category": "design"
     },
     {
-      "id": "https://www.surfacemag.com/?p=211480",
-      "title": "Studio MUKA Turns a Historic Santa Monica Airport Terminal Into NEON’s Cinematic Headquarters, and Other News.",
-      "link": "https://www.surfacemag.com/articles/studio-muka-turns-a-historic-santa-monica-airport-terminal-into-neon-rateds-cinematic-headquarters/",
-      "summary": "Plus, DVF's first runway show in a decade under Henry Zankov, and Julian Casablancas to soundtrack Picasso and Warhol at Singapore's Opera Gallery. Photo by William Jess Laird. Studio MUKA turns a historic Santa Monica airport terminal into…",
-      "publishedAt": "2026-09-14T09:15:00.000Z",
+      "id": "https://www.surfacemag.com/?p=211470",
+      "title": "Dr. Maria Geyman on Family, Memory, and the Making of With Tea",
+      "link": "https://www.surfacemag.com/articles/dr-maria-geyman-on-family-memory-and-the-making-of-with-tea/",
+      "summary": "The naturopathic doctor and Masha Tea founder discusses her Ukrainian grandmother's Brooklyn apartment, the herbalism behind her blends, and why she wanted her debut book to weave together travel, history, and ritual. From With Tea by Maria…",
+      "publishedAt": "2026-09-14T09:31:00.000Z",
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
@@ -1308,9 +1308,9 @@
     },
     {
       "id": "CBMiY0FVX3lxTE1DenNFaDJ2dllHZUFrVDZ4TVpuOHJUbG5kYjcxMUh6R0ZSZllFd05TQ1EwRlBBM2dQb2pwUThEcG1HdzlwMkRHSzkwNVZCVkdoMTdTM0xEcmxIeDJHWkNIQ0hFMA",
-      "title": "Crony Beliefs - Read Something Great",
+      "title": "Crony Beliefs - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DenNFaDJ2dllHZUFrVDZ4TVpuOHJUbG5kYjcxMUh6R0ZSZllFd05TQ1EwRlBBM2dQb2pwUThEcG1HdzlwMkRHSzkwNVZCVkdoMTdTM0xEcmxIeDJHWkNIQ0hFMA?oc=5",
-      "summary": "Crony Beliefs Read Something Great",
+      "summary": "Crony Beliefs readsomethinggreat.com",
       "publishedAt": "2026-03-23T23:51:16.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -1327,6 +1327,17 @@
       "sourceId": "new-norm",
       "sourceName": "New Norm",
       "category": "design"
+    },
+    {
+      "id": "CBMibkFVX3lxTE5oVWszMzczUU5VbHF5X1R1Tlg5X1JQRHdydHR4LVo2a0lsTHJwQzFma0oxYTdpdm9QNlRnaUVORDI5eHNrdmtod3lwVW5rZC1Na090VlhxbkRXeVByUUw0NjJoekNCZHBMUlpQWUVR",
+      "title": "Mental exhaustion: Symptoms, causes, and how to recover - Headspace",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oVWszMzczUU5VbHF5X1R1Tlg5X1JQRHdydHR4LVo2a0lsTHJwQzFma0oxYTdpdm9QNlRnaUVORDI5eHNrdmtod3lwVW5rZC1Na090VlhxbkRXeVByUUw0NjJoekNCZHBMUlpQWUVR?oc=5",
+      "summary": "Mental exhaustion: Symptoms, causes, and how to recover Headspace",
+      "publishedAt": "2025-07-07T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "headspace",
+      "sourceName": "Headspace",
+      "category": "ideas"
     },
     {
       "id": "https://assemblepapers.com.au/?p=33591",
@@ -1351,17 +1362,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiW0FVX3lxTE5pa0pDUTUwZTlzRVpLdTdUdng1WHBITlI5V1I3cmh6TnJtQVA2dFdMNnFuNXdDYVBMb1BRTXpPZy0tby10Zl9oUnBsLThXWTFnUEd0RE4wanoxU0k",
-      "title": "Headspace Q&A: Justin Jarel - Headspace",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pa0pDUTUwZTlzRVpLdTdUdng1WHBITlI5V1I3cmh6TnJtQVA2dFdMNnFuNXdDYVBMb1BRTXpPZy0tby10Zl9oUnBsLThXWTFnUEd0RE4wanoxU0k?oc=5",
-      "summary": "Headspace Q&A: Justin Jarel Headspace",
-      "publishedAt": "2021-06-20T23:44:04.000Z",
-      "imageUrl": null,
-      "sourceId": "headspace",
-      "sourceName": "Headspace",
-      "category": "ideas"
-    },
-    {
       "id": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-1",
       "title": "Fonts in Popular Culture Identified Vol. 1",
       "link": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-1",
@@ -1373,6 +1373,28 @@
       "category": "design"
     },
     {
+      "id": "6aa818b6fc9433b4f792b6a2",
+      "title": "Honest Feeling Album (素直な気持ちアルバム)",
+      "link": "https://pitchfork.com/reviews/albums/hakushi-hasegawa-honest-feeling-album/",
+      "summary": "The omnivorous Japanese producer’s new LP jams a little of almost everything: knotty freeform jazz, proggy pop, noisy electronics, and triumphant J-rock.",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa817de9fa9afd2969a49a4/master/pass/Hakushi%20Hasegawa%20-%20Honest%20Feeling%20Album%20art.png",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49707473",
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ck790xg41ygro Comments URL: https://news.ycombinator.com/item?id=49707473 Points: 16 # Comments: 0",
+      "publishedAt": "2026-09-15T03:47:56.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "https://interestingengineering.com/?p=309711",
       "title": "Cooling system cuts fuel-cell heat in hydrogen-electric aircraft for 800-mile flights",
       "link": "https://interestingengineering.com/transportation/beyond-aero-hydrogen-aircraft-fuel-cell-heat",
@@ -1382,17 +1404,6 @@
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49704008",
-      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-      "summary": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 180 # Comments: 185",
-      "publishedAt": "2026-09-14T21:05:22.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "https://nautil.us/?p=1285010",
@@ -1417,17 +1428,6 @@
       "category": "science"
     },
     {
-      "id": "6aa8172aba5465c58fc87921",
-      "title": "Macklemore Kicked Off Ed Sheeran Tour for Pro-Palestine Comments",
-      "link": "https://pitchfork.com/story/macklemore-kicked-off-ed-sheeran-tour-for-pro-palestine-comments/",
-      "summary": "“Ed was in a fucked up position,” the rapper said in a statement alleging Sheeran bowed to pressure from Robert Kraft",
-      "publishedAt": "2026-09-14T16:31:57.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa81eaa0d8209284f1f5963/master/pass/ed-sheeran-kicks-macklemore-off-tour.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "https://www.thebrighterside.news/api/preview?id=126720&secret=cM2XMtKpK3Lj&nonce=3a2561ed6e",
       "title": "Future Mars astronauts may need eye surgery millions of miles from Earth",
       "link": "https://www.thebrighterside.news/post/future-mars-astronauts-may-need-eye-surgery-millions-of-miles-from-earth/",
@@ -1448,6 +1448,17 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
+    },
+    {
+      "id": "https://www.surfacemag.com/?p=211480",
+      "title": "Studio MUKA Turns a Historic Santa Monica Airport Terminal Into NEON’s Cinematic Headquarters, and Other News.",
+      "link": "https://www.surfacemag.com/articles/studio-muka-turns-a-historic-santa-monica-airport-terminal-into-neon-rateds-cinematic-headquarters/",
+      "summary": "Plus, DVF's first runway show in a decade under Henry Zankov, and Julian Casablancas to soundtrack Picasso and Warhol at Singapore's Opera Gallery. Photo by William Jess Laird. Studio MUKA turns a historic Santa Monica airport terminal into…",
+      "publishedAt": "2026-09-14T09:15:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
     },
     {
       "id": "https://thelocalproject.com.au/?p=463603",
@@ -1525,17 +1536,6 @@
       "sourceId": "tricycle",
       "sourceName": "Tricycle: The Buddhist Review",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=211385",
-      "title": "Bulgari Celebrates Serpenti Infinito at The Standard, High Line",
-      "link": "https://www.surfacemag.com/articles/bulgari-serpenti-infinito-the-standard-high-line/",
-      "summary": "Bulgari brought Serpenti Infinito, its global art and heritage platform, to New York with \"auruBOROS,\" a golden form by Berlin duo Plastique Fantastique that appears to swirl along the High Line elevated park. For its unveiling, guests gaze…",
-      "publishedAt": "2026-09-11T09:55:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
     },
     {
       "id": "https://boulderreportinglab.org/?p=125387",
@@ -1671,9 +1671,9 @@
     },
     {
       "id": "CBMilgFBVV95cUxNQ2VQSExMaFhTQ01UV3N1WFZSdWs5RGppa0RnZXlieFBWTHlPSmE5N1hZSVcyYk02dnRiV0Fic0xDVzVIM3QtNGhXcUhTWEJnTGJxcjBnamhZLVI0MWo1WE5BUi16Ul9rbGZyS3BPeklwMnpiZ0hFZV83bnNrR21pYVlhbFFGQXZFYmozWGYyRXhBcS1DeEE",
-      "title": "Engineers of the Soul: Ideology in Xi Jinping's China - Read Something Great",
+      "title": "Engineers of the Soul: Ideology in Xi Jinping's China - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2VQSExMaFhTQ01UV3N1WFZSdWs5RGppa0RnZXlieFBWTHlPSmE5N1hZSVcyYk02dnRiV0Fic0xDVzVIM3QtNGhXcUhTWEJnTGJxcjBnamhZLVI0MWo1WE5BUi16Ul9rbGZyS3BPeklwMnpiZ0hFZV83bnNrR21pYVlhbFFGQXZFYmozWGYyRXhBcS1DeEE?oc=5",
-      "summary": "Engineers of the Soul: Ideology in Xi Jinping's China Read Something Great",
+      "summary": "Engineers of the Soul: Ideology in Xi Jinping's China readsomethinggreat.com",
       "publishedAt": "2026-02-07T17:37:08.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -1714,11 +1714,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMid0FVX3lxTE51elpYMWNXdExsMTJVNUQxNUVSUzVqMmR1cFlkT2Z1a0VMOGhNQzZWaW94eU9ZakNJTFczZ29HclBYckpJV3dfekVSVWwtQmtNSGJFN2Z2YUNrcG5SWlc0b2ttZmcyX1dMX0kwc3htRjAwaE5ja0xR",
-      "title": "A bald man's guide to bad hair days - Headspace",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51elpYMWNXdExsMTJVNUQxNUVSUzVqMmR1cFlkT2Z1a0VMOGhNQzZWaW94eU9ZakNJTFczZ29HclBYckpJV3dfekVSVWwtQmtNSGJFN2Z2YUNrcG5SWlc0b2ttZmcyX1dMX0kwc3htRjAwaE5ja0xR?oc=5",
-      "summary": "A bald man's guide to bad hair days Headspace",
-      "publishedAt": "2021-06-18T12:58:52.000Z",
+      "id": "CBMiW0FVX3lxTE5pa0pDUTUwZTlzRVpLdTdUdng1WHBITlI5V1I3cmh6TnJtQVA2dFdMNnFuNXdDYVBMb1BRTXpPZy0tby10Zl9oUnBsLThXWTFnUEd0RE4wanoxU0k",
+      "title": "Headspace Q&A: Justin Jarel - Headspace",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pa0pDUTUwZTlzRVpLdTdUdng1WHBITlI5V1I3cmh6TnJtQVA2dFdMNnFuNXdDYVBMb1BRTXpPZy0tby10Zl9oUnBsLThXWTFnUEd0RE4wanoxU0k?oc=5",
+      "summary": "Headspace Q&A: Justin Jarel Headspace",
+      "publishedAt": "2021-06-20T23:44:04.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
@@ -1747,15 +1747,26 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49703003",
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 120 # Comments: 115",
-      "publishedAt": "2026-09-14T19:56:20.000Z",
+      "id": "https://news.ycombinator.com/item?id=49705442",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 63 # Comments: 16",
+      "publishedAt": "2026-09-14T23:01:36.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6a9864420d8477415f9006f1",
+      "title": "Wavves’ Nathan Williams Details Rerecorded Cherry Soda Album",
+      "link": "https://pitchfork.com/story/wavves-to-rerecord-say-anything-collab-album-cherry-soda-max-bemis-allegations/",
+      "summary": "Say Anything’s Max Bemis was booted from the project following accusations of inappropriate conduct with underage fans",
+      "publishedAt": "2026-09-14T17:34:41.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa81ca02dcf20c85979f85c/master/pass/Wavves-Nathan-Williams.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1285005",
@@ -1778,17 +1789,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6aa6de04ebe07e992ee6d1fb",
-      "title": "Oasis Announce 2027 Tour",
-      "link": "https://pitchfork.com/story/oasis-announce-2027-tour/",
-      "summary": "The brothers Gallagher have set a slew of new dates in the U.S. and Europe, including a historic return to Knebworth Park",
-      "publishedAt": "2026-09-14T15:49:54.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa6df17f84608eff23e0f55/master/pass/GettyImages-2293762428.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126709&secret=cM2XMtKpK3Lj&nonce=3a2561ed6e",
@@ -1868,11 +1868,11 @@
       "category": "design"
     },
     {
-      "id": "https://www.surfacemag.com/?p=211422",
-      "title": "Birkenstock and Etro Unveil Their First-Ever Collaboration",
-      "link": "https://www.surfacemag.com/articles/birkenstock-and-etro-unveil-their-first-ever-collaboration/",
-      "summary": "Drawing on its unmistakable pattern, the Italian brand puts its own spin on two of the German label's bestsellers: the Boston and the Gizeh. Courtesy of Birkenstock x Etro. Birkenstock and Etro have officially launched their first collabora…",
-      "publishedAt": "2026-09-11T09:30:00.000Z",
+      "id": "https://www.surfacemag.com/?p=211385",
+      "title": "Bulgari Celebrates Serpenti Infinito at The Standard, High Line",
+      "link": "https://www.surfacemag.com/articles/bulgari-serpenti-infinito-the-standard-high-line/",
+      "summary": "Bulgari brought Serpenti Infinito, its global art and heritage platform, to New York with \"auruBOROS,\" a golden form by Berlin duo Plastique Fantastique that appears to swirl along the High Line elevated park. For its unveiling, guests gaze…",
+      "publishedAt": "2026-09-11T09:55:00.000Z",
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
@@ -2033,11 +2033,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMibkFVX3lxTE9jRVdjcFFWSjBOdnNESUw1NGlybWl2R0djaUtmdUc2eW8xUVRvYy01dDZQVlBYOEhOblJqbjVEMWREMXEyNWxWSHFGWDJWeG1OSWlvTHljR2lic0xCdHZoVjlydXdTR0s4SEhzS2dn",
-      "title": "Shang Residences at Wack Wack by Little Tipsy Mostly Creative (LTMC) - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jRVdjcFFWSjBOdnNESUw1NGlybWl2R0djaUtmdUc2eW8xUVRvYy01dDZQVlBYOEhOblJqbjVEMWREMXEyNWxWSHFGWDJWeG1OSWlvTHljR2lic0xCdHZoVjlydXdTR0s4SEhzS2dn?oc=5",
-      "summary": "Shang Residences at Wack Wack by Little Tipsy Mostly Creative (LTMC) New Norm Magazine",
-      "publishedAt": "2025-08-17T21:43:25.000Z",
+      "id": "CBMiYkFVX3lxTFBVcmdYcVJ3cmtuN2JoX0FPV3FGcHlrR1BEOW45YnE4UWpBWE5INW0wbU40Z3M0R1pRczNqbzR1MWhPa3FVdlFiQ0NrdFFIWlF4Tm1RSDBIbFZPUWZCd0U3Tzh3",
+      "title": "The Curlicue House by S+Arch - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVcmdYcVJ3cmtuN2JoX0FPV3FGcHlrR1BEOW45YnE4UWpBWE5INW0wbU40Z3M0R1pRczNqbzR1MWhPa3FVdlFiQ0NrdFFIWlF4Tm1RSDBIbFZPUWZCd0U3Tzh3?oc=5",
+      "summary": "The Curlicue House by S+Arch New Norm Magazine",
+      "publishedAt": "2025-09-05T14:46:10.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -2045,9 +2045,9 @@
     },
     {
       "id": "CBMibkFVX3lxTE1VcnhiR1dUY2dseGJ4ZXV3QXpKU0hZU3dQakhzMXU4LU9NUE1WMjl0eGZ0ZHdSSEhUSjhfUHlMcDc1Q2FmeTZSZV9RLU9udFR5aEhaMktrYk9BemltYU1nM2lFTUdmamVtbjY5bTln",
-      "title": "A Project of One's Own - Read Something Great",
+      "title": "A Project of One's Own - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VcnhiR1dUY2dseGJ4ZXV3QXpKU0hZU3dQakhzMXU4LU9NUE1WMjl0eGZ0ZHdSSEhUSjhfUHlMcDc1Q2FmeTZSZV9RLU9udFR5aEhaMktrYk9BemltYU1nM2lFTUdmamVtbjY5bTln?oc=5",
-      "summary": "A Project of One's Own Read Something Great",
+      "summary": "A Project of One's Own readsomethinggreat.com",
       "publishedAt": "2024-09-25T18:48:31.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -2077,11 +2077,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMickFVX3lxTE0xSGQ3a244Zmk2YVo0WWk0VG5RVFd1S3Q1ZzFjdXlGbVVmN2V0bThGNTNaWjU4YnEtM2pEMC0ydVU0RnpfODQxTDNrMU91eHJBQUdXcDUtS28wQXgyQjZCemJWRm5ib240VWpTajd4WDUydw",
-      "title": "The guinea pig diaries: part 3 - Headspace",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xSGQ3a244Zmk2YVo0WWk0VG5RVFd1S3Q1ZzFjdXlGbVVmN2V0bThGNTNaWjU4YnEtM2pEMC0ydVU0RnpfODQxTDNrMU91eHJBQUdXcDUtS28wQXgyQjZCemJWRm5ib240VWpTajd4WDUydw?oc=5",
-      "summary": "The guinea pig diaries: part 3 Headspace",
-      "publishedAt": "2021-06-17T22:13:35.000Z",
+      "id": "CBMid0FVX3lxTE51elpYMWNXdExsMTJVNUQxNUVSUzVqMmR1cFlkT2Z1a0VMOGhNQzZWaW94eU9ZakNJTFczZ29HclBYckpJV3dfekVSVWwtQmtNSGJFN2Z2YUNrcG5SWlc0b2ttZmcyX1dMX0kwc3htRjAwaE5ja0xR",
+      "title": "A bald man's guide to bad hair days - Headspace",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51elpYMWNXdExsMTJVNUQxNUVSUzVqMmR1cFlkT2Z1a0VMOGhNQzZWaW94eU9ZakNJTFczZ29HclBYckpJV3dfekVSVWwtQmtNSGJFN2Z2YUNrcG5SWlc0b2ttZmcyX1dMX0kwc3htRjAwaE5ja0xR?oc=5",
+      "summary": "A bald man's guide to bad hair days Headspace",
+      "publishedAt": "2021-06-18T12:58:52.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
@@ -2110,15 +2110,26 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49701182",
-      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-      "link": "https://pub.sakana.ai/pc-alm/",
-      "summary": "https://arxiv.org/abs/2605.31022 https://github.com/SakanaAI/pc-alm Comments URL: https://news.ycombinator.com/item?id=49701182 Points: 52 # Comments: 11",
-      "publishedAt": "2026-09-14T18:03:12.000Z",
+      "id": "https://news.ycombinator.com/item?id=49704246",
+      "title": "Charts built for Chat",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 220 # Comments: 66",
+      "publishedAt": "2026-09-14T21:22:54.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6aa44195fc33f9dc43bef78d",
+      "title": "Ella Langley’s “Choosin’ Texas” Ties Record for Most Weeks at No. 1",
+      "link": "https://pitchfork.com/story/ella-langleys-choosin-texas-ties-record-for-most-weeks-spent-at-no-1/",
+      "summary": "The country smash is a hair’s breadth from surpassing Mariah Carey’s “All I Want for Christmas Is You”",
+      "publishedAt": "2026-09-14T17:20:37.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa4548ecb9b95cbc4497817/master/pass/Ella-Langley.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "MYRfADu5yfmHgrCmzQTNiL",
@@ -2130,17 +2141,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6aa77afc643c10588dc1bd3c",
-      "title": "Jeff Tweedy, Robert Glasper, Weyes Blood to Play Big Ears 2027",
-      "link": "https://pitchfork.com/story/jeff-tweedy-robert-glasper-weyes-blood-to-play-big-ears-2027/",
-      "summary": "Oneohtrix Point Never, Thundercat, Wednesday, Courtney Barnett, SML, Dinner Party, Sylvan Esso, and more will also perform at the Knoxville festival",
-      "publishedAt": "2026-09-14T14:05:59.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa7fd490d8209284f1f587d/master/pass/Jeff-Tweedy-Robert-Glasper-Big-Ears.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1284999",
@@ -2231,11 +2231,11 @@
       "category": "design"
     },
     {
-      "id": "https://www.surfacemag.com/?p=211397",
-      "title": "DRIFT Helped to Reconstruct the Twin Towers at Full Architectural Scale From 2,977 Lights, and Other News.",
-      "link": "https://www.surfacemag.com/articles/drift-helped-to-rebuild-the-twin-towers-at-full-architectural-scale-from-2977-lights/",
-      "summary": "Plus, Princess Diana's \"revenge dress\" will be auctioned at Sotheby's, and Parisian cultural club Silencio will open a Berlin popup. Image courtesy of Craig Barritt / Getty Images. DRIFT helped to rebuild the Twin Towers at full architectur…",
-      "publishedAt": "2026-09-11T09:27:00.000Z",
+      "id": "https://www.surfacemag.com/?p=211422",
+      "title": "Birkenstock and Etro Unveil Their First-Ever Collaboration",
+      "link": "https://www.surfacemag.com/articles/birkenstock-and-etro-unveil-their-first-ever-collaboration/",
+      "summary": "Drawing on its unmistakable pattern, the Italian brand puts its own spin on two of the German label's bestsellers: the Boston and the Gizeh. Courtesy of Birkenstock x Etro. Birkenstock and Etro have officially launched their first collabora…",
+      "publishedAt": "2026-09-11T09:30:00.000Z",
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
@@ -2396,11 +2396,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91",
-      "title": "G Residence by Atelier01 (A01) - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91?oc=5",
-      "summary": "G Residence by Atelier01 (A01) New Norm Magazine",
-      "publishedAt": "2025-07-29T21:18:52.000Z",
+      "id": "CBMibkFVX3lxTE9jRVdjcFFWSjBOdnNESUw1NGlybWl2R0djaUtmdUc2eW8xUVRvYy01dDZQVlBYOEhOblJqbjVEMWREMXEyNWxWSHFGWDJWeG1OSWlvTHljR2lic0xCdHZoVjlydXdTR0s4SEhzS2dn",
+      "title": "Shang Residences at Wack Wack by Little Tipsy Mostly Creative (LTMC) - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jRVdjcFFWSjBOdnNESUw1NGlybWl2R0djaUtmdUc2eW8xUVRvYy01dDZQVlBYOEhOblJqbjVEMWREMXEyNWxWSHFGWDJWeG1OSWlvTHljR2lic0xCdHZoVjlydXdTR0s4SEhzS2dn?oc=5",
+      "summary": "Shang Residences at Wack Wack by Little Tipsy Mostly Creative (LTMC) New Norm Magazine",
+      "publishedAt": "2025-08-17T21:43:25.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -2419,9 +2419,9 @@
     },
     {
       "id": "CBMifEFVX3lxTE9YQlotdGxfeGpUQ0dmMGw0Wmp6ZGFjN3FFc3IxbHJ1eXZBZDJITXZQcm1ER3RSbjR4SmpfXzBZcW1KV0lqUnN6UHV4WmhpNjZqdmp4bHNCclF0SlRFd25BT1BVemY4VDNaREhscl95aHRTYU92NHZVc2UtSWQ",
-      "title": "Growth Loops are the New Funnels - Read Something Great",
+      "title": "Growth Loops are the New Funnels - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YQlotdGxfeGpUQ0dmMGw0Wmp6ZGFjN3FFc3IxbHJ1eXZBZDJITXZQcm1ER3RSbjR4SmpfXzBZcW1KV0lqUnN6UHV4WmhpNjZqdmp4bHNCclF0SlRFd25BT1BVemY4VDNaREhscl95aHRTYU92NHZVc2UtSWQ?oc=5",
-      "summary": "Growth Loops are the New Funnels Read Something Great",
+      "summary": "Growth Loops are the New Funnels readsomethinggreat.com",
       "publishedAt": "2024-04-25T15:43:44.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -2440,11 +2440,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiakFVX3lxTE15UGVkVzJhY0ZaaVRUX3U4b2JINTlWUUw5Mmd6MlpmUHpnTGQ2MDNnSnRjN2NoU2tkUkI5OVExTHYwc0VzNHBvWnhIczZab3VEU2NjSkJFUC1FQkRxR0FlOW9GYXRtTHlSTFE",
-      "title": "How to manage expectations for your to-do list - Headspace",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15UGVkVzJhY0ZaaVRUX3U4b2JINTlWUUw5Mmd6MlpmUHpnTGQ2MDNnSnRjN2NoU2tkUkI5OVExTHYwc0VzNHBvWnhIczZab3VEU2NjSkJFUC1FQkRxR0FlOW9GYXRtTHlSTFE?oc=5",
-      "summary": "How to manage expectations for your to-do list Headspace",
-      "publishedAt": "2021-06-17T21:37:05.000Z",
+      "id": "CBMickFVX3lxTE0xSGQ3a244Zmk2YVo0WWk0VG5RVFd1S3Q1ZzFjdXlGbVVmN2V0bThGNTNaWjU4YnEtM2pEMC0ydVU0RnpfODQxTDNrMU91eHJBQUdXcDUtS28wQXgyQjZCemJWRm5ib240VWpTajd4WDUydw",
+      "title": "The guinea pig diaries: part 3 - Headspace",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xSGQ3a244Zmk2YVo0WWk0VG5RVFd1S3Q1ZzFjdXlGbVVmN2V0bThGNTNaWjU4YnEtM2pEMC0ydVU0RnpfODQxTDNrMU91eHJBQUdXcDUtS28wQXgyQjZCemJWRm5ib240VWpTajd4WDUydw?oc=5",
+      "summary": "The guinea pig diaries: part 3 Headspace",
+      "publishedAt": "2021-06-17T22:13:35.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
@@ -2473,15 +2473,26 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49701004",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 438 # Comments: 490",
-      "publishedAt": "2026-09-14T17:50:29.000Z",
+      "id": "https://news.ycombinator.com/item?id=49701182",
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "link": "https://pub.sakana.ai/pc-alm/",
+      "summary": "https://arxiv.org/abs/2605.31022 https://github.com/SakanaAI/pc-alm Comments URL: https://news.ycombinator.com/item?id=49701182 Points: 93 # Comments: 30",
+      "publishedAt": "2026-09-14T18:03:12.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6aa815a32dcf20c85979f7a7",
+      "title": "“Anonymat”",
+      "link": "https://pitchfork.com/reviews/lovnee-anonymat/",
+      "summary": "The Martinician rapper-singer’s new single has a little something for everyone.",
+      "publishedAt": "2026-09-14T16:45:32.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa8162cfc9433b4f792b65a/master/pass/lov.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "RtWnepT8shqb8awb92XPcc",
@@ -2493,17 +2504,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6aa7ede0ba5465c58fc87872",
-      "title": "Coachella Organizers’ Ocean Way Festival Canceled Due to Hurricane Marie",
-      "link": "https://pitchfork.com/story/coachella-organizers-ocean-way-festival-canceled-due-to-hurricane-marie/",
-      "summary": "The Killers and Olivia Dean had been slated to headline the Santa Monica fest’s inaugural edition",
-      "publishedAt": "2026-09-14T13:45:42.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa7fa15597e7c44c043bbd4/master/pass/ocean-way-festival-canceled.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1285013",
@@ -2561,11 +2561,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.surfacemag.com/?p=211371",
-      "title": "Inside Moncler’s Largest Flagship, Now Open on Fifth Avenue",
-      "link": "https://www.surfacemag.com/articles/inside-monclers-largest-flagship-now-open-on-fifth-avenue/",
-      "summary": "Designed by French design studio Gilles & Boissier, the five-story building honors the brand's alpine legacy and the city's skyscrapers Courtesy of Moncler. Steps from Central Park, inside the historic General Motors Building at 767 Fifth A…",
-      "publishedAt": "2026-09-11T09:02:00.000Z",
+      "id": "https://www.surfacemag.com/?p=211397",
+      "title": "DRIFT Helped to Reconstruct the Twin Towers at Full Architectural Scale From 2,977 Lights, and Other News.",
+      "link": "https://www.surfacemag.com/articles/drift-helped-to-rebuild-the-twin-towers-at-full-architectural-scale-from-2977-lights/",
+      "summary": "Plus, Princess Diana's \"revenge dress\" will be auctioned at Sotheby's, and Parisian cultural club Silencio will open a Berlin popup. Image courtesy of Craig Barritt / Getty Images. DRIFT helped to rebuild the Twin Towers at full architectur…",
+      "publishedAt": "2026-09-11T09:27:00.000Z",
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
@@ -2759,11 +2759,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
-      "title": "FOX Home by Yara Lysiuk - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE?oc=5",
-      "summary": "FOX Home by Yara Lysiuk New Norm Magazine",
-      "publishedAt": "2025-05-27T02:21:54.000Z",
+      "id": "CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91",
+      "title": "G Residence by Atelier01 (A01) - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91?oc=5",
+      "summary": "G Residence by Atelier01 (A01) New Norm Magazine",
+      "publishedAt": "2025-07-29T21:18:52.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -2782,9 +2782,9 @@
     },
     {
       "id": "CBMimAFBVV95cUxPS1FJNW5PQmw5Y3EzY043SVpRczFEYXhaWGh5aXBMU0wtbl83SjVHX25sTDBwUXpuQ2RZT09xY1JIcUtzUUtORXA0bmJFc0h0YmZoSTZIN0l4a0wtdGNMWkg2WGZTWnh2aXBiLU9iT1hLcktBSlBJbFdPYlNrNEh3azNpU08wXzJJOGZKVV9OYS1zQlcxMW9IaQ",
-      "title": "Entropy: Why Life Always Seems to Get More Complicated - Read Something Great",
+      "title": "Entropy: Why Life Always Seems to Get More Complicated - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1FJNW5PQmw5Y3EzY043SVpRczFEYXhaWGh5aXBMU0wtbl83SjVHX25sTDBwUXpuQ2RZT09xY1JIcUtzUUtORXA0bmJFc0h0YmZoSTZIN0l4a0wtdGNMWkg2WGZTWnh2aXBiLU9iT1hLcktBSlBJbFdPYlNrNEh3azNpU08wXzJJOGZKVV9OYS1zQlcxMW9IaQ?oc=5",
-      "summary": "Entropy: Why Life Always Seems to Get More Complicated Read Something Great",
+      "summary": "Entropy: Why Life Always Seems to Get More Complicated readsomethinggreat.com",
       "publishedAt": "2024-01-31T15:32:40.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -2803,11 +2803,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiZEFVX3lxTE41MmRaSDRQMEFQQUVWZVlMLXBYNlFFVUgxM0lOQ252eW1pbldWY1JnM0RncGVPYnB2Y1oxNTV0YjRUVk9PbFJGeG9KMVVBTzV1STAtamxSTGt2SUMwVnkxcGU5OXk",
-      "title": "Can we unlearn jealousy? - Headspace",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41MmRaSDRQMEFQQUVWZVlMLXBYNlFFVUgxM0lOQ252eW1pbldWY1JnM0RncGVPYnB2Y1oxNTV0YjRUVk9PbFJGeG9KMVVBTzV1STAtamxSTGt2SUMwVnkxcGU5OXk?oc=5",
-      "summary": "Can we unlearn jealousy? Headspace",
-      "publishedAt": "2021-06-15T22:55:46.000Z",
+      "id": "CBMiakFVX3lxTE15UGVkVzJhY0ZaaVRUX3U4b2JINTlWUUw5Mmd6MlpmUHpnTGQ2MDNnSnRjN2NoU2tkUkI5OVExTHYwc0VzNHBvWnhIczZab3VEU2NjSkJFUC1FQkRxR0FlOW9GYXRtTHlSTFE",
+      "title": "How to manage expectations for your to-do list - Headspace",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15UGVkVzJhY0ZaaVRUX3U4b2JINTlWUUw5Mmd6MlpmUHpnTGQ2MDNnSnRjN2NoU2tkUkI5OVExTHYwc0VzNHBvWnhIczZab3VEU2NjSkJFUC1FQkRxR0FlOW9GYXRtTHlSTFE?oc=5",
+      "summary": "How to manage expectations for your to-do list Headspace",
+      "publishedAt": "2021-06-17T21:37:05.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
@@ -2836,15 +2836,26 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49700661",
-      "title": "Steam Frame starts at $1059",
-      "link": "https://store.steampowered.com/hardware/steamframe",
-      "summary": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 544 # Comments: 419",
-      "publishedAt": "2026-09-14T17:27:55.000Z",
+      "id": "https://news.ycombinator.com/item?id=49701004",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 590 # Comments: 669",
+      "publishedAt": "2026-09-14T17:50:29.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6aa8172aba5465c58fc87921",
+      "title": "Macklemore Kicked Off Ed Sheeran Tour for Pro-Palestine Comments",
+      "link": "https://pitchfork.com/story/macklemore-kicked-off-ed-sheeran-tour-for-pro-palestine-comments/",
+      "summary": "“Ed was in a fucked up position,” the rapper said in a statement alleging Sheeran bowed to pressure from Robert Kraft",
+      "publishedAt": "2026-09-14T16:31:57.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa81eaa0d8209284f1f5963/master/pass/ed-sheeran-kicks-macklemore-off-tour.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "bgXpcb8LGvjNPyNXgEoSHc",
@@ -2856,17 +2867,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6aa3f754fc44394c8a822c4b",
-      "title": "Ow ∞",
-      "link": "https://pitchfork.com/reviews/albums/sylvan-esso-ow-infinity/",
-      "summary": "The world has finally caught up with the North Carolina alt-pop duo, whose playful and unsettled fifth album speaks to its moment with newfound lucidity.",
-      "publishedAt": "2026-09-14T04:03:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa3f6f220783d7990d461a0/master/pass/Sylvan%20Esso%20Ow.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126741&secret=cM2XMtKpK3Lj&nonce=3a2561ed6e",
@@ -2913,6 +2913,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.surfacemag.com/?p=211371",
+      "title": "Inside Moncler’s Largest Flagship, Now Open on Fifth Avenue",
+      "link": "https://www.surfacemag.com/articles/inside-monclers-largest-flagship-now-open-on-fifth-avenue/",
+      "summary": "Designed by French design studio Gilles & Boissier, the five-story building honors the brand's alpine legacy and the city's skyscrapers Courtesy of Moncler. Steps from Central Park, inside the historic General Motors Building at 767 Fifth A…",
+      "publishedAt": "2026-09-11T09:02:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
+    },
+    {
       "id": "https://www.science.org/content/article/department-energy-bets-open-ai-models-science",
       "title": "Department of Energy bets on ‘open’ AI models for science",
       "link": "https://www.science.org/content/article/department-energy-bets-open-ai-models-science",
@@ -2954,17 +2965,6 @@
       "imageUrl": null,
       "sourceId": "leibal",
       "sourceName": "Leibal",
-      "category": "design"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=211228",
-      "title": "Designer of the Day: James Thurstan Waterworth of Thurstan",
-      "link": "https://www.surfacemag.com/articles/designer-of-the-day-james-thurstan-waterworth/",
-      "summary": "As founder of Thurstan, the London-based studio launched in 2018, designer James Thurstan Waterworth has built a practice around the simple idea that good design should defer to and not impose upon a building's architecture and story. As fo…",
-      "publishedAt": "2026-09-10T09:54:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
       "category": "design"
     },
     {
@@ -3122,11 +3122,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3",
-      "title": "Rootdown | BEAMS - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3?oc=5",
-      "summary": "Rootdown | BEAMS New Norm Magazine",
-      "publishedAt": "2025-05-27T02:03:31.000Z",
+      "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
+      "title": "FOX Home by Yara Lysiuk - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE?oc=5",
+      "summary": "FOX Home by Yara Lysiuk New Norm Magazine",
+      "publishedAt": "2025-05-27T02:21:54.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -3145,9 +3145,9 @@
     },
     {
       "id": "CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ",
-      "title": "The Three Sides of Risk - Read Something Great",
+      "title": "The Three Sides of Risk - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ?oc=5",
-      "summary": "The Three Sides of Risk Read Something Great",
+      "summary": "The Three Sides of Risk readsomethinggreat.com",
       "publishedAt": "2023-12-02T06:44:31.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -3166,11 +3166,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMidEFVX3lxTE15ZjBpZ3g3VklOQVZjWllOT2tJbzYzbnBWQTZubGtNdFBHcjRLcktRWE9FOHZ2ZFo2X1FjS2liVURuaGJ0M0JyblZnbC1OZVRydDJVV0kwYUc5T1RWS2JjUDMtSVhSX005a0w2QzRiT0VYVnhK",
-      "title": "How do you feel about your body? - Headspace",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15ZjBpZ3g3VklOQVZjWllOT2tJbzYzbnBWQTZubGtNdFBHcjRLcktRWE9FOHZ2ZFo2X1FjS2liVURuaGJ0M0JyblZnbC1OZVRydDJVV0kwYUc5T1RWS2JjUDMtSVhSX005a0w2QzRiT0VYVnhK?oc=5",
-      "summary": "How do you feel about your body? Headspace",
-      "publishedAt": "2021-06-14T15:49:16.000Z",
+      "id": "CBMiZEFVX3lxTE41MmRaSDRQMEFQQUVWZVlMLXBYNlFFVUgxM0lOQ252eW1pbldWY1JnM0RncGVPYnB2Y1oxNTV0YjRUVk9PbFJGeG9KMVVBTzV1STAtamxSTGt2SUMwVnkxcGU5OXk",
+      "title": "Can we unlearn jealousy? - Headspace",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41MmRaSDRQMEFQQUVWZVlMLXBYNlFFVUgxM0lOQ252eW1pbldWY1JnM0RncGVPYnB2Y1oxNTV0YjRUVk9PbFJGeG9KMVVBTzV1STAtamxSTGt2SUMwVnkxcGU5OXk?oc=5",
+      "summary": "Can we unlearn jealousy? Headspace",
+      "publishedAt": "2021-06-15T22:55:46.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
@@ -3199,15 +3199,26 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49700477",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "link": "https://andonlabs.com/blog/why-we-built-pion",
-      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 311 # Comments: 344",
-      "publishedAt": "2026-09-14T17:16:06.000Z",
+      "id": "https://news.ycombinator.com/item?id=49700661",
+      "title": "Steam Frame starts at $1059",
+      "link": "https://store.steampowered.com/hardware/steamframe",
+      "summary": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 662 # Comments: 504",
+      "publishedAt": "2026-09-14T17:27:55.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6aa6de04ebe07e992ee6d1fb",
+      "title": "Oasis Announce 2027 Tour",
+      "link": "https://pitchfork.com/story/oasis-announce-2027-tour/",
+      "summary": "The brothers Gallagher have set a slew of new dates in the U.S. and Europe, including a historic return to Knebworth Park",
+      "publishedAt": "2026-09-14T15:49:54.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa6df17f84608eff23e0f55/master/pass/GettyImages-2293762428.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "HTPyzBMJCfifc9xw3CyGRY",
@@ -3219,17 +3230,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6aa2b4547f72bd1fdc20f5ee",
-      "title": "Brighter Blue EP",
-      "link": "https://pitchfork.com/reviews/albums/valerie-june-brighter-blue-ep/",
-      "summary": "On her latest covers EP, the singer-songwriter offers refreshing, timely interpretations of blues and gospel classics.",
-      "publishedAt": "2026-09-14T04:02:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa2b28cd7cc50afedcb9214/master/pass/valerie_june_-_brighter_blue.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126656&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
@@ -3298,11 +3298,11 @@
       "category": "design"
     },
     {
-      "id": "https://www.surfacemag.com/?p=211348",
-      "title": "Four US Open Suites Demonstrate The Competition’s Relationship with Design",
-      "link": "https://www.surfacemag.com/articles/four-us-open-suites-demonstrate-the-competitions-relationship-with-design/",
-      "summary": "Courtesy of Ralph Lauren Circumnavigating the third floor of Arthur Ashe Stadium, the center stage of the US Open for the last 29 years, a series of suites bridge the elite sport on display below with the accompanying lifestyle that brand p…",
-      "publishedAt": "2026-09-10T09:51:00.000Z",
+      "id": "https://www.surfacemag.com/?p=211228",
+      "title": "Designer of the Day: James Thurstan Waterworth of Thurstan",
+      "link": "https://www.surfacemag.com/articles/designer-of-the-day-james-thurstan-waterworth/",
+      "summary": "As founder of Thurstan, the London-based studio launched in 2018, designer James Thurstan Waterworth has built a practice around the simple idea that good design should defer to and not impose upon a building's architecture and story. As fo…",
+      "publishedAt": "2026-09-10T09:54:00.000Z",
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
@@ -3485,11 +3485,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU",
-      "title": "PNY in Reims, France by Rudy Guénaire - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU?oc=5",
-      "summary": "PNY in Reims, France by Rudy Guénaire New Norm Magazine",
-      "publishedAt": "2025-02-07T15:07:15.000Z",
+      "id": "CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3",
+      "title": "Rootdown | BEAMS - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3?oc=5",
+      "summary": "Rootdown | BEAMS New Norm Magazine",
+      "publishedAt": "2025-05-27T02:03:31.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -3508,9 +3508,9 @@
     },
     {
       "id": "CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc",
-      "title": "Hugging the X-Axis - Read Something Great",
+      "title": "Hugging the X-Axis - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc?oc=5",
-      "summary": "Hugging the X-Axis Read Something Great",
+      "summary": "Hugging the X-Axis readsomethinggreat.com",
       "publishedAt": "2023-11-07T15:38:45.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -3562,15 +3562,26 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49700255",
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "summary": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 95 # Comments: 26",
-      "publishedAt": "2026-09-14T17:02:34.000Z",
+      "id": "https://news.ycombinator.com/item?id=49700477",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "link": "https://andonlabs.com/blog/why-we-built-pion",
+      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 394 # Comments: 491",
+      "publishedAt": "2026-09-14T17:16:06.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6aa77afc643c10588dc1bd3c",
+      "title": "Jeff Tweedy, Robert Glasper, Weyes Blood to Play Big Ears 2027",
+      "link": "https://pitchfork.com/story/jeff-tweedy-robert-glasper-weyes-blood-to-play-big-ears-2027/",
+      "summary": "Oneohtrix Point Never, Thundercat, Wednesday, Courtney Barnett, SML, Dinner Party, Sylvan Esso, and more will also perform at the Knoxville festival",
+      "publishedAt": "2026-09-14T14:05:59.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa7fd490d8209284f1f587d/master/pass/Jeff-Tweedy-Robert-Glasper-Big-Ears.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "GFX4EcPL29yCxncqP6ACvC",
@@ -3582,17 +3593,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6a7cc3b26382d4fd01729d7d",
-      "title": "Synthetic Water Music",
-      "link": "https://pitchfork.com/reviews/albums/various-artists-synthetic-water-music/",
-      "summary": "Following a 2023 compilation dedicated to birdsong, the Slovak label Mappa turns its focus to aquascapes both real and imagined, spanning decades of field recordings and ambient experiments.",
-      "publishedAt": "2026-09-14T04:01:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa424d1ce5a0c8cb6c99c4f/master/pass/Various%20Artists%20Synthetic%20Water%20Music.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=126667&secret=cM2XMtKpK3Lj&nonce=e6fc51f516",
@@ -3639,11 +3639,11 @@
       "category": "science"
     },
     {
-      "id": "https://www.surfacemag.com/?p=211305",
-      "title": "Clive Davis’ Art Collection Heads to Auction, Led by Warhol’s Aretha Franklin Portrait, and Other News.",
-      "link": "https://www.surfacemag.com/articles/clive-davis-art-collection-heads-to-auction/",
-      "summary": "Plus, Fendi Casa expands in France, and Philippe Parreno's melting \"Iceman\" sculpture makes its New York debut Courtesy of Christie's Clive Davis’ art collection heads to auction, led by Warhol’s Aretha Franklin portrait. Eight paintings fr…",
-      "publishedAt": "2026-09-10T09:19:00.000Z",
+      "id": "https://www.surfacemag.com/?p=211348",
+      "title": "Four US Open Suites Demonstrate The Competition’s Relationship with Design",
+      "link": "https://www.surfacemag.com/articles/four-us-open-suites-demonstrate-the-competitions-relationship-with-design/",
+      "summary": "Courtesy of Ralph Lauren Circumnavigating the third floor of Arthur Ashe Stadium, the center stage of the US Open for the last 29 years, a series of suites bridge the elite sport on display below with the accompanying lifestyle that brand p…",
+      "publishedAt": "2026-09-10T09:51:00.000Z",
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
@@ -3848,11 +3848,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiYEFVX3lxTE5QMkFySVdNXzdXRnhNRHgxN0IySHJETjQ0b19TY3BfME9xbVRoTmQyaVplYTNiam5NX2FWd0lMNWI0TEdtOXdNUE1vaUNNNUxQLXFJT05HWk1tNG1YMkxjVA",
-      "title": "Rumah Orchid | 28 a.m. - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QMkFySVdNXzdXRnhNRHgxN0IySHJETjQ0b19TY3BfME9xbVRoTmQyaVplYTNiam5NX2FWd0lMNWI0TEdtOXdNUE1vaUNNNUxQLXFJT05HWk1tNG1YMkxjVA?oc=5",
-      "summary": "Rumah Orchid | 28 a.m. New Norm Magazine",
-      "publishedAt": "2024-12-30T13:42:25.000Z",
+      "id": "CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU",
+      "title": "PNY in Reims, France by Rudy Guénaire - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU?oc=5",
+      "summary": "PNY in Reims, France by Rudy Guénaire New Norm Magazine",
+      "publishedAt": "2025-02-07T15:07:15.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -3871,9 +3871,9 @@
     },
     {
       "id": "CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw",
-      "title": "The Bus Ticket Theory of Genius - Read Something Great",
+      "title": "The Bus Ticket Theory of Genius - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw?oc=5",
-      "summary": "The Bus Ticket Theory of Genius Read Something Great",
+      "summary": "The Bus Ticket Theory of Genius readsomethinggreat.com",
       "publishedAt": "2023-10-25T09:42:32.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -3914,15 +3914,26 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49700218",
-      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-      "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-      "summary": "Article URL: https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead Comments URL: https://news.ycombinator.com/item?id=49700218 Points: 0 # Comments: 0",
-      "publishedAt": "2026-09-14T17:00:53.000Z",
+      "id": "https://news.ycombinator.com/item?id=49700255",
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "summary": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 109 # Comments: 30",
+      "publishedAt": "2026-09-14T17:02:34.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6aa7ede0ba5465c58fc87872",
+      "title": "Coachella Organizers’ Ocean Way Festival Canceled Due to Hurricane Marie",
+      "link": "https://pitchfork.com/story/coachella-organizers-ocean-way-festival-canceled-due-to-hurricane-marie/",
+      "summary": "The Killers and Olivia Dean had been slated to headline the Santa Monica fest’s inaugural edition",
+      "publishedAt": "2026-09-14T13:45:42.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa7fa15597e7c44c043bbd4/master/pass/ocean-way-festival-canceled.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "WTxYg6kfVK2geM2czbi7R6",
@@ -3934,17 +3945,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6aa423d7ba6eb6de196fdb4b",
-      "title": "Gao Dan Dan EP",
-      "link": "https://pitchfork.com/reviews/albums/helena-gao-gao-dan-dan-ep/",
-      "summary": "The Danish Chinese musician (and Zara Larsson collaborator) concentrates her multi-cultural cool into a collection of bilingual club bangers and sparkling alt-pop gems.",
-      "publishedAt": "2026-09-14T04:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa422cfb2fc3a5873c48719/master/pass/Helena%20Gao%20Gao%20Dan%20Dan%20EP.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "CBMiqgFBVV95cUxNOFkwZzFIQXR2RDdGOFN0Ykt0Qll6RFZKbUJxeFZUWEx3a2kweExnLXMwcVdXLWRhZDdUbmVINVkta3FzX2JZTndHcVNWVDBjdlpOdHB6RUp2aHFYd2FLT0Zzd0hPZU0wck1TUFhBMm4ycDk3SllHemYxel9hSEtlOGVJWVd0eGxDVzNYc0ZvSnktVjkwVjBDTG5oSkh4akZtRWxzU29qTG95dw",
@@ -4068,11 +4068,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw",
-      "title": "Noodle In Transit by Office AIO - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw?oc=5",
-      "summary": "Noodle In Transit by Office AIO New Norm Magazine",
-      "publishedAt": "2024-12-30T13:42:20.000Z",
+      "id": "CBMiYEFVX3lxTE5QMkFySVdNXzdXRnhNRHgxN0IySHJETjQ0b19TY3BfME9xbVRoTmQyaVplYTNiam5NX2FWd0lMNWI0TEdtOXdNUE1vaUNNNUxQLXFJT05HWk1tNG1YMkxjVA",
+      "title": "Rumah Orchid | 28 a.m. - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QMkFySVdNXzdXRnhNRHgxN0IySHJETjQ0b19TY3BfME9xbVRoTmQyaVplYTNiam5NX2FWd0lMNWI0TEdtOXdNUE1vaUNNNUxQLXFJT05HWk1tNG1YMkxjVA?oc=5",
+      "summary": "Rumah Orchid | 28 a.m. New Norm Magazine",
+      "publishedAt": "2024-12-30T13:42:25.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -4080,9 +4080,9 @@
     },
     {
       "id": "CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg",
-      "title": "Default Alive or Default Dead - Read Something Great",
+      "title": "Default Alive or Default Dead - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg?oc=5",
-      "summary": "Default Alive or Default Dead Read Something Great",
+      "summary": "Default Alive or Default Dead readsomethinggreat.com",
       "publishedAt": "2023-10-24T16:29:40.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -4101,23 +4101,23 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49699648",
-      "title": "Why don't machine learning research agents overfit?",
-      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "summary": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=49699648 Points: 111 # Comments: 61",
-      "publishedAt": "2026-09-14T16:32:23.000Z",
+      "id": "https://news.ycombinator.com/item?id=49699489",
+      "title": "How my e-reader lost its stripes",
+      "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "summary": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 204 # Comments: 38",
+      "publishedAt": "2026-09-14T16:23:16.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "6aa707a21c090bc17993dee9",
-      "title": "Chief Keef Postpones First Chicago Show in Over a Decade",
-      "link": "https://pitchfork.com/story/chief-keef-postpones-first-chicago-show-in-over-a-decade/",
-      "summary": "Keef credited his travel woes to a “pilot who got very racist”",
-      "publishedAt": "2026-09-13T22:20:29.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa70b095775d0e93c3b64f3/master/pass/GettyImages-2208808552.jpg",
+      "id": "6aa3f754fc44394c8a822c4b",
+      "title": "Ow ∞",
+      "link": "https://pitchfork.com/reviews/albums/sylvan-esso-ow-infinity/",
+      "summary": "The world has finally caught up with the North Carolina alt-pop duo, whose playful and unsettled fifth album speaks to its moment with newfound lucidity.",
+      "publishedAt": "2026-09-14T04:03:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa3f6f220783d7990d461a0/master/pass/Sylvan%20Esso%20Ow.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4244,11 +4244,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiVkFVX3lxTFBiZW9id0tRVGVlWWdGTnJFcFNkMTU2VHIyLUlJTHpRMDZXWklkeFpORzA3R0U5UHVzU0QtRmgzM2hIalRweWtwTXRnXzM4dTRJYk1LdGR3",
-      "title": "HOUSE FC | fws_work - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZW9id0tRVGVlWWdGTnJFcFNkMTU2VHIyLUlJTHpRMDZXWklkeFpORzA3R0U5UHVzU0QtRmgzM2hIalRweWtwTXRnXzM4dTRJYk1LdGR3?oc=5",
-      "summary": "HOUSE FC | fws_work New Norm Magazine",
-      "publishedAt": "2024-07-17T13:04:41.000Z",
+      "id": "CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw",
+      "title": "Noodle In Transit by Office AIO - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw?oc=5",
+      "summary": "Noodle In Transit by Office AIO New Norm Magazine",
+      "publishedAt": "2024-12-30T13:42:20.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -4267,9 +4267,9 @@
     },
     {
       "id": "CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B",
-      "title": "The Tail End - Read Something Great",
+      "title": "The Tail End - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B?oc=5",
-      "summary": "The Tail End Read Something Great",
+      "summary": "The Tail End readsomethinggreat.com",
       "publishedAt": "2023-07-17T22:13:10.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -4288,15 +4288,26 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49699489",
-      "title": "How my e-reader lost its stripes",
-      "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "summary": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 163 # Comments: 25",
-      "publishedAt": "2026-09-14T16:23:16.000Z",
+      "id": "https://news.ycombinator.com/item?id=49699158",
+      "title": "Distributed Systems Classics (2017)",
+      "link": "https://nvartolomei.com/dist-sys-classics/",
+      "summary": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 295 # Comments: 65",
+      "publishedAt": "2026-09-14T16:02:01.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6aa2b4547f72bd1fdc20f5ee",
+      "title": "Brighter Blue EP",
+      "link": "https://pitchfork.com/reviews/albums/valerie-june-brighter-blue-ep/",
+      "summary": "On her latest covers EP, the singer-songwriter offers refreshing, timely interpretations of blues and gospel classics.",
+      "publishedAt": "2026-09-14T04:02:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa2b28cd7cc50afedcb9214/master/pass/valerie_june_-_brighter_blue.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "GvK9nxVswVmyjxUjdtLH3d",
@@ -4308,17 +4319,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "6aa6c0ba5775d0e93c3b63f3",
-      "title": "The Raincoats, X-Ray Spex, and the Slits Members Form Supergroup",
-      "link": "https://pitchfork.com/story/the-raincoats-x-ray-spex-and-the-slits-members-form-supergroup/",
-      "summary": "Gina Birch, Hollie Cook, Lora Logic, and Paul Dean will perform together at a London punk festival next month",
-      "publishedAt": "2026-09-13T17:07:29.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa6d398ebe07e992ee6d1d2/master/pass/MixCollage-13-Sep-2026-12-46-PM-2646.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "CBMiiwFBVV95cUxOWjdNbkpIT2UxbEctMGNnRlZFU19Zd1dKaVRSOFRxcml3S0RqZWdLbVJ0dTdMTF9jdEFFUk1vam5pM205N0oyVzlHdDVCY0hJdV9yMlNsZ0FjM19sa281X29kMzVXd0U5R3JOVWJtNEhoRUJoZG1rLTNhc2VuREZfdVN4WlNhWXBIdzNN",
@@ -4431,11 +4431,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiZkFVX3lxTE9YbGxPS3JobzFER0NELUltdVRORjZCenJsMmpMN2hITzdmV0tDbDJ2eURnVmRlcHlwRllXVzhZUE0xeDhBUHh4cTNqMHNJQk5ZQmlwUVZQcWlJRUZWcWNvLUhmV1JYZw",
-      "title": "REINTERPRETING VINTAGE FLAIR - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YbGxPS3JobzFER0NELUltdVRORjZCenJsMmpMN2hITzdmV0tDbDJ2eURnVmRlcHlwRllXVzhZUE0xeDhBUHh4cTNqMHNJQk5ZQmlwUVZQcWlJRUZWcWNvLUhmV1JYZw?oc=5",
-      "summary": "REINTERPRETING VINTAGE FLAIR New Norm Magazine",
-      "publishedAt": "2024-06-14T12:35:30.000Z",
+      "id": "CBMiVkFVX3lxTFBiZW9id0tRVGVlWWdGTnJFcFNkMTU2VHIyLUlJTHpRMDZXWklkeFpORzA3R0U5UHVzU0QtRmgzM2hIalRweWtwTXRnXzM4dTRJYk1LdGR3",
+      "title": "HOUSE FC | fws_work - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZW9id0tRVGVlWWdGTnJFcFNkMTU2VHIyLUlJTHpRMDZXWklkeFpORzA3R0U5UHVzU0QtRmgzM2hIalRweWtwTXRnXzM4dTRJYk1LdGR3?oc=5",
+      "summary": "HOUSE FC | fws_work New Norm Magazine",
+      "publishedAt": "2024-07-17T13:04:41.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -4443,9 +4443,9 @@
     },
     {
       "id": "CBMickFVX3lxTFA3enhDTEZMdnVqY2tvTXlsQ2lDanBCTXYwZU5aNWgyTW5vOHZmNWN0SHBsM2ZQcHJ5Y25Zb0RzOW9RcHNOeG1ZaDJ6Q1lBMElHMVNMaEZtSjQ1S2NFMHdOYXFRbndtT2xuRWp2VFROY1dKZw",
-      "title": "Keep Your Identity Small - Read Something Great",
+      "title": "Keep Your Identity Small - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3enhDTEZMdnVqY2tvTXlsQ2lDanBCTXYwZU5aNWgyTW5vOHZmNWN0SHBsM2ZQcHJ5Y25Zb0RzOW9RcHNOeG1ZaDJ6Q1lBMElHMVNMaEZtSjQ1S2NFMHdOYXFRbndtT2xuRWp2VFROY1dKZw?oc=5",
-      "summary": "Keep Your Identity Small Read Something Great",
+      "summary": "Keep Your Identity Small readsomethinggreat.com",
       "publishedAt": "2023-06-23T13:17:30.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -4464,34 +4464,34 @@
       "category": "design"
     },
     {
-      "id": "CBMiZ0FVX3lxTE9JMlhTU1NJeXFmVzA0cHZGX1IzcGJPT3ZUNkNFekZrVHBuM2FpYlFWUkFiakltVlNMYkdLemozWWU5czBsRk05c2FlaXpPeTJJN3FsdzgzelZ0bDdKQ3BueE9HaE5yRkE",
-      "title": "The After Series: Till Death Do Us Part - Headspace",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JMlhTU1NJeXFmVzA0cHZGX1IzcGJPT3ZUNkNFekZrVHBuM2FpYlFWUkFiakltVlNMYkdLemozWWU5czBsRk05c2FlaXpPeTJJN3FsdzgzelZ0bDdKQ3BueE9HaE5yRkE?oc=5",
-      "summary": "The After Series: Till Death Do Us Part Headspace",
-      "publishedAt": "2021-06-14T15:45:45.000Z",
+      "id": "CBMiZEFVX3lxTE9RNUZZRlkzRC1rQU13a3MyWVE4am5DVGRmLWpfQl9EdDJKSmVCZjlWdlpGS1FrdDU3V29zZ3ZwMzB1LUxRYXpJYTNlcGRvdUpPN0FQR1hkZjNzVC1CSjhqUmlBbzM",
+      "title": "What to expect when you’re expecting the worst - Headspace",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RNUZZRlkzRC1rQU13a3MyWVE4am5DVGRmLWpfQl9EdDJKSmVCZjlWdlpGS1FrdDU3V29zZ3ZwMzB1LUxRYXpJYTNlcGRvdUpPN0FQR1hkZjNzVC1CSjhqUmlBbzM?oc=5",
+      "summary": "What to expect when you’re expecting the worst Headspace",
+      "publishedAt": "2021-06-14T15:45:07.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49699159",
-      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-      "link": "https://www.neobrutalism.dev/",
-      "summary": "Article URL: https://www.neobrutalism.dev/ Comments URL: https://news.ycombinator.com/item?id=49699159 Points: 147 # Comments: 68",
-      "publishedAt": "2026-09-14T16:02:02.000Z",
+      "id": "https://news.ycombinator.com/item?id=49698699",
+      "title": "A beginning for mathematics",
+      "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "summary": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 216 # Comments: 115",
+      "publishedAt": "2026-09-14T15:33:07.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "6aa6b28806b9407f07718076",
-      "title": "Listen to Jeff Tweedy Cover Twisted Teens’ “Wild Connection”",
-      "link": "https://pitchfork.com/story/jeff-tweedy-twisted-teens-cover/",
-      "summary": "The Wilco frontman shared the cover of the Blame the Clown track to his Substack",
-      "publishedAt": "2026-09-13T15:07:16.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aa6b4023f5a3f6fe040eae0/master/pass/GettyImages-2290338970.jpg",
+      "id": "6a7cc3b26382d4fd01729d7d",
+      "title": "Synthetic Water Music",
+      "link": "https://pitchfork.com/reviews/albums/various-artists-synthetic-water-music/",
+      "summary": "Following a 2023 compilation dedicated to birdsong, the Slovak label Mappa turns its focus to aquascapes both real and imagined, spanning decades of field recordings and ambient experiments.",
+      "publishedAt": "2026-09-14T04:01:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa424d1ce5a0c8cb6c99c4f/master/pass/Various%20Artists%20Synthetic%20Water%20Music.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4508,11 +4508,11 @@
       "category": "science"
     },
     {
-      "id": "CBMiggFBVV95cUxNYTY0UEt6UXFlNGRGUHFrbng0WlU0RGJqcVg3WnFWSzlCdHkwYm1IcW1tdWJKTmN0SnA3QV9yaVg1bmhhR2FHblViWE9xS0xTZkV2aERib1hoSV94OWRRVmtoZmk3YS1hSXdaVndpXzM2UzZ6SFlPVGZjamNEU2hHQnZR",
-      "title": "CU Buffs turning focus to Weber State - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYTY0UEt6UXFlNGRGUHFrbng0WlU0RGJqcVg3WnFWSzlCdHkwYm1IcW1tdWJKTmN0SnA3QV9yaVg1bmhhR2FHblViWE9xS0xTZkV2aERib1hoSV94OWRRVmtoZmk3YS1hSXdaVndpXzM2UzZ6SFlPVGZjamNEU2hHQnZR?oc=5",
-      "summary": "CU Buffs turning focus to Weber State Daily Camera",
-      "publishedAt": "2026-09-08T20:29:10.000Z",
+      "id": "CBMimwFBVV95cUxQMGtmMElEc1pmWDc0VGx2b3hHOVJTdVdVSlV4d3lGRkhtbEZ4enhaUUc5LWd6TmVjc2RVRDFHbTg4QWJFVUJLRFhHd1hsaTJnaW02QnlFbFVmLWFkcmk2SVlOM1I3WG42WkI4eVpqNkU2R1hwQUJnX0FPLVdscFVEWnhVQlJSNXluUElvVGpKaDlfaVI4VjhWMF9ocw",
+      "title": "Denver Nuggets, KJ Simpson to play exhibition game at CU Events Center - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGtmMElEc1pmWDc0VGx2b3hHOVJTdVdVSlV4d3lGRkhtbEZ4enhaUUc5LWd6TmVjc2RVRDFHbTg4QWJFVUJLRFhHd1hsaTJnaW02QnlFbFVmLWFkcmk2SVlOM1I3WG42WkI4eVpqNkU2R1hwQUJnX0FPLVdscFVEWnhVQlJSNXluUElvVGpKaDlfaVI4VjhWMF9ocw?oc=5",
+      "summary": "Denver Nuggets, KJ Simpson to play exhibition game at CU Events Center Daily Camera",
+      "publishedAt": "2026-09-08T21:52:06.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4618,11 +4618,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMif0FVX3lxTE1PMzhXRl9sZXF2Yzh4VkRsLW5tNjR3NFNJVDZZZGxJRHlIZENsU2xkXzRqM1lnUzFVZldTR0hwQ1QxcUtDWDVxS2d5ZnhKMV9abVFuU3ozSko2NEtBZW9TQWQySWtaVmxkVF94S0FOYmtodUJXZ1QyZTFEQmRWQlk",
-      "title": "Adventist Medical Centre | Napp Studio & Architects - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMzhXRl9sZXF2Yzh4VkRsLW5tNjR3NFNJVDZZZGxJRHlIZENsU2xkXzRqM1lnUzFVZldTR0hwQ1QxcUtDWDVxS2d5ZnhKMV9abVFuU3ozSko2NEtBZW9TQWQySWtaVmxkVF94S0FOYmtodUJXZ1QyZTFEQmRWQlk?oc=5",
-      "summary": "Adventist Medical Centre | Napp Studio & Architects New Norm Magazine",
-      "publishedAt": "2024-05-03T21:29:06.000Z",
+      "id": "CBMiZkFVX3lxTE9YbGxPS3JobzFER0NELUltdVRORjZCenJsMmpMN2hITzdmV0tDbDJ2eURnVmRlcHlwRllXVzhZUE0xeDhBUHh4cTNqMHNJQk5ZQmlwUVZQcWlJRUZWcWNvLUhmV1JYZw",
+      "title": "REINTERPRETING VINTAGE FLAIR - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YbGxPS3JobzFER0NELUltdVRORjZCenJsMmpMN2hITzdmV0tDbDJ2eURnVmRlcHlwRllXVzhZUE0xeDhBUHh4cTNqMHNJQk5ZQmlwUVZQcWlJRUZWcWNvLUhmV1JYZw?oc=5",
+      "summary": "REINTERPRETING VINTAGE FLAIR New Norm Magazine",
+      "publishedAt": "2024-06-14T12:35:30.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -4630,9 +4630,9 @@
     },
     {
       "id": "CBMidEFVX3lxTE9pV1RiMnBJejJBV01GX18yeHhjZEVOcUlTcXRaRzhXbWZGU3kwalBzT3FNbldsa2dZVE5HMF9ROU5RWDlsZ1hSVkcyNzlqYjU2SGlUOGVqLWxqTnI4Nkl5Ul9NdVBwZ2xpekE0d2J6MzlycS1X",
-      "title": "The Finality of Everything - Read Something Great",
+      "title": "The Finality of Everything - readsomethinggreat.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pV1RiMnBJejJBV01GX18yeHhjZEVOcUlTcXRaRzhXbWZGU3kwalBzT3FNbldsa2dZVE5HMF9ROU5RWDlsZ1hSVkcyNzlqYjU2SGlUOGVqLWxqTnI4Nkl5Ul9NdVBwZ2xpekE0d2J6MzlycS1X?oc=5",
-      "summary": "The Finality of Everything Read Something Great",
+      "summary": "The Finality of Everything readsomethinggreat.com",
       "publishedAt": "2023-06-19T15:12:40.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
@@ -4662,26 +4662,26 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49699158",
-      "title": "Distributed Systems Classics (2017)",
-      "link": "https://nvartolomei.com/dist-sys-classics/",
-      "summary": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 248 # Comments: 56",
-      "publishedAt": "2026-09-14T16:02:01.000Z",
+      "id": "https://news.ycombinator.com/item?id=49698607",
+      "title": "Principles for Fast Tokio Applications",
+      "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 207 # Comments: 51",
+      "publishedAt": "2026-09-14T15:27:56.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "taxxZ9mn4iyZnCEccSiuNH",
-      "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
-      "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
-      "summary": "In a great moment for curly-haired folks around the world, NASA astronaut Jessica Meir just shared some styling tips from the ISS.",
-      "publishedAt": "2026-09-13T14:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/VFNbSpiTiUW4ogrZTkKAwU-1280-80.jpg",
-      "sourceId": "space-com",
-      "sourceName": "Space.com",
-      "category": "science"
+      "id": "6aa423d7ba6eb6de196fdb4b",
+      "title": "Gao Dan Dan EP",
+      "link": "https://pitchfork.com/reviews/albums/helena-gao-gao-dan-dan-ep/",
+      "summary": "The Danish Chinese musician (and Zara Larsson collaborator) concentrates her multi-cultural cool into a collection of bilingual club bangers and sparkling alt-pop gems.",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aa422cfb2fc3a5873c48719/master/pass/Helena%20Gao%20Gao%20Dan%20Dan%20EP.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     }
   ]
 }
