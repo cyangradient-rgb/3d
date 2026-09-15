@@ -45,8 +45,32 @@ jobs:
             echo "No changes to feed.json"
             exit 0
           fi
+          cp docs/feed.json /tmp/feed.json.new
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.json
-          git commit -m "Refresh publications feed"
-          git push
+
+          # docs/feed.json is fully regenerated every run, so on a push race
+          # (another run of this same workflow landed a commit in between)
+          # there's nothing to merge — just re-apply this run's freshly
+          # fetched content on top of whatever main is now and retry, rather
+          # than fail outright on the first collision.
+          for attempt in 1 2 3 4 5; do
+            cp /tmp/feed.json.new docs/feed.json
+            git add docs/feed.json
+            if git diff --cached --quiet; then
+              echo "No changes to feed.json after syncing with main"
+              exit 0
+            fi
+            git commit -m "Refresh publications feed"
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt/5) — fetching latest main and retrying"
+            git reset --soft HEAD~1
+            git fetch origin main
+            git reset --hard origin/main
+            sleep $((attempt * 3))
+          done
+
+          echo "::error::Failed to push feed.json after 5 attempts"
+          exit 1
