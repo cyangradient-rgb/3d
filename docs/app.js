@@ -28,16 +28,6 @@ let currentFeed = null;
 let isRefreshing = false;
 let hasPlayedEntrance = false;
 
-// Article/divider DOM nodes are kept and reused across renders (keyed by
-// article id / divider label) rather than torn down and rebuilt every
-// time — that's what lets an already-loaded thumbnail stay exactly as it
-// is (no re-fetch, no flicker) when a background refresh or pull-to-refresh
-// re-renders the list, and lets the stagger-in animation below apply only
-// to genuinely new items instead of replaying for everything each time.
-let renderedItemNodes = new Map();
-const STAGGER_STEP_MS = 40;
-const STAGGER_MAX_STEPS = 10;
-
 // Fade + rise the whole UI in once on first paint (cache hydration or the
 // initial fetch, whichever renders first) — never again on later refreshes.
 function playEntranceOnce() {
@@ -205,12 +195,8 @@ function buildArticleCard(article) {
     img.className = "entry-image";
     img.loading = "lazy";
     img.alt = "";
-    // Fade in on the actual `load` event rather than the moment `src` is
-    // set — a slow thumbnail otherwise pops in abruptly once its bytes
-    // finally arrive, with no transition to soften it.
-    img.onload = () => img.classList.add("is-loaded");
-    img.onerror = () => img.remove();
     img.src = article.imageUrl;
+    img.onerror = () => img.remove();
     entry.appendChild(img);
   }
 
@@ -232,55 +218,22 @@ function render() {
     .slice()
     .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0));
 
+  articleListEl.innerHTML = "";
   if (visibleArticles.length === 0) {
-    // Filtering down to a source with no results otherwise snaps instantly
-    // — reuse the same entrance animation as article cards, but only when
-    // the empty state was actually hidden a moment ago.
-    if (emptyStateEl.hidden) {
-      emptyStateEl.classList.remove("item-enter");
-      void emptyStateEl.offsetWidth;
-      emptyStateEl.style.setProperty("--stagger-delay", "0ms");
-      emptyStateEl.classList.add("item-enter");
-    }
     emptyStateEl.hidden = false;
-    articleListEl.replaceChildren();
-    renderedItemNodes = new Map();
   } else {
     emptyStateEl.hidden = true;
-
-    const nextNodes = new Map();
     const fragment = document.createDocumentFragment();
-    let newItemCount = 0;
-
-    // Reuse the existing node for a key untouched (same article, same
-    // divider label) so an already-loaded thumbnail is never re-fetched
-    // or repainted; only a node built fresh here gets the stagger-in
-    // animation, so unrelated background refreshes don't replay it for
-    // articles that were already on screen.
-    const placeItem = (key, build) => {
-      let node = renderedItemNodes.get(key);
-      if (!node) {
-        node = build();
-        node.style.setProperty("--stagger-delay", `${Math.min(newItemCount, STAGGER_MAX_STEPS) * STAGGER_STEP_MS}ms`);
-        node.classList.add("item-enter");
-        newItemCount++;
-      }
-      nextNodes.set(key, node);
-      fragment.appendChild(node);
-    };
-
     let lastGroupLabel = null;
     for (const article of visibleArticles) {
       const groupLabel = dateGroupLabel(article.publishedAt);
       if (groupLabel && groupLabel !== lastGroupLabel) {
-        placeItem(`divider:${groupLabel}`, () => buildDateDivider(groupLabel));
+        fragment.appendChild(buildDateDivider(groupLabel));
         lastGroupLabel = groupLabel;
       }
-      placeItem(`article:${article.id}`, () => buildArticleCard(article));
+      fragment.appendChild(buildArticleCard(article));
     }
-
-    articleListEl.replaceChildren(fragment);
-    renderedItemNodes = nextNodes;
+    articleListEl.appendChild(fragment);
   }
 
   renderSourceChips();
