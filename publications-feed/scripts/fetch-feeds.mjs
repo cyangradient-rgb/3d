@@ -3,6 +3,7 @@ import { fileURLToPath } from "node:url";
 import path from "node:path";
 import zlib from "node:zlib";
 import Parser from "rss-parser";
+import sanitizeHtml from "sanitize-html";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SOURCES_PATH = path.join(__dirname, "sources.json");
@@ -79,6 +80,29 @@ function stripHtml(html, limit = 240) {
   return text.length > limit ? text.slice(0, limit) + "…" : text;
 }
 
+// Renders the article body in the in-app reader, so it only needs to be
+// safe to drop into innerHTML — not a full readability-style rewrite. We
+// only ever use whatever the feed's own content:encoded/content field
+// already contains (i.e. what the publisher chose to syndicate), never a
+// separate fetch of the article page itself.
+function sanitizeArticleHtml(html) {
+  if (!html) return "";
+  return sanitizeHtml(html, {
+    allowedTags: [
+      "p", "br", "strong", "b", "em", "i", "u", "a", "img", "figure", "figcaption",
+      "blockquote", "ul", "ol", "li", "h2", "h3", "h4", "hr", "pre", "code", "span",
+    ],
+    allowedAttributes: {
+      a: ["href"],
+      img: ["src", "alt"],
+    },
+    allowedSchemes: ["http", "https"],
+    nonTextTags: ["script", "style", "iframe", "object", "embed", "form", "textarea"],
+    exclusiveFilter: (frame) =>
+      frame.tag === "a" && !/^https?:\/\//i.test(frame.attribs.href ?? ""),
+  }).trim();
+}
+
 function extractImage(item) {
   if (item.enclosure?.url && /^image\//.test(item.enclosure.type ?? "")) {
     return item.enclosure.url;
@@ -119,6 +143,7 @@ async function fetchSource(source) {
         title: stripHtml(item.title, Infinity),
         link: item.link,
         summary: stripHtml(item.contentSnippet || item.content || item.summary || ""),
+        content: sanitizeArticleHtml(item["content:encoded"] || item.content || item.summary || ""),
         publishedAt: item.isoDate || (item.pubDate ? new Date(item.pubDate).toISOString() : null),
         imageUrl: extractImage(item),
         sourceId: source.id,
