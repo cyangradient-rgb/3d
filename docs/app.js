@@ -205,8 +205,12 @@ function buildArticleCard(article) {
     img.className = "entry-image";
     img.loading = "lazy";
     img.alt = "";
-    img.src = article.imageUrl;
+    // Fade in on the actual `load` event rather than the moment `src` is
+    // set — a slow thumbnail otherwise pops in abruptly once its bytes
+    // finally arrive, with no transition to soften it.
+    img.onload = () => img.classList.add("is-loaded");
     img.onerror = () => img.remove();
+    img.src = article.imageUrl;
     entry.appendChild(img);
   }
 
@@ -229,6 +233,15 @@ function render() {
     .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0));
 
   if (visibleArticles.length === 0) {
+    // Filtering down to a source with no results otherwise snaps instantly
+    // — reuse the same entrance animation as article cards, but only when
+    // the empty state was actually hidden a moment ago.
+    if (emptyStateEl.hidden) {
+      emptyStateEl.classList.remove("item-enter");
+      void emptyStateEl.offsetWidth;
+      emptyStateEl.style.setProperty("--stagger-delay", "0ms");
+      emptyStateEl.classList.add("item-enter");
+    }
     emptyStateEl.hidden = false;
     articleListEl.replaceChildren();
     renderedItemNodes = new Map();
