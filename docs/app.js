@@ -23,6 +23,12 @@ const sourcesDialog = document.getElementById("sourcesDialog");
 const closeSourcesButton = document.getElementById("closeSourcesButton");
 const sourcesListEl = document.getElementById("sourcesList");
 const fontOptionButtons = document.querySelectorAll(".font-option");
+const readerDialog = document.getElementById("readerDialog");
+const closeReaderButton = document.getElementById("closeReaderButton");
+const readerTitleEl = document.getElementById("readerTitle");
+const readerMetaEl = document.getElementById("readerMeta");
+const readerBodyEl = document.getElementById("readerBody");
+const readerSourceLinkEl = document.getElementById("readerSourceLink");
 
 let currentFeed = null;
 let isRefreshing = false;
@@ -200,7 +206,41 @@ function buildArticleCard(article) {
     entry.appendChild(img);
   }
 
+  // Open the in-app reader on a plain tap; let a modified click (cmd/ctrl,
+  // middle-click) fall through to the real href so "open in new tab" still
+  // works as expected.
+  entry.addEventListener("click", (event) => {
+    if (event.defaultPrevented) return;
+    if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    openReader(article);
+  });
+
   return entry;
+}
+
+function openReader(article) {
+  readerTitleEl.textContent = article.title ?? "";
+  readerMetaEl.textContent = [article.sourceName, relativeTime(article.publishedAt)]
+    .filter(Boolean)
+    .join(" · ");
+
+  const hasContent = typeof article.content === "string" && article.content.trim().length > 0;
+  readerBodyEl.innerHTML = hasContent ? article.content : "";
+  readerBodyEl.hidden = !hasContent;
+
+  if (isSafeHttpUrl(article.link)) {
+    readerSourceLinkEl.href = article.link;
+    readerSourceLinkEl.textContent = hasContent
+      ? `view original on ${article.sourceName ?? "source"}`
+      : `read full article on ${article.sourceName ?? "source"}`;
+    readerSourceLinkEl.hidden = false;
+  } else {
+    readerSourceLinkEl.hidden = true;
+  }
+
+  readerDialog.showModal();
+  readerDialog.scrollTop = 0;
 }
 
 function render() {
@@ -353,6 +393,11 @@ headerIconEl.addEventListener("animationend", () => {
 closeSourcesButton.addEventListener("click", () => sourcesDialog.close());
 sourcesDialog.addEventListener("click", (event) => {
   if (event.target === sourcesDialog) sourcesDialog.close();
+});
+
+closeReaderButton.addEventListener("click", () => readerDialog.close());
+readerDialog.addEventListener("click", (event) => {
+  if (event.target === readerDialog) readerDialog.close();
 });
 
 function renderFontToggle() {
