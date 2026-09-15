@@ -36,6 +36,7 @@ body {
   background: var(--bg);
   color: var(--text);
   overscroll-behavior-y: contain;
+  overflow-x: hidden;
 }
 
 body {
