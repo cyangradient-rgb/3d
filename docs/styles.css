@@ -9,6 +9,7 @@
   --font-serif: "Instrument Serif", Georgia, "Times New Roman", serif;
   --font-sans: "Instrument Sans", -apple-system, "Helvetica Neue", Arial, sans-serif;
   --base-font-size: 17px;
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -143,7 +144,7 @@ body.is-loaded .empty-state {
 }
 
 .header-icon.is-pull-refreshing {
-  animation: icon-pull-refresh 0.6s ease-in-out;
+  animation: icon-pull-refresh 0.45s ease-in-out;
 }
 
 @keyframes icon-bounce {
@@ -162,7 +163,7 @@ body.is-loaded .empty-state {
 }
 
 .header-icon.is-bouncing {
-  animation: icon-bounce 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
+  animation: icon-bounce 0.45s var(--ease-bounce);
 }
 
 .wordmark {
@@ -177,12 +178,12 @@ body.is-loaded .empty-state {
   border-radius: 999px;
   color: var(--text-muted);
   cursor: pointer;
-  transition: transform 0.15s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.15s ease;
+  transition: transform 0.15s var(--ease-bounce), background 0.15s ease;
 }
 
 .text-button:active {
   background: var(--chip-bg);
-  transform: scale(0.92);
+  transform: scale(0.96);
 }
 
 .article-list {
@@ -221,7 +222,7 @@ body.is-loaded .empty-state {
 }
 
 .item-enter {
-  animation: item-enter 0.4s ease-out both;
+  animation: item-enter 0.28s ease-out both;
   animation-delay: var(--stagger-delay, 0s);
 }
 
@@ -263,9 +264,13 @@ body.is-loaded .empty-state {
   box-shadow: 0 0 0 1px color-mix(in srgb, var(--text) 6%, transparent);
   background: var(--text-muted);
   opacity: 0.12;
+  transition: opacity 0.25s ease-out;
 }
 
-.entry-image[src] {
+/* Fades in on the image's own `load` event (see app.js), not just on the
+   src attribute being present — a slow thumbnail otherwise pops in the
+   instant its bytes arrive, with no transition to soften it. */
+.entry-image.is-loaded {
   opacity: 1;
 }
 
@@ -311,7 +316,7 @@ body.is-loaded .empty-state {
 }
 
 .sources-dialog[open] {
-  animation: sheet-bounce-in 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  animation: sheet-bounce-in 0.5s var(--ease-bounce);
 }
 
 .sources-dialog-header {
@@ -343,11 +348,11 @@ body.is-loaded .empty-state {
   cursor: pointer;
   font-size: inherit;
   text-transform: none;
-  transition: transform 0.15s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.15s ease, color 0.15s ease;
+  transition: transform 0.15s var(--ease-bounce), background 0.15s ease, color 0.15s ease;
 }
 
 .font-option:active {
-  transform: scale(0.92);
+  transform: scale(0.96);
 }
 
 .font-option.is-selected {
@@ -391,11 +396,11 @@ body.is-loaded .empty-state {
   font-size: inherit;
   font-weight: inherit;
   text-transform: inherit;
-  transition: transform 0.15s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.15s ease, color 0.15s ease;
+  transition: transform 0.15s var(--ease-bounce), background 0.15s ease, color 0.15s ease;
 }
 
 .source-chip:active {
-  transform: scale(0.92);
+  transform: scale(0.96);
 }
 
 .source-chip.is-selected {
@@ -406,4 +411,51 @@ body.is-loaded .empty-state {
 .source-chip.has-error::after {
   content: "!";
   opacity: 0.6;
+}
+
+/* Keep the fades (they carry meaning — state indication, feedback) but
+   drop translate/scale movement, per prefers-reduced-motion. */
+@media (prefers-reduced-motion: reduce) {
+  .app-header,
+  .article-list,
+  .empty-state {
+    transform: none;
+  }
+
+  .header-icon.is-pull-refreshing,
+  .header-icon.is-bouncing {
+    animation: none;
+  }
+
+  @keyframes item-enter-reduced {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .item-enter {
+    animation: item-enter-reduced 0.2s ease-out both;
+  }
+
+  @keyframes sheet-bounce-in-reduced {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .sources-dialog[open] {
+    animation: sheet-bounce-in-reduced 0.2s ease-out;
+  }
+
+  .text-button:active,
+  .font-option:active,
+  .source-chip:active {
+    transform: none;
+  }
 }
