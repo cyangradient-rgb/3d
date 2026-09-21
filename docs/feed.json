@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T19:04:47.463Z",
+  "generatedAt": "2026-09-21T22:43:25.191Z",
   "sources": [
     {
       "id": "read-something-great",
       "name": "Read Something Great",
       "siteUrl": "https://www.readsomethinggreat.com",
       "category": "general",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 503"
     },
     {
       "id": "noema",
@@ -46,8 +46,8 @@
       "name": "New Norm",
       "siteUrl": "https://www.newnormmag.com",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 503"
     },
     {
       "id": "interesting-engineering",
@@ -86,8 +86,8 @@
       "name": "This is Paper",
       "siteUrl": "https://www.thisispaper.com",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 503"
     },
     {
       "id": "emergence-magazine",
@@ -206,40 +206,40 @@
       "name": "Daily Camera",
       "siteUrl": "https://www.dailycamera.com",
       "category": "local",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 503"
     },
     {
       "id": "coloradoan",
       "name": "Fort Collins Coloradoan",
       "siteUrl": "https://www.coloradoan.com",
       "category": "local",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 503"
     },
     {
       "id": "taos-news",
       "name": "Taos News",
       "siteUrl": "https://www.taosnews.com",
       "category": "local",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 503"
     },
     {
       "id": "arena-magazine",
       "name": "Arena Magazine",
       "siteUrl": "https://arenamag.com",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 503"
     },
     {
       "id": "surface",
       "name": "Surface",
       "siteUrl": "https://www.surfacemag.com",
       "category": "design",
-      "status": "error",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "dwell",
@@ -294,32 +294,109 @@
       "name": "Headspace",
       "siteUrl": "https://www.headspace.com/articles",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "HTTP 503"
     }
   ],
   "articles": [
     {
-      "id": "https://interestingengineering.com/?p=311702",
-      "title": "Flights grounded at JFK, LaGuardia, other US airports after air traffic system outage",
-      "link": "https://interestingengineering.com/transportation/us-flights-grounded-faa-philadelphia-tracon-outage",
-      "summary": "The Federal Aviation Administration (FAA) has issued ground stops at several major airports in the...",
-      "publishedAt": "2026-09-21T18:51:11.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-2284743212.jpg",
+      "id": "https://news.ycombinator.com/item?id=49794354",
+      "title": "Data Protection Commission fines Google €403M over processing of location data",
+      "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+      "summary": "Article URL: https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location Comments URL: https://news.ycombinator.com/item?id=49794354 Points: 4 #…",
+      "publishedAt": "2026-09-21T22:33:45.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=465310",
+      "title": "Profile: Gemma Smith – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/profile-gemma-smith-issue-21-feature-the-local-project/",
+      "summary": "The post Profile: Gemma Smith – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-21T22:13:25.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://nautil.us/?p=1285172",
+      "title": "50 Years Ago, NASA Unveiled its First Space Shuttle",
+      "link": "https://nautil.us/50-years-ago-nasa-unveiled-its-first-space-shuttle-1285172/",
+      "summary": "And “Star Trek” fans named it The post 50 Years Ago, NASA Unveiled its First Space Shuttle appeared first on Nautilus.",
+      "publishedAt": "2026-09-21T22:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/02-crew.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
+      "id": "https://dailystoic.com/?p=19012",
+      "title": "No One Is Excused From This",
+      "link": "https://dailystoic.com/no-one-is-excused-from-this/",
+      "summary": "It might seem a bit out of character for a powerful general—a fierce warrior—to go everywhere with a book tucked under their arm. But in ancient Rome, that was the figure that the great Scipio Aemilianus cut. He was known for training in ph…",
+      "publishedAt": "2026-09-21T21:51:44.000Z",
+      "imageUrl": "https://dailystoic.com/wp-content/uploads/2026/09/Read-to-Lead_Newsletter-Banner-3.png",
+      "sourceId": "daily-stoic",
+      "sourceName": "Daily Stoic",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=668963",
+      "title": "Failing on All Fronts",
+      "link": "https://www.mindful.org/failing-on-all-fronts-why-practice-mindfulness/",
+      "summary": "Why practice mindfulness if it isn’t going to guarantee sleep, remove anxiety, and be a fast track to weight loss? Teacher Elaine Smookler explores the disappointment we face when we look to a mindfulness practice to help us escape the huma…",
+      "publishedAt": "2026-09-21T21:42:18.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=311696",
+      "title": "US nuclear startup taps large-bore drilling firm to advance 1-mile underground reactor project",
+      "link": "https://interestingengineering.com/energy/deep-fission-youngquist-brothers-one-mile-reactor",
+      "summary": "A nuclear energy project aimed at placing small modular reactors about one mile underground is...",
+      "publishedAt": "2026-09-21T21:12:41.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/deep-fission-2.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49791509",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "summary": "Article URL: https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/ Comments URL: https://news.ycombinator.com/item?id=49791509 Points: 8 # Comments: 3",
-      "publishedAt": "2026-09-21T18:41:59.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "id": "https://coloradosun.com/?p=502691",
+      "title": "Colorado Broadband Office rescinds more than $100M in federal awards to Maverix Broadband amid investigation",
+      "link": "https://coloradosun.com/2026/09/21/colorado-broadband-office-rescinds-millions-federal-investigation/",
+      "summary": "The bankrupt internet provider in Parker was paid $9M of the more than $125M in public funding awards for rural broadband service. Some work has been done, but $3.2M appears to be missing.",
+      "publishedAt": "2026-09-21T21:02:35.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/01/DSC4518-F-e1670444229829.jpg?fit=1024%2C680&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
+      "id": "https://www.dwell.com/article/borland-crossman-house-wowowa-modernist-kevin-borland-renovation-736a4fce",
+      "title": "The Double-Height Atrium Is Still the Best Part of This Revived ’70s Australian Home",
+      "link": "https://www.dwell.com/article/borland-crossman-house-wowowa-modernist-kevin-borland-renovation-736a4fce",
+      "summary": "WOWOWA Architecture turned an upstairs storage area into a study with a view of the signature feature.",
+      "publishedAt": "2026-09-21T20:13:36.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7500966495743627264/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=123074&secret=cM2XMtKpK3Lj&nonce=ff7db58057",
+      "title": "Wild orangutans repeatedly combine and consume plants linked to healing and inflammation",
+      "link": "https://www.thebrighterside.news/post/wild-orangutans-repeatedly-combine-and-consume-plants-linked-to-healing-and-inflammation/",
+      "summary": "Wild Bornean orangutans ate certain medicinal plants together more often than chance would predict. The post Wild orangutans repeatedly combine and consume plants linked to healing and inflammation appeared first on The Brighter Side of New…",
+      "publishedAt": "2026-09-21T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/07/shutterstock_2396724703-1-scaled.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "https://www.brainpickings.org/?p=53233",
@@ -331,28 +408,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "https://nautil.us/?p=1285163",
-      "title": "Why it’s So Hard to Measure the Depth of the Ocean",
-      "link": "https://nautil.us/why-its-so-hard-to-measure-the-depth-of-the-ocean-1285163/",
-      "summary": "There are a lot of variables The post Why it’s So Hard to Measure the Depth of the Ocean appeared first on Nautilus.",
-      "publishedAt": "2026-09-21T18:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Mariana-trench.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
-    },
-    {
-      "id": "https://www.dwell.com/article/construction-diary-pine-view-residence-renovation-end-studio-detroit-106df205",
-      "title": "Construction Diary: How a Music Producer Remixed His Childhood Home in Michigan",
-      "link": "https://www.dwell.com/article/construction-diary-pine-view-residence-renovation-end-studio-detroit-106df205",
-      "summary": "Detroit's End Studio revised the midcentury ranch house by raising the ceiling, knocking down walls, and bringing in lots of storage for books and records.",
-      "publishedAt": "2026-09-21T17:55:11.000Z",
-      "imageUrl": "https://images.dwell.com/photos-6133443737990074368/7503155640004915200-small/one-of-the-couples-two-cats-casper-holds-court-on-a-recovered-vintage-sofa-in-this-shot-encompassing-the-living-room-dining-table-and-a-portion-of-the-kitchen.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
     },
     {
       "id": "CBMinAFBVV95cUxPZEdfQ2t0ZlVUUmJYT3NVZGU2WEktN1ZJZnZQOGg1anZ4SGpleFNMSGhDSXI2c2VyVERnNFBNYTFQYzN1cXQ4Nl92MUF1OTRuaHpPMWM0YmVzM1otX2l5ZEYydmdmTk11UFdxUFF6Q3l6Q21Oa1RnWVhaTlNvcFhXaGlBU3lmVFJDcTJNaWFhcnNCTEpCanZKTWtqajA",
@@ -377,25 +432,14 @@
       "category": "art"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127207&secret=cM2XMtKpK3Lj&nonce=37529dbe42",
-      "title": "Physicists convert microwaves to light helping quantum computers communicate over optical networks",
-      "link": "https://www.thebrighterside.news/post/physicists-convert-microwaves-to-light-helping-quantum-computers-communicate-over-optical-networks/",
-      "summary": "Magnons and excitons inside CrSBr coherently transfer microwave information onto reflected light across a 300 MHz bandwidth. The post Physicists convert microwaves to light helping quantum computers communicate over optical networks appeare…",
-      "publishedAt": "2026-09-21T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/phonon-2.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "https://www.mindful.org/?p=21753",
-      "title": "Forgiveness Is an Inside Job",
-      "link": "https://www.mindful.org/forgiveness-is-an-inside-job/",
-      "summary": "Holding on to hurt feelings limits your ability to be present. Move past resentment and anger by learning to forgive yourself first. The post Forgiveness Is an Inside Job appeared first on Mindful.",
-      "publishedAt": "2026-09-21T15:05:35.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
+      "id": "https://greatergood.berkeley.edu/article/item/what_chimps_can_teach_us_about_male_friendships#When:15:21:00Z",
+      "title": "What Chimps Can Teach Us About Male Friendships",
+      "link": "https://greatergood.berkeley.edu/article/item/what_chimps_can_teach_us_about_male_friendships",
+      "summary": "Across the Western world, young men and boys face a changing economy, with fewer manual labor jobs and factory floors that used to give a swathe of working-class men purpose and value. This leaves a large portion of recent generations feeli…",
+      "publishedAt": "2026-09-21T15:21:00.000Z",
+      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/cwo21_g2_misheck%2Bviolet_reassurance_07-07_1.jpg",
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
       "category": "ideas"
     },
     {
@@ -419,17 +463,6 @@
       "sourceId": "leibal",
       "sourceName": "Leibal",
       "category": "design"
-    },
-    {
-      "id": "https://coloradosun.com/?p=502597",
-      "title": "Ski resort industry urges lawmakers to reject daylight saving legislation that would “lock the clock”",
-      "link": "https://coloradosun.com/2026/09/21/ski-resort-industry-urges-lawmakers-to-reject-daylight-saving-bill/",
-      "summary": "The Sunshine Protection Act would have economic and safety impacts for ski areas and mountain towns, ski resorts say",
-      "publishedAt": "2026-09-21T10:10:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/WinterParkPatrol_HC_02.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
     },
     {
       "id": "urn:id:9102",
@@ -476,14 +509,14 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=465296",
-      "title": "Saint by BOND – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/saint-by-bond-issue-21-feature-the-local-project/",
-      "summary": "The post Saint by BOND – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-21T04:17:04.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
+      "id": "https://www.densediscovery.com/issues/407/",
+      "title": "DD407 / Cynicism is not a strategy",
+      "link": "https://www.densediscovery.com/issues/407/",
+      "summary": "Issue 407: Cynicism is not a strategy – Read the full issue in the archive.",
+      "publishedAt": "2026-09-21T07:36:46.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-407.jpg",
+      "sourceId": "dense-discovery",
+      "sourceName": "Dense Discovery",
       "category": "design"
     },
     {
@@ -518,17 +551,6 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
-    },
-    {
-      "id": "https://greatergood.berkeley.edu/article/item/how_to_deal_with_the_grief_of_an_aging_body#When:12:35:00Z",
-      "title": "How to Deal With the Grief of an Aging Body",
-      "link": "https://greatergood.berkeley.edu/article/item/how_to_deal_with_the_grief_of_an_aging_body",
-      "summary": "Body changes can raise disturbing feelings, such as looking in a mirror and seeing a reflection that may feel spiritually empty, unproductive, ugly, or weak. Unpleasant sensations such as pain, pins and needles, soreness coursing through li…",
-      "publishedAt": "2026-09-18T12:35:00.000Z",
-      "imageUrl": null,
-      "sourceId": "greater-good",
-      "sourceName": "Greater Good Magazine",
-      "category": "ideas"
     },
     {
       "id": "https://www.science.org/content/article/department-energy-launches-215-million-race-build-quantum-computer-2028",
@@ -597,17 +619,6 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/406/",
-      "title": "DD406 / Sonntagsruhe: frivolously unmonetised time",
-      "link": "https://www.densediscovery.com/issues/406/",
-      "summary": "Issue 406: Sonntagsruhe: frivolously unmonetised time – Read the full issue in the archive.",
-      "publishedAt": "2026-09-14T07:52:04.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-406.jpg",
-      "sourceId": "dense-discovery",
-      "sourceName": "Dense Discovery",
-      "category": "design"
-    },
-    {
       "id": "CBMid0FVX3lxTE03LWlJcEd2UFRqSy1EUkJnbTFvZXY3UzhRMXFhX09sNzlEY3ZhOEd6SmcxOUsyU1VtdWxZSGV6QnczUl9mbF84d1cwdVZrV2lYSGpzX0taSXY5OWJBci1DbVhSaEVoY3hTMUtDb1VkS1ZJdF9VNmww",
       "title": "Don’t Eat Before Reading This - Read Something Great",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03LWlJcEd2UFRqSy1EUkJnbTFvZXY3UzhRMXFhX09sNzlEY3ZhOEd6SmcxOUsyU1VtdWxZSGV6QnczUl9mbF84d1cwdVZrV2lYSGpzX0taSXY5OWJBci1DbVhSaEVoY3hTMUtDb1VkS1ZJdF9VNmww?oc=5",
@@ -652,17 +663,6 @@
       "category": "design"
     },
     {
-      "id": "https://dailystoic.com/?p=14933",
-      "title": "How To Deal With Regret ( 3 Stoic Strategies to Live Free)",
-      "link": "https://dailystoic.com/how-to-deal-with-regret-3-stoic-strategies-to-live-free/",
-      "summary": "What Is Regret? “Two elements must therefore be rooted out once for all, – the fear of future suffering, and the recollection of past suffering; since the latter no longer concerns me, and the former concerns me not yet.” – Seneca, from Let…",
-      "publishedAt": "2023-08-23T16:48:46.000Z",
-      "imageUrl": "https://dailystoic.com/wp-content/uploads/2023/08/Regret-Image-1024x683.png",
-      "sourceId": "daily-stoic",
-      "sourceName": "Daily Stoic",
-      "category": "ideas"
-    },
-    {
       "id": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-3",
       "title": "Fonts in Popular Culture Identified Vol. 3",
       "link": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-3",
@@ -674,48 +674,81 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49791380",
-      "title": "Help 404 Media Find Out How Your Local Police Are Surveiling You",
-      "link": "https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/",
-      "summary": "Article URL: https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/ Comments URL: https://news.ycombinator.com/item?id=49791380 Points: 12 # Comments: 1",
-      "publishedAt": "2026-09-21T18:33:45.000Z",
+      "id": "https://thelocalproject.com.au/?p=464848",
+      "title": "Reece’s Immersive New Showroom at Sydney’s Rosebery Engine Yards – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/reeces-immersive-new-showroom-at-sydneys-rosebery-engine-yards-the-local-project/",
+      "summary": "The post Reece’s Immersive New Showroom at Sydney’s Rosebery Engine Yards – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-21T22:08:17.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49792730",
+      "title": "Xiaomi MiMo v2.6",
+      "link": "https://mimo.xiaomi.com/mimo-v2-6",
+      "summary": "Article URL: https://mimo.xiaomi.com/mimo-v2-6 Comments URL: https://news.ycombinator.com/item?id=49792730 Points: 334 # Comments: 151",
+      "publishedAt": "2026-09-21T20:12:12.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://www.dwell.com/article/john-wilsons-the-history-of-concrete-uses-the-built-environment-to-critique-failing-systems-d7ae13a1",
-      "title": "John Wilson’s \"The History of Concrete\" Uses the Built Environment to Critique Failing Systems",
-      "link": "https://www.dwell.com/article/john-wilsons-the-history-of-concrete-uses-the-built-environment-to-critique-failing-systems-d7ae13a1",
-      "summary": "In fixating on a ubiquitous construction material, the cult-favorite documentarian’s debut feature film ends up tackling the fragile infrastructure of modern institutions.",
-      "publishedAt": "2026-09-21T17:51:15.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7507833832563318784/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
+      "id": "https://nautil.us/?p=1285166",
+      "title": "Ancient, Armored Fishes Crushed Jaw Evolution",
+      "link": "https://nautil.us/ancient-armored-fishes-crushed-jaw-evolution-1285166/",
+      "summary": "Placoderms evolved unique approaches to the first-ever vertebrate jaws The post Ancient, Armored Fishes Crushed Jaw Evolution appeared first on Nautilus.",
+      "publishedAt": "2026-09-21T20:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Compagopiscis.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
     },
     {
-      "id": "https://interestingengineering.com/?p=311687",
-      "title": "US Army’s oldest test base gets 390MW molten salt nuclear plant fueled by U-235",
-      "link": "https://interestingengineering.com/military/us-armys-oldest-test-base-gets-390mw-molten-salt-nuclear-plant-fueled-by-u-235",
-      "summary": "The US Army’s oldest active proving ground and test base will reportedly receive a 390-megawatt...",
-      "publishedAt": "2026-09-21T17:49:53.000Z",
-      "imageUrl": "https://www.youtube.com/embed/gH3Wlhwy_2E",
+      "id": "https://interestingengineering.com/?p=311702",
+      "title": "Flights grounded at JFK, LaGuardia, other US airports after air traffic system outage",
+      "link": "https://interestingengineering.com/transportation/us-flights-grounded-faa-philadelphia-tracon-outage",
+      "summary": "The Federal Aviation Administration (FAA) has issued ground stops at several major airports in the...",
+      "publishedAt": "2026-09-21T18:51:11.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-2284743212.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://nautil.us/?p=1285159",
-      "title": "Are Our Antidepressants Harming Fish?",
-      "link": "https://nautil.us/are-our-antidepressants-harming-fish-1285159/",
-      "summary": "It’s hard to say, but we’re definitely exposing them to our monoamine drugs The post Are Our Antidepressants Harming Fish? appeared first on Nautilus.",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/20260907_1095.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
+      "id": "https://www.dwell.com/article/construction-diary-pine-view-residence-renovation-end-studio-detroit-106df205",
+      "title": "Construction Diary: How a Music Producer Remixed His Childhood Home in Michigan",
+      "link": "https://www.dwell.com/article/construction-diary-pine-view-residence-renovation-end-studio-detroit-106df205",
+      "summary": "Detroit's END Studio revised the midcentury ranch house by raising the ceiling, knocking down walls, and bringing in lots of storage for books and records.",
+      "publishedAt": "2026-09-21T17:55:11.000Z",
+      "imageUrl": "https://images.dwell.com/photos-6133443737990074368/7503155640004915200-small/one-of-the-couples-two-cats-casper-holds-court-on-a-recovered-vintage-sofa-in-this-shot-encompassing-the-living-room-dining-table-and-a-portion-of-the-kitchen.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=127207&secret=cM2XMtKpK3Lj&nonce=37529dbe42",
+      "title": "Physicists convert microwaves to light helping quantum computers communicate over optical networks",
+      "link": "https://www.thebrighterside.news/post/physicists-convert-microwaves-to-light-helping-quantum-computers-communicate-over-optical-networks/",
+      "summary": "Magnons and excitons inside CrSBr coherently transfer microwave information onto reflected light across a 300 MHz bandwidth. The post Physicists convert microwaves to light helping quantum computers communicate over optical networks appeare…",
+      "publishedAt": "2026-09-21T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/phonon-2.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://www.mindful.org/?p=21753",
+      "title": "Forgiveness Is an Inside Job",
+      "link": "https://www.mindful.org/forgiveness-is-an-inside-job/",
+      "summary": "Holding on to hurt feelings limits your ability to be present. Move past resentment and anger by learning to forgive yourself first. The post Forgiveness Is an Inside Job appeared first on Mindful.",
+      "publishedAt": "2026-09-21T15:05:35.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
     },
     {
       "id": "6ab12ecfc8c301952a0ea865",
@@ -740,17 +773,6 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127195&secret=cM2XMtKpK3Lj&nonce=37529dbe42",
-      "title": "Stanford physicists observe a quantum jump of sound for the first time",
-      "link": "https://www.thebrighterside.news/post/stanford-physicists-observe-a-quantum-jump-of-sound-for-the-first-time/",
-      "summary": "A microscopic resonator stayed in one vibrational energy state before abruptly dropping to zero, exposing the quantum nature of sound. The post Stanford physicists observe a quantum jump of sound for the first time appeared first on The Bri…",
-      "publishedAt": "2026-09-21T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/phonon.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
       "id": "CBMi6gFBVV95cUxNX2liOHpLZkloVS1fY2RWNG1aMzlyUXJSNjU2LV9FWVNsTFBubTN6ckFaNW0wYlluQVRQOFprX1lPcV92c1Z4YjBUM0p2Ulhqd3VMVmpVeTR3R3BRMUNyN1k3MG5xcGUzXzE0RkpoSXNmTlhyT090RmdEUDdWOHhzd2ZwaUNDWEVwdVBoMEtBWFpTR1RSX2JwanFXUzRoZlA4ZUFTTGZNV2xua2Y5NHBRNUkybVhWS1VjRDhCcV9RbXR6Vl9TNlZXOWlDNVlLcVBxZmpYeHhBdmw5RExTQzBTUDlVZlZSQy1uaHc",
       "title": "Colorado State vs UTSA game info, TV, kickoff time, history and more - The Coloradoan",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX2liOHpLZkloVS1fY2RWNG1aMzlyUXJSNjU2LV9FWVNsTFBubTN6ckFaNW0wYlluQVRQOFprX1lPcV92c1Z4YjBUM0p2Ulhqd3VMVmpVeTR3R3BRMUNyN1k3MG5xcGUzXzE0RkpoSXNmTlhyT090RmdEUDdWOHhzd2ZwaUNDWEVwdVBoMEtBWFpTR1RSX2JwanFXUzRoZlA4ZUFTTGZNV2xua2Y5NHBRNUkybVhWS1VjRDhCcV9RbXR6Vl9TNlZXOWlDNVlLcVBxZmpYeHhBdmw5RExTQzBTUDlVZlZSQy1uaHc?oc=5",
@@ -773,6 +795,17 @@
       "category": "design"
     },
     {
+      "id": "https://coloradosun.com/?p=502597",
+      "title": "Ski resort industry urges lawmakers to reject daylight saving legislation that would “lock the clock”",
+      "link": "https://coloradosun.com/2026/09/21/ski-resort-industry-urges-lawmakers-to-reject-daylight-saving-bill/",
+      "summary": "The Sunshine Protection Act would have economic and safety impacts for ski areas and mountain towns, ski resorts say",
+      "publishedAt": "2026-09-21T10:10:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/WinterParkPatrol_HC_02.jpg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
       "id": "urn:id:9122",
       "title": "He was probably right",
       "link": "https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty",
@@ -782,17 +815,6 @@
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
-    },
-    {
-      "id": "https://coloradosun.com/?p=502633",
-      "title": "House Speaker Mike Johnson’s PAC pours $250K into Colorado redistricting fight",
-      "link": "https://coloradosun.com/2026/09/21/colorado-redistricting-mike-johnson-support/",
-      "summary": "Dark money groups are financially backing Amendment 86, which aims to make it harder to redraw congressional districts outside of the normal census-driven process",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/10/DST_0996.jpg?fit=1024%2C682&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
     },
     {
       "id": "urn:id:8859",
@@ -828,17 +850,6 @@
       "category": "local"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=465205",
-      "title": "Eva’s Richmond House by In Addition – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/evas-richmond-house-by-in-addition-the-local-project/",
-      "summary": "The post Eva’s Richmond House by In Addition – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-20T22:55:44.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
       "id": "https://www.themarginalian.org/?p=87945",
       "title": "Are You Working: In Defense of the Invisible Labors of Creativitiy",
       "link": "https://www.themarginalian.org/2026/09/20/leo-lionni-frederick/",
@@ -872,6 +883,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://greatergood.berkeley.edu/article/item/how_to_deal_with_the_grief_of_an_aging_body#When:12:35:00Z",
+      "title": "How to Deal With the Grief of an Aging Body",
+      "link": "https://greatergood.berkeley.edu/article/item/how_to_deal_with_the_grief_of_an_aging_body",
+      "summary": "Body changes can raise disturbing feelings, such as looking in a mirror and seeing a reflection that may feel spiritually empty, unproductive, ugly, or weak. Unpleasant sensations such as pain, pins and needles, soreness coursing through li…",
+      "publishedAt": "2026-09-18T12:35:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.science.org/content/article/satellite-reveals-world-weird-rivers-shaped-humans",
       "title": "Satellite reveals a world of ‘weird rivers’ shaped by humans",
       "link": "https://www.science.org/content/article/satellite-reveals-world-weird-rivers-shaped-humans",
@@ -881,17 +903,6 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "https://www.mindful.org/?p=668837",
-      "title": "Mental Fitness is Replacing Mindfulness—But is That a Problem?",
-      "link": "https://www.mindful.org/mental-fitness-is-replacing-mindfulness-but-is-that-a-problem/",
-      "summary": "The rise of “mental fitness” and optimization-focused tools is reframing mindfulness as performance rather than awareness. But is that really an issue? The post Mental Fitness is Replacing Mindfulness—But is That a Problem? appeared first o…",
-      "publishedAt": "2026-09-17T15:14:21.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
     },
     {
       "id": "https://minimalissimo.com/articles/cilia-by-david-pompa",
@@ -916,17 +927,6 @@
       "category": "design"
     },
     {
-      "id": "https://greatergood.berkeley.edu/article/item/can_consciousness_exist_without_a_body#When:15:31:00Z",
-      "title": "Can Consciousness Exist Without a Body?",
-      "link": "https://greatergood.berkeley.edu/article/item/can_consciousness_exist_without_a_body",
-      "summary": "For centuries, defining and understanding consciousness has eluded neuroscientists, philosophers, and doctors. Is consciousness what it means to be alive? Is it knowing who we are, as individual people? How do we know if any being has consc…",
-      "publishedAt": "2026-09-16T15:31:00.000Z",
-      "imageUrl": null,
-      "sourceId": "greater-good",
-      "sourceName": "Greater Good Magazine",
-      "category": "ideas"
-    },
-    {
       "id": "https://www.noemamag.com/a-new-form-of-life",
       "title": "A New Form Of Life",
       "link": "https://www.noemamag.com/a-new-form-of-life",
@@ -949,12 +949,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/405/",
-      "title": "DD405 / The Ponzi stage of being alive",
-      "link": "https://www.densediscovery.com/issues/405/",
-      "summary": "Issue 405: The Ponzi stage of being alive – Read the full issue in the archive.",
-      "publishedAt": "2026-09-07T08:14:34.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-405.jpg",
+      "id": "https://www.densediscovery.com/issues/406/",
+      "title": "DD406 / Sonntagsruhe: frivolously unmonetised time",
+      "link": "https://www.densediscovery.com/issues/406/",
+      "summary": "Issue 406: Sonntagsruhe: frivolously unmonetised time – Read the full issue in the archive.",
+      "publishedAt": "2026-09-14T07:52:04.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-406.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -1026,12 +1026,12 @@
       "category": "design"
     },
     {
-      "id": "https://dailystoic.com/?p=14874",
-      "title": "What Does It Mean To Be Wealthy?",
-      "link": "https://dailystoic.com/what-does-it-mean-to-be-wealthy/",
-      "summary": "“These individuals have riches just as we say that we ‘have a fever,’ when really the fever has us.” — Seneca We all know those people who have lots of money, and yet, they are miserable. On the flip side, we all know people who live happy …",
-      "publishedAt": "2023-07-31T17:13:18.000Z",
-      "imageUrl": "https://dailystoic.com/wp-content/uploads/2023/07/Screenshot-2024-01-04-at-1.33.42 PM.png",
+      "id": "https://dailystoic.com/?p=14933",
+      "title": "How To Deal With Regret ( 3 Stoic Strategies to Live Free)",
+      "link": "https://dailystoic.com/how-to-deal-with-regret-3-stoic-strategies-to-live-free/",
+      "summary": "What Is Regret? “Two elements must therefore be rooted out once for all, – the fear of future suffering, and the recollection of past suffering; since the latter no longer concerns me, and the former concerns me not yet.” – Seneca, from Let…",
+      "publishedAt": "2023-08-23T16:48:46.000Z",
+      "imageUrl": "https://dailystoic.com/wp-content/uploads/2023/08/Regret-Image-1024x683.png",
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
       "category": "ideas"
@@ -1048,67 +1048,67 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49791117",
-      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
-      "link": "https://ieeexplore.ieee.org/document/689473",
-      "summary": "Article URL: https://ieeexplore.ieee.org/document/689473 Comments URL: https://news.ycombinator.com/item?id=49791117 Points: 5 # Comments: 1",
-      "publishedAt": "2026-09-21T18:14:56.000Z",
+      "id": "https://news.ycombinator.com/item?id=49792342",
+      "title": "Transformers Explained Visually",
+      "link": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "Article URL: https://poloclub.github.io/transformer-explainer/ Comments URL: https://news.ycombinator.com/item?id=49792342 Points: 114 # Comments: 17",
+      "publishedAt": "2026-09-21T19:43:49.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://www.dwell.com/article/west-queen-anne-school-classroom-condo-conversion-seattle-real-estate-23ed1aa4",
-      "title": "This $550K Seattle Condo Is at the Top of Its Class",
-      "link": "https://www.dwell.com/article/west-queen-anne-school-classroom-condo-conversion-seattle-real-estate-23ed1aa4",
-      "summary": "Set inside the historic 1896 West Queen Anne School, the Victorian-era classroom has graduated to become a lofty one-bedroom with an A+ kitchen.",
-      "publishedAt": "2026-09-21T17:30:05.000Z",
-      "imageUrl": "https://images.dwell.com/photos-6063391372700811264/7500981933282168832-small/set-inside-the-historic-1896-west-queen-anne-school-the-victorian-era-classroom-has-graduated-to-become-a-lofty-one-bedroom-with-an-a-kitchen.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=311610",
-      "title": "100 buoys the size of small houses could tap 90% of ocean wave energy for power",
-      "link": "https://interestingengineering.com/energy/100-buoys-the-size-of-small-houses-could-tap-90-of-ocean-wave-energy-for-power",
-      "summary": "A group of researchers from Australia and Germany has developed a new method that could...",
-      "publishedAt": "2026-09-21T15:56:07.000Z",
-      "imageUrl": "https://www.youtube.com/embed/jGhYBtmJ7Xc",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://nautil.us/?p=1285156",
-      "title": "Could AI Have Consciousness That Isn’t Human-Like?",
-      "link": "https://nautil.us/could-ai-have-consciousness-that-isnt-human-like-1285156/",
-      "summary": "Philosopher Peter Godfrey-Smith on AI consciousness and existential risk The post Could AI Have Consciousness That Isn’t Human-Like? appeared first on Nautilus.",
-      "publishedAt": "2026-09-21T14:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2814648261.jpg?w=564",
+      "id": "https://nautil.us/?p=1285163",
+      "title": "Why it’s So Hard to Measure the Depth of the Ocean",
+      "link": "https://nautil.us/why-its-so-hard-to-measure-the-depth-of-the-ocean-1285163/",
+      "summary": "There are a lot of variables The post Why it’s So Hard to Measure the Depth of the Ocean appeared first on Nautilus.",
+      "publishedAt": "2026-09-21T18:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Mariana-trench.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127218&secret=cM2XMtKpK3Lj&nonce=37529dbe42",
-      "title": "Stellar destruction reveals a universal rule for black hole jet formation",
-      "link": "https://www.thebrighterside.news/post/stellar-destruction-reveals-a-universal-rule-for-black-hole-jet-formation/",
-      "summary": "Stellar disruptions reveal a shared jet-launching threshold that appears to span millions-fold differences in black hole mass. The post Stellar destruction reveals a universal rule for black hole jet formation appeared first on The Brighter…",
-      "publishedAt": "2026-09-21T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/black-hole.png?auto=webp",
+      "id": "https://www.dwell.com/article/john-wilsons-the-history-of-concrete-uses-the-built-environment-to-critique-failing-systems-d7ae13a1",
+      "title": "John Wilson’s \"The History of Concrete\" Uses the Built Environment to Critique Failing Systems",
+      "link": "https://www.dwell.com/article/john-wilsons-the-history-of-concrete-uses-the-built-environment-to-critique-failing-systems-d7ae13a1",
+      "summary": "In fixating on a ubiquitous construction material, the cult-favorite documentarian’s debut feature film ends up tackling the fragile infrastructure of modern institutions.",
+      "publishedAt": "2026-09-21T17:51:15.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7507833832563318784/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=311687",
+      "title": "US Army’s oldest test base gets 390MW molten salt nuclear plant fueled by U-235",
+      "link": "https://interestingengineering.com/military/us-armys-oldest-test-base-gets-390mw-molten-salt-nuclear-plant-fueled-by-u-235",
+      "summary": "The US Army’s oldest active proving ground and test base will reportedly receive a 390-megawatt...",
+      "publishedAt": "2026-09-21T17:49:53.000Z",
+      "imageUrl": "https://www.youtube.com/embed/gH3Wlhwy_2E",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=127195&secret=cM2XMtKpK3Lj&nonce=37529dbe42",
+      "title": "Stanford physicists observe a quantum jump of sound for the first time",
+      "link": "https://www.thebrighterside.news/post/stanford-physicists-observe-a-quantum-jump-of-sound-for-the-first-time/",
+      "summary": "A microscopic resonator stayed in one vibrational energy state before abruptly dropping to zero, exposing the quantum nature of sound. The post Stanford physicists observe a quantum jump of sound for the first time appeared first on The Bri…",
+      "publishedAt": "2026-09-21T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/phonon.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://coloradosun.com/?p=502612",
-      "title": "Meet the Denver chef who opened 3 Michelin star restaurants in 3 years",
-      "link": "https://coloradosun.com/2026/09/21/meet-the-denver-chef-who-opened-three-michelin-restaurants/",
-      "summary": "Johnny Curiel and his wife, Kasie, have opened 6 restaurants and racked up 5 Michelin nods since they opened Alma Fonda Fina in 2023",
+      "id": "https://coloradosun.com/?p=502633",
+      "title": "House Speaker Mike Johnson’s PAC pours $250K into Colorado redistricting fight",
+      "link": "https://coloradosun.com/2026/09/21/colorado-redistricting-mike-johnson-support/",
+      "summary": "Dark money groups are financially backing Amendment 86, which aims to make it harder to redraw congressional districts outside of the normal census-driven process",
       "publishedAt": "2026-09-21T10:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/Johnny-Curiel-PC_-Shawn-Campbell--scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/10/DST_0996.jpg?fit=1024%2C682&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
@@ -1123,6 +1123,17 @@
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=465296",
+      "title": "Saint by BOND – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/saint-by-bond-issue-21-feature-the-local-project/",
+      "summary": "The post Saint by BOND – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-21T04:17:04.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "6aad61eef8bab68b6f6a6a15",
@@ -1235,6 +1246,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://www.mindful.org/?p=668837",
+      "title": "Mental Fitness is Replacing Mindfulness—But is That a Problem?",
+      "link": "https://www.mindful.org/mental-fitness-is-replacing-mindfulness-but-is-that-a-problem/",
+      "summary": "The rise of “mental fitness” and optimization-focused tools is reframing mindfulness as performance rather than awareness. But is that really an issue? The post Mental Fitness is Replacing Mindfulness—But is That a Problem? appeared first o…",
+      "publishedAt": "2026-09-17T15:14:21.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world",
       "title": "As forests burn, can we replant trees ready for a warmer world?",
       "link": "https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world",
@@ -1244,17 +1266,6 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=464747",
-      "title": "Autex Acoustics Australian HQ by Made For – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/autex-acoustics-australian-hq-by-made-for-issue-21-feature-the-local-project/",
-      "summary": "The post Autex Acoustics Australian HQ by Made For – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T22:47:07.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
     },
     {
       "id": "CBMiZ0FVX3lxTE53OWp3N2pWUWNyMEZhbHk0eUZRZ2VWWHd5UzgwMEZTOXV3d05ISGFOSmpXU2VUU01rTE5qVFpVeUkyVDF0RGtEdjNFSVkwZEhlQ0p1Ry1aYVNXcGJXZDZoZ3ZHVndLaG8",
@@ -1268,14 +1279,14 @@
       "category": "design"
     },
     {
-      "id": "https://www.mindful.org/?p=668844",
-      "title": "The Circuitous Path of an Unexpected Meditation Teacher",
-      "link": "https://www.mindful.org/unexpected-meditation-teacher-mellow-elephant/",
-      "summary": "Mellow Elephant founder and former English teacher Billy Rosenbeck shares how he became a champion of meditation, found work in prisons and package stores, and made a movie along the way. The post The Circuitous Path of an Unexpected Medita…",
-      "publishedAt": "2026-09-15T17:16:00.000Z",
+      "id": "https://greatergood.berkeley.edu/article/item/can_consciousness_exist_without_a_body#When:15:31:00Z",
+      "title": "Can Consciousness Exist Without a Body?",
+      "link": "https://greatergood.berkeley.edu/article/item/can_consciousness_exist_without_a_body",
+      "summary": "For centuries, defining and understanding consciousness has eluded neuroscientists, philosophers, and doctors. Is consciousness what it means to be alive? Is it knowing who we are, as individual people? How do we know if any being has consc…",
+      "publishedAt": "2026-09-16T15:31:00.000Z",
       "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
       "category": "ideas"
     },
     {
@@ -1288,17 +1299,6 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
-    },
-    {
-      "id": "https://greatergood.berkeley.edu/article/item/in_the_face_of_crisis_psychologists_urge_a_return_to_the_basics#When:12:38:00Z",
-      "title": "In the Face of Crisis, Psychologists Urge a Return to the Basics",
-      "link": "https://greatergood.berkeley.edu/article/item/in_the_face_of_crisis_psychologists_urge_a_return_to_the_basics",
-      "summary": "As numerous surveys suggest, people today often feel overwhelmed by new technology, global crises, and loneliness. What do the nation’s psychologists recommend? At the annual convention of the American Psychological Association last month i…",
-      "publishedAt": "2026-09-15T12:38:00.000Z",
-      "imageUrl": null,
-      "sourceId": "greater-good",
-      "sourceName": "Greater Good Magazine",
-      "category": "ideas"
     },
     {
       "id": "https://www.noemamag.com/conceding-ai-danger-raises-not-reduces-public-anxiety",
@@ -1323,12 +1323,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/404/",
-      "title": "DD404 / All click, no muscle",
-      "link": "https://www.densediscovery.com/issues/404/",
-      "summary": "Issue 404: All click, no muscle – Read the full issue in the archive.",
-      "publishedAt": "2026-08-31T08:12:39.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-404.jpg",
+      "id": "https://www.densediscovery.com/issues/405/",
+      "title": "DD405 / The Ponzi stage of being alive",
+      "link": "https://www.densediscovery.com/issues/405/",
+      "summary": "Issue 405: The Ponzi stage of being alive – Read the full issue in the archive.",
+      "publishedAt": "2026-09-07T08:14:34.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-405.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -1400,12 +1400,12 @@
       "category": "design"
     },
     {
-      "id": "https://dailystoic.com/?p=14635",
-      "title": "Perseverance: 7 Stoic Lessons on How To Keep Going",
-      "link": "https://dailystoic.com/perseverance/",
-      "summary": "“To be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it.” — Marcus Aurelius The question of why and how we are supposed to live has been contemplated for centuries. Absurdist…",
-      "publishedAt": "2023-05-09T18:50:25.000Z",
-      "imageUrl": null,
+      "id": "https://dailystoic.com/?p=14874",
+      "title": "What Does It Mean To Be Wealthy?",
+      "link": "https://dailystoic.com/what-does-it-mean-to-be-wealthy/",
+      "summary": "“These individuals have riches just as we say that we ‘have a fever,’ when really the fever has us.” — Seneca We all know those people who have lots of money, and yet, they are miserable. On the flip side, we all know people who live happy …",
+      "publishedAt": "2023-07-31T17:13:18.000Z",
+      "imageUrl": "https://dailystoic.com/wp-content/uploads/2023/07/Screenshot-2024-01-04-at-1.33.42 PM.png",
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
       "category": "ideas"
@@ -1422,37 +1422,70 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49790409",
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 54 # Comments: 19",
-      "publishedAt": "2026-09-21T17:30:21.000Z",
+      "id": "https://news.ycombinator.com/item?id=49792067",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "link": "https://linear.app/now/ci-bottleneck-reworked",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 89 # Comments: 79",
+      "publishedAt": "2026-09-21T19:23:33.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311516",
-      "title": "Australia’s 10,000-ton AUKUS nuclear attack submarines to get UK-built reactors",
-      "link": "https://interestingengineering.com/military/uk-nuclear-reactors-australia-aukus-submarine",
-      "summary": "The UK is expanding its role in the AUKUS submarine program, with Rolls-Royce set to...",
-      "publishedAt": "2026-09-21T13:55:46.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-59-1.jpg",
+      "id": "https://www.dwell.com/article/west-queen-anne-school-classroom-condo-conversion-seattle-real-estate-23ed1aa4",
+      "title": "This $550K Seattle Condo Is at the Top of Its Class",
+      "link": "https://www.dwell.com/article/west-queen-anne-school-classroom-condo-conversion-seattle-real-estate-23ed1aa4",
+      "summary": "Set inside the historic 1896 West Queen Anne School, the Victorian-era classroom has graduated to become a lofty one-bedroom with an A+ kitchen.",
+      "publishedAt": "2026-09-21T17:30:05.000Z",
+      "imageUrl": "https://images.dwell.com/photos-6063391372700811264/7500981933282168832-small/set-inside-the-historic-1896-west-queen-anne-school-the-victorian-era-classroom-has-graduated-to-become-a-lofty-one-bedroom-with-an-a-kitchen.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://nautil.us/?p=1285159",
+      "title": "Are Our Antidepressants Harming Fish?",
+      "link": "https://nautil.us/are-our-antidepressants-harming-fish-1285159/",
+      "summary": "It’s hard to say, but we’re definitely exposing them to our monoamine drugs The post Are Our Antidepressants Harming Fish? appeared first on Nautilus.",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/20260907_1095.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=311610",
+      "title": "100 buoys the size of small houses could tap 90% of ocean wave energy for power",
+      "link": "https://interestingengineering.com/energy/100-buoys-the-size-of-small-houses-could-tap-90-of-ocean-wave-energy-for-power",
+      "summary": "A group of researchers from Australia and Germany has developed a new method that could...",
+      "publishedAt": "2026-09-21T15:56:07.000Z",
+      "imageUrl": "https://www.youtube.com/embed/jGhYBtmJ7Xc",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://nautil.us/?p=1285144",
-      "title": "The Oldest Evidence of Drug Use is Also a Story About Addiction",
-      "link": "https://nautil.us/the-oldest-evidence-of-drug-use-is-also-a-story-about-addiction-1285144/",
-      "summary": "A 25,000-year-old cautionary tale The post The Oldest Evidence of Drug Use is Also a Story About Addiction appeared first on Nautilus.",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/aei1901-Leang-Cappolombo-1-forager-CPL-2a_CREDIT-Fakhri-1.jpeg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
+      "id": "https://www.thebrighterside.news/api/preview?id=127218&secret=cM2XMtKpK3Lj&nonce=37529dbe42",
+      "title": "Stellar destruction reveals a universal rule for black hole jet formation",
+      "link": "https://www.thebrighterside.news/post/stellar-destruction-reveals-a-universal-rule-for-black-hole-jet-formation/",
+      "summary": "Stellar disruptions reveal a shared jet-launching threshold that appears to span millions-fold differences in black hole mass. The post Stellar destruction reveals a universal rule for black hole jet formation appeared first on The Brighter…",
+      "publishedAt": "2026-09-21T11:51:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/black-hole.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://coloradosun.com/?p=502612",
+      "title": "Meet the Denver chef who opened 3 Michelin star restaurants in 3 years",
+      "link": "https://coloradosun.com/2026/09/21/meet-the-denver-chef-who-opened-three-michelin-restaurants/",
+      "summary": "Johnny Curiel and his wife, Kasie, have opened 6 restaurants and racked up 5 Michelin nods since they opened Alma Fonda Fina in 2023",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/Johnny-Curiel-PC_-Shawn-Campbell--scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
     },
     {
       "id": "6aad608d0daa6ee8bdb17b18",
@@ -1466,15 +1499,15 @@
       "category": "art"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=125744&secret=cM2XMtKpK3Lj&nonce=70f19d6eef",
-      "title": "Genetic ‘barcodes’ could explain why chromosomes recognize one another",
-      "link": "https://www.thebrighterside.news/post/genetic-barcodes-could-explain-why-chromosomes-recognize-one-another/",
-      "summary": "Repetitive DNA and the D1 protein help matching fruit fly chromosomes recognize one another before eggs form. The post Genetic ‘barcodes’ could explain why chromosomes recognize one another appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-09-20T23:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/chromosome-pairs.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
+      "id": "https://thelocalproject.com.au/?p=465205",
+      "title": "Eva’s Richmond House by In Addition – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/evas-richmond-house-by-in-addition-the-local-project/",
+      "summary": "The post Eva’s Richmond House by In Addition – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-20T22:55:44.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "CBMi1gFBVV95cUxOamM5MV9FM0NtVml6LTMtaEdvMVVYRzJYVTlweUxDRHZoNm94MDJNUWpzbXBtOTl4VmVmazN6Q3JuSzRmZl9CckFZS29KOFAxaHJ5UEtzR0VLN3BrQ3dsWmNyQ05JYnB2cW1aMDdCdVlzRG5ueXBNOExSdkZFbV93MWk4OWVSaG42cWNSRW9IbmFKWF9hbUxOV1F6cWtZamdlQUtRVmFKdndRaXNRMWcyM084aEhsYkRSenMtMDU2N3JXMjJjY2xkMUlvVDdRQUFGajZDM2Zn",
@@ -1485,17 +1518,6 @@
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
-    },
-    {
-      "id": "https://coloradosun.com/?p=502559",
-      "title": "In a fading Colorado Eastern Plains town, one man seeks to spark new economic life with an RV park and tiny homes",
-      "link": "https://coloradosun.com/2026/09/20/arriba-rv-park-tiny-home-project/",
-      "summary": "It's boom or bust out there for many Eastern Plains towns. Ben VanderWerf thinks an RV park and tiny home community will put Arriba somewhere in the happy middle.",
-      "publishedAt": "2026-09-20T10:30:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/02/Colo_Sun_Arriba_Tiny_House_04.jpg?fit=1024%2C697&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
@@ -1541,17 +1563,6 @@
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
-    },
-    {
-      "id": "https://www.dwell.com/article/can-traditional-tattoos-help-us-understand-architectural-history-monique-lizardo-kalinga-batok-b776d9a5-3514ea0f",
-      "title": "Can Traditional Tattoos Help Us Understand Architectural History?",
-      "link": "https://www.dwell.com/article/can-traditional-tattoos-help-us-understand-architectural-history-monique-lizardo-kalinga-batok-b776d9a5-3514ea0f",
-      "summary": "Designer and professor Monique Lizardo discusses how Indigenous body markings—plus ceramics, weavings, and other art forms—can reveal a lot about how past societies looked and functioned.",
-      "publishedAt": "2026-09-18T17:59:22.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7506752433336672256/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
     },
     {
       "id": "CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ",
@@ -1620,15 +1631,26 @@
       "category": "science"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=464735",
-      "title": "In Focus: Dulux Colour Forecast 2026 – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/in-focus-dulux-colour-forecast-2026-issue-21-feature-the-local-project/",
-      "summary": "The post In Focus: Dulux Colour Forecast 2026 – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T05:14:56.000Z",
+      "id": "https://www.mindful.org/?p=668844",
+      "title": "The Circuitous Path of an Unexpected Meditation Teacher",
+      "link": "https://www.mindful.org/unexpected-meditation-teacher-mellow-elephant/",
+      "summary": "Mellow Elephant founder and former English teacher Billy Rosenbeck shares how he became a champion of meditation, found work in prisons and package stores, and made a movie along the way. The post The Circuitous Path of an Unexpected Medita…",
+      "publishedAt": "2026-09-15T17:16:00.000Z",
       "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/in_the_face_of_crisis_psychologists_urge_a_return_to_the_basics#When:12:38:00Z",
+      "title": "In the Face of Crisis, Psychologists Urge a Return to the Basics",
+      "link": "https://greatergood.berkeley.edu/article/item/in_the_face_of_crisis_psychologists_urge_a_return_to_the_basics",
+      "summary": "As numerous surveys suggest, people today often feel overwhelmed by new technology, global crises, and loneliness. What do the nation’s psychologists recommend? At the annual convention of the American Psychological Association last month i…",
+      "publishedAt": "2026-09-15T12:38:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
     },
     {
       "id": "CBMiiwFBVV95cUxPblF3QlZGQ3pIcTRRZDNONDE0cmpBVGxYTC1Rc016ek5hYTY2N19HN1llYzBnT1RoelZMaGh5T2hQbnZFU0JHZ0tWcmd2M1Nnb0lHQy1jc0drZGl5bnpsVGdpbkV6b2F2TzJKTGhISGRua3JMdXlTYnR4M01MVUNkVXlQS2hXSkJlYXVv",
@@ -1640,28 +1662,6 @@
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
       "category": "design"
-    },
-    {
-      "id": "https://www.mindful.org/?p=14350",
-      "title": "3 Ways to Escape the “Perfect Meditator” Trap",
-      "link": "https://www.mindful.org/3-ways-escape-perfect-meditator-trap/",
-      "summary": "Thinking things should be a certain way, every time, can get us in trouble. Same goes with meditation. Try practicing with the following tips in mind. The post 3 Ways to Escape the “Perfect Meditator” Trap appeared first on Mindful.",
-      "publishedAt": "2026-09-14T17:35:29.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
-    },
-    {
-      "id": "https://greatergood.berkeley.edu/article/item/how_love_saves_lives#When:14:54:00Z",
-      "title": "How Love Saves Lives",
-      "link": "https://greatergood.berkeley.edu/article/item/how_love_saves_lives",
-      "summary": "When someone takes his own life, the grief of parents, lovers, children, and friends can be unspeakable. At a memorial for one young suicide I attended a few years ago, the father of the deceased could barely walk to the altar to light a ca…",
-      "publishedAt": "2026-09-14T14:54:00.000Z",
-      "imageUrl": null,
-      "sourceId": "greater-good",
-      "sourceName": "Greater Good Magazine",
-      "category": "ideas"
     },
     {
       "id": "https://www.lionsroar.com/?post_type=lr-article&p=73001",
@@ -1697,12 +1697,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/403/",
-      "title": "DD403 / In praise of ‘it depends’",
-      "link": "https://www.densediscovery.com/issues/403/",
-      "summary": "Issue 403: In praise of ‘it depends’ – Read the full issue in the archive.",
-      "publishedAt": "2026-08-24T07:41:27.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-403.jpg",
+      "id": "https://www.densediscovery.com/issues/404/",
+      "title": "DD404 / All click, no muscle",
+      "link": "https://www.densediscovery.com/issues/404/",
+      "summary": "Issue 404: All click, no muscle – Read the full issue in the archive.",
+      "publishedAt": "2026-08-31T08:12:39.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-404.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -1774,12 +1774,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://dailystoic.com/?p=14073",
-      "title": "The 16 Greatest Lessons From 16 Years With Marcus Aurelius",
-      "link": "https://dailystoic.com/the-16-greatest-lessons-from-16-years-with-marcus-aurelius/",
-      "summary": "Just over sixteen years ago, I bought Marcus Aurelius’ Meditations on Amazon. Amazon Prime didn’t exist then and to qualify for free shipping, I had to purchase a few other books at the same time. I was 19 years old. I didn’t know what Stoi…",
-      "publishedAt": "2022-11-02T03:04:00.000Z",
-      "imageUrl": "https://dailystoic.com/wp-content/uploads/2022/11/Meditations-Receipt-1024x591.png",
+      "id": "https://dailystoic.com/?p=14635",
+      "title": "Perseverance: 7 Stoic Lessons on How To Keep Going",
+      "link": "https://dailystoic.com/perseverance/",
+      "summary": "“To be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it.” — Marcus Aurelius The question of why and how we are supposed to live has been contemplated for centuries. Absurdist…",
+      "publishedAt": "2023-05-09T18:50:25.000Z",
+      "imageUrl": null,
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
       "category": "ideas"
@@ -1796,23 +1796,34 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49790389",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
-      "summary": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 15 # Comments: 5",
-      "publishedAt": "2026-09-21T17:27:49.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791997",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 58 # Comments: 29",
+      "publishedAt": "2026-09-21T19:17:42.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311562",
-      "title": "UFO? Mysterious lights over Tehran spark online buzz 50 years after 1976 sighting",
-      "link": "https://interestingengineering.com/culture/ufo-drone-lights-over-tehran-fuel-speculation",
-      "summary": "A strange cluster of lights was seen over Tehran, and videos of the event are...",
-      "publishedAt": "2026-09-21T13:45:15.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-61-1.jpg",
+      "id": "https://nautil.us/?p=1285156",
+      "title": "Could AI Have Consciousness That Isn’t Human-Like?",
+      "link": "https://nautil.us/could-ai-have-consciousness-that-isnt-human-like-1285156/",
+      "summary": "Philosopher Peter Godfrey-Smith on AI consciousness and existential risk The post Could AI Have Consciousness That Isn’t Human-Like? appeared first on Nautilus.",
+      "publishedAt": "2026-09-21T14:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2814648261.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=311516",
+      "title": "Australia’s 10,000-ton AUKUS nuclear attack submarines to get UK-built reactors",
+      "link": "https://interestingengineering.com/military/uk-nuclear-reactors-australia-aukus-submarine",
+      "summary": "The UK is expanding its role in the AUKUS submarine program, with Rolls-Royce set to...",
+      "publishedAt": "2026-09-21T13:55:46.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-59-1.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -1829,34 +1840,23 @@
       "category": "art"
     },
     {
-      "id": "https://nautil.us/?p=1285150",
-      "title": "“Ferritin Face” Is Trending—But Can Your Skin Really Reveal Low Iron?",
-      "link": "https://nautil.us/ferritin-face-is-trending-but-can-your-skin-really-reveal-low-iron-1285150/",
-      "summary": "There’s a kernel of truth to it, but it’s not the whole story The post “Ferritin Face” Is Trending—But Can Your Skin Really Reveal Low Iron? appeared first on Nautilus.",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_492058866.jpeg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=125499&secret=cM2XMtKpK3Lj&nonce=e72fee4c36",
-      "title": "Natural compound linked to pomegranates improves heart function in preclinical tests",
-      "link": "https://www.thebrighterside.news/post/natural-compound-linked-to-pomegranates-improves-heart-function-in-preclinical-tests/",
-      "summary": "Urolithin A heart failure research points to a new pathway for improving heart relaxation in a hard-to-treat condition. The post Natural compound linked to pomegranates improves heart function in preclinical tests appeared first on The Brig…",
-      "publishedAt": "2026-09-20T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/heart-and-pomegranates.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=125744&secret=cM2XMtKpK3Lj&nonce=70f19d6eef",
+      "title": "Genetic ‘barcodes’ could explain why chromosomes recognize one another",
+      "link": "https://www.thebrighterside.news/post/genetic-barcodes-could-explain-why-chromosomes-recognize-one-another/",
+      "summary": "Repetitive DNA and the D1 protein help matching fruit fly chromosomes recognize one another before eggs form. The post Genetic ‘barcodes’ could explain why chromosomes recognize one another appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-20T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/chromosome-pairs.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://coloradosun.com/?p=502577",
-      "title": "Littwin: “High IQ” Trump says not to worry about AI dangers, yet actual humans are scared to death",
-      "link": "https://coloradosun.com/2026/09/20/artificial-intelligence-trump-opinion-littwin/",
-      "summary": "Columnist Mike Littwin writes that when researchers say there’s a 10% chance we’ll be wiped out by artificial intelligence by the end of the decade, it’s OK to be a little worried.",
-      "publishedAt": "2026-09-20T09:05:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/07/Littwin-Opinion-Featured-Image.png?fit=1024%2C536&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=502559",
+      "title": "In a fading Colorado Eastern Plains town, one man seeks to spark new economic life with an RV park and tiny homes",
+      "link": "https://coloradosun.com/2026/09/20/arriba-rv-park-tiny-home-project/",
+      "summary": "It's boom or bust out there for many Eastern Plains towns. Ben VanderWerf thinks an RV park and tiny home community will put Arriba somewhere in the happy middle.",
+      "publishedAt": "2026-09-20T10:30:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/02/Colo_Sun_Arriba_Tiny_House_04.jpg?fit=1024%2C697&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
@@ -1884,12 +1884,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.dwell.com/article/kennedy-center-airbnb-housing-fund-c8f40129",
-      "title": "The Fight Over the Kennedy Center Continues—and Everything Else You Need to Know About This Week",
-      "link": "https://www.dwell.com/article/kennedy-center-airbnb-housing-fund-c8f40129",
-      "summary": "Governor Gavin Newsom sets safety standards for homes damaged by wildfire smoke, Airbnb launches a $250 million housing fund, and more.",
-      "publishedAt": "2026-09-18T15:49:52.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7506725804315312128/small.jpg",
+      "id": "https://www.dwell.com/article/can-traditional-tattoos-help-us-understand-architectural-history-monique-lizardo-kalinga-batok-b776d9a5-3514ea0f",
+      "title": "Can Traditional Tattoos Help Us Understand Architectural History?",
+      "link": "https://www.dwell.com/article/can-traditional-tattoos-help-us-understand-architectural-history-monique-lizardo-kalinga-batok-b776d9a5-3514ea0f",
+      "summary": "Designer and professor Monique Lizardo discusses how Indigenous body markings—plus ceramics, weavings, and other art forms—can reveal a lot about how past societies looked and functioned.",
+      "publishedAt": "2026-09-18T17:59:22.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7506752433336672256/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -1972,6 +1972,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://thelocalproject.com.au/?p=464747",
+      "title": "Autex Acoustics Australian HQ by Made For – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/autex-acoustics-australian-hq-by-made-for-issue-21-feature-the-local-project/",
+      "summary": "The post Autex Acoustics Australian HQ by Made For – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-16T22:47:07.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
       "id": "https://www.science.org/content/article/human-neurons-flourish-mouse-brains-offering-new-view-neurodevelopmental-disorders",
       "title": "Human neurons flourish in mouse brains, offering a new view of neurodevelopmental disorders",
       "link": "https://www.science.org/content/article/human-neurons-flourish-mouse-brains-offering-new-view-neurodevelopmental-disorders",
@@ -1994,15 +2005,26 @@
       "category": "ideas"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=465063",
-      "title": "TASS Brings Resort-Like Living to a Sydney Family Home – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/tass-brings-resort-like-living-to-a-sydney-family-home-the-local-project/",
-      "summary": "The post TASS Brings Resort-Like Living to a Sydney Family Home – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T05:10:39.000Z",
+      "id": "https://www.mindful.org/?p=14350",
+      "title": "3 Ways to Escape the “Perfect Meditator” Trap",
+      "link": "https://www.mindful.org/3-ways-escape-perfect-meditator-trap/",
+      "summary": "Thinking things should be a certain way, every time, can get us in trouble. Same goes with meditation. Try practicing with the following tips in mind. The post 3 Ways to Escape the “Perfect Meditator” Trap appeared first on Mindful.",
+      "publishedAt": "2026-09-14T17:35:29.000Z",
       "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/how_love_saves_lives#When:14:54:00Z",
+      "title": "How Love Saves Lives",
+      "link": "https://greatergood.berkeley.edu/article/item/how_love_saves_lives",
+      "summary": "When someone takes his own life, the grief of parents, lovers, children, and friends can be unspeakable. At a memorial for one young suicide I attended a few years ago, the father of the deceased could barely walk to the altar to light a ca…",
+      "publishedAt": "2026-09-14T14:54:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
     },
     {
       "id": "CBMibEFVX3lxTFBlcVpMUENDVVBSRWFnaHRUSmVDSFR5T2FmUnVTNVdHdVBTQzFVZVpta3l1NEdxLXoxSTRULWZueTI1Um9YbjhJampOSFRMc21WMGtwYjE4S2ZMQldnckQ4ZGF3UkFpRV9OYlVYNw",
@@ -2016,17 +2038,6 @@
       "category": "design"
     },
     {
-      "id": "https://www.mindful.org/?p=45565",
-      "title": "Mark Bertin: A Guided Walking Meditation to Meet Uncertainty with Compassion",
-      "link": "https://www.mindful.org/a-guided-walking-meditation-to-meet-uncertainty-with-compassion/",
-      "summary": "When we're facing the unknown, our thoughts and emotions often go into overdrive and we lose sight of being kind to ourselves. Mark Bertin reminds us that we are not alone and offers a practice to work with uncertainty. The post Mark Bertin…",
-      "publishedAt": "2026-09-14T00:48:34.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
-    },
-    {
       "id": "https://minimalissimo.com/articles/momentum-desk-tray",
       "title": "Momentum Desk Tray",
       "link": "https://minimalissimo.com/articles/momentum-desk-tray",
@@ -2036,17 +2047,6 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
-    },
-    {
-      "id": "https://greatergood.berkeley.edu/article/item/can_community_programs_reduce_gun_violence#When:11:29:00Z",
-      "title": "Can Community Programs Reduce Gun Violence?",
-      "link": "https://greatergood.berkeley.edu/article/item/can_community_programs_reduce_gun_violence",
-      "summary": "A new study by researchers at UC Berkeley’s Center for Global Healthy Cities published in the Journal of the American Medical Association Network Open found that the California city of Richmond’s Office of Neighborhood Safety (ONS) was resp…",
-      "publishedAt": "2026-09-11T11:29:00.000Z",
-      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/Peacemaker_Fellowship_Public_Health_Model.jpg",
-      "sourceId": "greater-good",
-      "sourceName": "Greater Good Magazine",
-      "category": "ideas"
     },
     {
       "id": "https://www.noemamag.com/whose-ai-will-rule-the-world",
@@ -2071,12 +2071,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/402/",
-      "title": "DD402 / Agency, not abstinence",
-      "link": "https://www.densediscovery.com/issues/402/",
-      "summary": "Issue 402: Agency, not abstinence – Read the full issue in the archive.",
-      "publishedAt": "2026-08-17T07:46:00.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-402.jpg",
+      "id": "https://www.densediscovery.com/issues/403/",
+      "title": "DD403 / In praise of ‘it depends’",
+      "link": "https://www.densediscovery.com/issues/403/",
+      "summary": "Issue 403: In praise of ‘it depends’ – Read the full issue in the archive.",
+      "publishedAt": "2026-08-24T07:41:27.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-403.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -2137,12 +2137,12 @@
       "category": "design"
     },
     {
-      "id": "https://dailystoic.com/?p=13738",
-      "title": "How To Find And Keep Joy",
-      "link": "https://dailystoic.com/how-to-find-and-keep-joy/",
-      "summary": "Today it’s all about passion. Find your passion. Live passionately. Inspire the world with your passion. Passion, we tell ourselves, is the source of joy. The Stoics disagreed. In fact, they believed that passion(s) were what contributed to…",
-      "publishedAt": "2022-08-08T21:48:35.000Z",
-      "imageUrl": null,
+      "id": "https://dailystoic.com/?p=14073",
+      "title": "The 16 Greatest Lessons From 16 Years With Marcus Aurelius",
+      "link": "https://dailystoic.com/the-16-greatest-lessons-from-16-years-with-marcus-aurelius/",
+      "summary": "Just over sixteen years ago, I bought Marcus Aurelius’ Meditations on Amazon. Amazon Prime didn’t exist then and to qualify for free shipping, I had to purchase a few other books at the same time. I was 19 years old. I didn’t know what Stoi…",
+      "publishedAt": "2022-11-02T03:04:00.000Z",
+      "imageUrl": "https://dailystoic.com/wp-content/uploads/2022/11/Meditations-Receipt-1024x591.png",
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
       "category": "ideas"
@@ -2170,25 +2170,36 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49789982",
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 93 # Comments: 77",
-      "publishedAt": "2026-09-21T17:00:23.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791939",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "summary": "Article URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead Comments URL: https://news.ycombinator.com/item?id=49791939 Points: 222 # Comments: 163",
+      "publishedAt": "2026-09-21T19:14:12.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311586",
-      "title": "Single-atom technique could tackle 350 million tons of global PET plastic waste",
-      "link": "https://interestingengineering.com/science/single-atom-tweak-boosts-plastic-eating-enzyme",
-      "summary": "To break down a plastic bottle, science doesn’t need a hammer, but a microscopic scalpel....",
-      "publishedAt": "2026-09-21T13:35:29.000Z",
-      "imageUrl": "https://www.youtube.com/embed/dLqSRU_m0vU",
+      "id": "https://interestingengineering.com/?p=311562",
+      "title": "UFO? Mysterious lights over Tehran spark online buzz 50 years after 1976 sighting",
+      "link": "https://interestingengineering.com/culture/ufo-drone-lights-over-tehran-fuel-speculation",
+      "summary": "A strange cluster of lights was seen over Tehran, and videos of the event are...",
+      "publishedAt": "2026-09-21T13:45:15.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-61-1.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://nautil.us/?p=1285144",
+      "title": "The Oldest Evidence of Drug Use is Also a Story About Addiction",
+      "link": "https://nautil.us/the-oldest-evidence-of-drug-use-is-also-a-story-about-addiction-1285144/",
+      "summary": "A 25,000-year-old cautionary tale The post The Oldest Evidence of Drug Use is Also a Story About Addiction appeared first on Nautilus.",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/aei1901-Leang-Cappolombo-1-forager-CPL-2a_CREDIT-Fakhri-1.jpeg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
       "category": "science"
     },
     {
@@ -2203,23 +2214,23 @@
       "category": "art"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=124542&secret=cM2XMtKpK3Lj&nonce=18935f1a5e",
-      "title": "New physics explains how odor changes on its journey through the air",
-      "link": "https://www.thebrighterside.news/post/new-physics-explains-how-odor-changes-on-its-journey-through-the-air/",
-      "summary": "Wind reshapes the timing of odor whiffs, potentially giving animals clues about where a scent originated. The post New physics explains how odor changes on its journey through the air appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-09-20T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/Low-Res_ElleStark01.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=125499&secret=cM2XMtKpK3Lj&nonce=e72fee4c36",
+      "title": "Natural compound linked to pomegranates improves heart function in preclinical tests",
+      "link": "https://www.thebrighterside.news/post/natural-compound-linked-to-pomegranates-improves-heart-function-in-preclinical-tests/",
+      "summary": "Urolithin A heart failure research points to a new pathway for improving heart relaxation in a hard-to-treat condition. The post Natural compound linked to pomegranates improves heart function in preclinical tests appeared first on The Brig…",
+      "publishedAt": "2026-09-20T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/heart-and-pomegranates.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://coloradosun.com/?p=502584",
-      "title": "Nicolais: Will Victor Marx face criminal accountability?",
-      "link": "https://coloradosun.com/2026/09/20/victor-marx-politics-opinion-nicolais/",
-      "summary": "The Republican gubernatorial candidate appears to have crossed the line from campaign finance violations into the realm of criminal fraud — and he should be investigated for it",
-      "publishedAt": "2026-09-20T09:03:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/08/Nicolais-Opinion-Featured-Image.png?fit=1024%2C536&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=502577",
+      "title": "Littwin: “High IQ” Trump says not to worry about AI dangers, yet actual humans are scared to death",
+      "link": "https://coloradosun.com/2026/09/20/artificial-intelligence-trump-opinion-littwin/",
+      "summary": "Columnist Mike Littwin writes that when researchers say there’s a 10% chance we’ll be wiped out by artificial intelligence by the end of the decade, it’s OK to be a little worried.",
+      "publishedAt": "2026-09-20T09:05:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/07/Littwin-Opinion-Featured-Image.png?fit=1024%2C536&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
@@ -2236,17 +2247,6 @@
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285147",
-      "title": "This Dolphin Steals from Fish for Its Meals",
-      "link": "https://nautil.us/this-dolphin-steals-from-fish-for-its-meals-1285147/",
-      "summary": "Putting a dent in dolphins’ reputation as the “good guys of the sea” The post This Dolphin Steals from Fish for Its Meals appeared first on Nautilus.",
-      "publishedAt": "2026-09-19T12:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/bubbles.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
-    },
-    {
       "id": "CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM",
       "title": "CU Buffs scouting report vs. Northwestern Wildcats - Daily Camera",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM?oc=5",
@@ -2258,6 +2258,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.dwell.com/article/kennedy-center-airbnb-housing-fund-c8f40129",
+      "title": "The Fight Over the Kennedy Center Continues—and Everything Else You Need to Know About This Week",
+      "link": "https://www.dwell.com/article/kennedy-center-airbnb-housing-fund-c8f40129",
+      "summary": "Governor Gavin Newsom sets safety standards for homes damaged by wildfire smoke, Airbnb launches a $250 million housing fund, and more.",
+      "publishedAt": "2026-09-18T15:49:52.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7506725804315312128/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
       "id": "https://www.brainpickings.org/?p=67625",
       "title": "The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs. Wasted",
       "link": "https://www.themarginalian.org/2026/09/18/seneca-letter-1-time/",
@@ -2267,17 +2278,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.dwell.com/article/before-and-after-windsor-terrace-residence-renovation-office-of-tangible-space-c4ee196d",
-      "title": "Before & After: A Fossilized Stingray and Mom’s Artwork Inspired This Brooklyn Renovation",
-      "link": "https://www.dwell.com/article/before-and-after-windsor-terrace-residence-renovation-office-of-tangible-space-c4ee196d",
-      "summary": "A pair of art appreciators used their collected curios as a starting point for turning an odd townhome into a sweet family residence.",
-      "publishedAt": "2026-09-18T12:57:16.000Z",
-      "imageUrl": "https://s3-us-west-2.amazonaws.com/dwell-ugc/photos/6063391372700811264/7506777963973910528/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
     },
     {
       "id": "https://leibal.com/?p=184402",
@@ -2346,11 +2346,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=465035",
-      "title": "Caulfield House by Zenn Design – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/caulfield-house-by-zenn-design-the-local-project/",
-      "summary": "The post Caulfield House by Zenn Design – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T05:01:52.000Z",
+      "id": "https://thelocalproject.com.au/?p=464735",
+      "title": "In Focus: Dulux Colour Forecast 2026 – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/in-focus-dulux-colour-forecast-2026-issue-21-feature-the-local-project/",
+      "summary": "The post In Focus: Dulux Colour Forecast 2026 – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-16T05:14:56.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
@@ -2379,6 +2379,28 @@
       "category": "ideas"
     },
     {
+      "id": "https://www.mindful.org/?p=45565",
+      "title": "Mark Bertin: A Guided Walking Meditation to Meet Uncertainty with Compassion",
+      "link": "https://www.mindful.org/a-guided-walking-meditation-to-meet-uncertainty-with-compassion/",
+      "summary": "When we're facing the unknown, our thoughts and emotions often go into overdrive and we lose sight of being kind to ourselves. Mark Bertin reminds us that we are not alone and offers a practice to work with uncertainty. The post Mark Bertin…",
+      "publishedAt": "2026-09-14T00:48:34.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/can_community_programs_reduce_gun_violence#When:11:29:00Z",
+      "title": "Can Community Programs Reduce Gun Violence?",
+      "link": "https://greatergood.berkeley.edu/article/item/can_community_programs_reduce_gun_violence",
+      "summary": "A new study by researchers at UC Berkeley’s Center for Global Healthy Cities published in the Journal of the American Medical Association Network Open found that the California city of Richmond’s Office of Neighborhood Safety (ONS) was resp…",
+      "publishedAt": "2026-09-11T11:29:00.000Z",
+      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/Peacemaker_Fellowship_Public_Health_Model.jpg",
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
+      "category": "ideas"
+    },
+    {
       "id": "CBMifkFVX3lxTE1iWWkwNHREVElJYVFwNnBOZ0VZOWZhZHF6MnAxM1h4ZVFINVVJNmlVTDNpdHRNQXFIUV91MUFzUDIybGw4TmdKX2Uzb2RiZGNwZ1JFSk1xZUVVNmlKbDVGVXIzUks1czgyYlplNGo0NjJNRXNrejA1ZjAyc1dKdw",
       "title": "Extrude, Bridge, Fill by Lasse Sylvest Lilleør - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iWWkwNHREVElJYVFwNnBOZ0VZOWZhZHF6MnAxM1h4ZVFINVVJNmlVTDNpdHRNQXFIUV91MUFzUDIybGw4TmdKX2Uzb2RiZGNwZ1JFSk1xZUVVNmlKbDVGVXIzUks1czgyYlplNGo0NjJNRXNrejA1ZjAyc1dKdw?oc=5",
@@ -2388,17 +2410,6 @@
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
       "category": "design"
-    },
-    {
-      "id": "https://www.mindful.org/?p=668751",
-      "title": "Our Practice Starts With Ourselves—But It Doesn’t End There",
-      "link": "https://www.mindful.org/our-practice-starts-with-ourselves-ripple-effect/",
-      "summary": "September’s Teacher of the Month Mark Bertin offers a reflection on why we practice at all, and how our commitment to staying present has a ripple effect on our whole lives. The post Our Practice Starts With Ourselves—But It Doesn’t End The…",
-      "publishedAt": "2026-09-09T23:24:16.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
     },
     {
       "id": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
@@ -2423,17 +2434,6 @@
       "category": "design"
     },
     {
-      "id": "https://greatergood.berkeley.edu/article/item/you_might_be_experiencing_rustout_not_burnout_at_work#When:15:13:00Z",
-      "title": "You Might Be Experiencing Rustout, Not Burnout, at Work",
-      "link": "https://greatergood.berkeley.edu/article/item/you_might_be_experiencing_rustout_not_burnout_at_work",
-      "summary": "Some forms of distress at work are easy to recognize because they interrupt someone’s daily performance and the work of those around them: For example, a person on your team becomes visibly exhausted, they are irritable, or they’re frequent…",
-      "publishedAt": "2026-09-09T15:13:00.000Z",
-      "imageUrl": null,
-      "sourceId": "greater-good",
-      "sourceName": "Greater Good Magazine",
-      "category": "ideas"
-    },
-    {
       "id": "https://www.lionsroar.com/?post_type=lr-article&p=72711",
       "title": "The Metta of Mister Rogers",
       "link": "https://www.lionsroar.com/the-metta-of-mister-rogers/",
@@ -2445,12 +2445,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/401/",
-      "title": "DD401 / Your call is important to us",
-      "link": "https://www.densediscovery.com/issues/401/",
-      "summary": "Issue 401: Your call is important to us – Read the full issue in the archive.",
-      "publishedAt": "2026-08-10T08:10:15.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-401.jpg",
+      "id": "https://www.densediscovery.com/issues/402/",
+      "title": "DD402 / Agency, not abstinence",
+      "link": "https://www.densediscovery.com/issues/402/",
+      "summary": "Issue 402: Agency, not abstinence – Read the full issue in the archive.",
+      "publishedAt": "2026-08-17T07:46:00.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-402.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -2511,11 +2511,11 @@
       "category": "general"
     },
     {
-      "id": "https://dailystoic.com/?p=13226",
-      "title": "How To Cure Anxiety: 9 Stoic Techniques That Work",
-      "link": "https://dailystoic.com/how-to-cure-anxiety/",
-      "summary": "“We suffer more from imagination than from reality.” — Seneca The 21st century has been described as “The Age of Anxiety,” “The United States of Stress,” “The World of Worry.” The implication is that what we are experiencing—pandemics, terr…",
-      "publishedAt": "2022-06-23T19:58:40.000Z",
+      "id": "https://dailystoic.com/?p=13738",
+      "title": "How To Find And Keep Joy",
+      "link": "https://dailystoic.com/how-to-find-and-keep-joy/",
+      "summary": "Today it’s all about passion. Find your passion. Live passionately. Inspire the world with your passion. Passion, we tell ourselves, is the source of joy. The Stoics disagreed. In fact, they believed that passion(s) were what contributed to…",
+      "publishedAt": "2022-08-08T21:48:35.000Z",
       "imageUrl": null,
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
@@ -2544,25 +2544,36 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49789228",
-      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "summary": "Article URL: https://spectrum.ieee.org/hermes-shortwave-radio-digital-data Comments URL: https://news.ycombinator.com/item?id=49789228 Points: 43 # Comments: 18",
-      "publishedAt": "2026-09-21T16:14:16.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791797",
+      "title": "In Search of a Compositional Theory of Self-Stabilization",
+      "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html Comments URL: https://news.ycombinator.com/item?id=49791797 Points: 37 # Comments: 3",
+      "publishedAt": "2026-09-21T19:04:36.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311600",
-      "title": "World’s first 33 feet deep submarine solar power plant trialed in China",
-      "link": "https://interestingengineering.com/energy/china-scientists-underwater-solar-panels-power-plant",
-      "summary": "Scientists at the Yunnan University in China have achieved a global first by building a...",
-      "publishedAt": "2026-09-21T13:34:55.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/UW.jpg",
+      "id": "https://interestingengineering.com/?p=311586",
+      "title": "Single-atom technique could tackle 350 million tons of global PET plastic waste",
+      "link": "https://interestingengineering.com/science/single-atom-tweak-boosts-plastic-eating-enzyme",
+      "summary": "To break down a plastic bottle, science doesn’t need a hammer, but a microscopic scalpel....",
+      "publishedAt": "2026-09-21T13:35:29.000Z",
+      "imageUrl": "https://www.youtube.com/embed/dLqSRU_m0vU",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://nautil.us/?p=1285150",
+      "title": "“Ferritin Face” Is Trending—But Can Your Skin Really Reveal Low Iron?",
+      "link": "https://nautil.us/ferritin-face-is-trending-but-can-your-skin-really-reveal-low-iron-1285150/",
+      "summary": "There’s a kernel of truth to it, but it’s not the whole story The post “Ferritin Face” Is Trending—But Can Your Skin Really Reveal Low Iron? appeared first on Nautilus.",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_492058866.jpeg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
       "category": "science"
     },
     {
@@ -2577,23 +2588,23 @@
       "category": "art"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127130&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Greenland and Antarctica have lost more than 11 trillion tons of ice since 1979",
-      "link": "https://www.thebrighterside.news/post/greenland-and-antarctica-have-lost-more-than-11-trillion-tons-of-ice-since-1979/",
-      "summary": "Four decades of satellites reveal accelerating polar ice loss driven mainly by glaciers moving faster into warming oceans. The post Greenland and Antarctica have lost more than 11 trillion tons of ice since 1979 appeared first on The Bright…",
-      "publishedAt": "2026-09-20T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/antarctic-ice-loss.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=124542&secret=cM2XMtKpK3Lj&nonce=18935f1a5e",
+      "title": "New physics explains how odor changes on its journey through the air",
+      "link": "https://www.thebrighterside.news/post/new-physics-explains-how-odor-changes-on-its-journey-through-the-air/",
+      "summary": "Wind reshapes the timing of odor whiffs, potentially giving animals clues about where a scent originated. The post New physics explains how odor changes on its journey through the air appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-20T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/Low-Res_ElleStark01.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://coloradosun.com/?p=502579",
-      "title": "Carman: The smartest guy in the room is a bot and it doesn’t care if you live or die",
-      "link": "https://coloradosun.com/2026/09/20/artificial-intelligence-opinion-carman/",
-      "summary": "A CU scientist spent her career in AI and says the timeline for averting disaster is very, very short.",
+      "id": "https://coloradosun.com/?p=502584",
+      "title": "Nicolais: Will Victor Marx face criminal accountability?",
+      "link": "https://coloradosun.com/2026/09/20/victor-marx-politics-opinion-nicolais/",
+      "summary": "The Republican gubernatorial candidate appears to have crossed the line from campaign finance violations into the realm of criminal fraud — and he should be investigated for it",
       "publishedAt": "2026-09-20T09:03:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/02/Carman-Opinion-Featured-Image.png?fit=1024%2C536&amp;ssl=1",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/08/Nicolais-Opinion-Featured-Image.png?fit=1024%2C536&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
@@ -2610,23 +2621,12 @@
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285140",
-      "title": "The Moon has a New Once-in-a-Century Crater",
-      "link": "https://nautil.us/the-moon-has-a-new-once-in-a-century-crater-1285140/",
-      "summary": "The lunar surface is more dynamic than you might think The post The Moon has a New Once-in-a-Century Crater appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T21:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/McGetchinLRONAC.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
-    },
-    {
-      "id": "https://www.dwell.com/article/chip-and-joanna-gaines-cottonland-castle-renovation-waco-texas-real-estate-acb5ad93",
-      "title": "Chip and Joanna Gaines’s Texas Castle Just Listed for $2.7M",
-      "link": "https://www.dwell.com/article/chip-and-joanna-gaines-cottonland-castle-renovation-waco-texas-real-estate-acb5ad93",
-      "summary": "Meticulously restored by the design duo, the 135-year-old Waco landmark brings Gothic drama to cowboy country—and every piece of furniture comes with it.",
-      "publishedAt": "2026-09-18T12:17:47.000Z",
-      "imageUrl": "https://images.dwell.com/photos-6063391372700811264/7490485670845607936-small/meticulously-restored-by-chip-and-joanna-gaines-the-135-year-old-waco-landmark-brings-gothic-drama-to-cowboy-countryand-every-piece-of-furniture-comes-with-it.png",
+      "id": "https://www.dwell.com/article/before-and-after-windsor-terrace-residence-renovation-office-of-tangible-space-c4ee196d",
+      "title": "Before & After: A Fossilized Stingray and Mom’s Artwork Inspired This Brooklyn Renovation",
+      "link": "https://www.dwell.com/article/before-and-after-windsor-terrace-residence-renovation-office-of-tangible-space-c4ee196d",
+      "summary": "A pair of art appreciators used their collected curios as a starting point for turning an odd townhome into a sweet family residence.",
+      "publishedAt": "2026-09-18T12:57:16.000Z",
+      "imageUrl": "https://images.dwell.com/photos-6063391372700811264/7506777963973910528-small/a-pair-of-art-appreciators-used-their-collected-curious-and-an-artwork-by-tayo-heuser-as-a-starting-point-for-turning-an-odd-townhome-into-a-sweet-family-residence.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -2698,11 +2698,11 @@
       "category": "local"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=464714",
-      "title": "Arthouse by Lake Flato Architects – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/arthouse-by-lake-flato-architects-issue-21-feature-the-local-project/",
-      "summary": "The post Arthouse by Lake Flato Architects – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T04:38:44.000Z",
+      "id": "https://thelocalproject.com.au/?p=465063",
+      "title": "TASS Brings Resort-Like Living to a Sydney Family Home – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/tass-brings-resort-like-living-to-a-sydney-family-home-the-local-project/",
+      "summary": "The post TASS Brings Resort-Like Living to a Sydney Family Home – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-16T05:10:39.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
@@ -2753,6 +2753,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://www.mindful.org/?p=668751",
+      "title": "Our Practice Starts With Ourselves—But It Doesn’t End There",
+      "link": "https://www.mindful.org/our-practice-starts-with-ourselves-ripple-effect/",
+      "summary": "September’s Teacher of the Month Mark Bertin offers a reflection on why we practice at all, and how our commitment to staying present has a ripple effect on our whole lives. The post Our Practice Starts With Ourselves—But It Doesn’t End The…",
+      "publishedAt": "2026-09-09T23:24:16.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
       "id": "CBMid0FVX3lxTE4xZzY4SW1FTjlPTzMtRW1zM0U5WDB4X1FJU0xpYmxtUHZtMVRvYzcyS2FaNlZ2NGZVM19XVFYyaThtaGpNUXdTT2sxRUhrQWc3blR2RGNvN1VwaVE0NTJhS2lZQWFNUlBjeFhsZG1USG5BaG53WTVr",
       "title": "House in Kagurazaka by Takumi Wakui + Riho Wakui Architects - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZzY4SW1FTjlPTzMtRW1zM0U5WDB4X1FJU0xpYmxtUHZtMVRvYzcyS2FaNlZ2NGZVM19XVFYyaThtaGpNUXdTT2sxRUhrQWc3blR2RGNvN1VwaVE0NTJhS2lZQWFNUlBjeFhsZG1USG5BaG53WTVr?oc=5",
@@ -2764,22 +2775,11 @@
       "category": "design"
     },
     {
-      "id": "https://www.mindful.org/?p=668729",
-      "title": "Uncovering Our Inherent Wholeness: A Conversation with Janice Martellucci of Peace in Schools",
-      "link": "https://www.mindful.org/uncovering-our-inherent-wholeness-a-conversation-with-janice-martellucci-of-peace-in-schools/",
-      "summary": "Peace In Schools Executive Director Janice Martellucci discusses the benefits of incorporating intentional, evidence-based mindfulness training into regular school curriculum, and the far-reaching value of simply equipping kids to meet and …",
-      "publishedAt": "2026-09-09T18:33:32.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
-    },
-    {
-      "id": "https://greatergood.berkeley.edu/article/item/five_things_students_taught_us_about_connecting_across_differences#When:12:20:00Z",
-      "title": "Five Things Students Taught Us About Connecting Across Differences",
-      "link": "https://greatergood.berkeley.edu/article/item/five_things_students_taught_us_about_connecting_across_differences",
-      "summary": "When I’m producing a documentary, one of my favorite parts of the process is the moment when a bit of our footage sticks to me. Permanently. I never know when it will happen, but it always does. The sticky bit could be a snippet of dialogue…",
-      "publishedAt": "2026-09-08T12:20:00.000Z",
+      "id": "https://greatergood.berkeley.edu/article/item/you_might_be_experiencing_rustout_not_burnout_at_work#When:15:13:00Z",
+      "title": "You Might Be Experiencing Rustout, Not Burnout, at Work",
+      "link": "https://greatergood.berkeley.edu/article/item/you_might_be_experiencing_rustout_not_burnout_at_work",
+      "summary": "Some forms of distress at work are easy to recognize because they interrupt someone’s daily performance and the work of those around them: For example, a person on your team becomes visibly exhausted, they are irritable, or they’re frequent…",
+      "publishedAt": "2026-09-09T15:13:00.000Z",
       "imageUrl": null,
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
@@ -2819,12 +2819,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/400/",
-      "title": "DD400 / Hitting ‘send’ for the 579th time",
-      "link": "https://www.densediscovery.com/issues/400/",
-      "summary": "Issue 400: Hitting ‘send’ for the 579th time – Read the full issue in the archive.",
-      "publishedAt": "2026-08-03T07:27:41.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-400.jpg",
+      "id": "https://www.densediscovery.com/issues/401/",
+      "title": "DD401 / Your call is important to us",
+      "link": "https://www.densediscovery.com/issues/401/",
+      "summary": "Issue 401: Your call is important to us – Read the full issue in the archive.",
+      "publishedAt": "2026-08-10T08:10:15.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-401.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -2885,11 +2885,11 @@
       "category": "general"
     },
     {
-      "id": "https://dailystoic.com/?p=12980",
-      "title": "Goal Setting: A Philosophical Guide to Setting and Achieving Goals",
-      "link": "https://dailystoic.com/goal-setting/",
-      "summary": "“How long are you going to wait before you demand the best for yourself?” — Epictetus What do the goals we set, whether personal or professional, require? If we hope to accomplish our goals, we need the discipline to hold ourselves accounta…",
-      "publishedAt": "2022-04-28T14:38:51.000Z",
+      "id": "https://dailystoic.com/?p=13226",
+      "title": "How To Cure Anxiety: 9 Stoic Techniques That Work",
+      "link": "https://dailystoic.com/how-to-cure-anxiety/",
+      "summary": "“We suffer more from imagination than from reality.” — Seneca The 21st century has been described as “The Age of Anxiety,” “The United States of Stress,” “The World of Worry.” The implication is that what we are experiencing—pandemics, terr…",
+      "publishedAt": "2022-06-23T19:58:40.000Z",
       "imageUrl": null,
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
@@ -2918,34 +2918,34 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49789224",
-      "title": "Fable 5 – Median thinking declined in August",
-      "link": "https://twitter.com/Lon/status/2101793422487204027",
-      "summary": "Article URL: https://twitter.com/Lon/status/2101793422487204027 Comments URL: https://news.ycombinator.com/item?id=49789224 Points: 193 # Comments: 120",
-      "publishedAt": "2026-09-21T16:13:57.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791720",
+      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "link": "https://robocurve.org/roboharm/",
+      "summary": "Article URL: https://robocurve.org/roboharm/ Comments URL: https://news.ycombinator.com/item?id=49791720 Points: 23 # Comments: 10",
+      "publishedAt": "2026-09-21T18:58:26.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311537",
-      "title": "US company’s new reactor can make 800 barrels of sustainable aviation fuel per day",
-      "link": "https://interestingengineering.com/energy/us-company-new-reactor-800-barrels-saf-day",
-      "summary": "Houston, Texas-based company Velocys has launched AlphaCore 800, its newest reactor that uses Fisher-Tropsch (FT)...",
-      "publishedAt": "2026-09-21T13:33:50.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/FT-reactor.jpg",
+      "id": "https://interestingengineering.com/?p=311600",
+      "title": "World’s first 33 feet deep submarine solar power plant trialed in China",
+      "link": "https://interestingengineering.com/energy/china-scientists-underwater-solar-panels-power-plant",
+      "summary": "Scientists at the Yunnan University in China have achieved a global first by building a...",
+      "publishedAt": "2026-09-21T13:34:55.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/UW.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127117&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Webb finds brown dwarfs barely twice Jupiter’s mass, challenging star-formation models",
-      "link": "https://www.thebrighterside.news/post/webb-finds-brown-dwarfs-barely-twice-jupiters-mass-challenging-star-formation-models/",
-      "summary": "Tiny worlds in IC 348 reveal disks and unusual atmospheric chemistry at the extreme lower boundary of star formation. The post Webb finds brown dwarfs barely twice Jupiter’s mass, challenging star-formation models appeared first on The Brig…",
-      "publishedAt": "2026-09-20T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/brown-dwarfs-1-e1789756031837.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127130&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Greenland and Antarctica have lost more than 11 trillion tons of ice since 1979",
+      "link": "https://www.thebrighterside.news/post/greenland-and-antarctica-have-lost-more-than-11-trillion-tons-of-ice-since-1979/",
+      "summary": "Four decades of satellites reveal accelerating polar ice loss driven mainly by glaciers moving faster into warming oceans. The post Greenland and Antarctica have lost more than 11 trillion tons of ice since 1979 appeared first on The Bright…",
+      "publishedAt": "2026-09-20T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/antarctic-ice-loss.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -2962,12 +2962,12 @@
       "category": "art"
     },
     {
-      "id": "https://coloradosun.com/?p=501765",
-      "title": "“In This Life or Another” introduces a man wrestling with a life in limbo",
-      "link": "https://coloradosun.com/2026/09/20/sunlit-in-this-life-or-another-melissa-payne/",
-      "summary": "Melissa Payne's \"In This Life or Another\" places her protagonist somewhere near death on the way to confronting the value of his existence.",
-      "publishedAt": "2026-09-20T08:15:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/In-This-Life-logo.png?fit=1024%2C683&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=502579",
+      "title": "Carman: The smartest guy in the room is a bot and it doesn’t care if you live or die",
+      "link": "https://coloradosun.com/2026/09/20/artificial-intelligence-opinion-carman/",
+      "summary": "A CU scientist spent her career in AI and says the timeline for averting disaster is very, very short.",
+      "publishedAt": "2026-09-20T09:03:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/02/Carman-Opinion-Featured-Image.png?fit=1024%2C536&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
@@ -2984,15 +2984,26 @@
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285135",
-      "title": "The “Most Complete” Mastodon Tooth Ever Found",
-      "link": "https://nautil.us/the-most-complete-mastodon-tooth-ever-found-1285135/",
-      "summary": "Peering 10,000 years into the past The post The “Most Complete” Mastodon Tooth Ever Found appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T20:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-tooth.jpg?w=564",
+      "id": "https://nautil.us/?p=1285147",
+      "title": "This Dolphin Steals from Fish for Its Meals",
+      "link": "https://nautil.us/this-dolphin-steals-from-fish-for-its-meals-1285147/",
+      "summary": "Putting a dent in dolphins’ reputation as the “good guys of the sea” The post This Dolphin Steals from Fish for Its Meals appeared first on Nautilus.",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/bubbles.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
+    },
+    {
+      "id": "https://www.dwell.com/article/chip-and-joanna-gaines-cottonland-castle-renovation-waco-texas-real-estate-acb5ad93",
+      "title": "Chip and Joanna Gaines’s Texas Castle Just Listed for $2.7M",
+      "link": "https://www.dwell.com/article/chip-and-joanna-gaines-cottonland-castle-renovation-waco-texas-real-estate-acb5ad93",
+      "summary": "Meticulously restored by the design duo, the 135-year-old Waco landmark brings Gothic drama to cowboy country—and every piece of furniture comes with it.",
+      "publishedAt": "2026-09-18T12:17:47.000Z",
+      "imageUrl": "https://images.dwell.com/photos-6063391372700811264/7490485670845607936-small/meticulously-restored-by-chip-and-joanna-gaines-the-135-year-old-waco-landmark-brings-gothic-drama-to-cowboy-countryand-every-piece-of-furniture-comes-with-it.png",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
     },
     {
       "id": "CBMiggFBVV95cUxQaXhMd01Uckl5NE1JTzQ4NDBiaHNxWW5ZVlhOQjVxeHhmUXZ0UnhBcHlCeHp6cU1lYUttUVNMU2hxWjgwX2lwTnZnVFB4UHhibFRBRDdmNkJnUG9WelRtYWRjSkN3eklxZnR3ZXhEMVdxTVlMNEd5UDVCc1RPQmt2bDNB",
@@ -3015,17 +3026,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.dwell.com/article/lee-leshen-barrow-house-mini-movie-set-condo-efa71434",
-      "title": "This Filmmaker Loves Movie Homes So Much, He Built a Mini One in His NYC Condo",
-      "link": "https://www.dwell.com/article/lee-leshen-barrow-house-mini-movie-set-condo-efa71434",
-      "summary": "Lee Leshen produced a documentary about what it’s like to live in a famous on-screen property, so naturally he made his own place an homage to some of his favorites.",
-      "publishedAt": "2026-09-17T17:10:05.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7506030410655961088/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
     },
     {
       "id": "CBMirgFBVV95cUxQUm9xMGo0QjFWaTNBRVYxbWRSYV84dVRsVFFKM01fcmF5WWhqODZ4RW5abFNhbnhXSkhvdUM2aklOTGdpN2dMTnN0THVWMWhYVlV5aTc3cXc0Uk1KakJxVlJweG1PNktkS3A5TmlmSFc0ZVQ1SmdjWlA3cWdtdGVHZmZlQXZCTTVqUzZ3YjlfX3dKSV9ybU4yVTYwSkY3QlRJOHpFaXhBRGZyUDlOX3c",
@@ -3072,11 +3072,11 @@
       "category": "local"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=464684",
-      "title": "Burntwood House by Archco and Forté – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/burntwood-house-by-archco-and-forte-issue-21-feature-the-local-project/",
-      "summary": "The post Burntwood House by Archco and Forté – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T04:32:39.000Z",
+      "id": "https://thelocalproject.com.au/?p=465035",
+      "title": "Caulfield House by Zenn Design – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/caulfield-house-by-zenn-design-the-local-project/",
+      "summary": "The post Caulfield House by Zenn Design – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-16T05:01:52.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
@@ -3127,22 +3127,22 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=668738",
-      "title": "Janice Martellucci: Meditation for Transitions",
-      "link": "https://www.mindful.org/janice-martellucci-meditation-for-transitions/",
-      "summary": "Whether you’re letting go of the old, embracing the new, or both, this meditation is perfect for meeting transition with curiosity and care. The post Janice Martellucci: Meditation for Transitions appeared first on Mindful.",
-      "publishedAt": "2026-09-08T15:59:44.000Z",
+      "id": "https://www.mindful.org/?p=668729",
+      "title": "Uncovering Our Inherent Wholeness: A Conversation with Janice Martellucci of Peace in Schools",
+      "link": "https://www.mindful.org/uncovering-our-inherent-wholeness-a-conversation-with-janice-martellucci-of-peace-in-schools/",
+      "summary": "Peace In Schools Executive Director Janice Martellucci discusses the benefits of incorporating intentional, evidence-based mindfulness training into regular school curriculum, and the far-reaching value of simply equipping kids to meet and …",
+      "publishedAt": "2026-09-09T18:33:32.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
       "category": "ideas"
     },
     {
-      "id": "https://greatergood.berkeley.edu/article/item/as_people_live_longer_how_can_we_live_better#When:12:47:00Z",
-      "title": "As People Live Longer, How Can We Live Better?",
-      "link": "https://greatergood.berkeley.edu/article/item/as_people_live_longer_how_can_we_live_better",
-      "summary": "When the Stanford Center on Longevity launched in 2007, founding director Laura Carstensen spent a lot of time correcting misperceptions. “The initial response people had was, ‘Like the Methuselah Foundation? You are going to extend life?’”…",
-      "publishedAt": "2026-09-04T12:47:00.000Z",
+      "id": "https://greatergood.berkeley.edu/article/item/five_things_students_taught_us_about_connecting_across_differences#When:12:20:00Z",
+      "title": "Five Things Students Taught Us About Connecting Across Differences",
+      "link": "https://greatergood.berkeley.edu/article/item/five_things_students_taught_us_about_connecting_across_differences",
+      "summary": "When I’m producing a documentary, one of my favorite parts of the process is the moment when a bit of our footage sticks to me. Permanently. I never know when it will happen, but it always does. The sticky bit could be a snippet of dialogue…",
+      "publishedAt": "2026-09-08T12:20:00.000Z",
       "imageUrl": null,
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
@@ -3182,6 +3182,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://www.densediscovery.com/issues/400/",
+      "title": "DD400 / Hitting ‘send’ for the 579th time",
+      "link": "https://www.densediscovery.com/issues/400/",
+      "summary": "Issue 400: Hitting ‘send’ for the 579th time – Read the full issue in the archive.",
+      "publishedAt": "2026-08-03T07:27:41.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-400.jpg",
+      "sourceId": "dense-discovery",
+      "sourceName": "Dense Discovery",
+      "category": "design"
+    },
+    {
       "id": "https://philosophynow.org/issues/175/The_Strength_of_Quiet_Rebellion",
       "title": "The Strength of Quiet Rebellion",
       "link": "https://philosophynow.org/issues/175/The_Strength_of_Quiet_Rebellion",
@@ -3191,17 +3202,6 @@
       "sourceId": "philosophy-now",
       "sourceName": "Philosophy Now",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.densediscovery.com/issues/399/",
-      "title": "DD399 / Not a machine: on fragility and self-worth",
-      "link": "https://www.densediscovery.com/issues/399/",
-      "summary": "Issue 399: Not a machine: on fragility and self-worth – Read the full issue in the archive.",
-      "publishedAt": "2026-07-27T07:43:19.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-399.jpg",
-      "sourceId": "dense-discovery",
-      "sourceName": "Dense Discovery",
-      "category": "design"
     },
     {
       "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
@@ -3259,11 +3259,11 @@
       "category": "general"
     },
     {
-      "id": "https://dailystoic.com/?p=12624",
-      "title": "12 (Stoic) Rules For Life: An Ancient Guide to the Good Life",
-      "link": "https://dailystoic.com/12-rules-for-life/",
-      "summary": "It’d be wonderful if life never tempted you, if you could just go day-to-day, winging it and always do right. But that’s not how the world is. That’s not who you are. If left to our own devices, with enough opportunities, eventually we’ll m…",
-      "publishedAt": "2022-02-16T19:51:49.000Z",
+      "id": "https://dailystoic.com/?p=12980",
+      "title": "Goal Setting: A Philosophical Guide to Setting and Achieving Goals",
+      "link": "https://dailystoic.com/goal-setting/",
+      "summary": "“How long are you going to wait before you demand the best for yourself?” — Epictetus What do the goals we set, whether personal or professional, require? If we hope to accomplish our goals, we need the discipline to hold ourselves accounta…",
+      "publishedAt": "2022-04-28T14:38:51.000Z",
       "imageUrl": null,
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
@@ -3292,45 +3292,45 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49789081",
-      "title": "How do Traffic Signals Work (2019)",
-      "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "summary": "Article URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work Comments URL: https://news.ycombinator.com/item?id=49789081 Points: 26 # Comments: 18",
-      "publishedAt": "2026-09-21T16:06:44.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791647",
+      "title": "Frontier AI on Your Own Hardware",
+      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 62 # Comments: 30",
+      "publishedAt": "2026-09-21T18:53:01.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311557",
-      "title": "US school teacher discovers first-ever adult T. rex trackway from 66.5 million years ago",
-      "link": "https://interestingengineering.com/science/66-5-million-year-old-t-rex-trackway",
-      "summary": "Millions of years after a massive Tyrannosaurus rex trudged through a prehistoric mudflat, paleontologists can finally follow...",
-      "publishedAt": "2026-09-21T13:09:26.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-2-1.jpg",
+      "id": "https://interestingengineering.com/?p=311537",
+      "title": "US company’s new reactor can make 800 barrels of sustainable aviation fuel per day",
+      "link": "https://interestingengineering.com/energy/us-company-new-reactor-800-barrels-saf-day",
+      "summary": "Houston, Texas-based company Velocys has launched AlphaCore 800, its newest reactor that uses Fisher-Tropsch (FT)...",
+      "publishedAt": "2026-09-21T13:33:50.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/FT-reactor.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127145&secret=cM2XMtKpK3Lj&nonce=3a1fd45b8b",
-      "title": "Scientists outline how spacecraft could reach a nearby black hole within a century",
-      "link": "https://www.thebrighterside.news/post/scientists-outline-how-spacecraft-could-reach-a-nearby-black-hole-within-a-century/",
-      "summary": "A gram-scale probe traveling at one-third light speed could turn a nearby black hole into a direct laboratory for Einstein's gravity. The post Scientists outline how spacecraft could reach a nearby black hole within a century appeared first…",
-      "publishedAt": "2026-09-20T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/travel-to-black-hole.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127117&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Webb finds brown dwarfs barely twice Jupiter’s mass, challenging star-formation models",
+      "link": "https://www.thebrighterside.news/post/webb-finds-brown-dwarfs-barely-twice-jupiters-mass-challenging-star-formation-models/",
+      "summary": "Tiny worlds in IC 348 reveal disks and unusual atmospheric chemistry at the extreme lower boundary of star formation. The post Webb finds brown dwarfs barely twice Jupiter’s mass, challenging star-formation models appeared first on The Brig…",
+      "publishedAt": "2026-09-20T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/brown-dwarfs-1-e1789756031837.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://coloradosun.com/?p=501789",
-      "title": "Melissa Payne’s novel became a journey toward recognizing a meaningful life",
-      "link": "https://coloradosun.com/2026/09/20/sunlit-melissa-payne-in-this-life-or-another/",
-      "summary": "\"In This Life or Another\" author Melissa Payne employed magical realism, a limbo between life and death, to lead her character to examine his choices.",
-      "publishedAt": "2026-09-20T08:10:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/Payne-logo.png?fit=1024%2C683&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=501765",
+      "title": "“In This Life or Another” introduces a man wrestling with a life in limbo",
+      "link": "https://coloradosun.com/2026/09/20/sunlit-in-this-life-or-another-melissa-payne/",
+      "summary": "Melissa Payne's \"In This Life or Another\" places her protagonist somewhere near death on the way to confronting the value of his existence.",
+      "publishedAt": "2026-09-20T08:15:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/In-This-Life-logo.png?fit=1024%2C683&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
@@ -3358,15 +3358,26 @@
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285132",
-      "title": "This Stray Cat Turned Out to Be the First New Cat Species Discovered in Over a Century",
-      "link": "https://nautil.us/this-stray-cat-turned-out-to-be-the-first-new-cat-species-discovered-in-over-a-century-1285132/",
-      "summary": "It was living on a diet of rice, noodles, and eggs The post This Stray Cat Turned Out to Be the First New Cat Species Discovered in Over a Century appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T18:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Tilcayo_tiger_cat_full_body-copy.jpg?w=564",
+      "id": "https://nautil.us/?p=1285140",
+      "title": "The Moon has a New Once-in-a-Century Crater",
+      "link": "https://nautil.us/the-moon-has-a-new-once-in-a-century-crater-1285140/",
+      "summary": "The lunar surface is more dynamic than you might think The post The Moon has a New Once-in-a-Century Crater appeared first on Nautilus.",
+      "publishedAt": "2026-09-18T21:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/McGetchinLRONAC.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
+    },
+    {
+      "id": "https://www.dwell.com/article/lee-leshen-barrow-house-mini-movie-set-condo-efa71434",
+      "title": "This Filmmaker Loves Movie Homes So Much, He Built a Mini One in His NYC Condo",
+      "link": "https://www.dwell.com/article/lee-leshen-barrow-house-mini-movie-set-condo-efa71434",
+      "summary": "Lee Leshen produced a documentary about what it’s like to live in a famous on-screen property, so naturally he made his own place an homage to some of his favorites.",
+      "publishedAt": "2026-09-17T17:10:05.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7506030410655961088/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
     },
     {
       "id": "https://www.themarginalian.org/?p=87720",
@@ -3389,17 +3400,6 @@
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
-    },
-    {
-      "id": "https://www.dwell.com/article/blakely-cabin-wittman-estes-remote-forest-retreat-b11e65e0",
-      "title": "Corbusier and Thoreau Inspired This 400-Square-Foot Washington Retreat",
-      "link": "https://www.dwell.com/article/blakely-cabin-wittman-estes-remote-forest-retreat-b11e65e0",
-      "summary": "Architecture firm Wittman Estes channeled Walden Pond’s sense of remove and the scrappy spirit of Le Cabanon.",
-      "publishedAt": "2026-09-17T14:13:56.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7500965409195548672/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
     },
     {
       "id": "https://www.surfacemag.com/?p=211523",
@@ -3446,11 +3446,11 @@
       "category": "local"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=464664",
-      "title": "Sydney Fish Market by 3XN GXN with BVN Architecture and ASPECT Studios – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/sydney-fish-market-by-3xn-gxn-with-bvn-architecture-and-aspect-studios-issue-21-feature-the-local-project/",
-      "summary": "The post Sydney Fish Market by 3XN GXN with BVN Architecture and ASPECT Studios – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T00:15:23.000Z",
+      "id": "https://thelocalproject.com.au/?p=464714",
+      "title": "Arthouse by Lake Flato Architects – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/arthouse-by-lake-flato-architects-issue-21-feature-the-local-project/",
+      "summary": "The post Arthouse by Lake Flato Architects – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-16T04:38:44.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
@@ -3501,22 +3501,22 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=15546",
-      "title": "How to Shift Mental Gears: 10 Ways to Build Resilience",
-      "link": "https://www.mindful.org/building-resilience-shift-mental-gears/",
-      "summary": "If we view challenges as stressful setbacks, there's an opportunity to shift our perspective and grow from our experiences. The post How to Shift Mental Gears: 10 Ways to Build Resilience appeared first on Mindful.",
-      "publishedAt": "2026-09-04T21:26:48.000Z",
+      "id": "https://www.mindful.org/?p=668738",
+      "title": "Janice Martellucci: Meditation for Transitions",
+      "link": "https://www.mindful.org/janice-martellucci-meditation-for-transitions/",
+      "summary": "Whether you’re letting go of the old, embracing the new, or both, this meditation is perfect for meeting transition with curiosity and care. The post Janice Martellucci: Meditation for Transitions appeared first on Mindful.",
+      "publishedAt": "2026-09-08T15:59:44.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
       "category": "ideas"
     },
     {
-      "id": "https://greatergood.berkeley.edu/article/item/am_i_doing_this_right_teens#When:12:45:00Z",
-      "title": "Am I Doing This Right? Teen Edition",
-      "link": "https://greatergood.berkeley.edu/article/item/am_i_doing_this_right_teens",
-      "summary": "Parenting a teen can sometimes make you nostalgic for the early years, when you could still scoop up a frustrated toddler and redirect her with bubbles. In the teen years, sweet hugs can provoke eye rolls; a well-intentioned “How was your d…",
-      "publishedAt": "2026-09-03T12:45:00.000Z",
+      "id": "https://greatergood.berkeley.edu/article/item/as_people_live_longer_how_can_we_live_better#When:12:47:00Z",
+      "title": "As People Live Longer, How Can We Live Better?",
+      "link": "https://greatergood.berkeley.edu/article/item/as_people_live_longer_how_can_we_live_better",
+      "summary": "When the Stanford Center on Longevity launched in 2007, founding director Laura Carstensen spent a lot of time correcting misperceptions. “The initial response people had was, ‘Like the Methuselah Foundation? You are going to extend life?’”…",
+      "publishedAt": "2026-09-04T12:47:00.000Z",
       "imageUrl": null,
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
@@ -3567,12 +3567,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/398/",
-      "title": "DD398 / Cold turkey on the outrage machine",
-      "link": "https://www.densediscovery.com/issues/398/",
-      "summary": "Issue 398: Cold turkey on the outrage machine – Read the full issue in the archive.",
-      "publishedAt": "2026-07-20T08:03:40.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-398.jpg",
+      "id": "https://www.densediscovery.com/issues/399/",
+      "title": "DD399 / Not a machine: on fragility and self-worth",
+      "link": "https://www.densediscovery.com/issues/399/",
+      "summary": "Issue 399: Not a machine: on fragility and self-worth – Read the full issue in the archive.",
+      "publishedAt": "2026-07-27T07:43:19.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-399.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -3633,11 +3633,11 @@
       "category": "general"
     },
     {
-      "id": "https://dailystoic.com/?p=12358",
-      "title": "Stoicism and Christianity: The History of the Stoics and the Christians",
-      "link": "https://dailystoic.com/stoicism-christianity-history/",
-      "summary": "It’s pretty remarkable to think that two of history’s greatest philosophers walked the earth at the same time. That’s right, Seneca and Jesus were both born in the year 4BC. Not only that, they lived roughly parallel lives despite being sep…",
-      "publishedAt": "2022-01-05T18:40:06.000Z",
+      "id": "https://dailystoic.com/?p=12624",
+      "title": "12 (Stoic) Rules For Life: An Ancient Guide to the Good Life",
+      "link": "https://dailystoic.com/12-rules-for-life/",
+      "summary": "It’d be wonderful if life never tempted you, if you could just go day-to-day, winging it and always do right. But that’s not how the world is. That’s not who you are. If left to our own devices, with enough opportunities, eventually we’ll m…",
+      "publishedAt": "2022-02-16T19:51:49.000Z",
       "imageUrl": null,
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
@@ -3666,48 +3666,48 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49788838",
-      "title": "Grok 4.7",
-      "link": "https://x.ai/news/grok-4-7",
-      "summary": "Article URL: https://x.ai/news/grok-4-7 Comments URL: https://news.ycombinator.com/item?id=49788838 Points: 298 # Comments: 247",
-      "publishedAt": "2026-09-21T15:50:15.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791509",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "summary": "Article URL: https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/ Comments URL: https://news.ycombinator.com/item?id=49791509 Points: 161 # Comments: 96",
+      "publishedAt": "2026-09-21T18:41:59.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311535",
-      "title": "New EV battery adds 62 miles of range every minute, reaches 97% in 9 minutes",
-      "link": "https://interestingengineering.com/energy/sunwodas-new-15c-ev-battery",
-      "summary": "Chinese battery maker Sunwoda unveiled its latest fast-charging EV battery technology at a battery industry...",
-      "publishedAt": "2026-09-21T13:04:19.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-60-1.jpg",
+      "id": "https://interestingengineering.com/?p=311557",
+      "title": "US school teacher discovers first-ever adult T. rex trackway from 66.5 million years ago",
+      "link": "https://interestingengineering.com/science/66-5-million-year-old-t-rex-trackway",
+      "summary": "Millions of years after a massive Tyrannosaurus rex trudged through a prehistoric mudflat, paleontologists can finally follow...",
+      "publishedAt": "2026-09-21T13:09:26.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-2-1.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://coloradosun.com/?p=501802",
-      "title": "Out West Books suggests titles to set the mood for spooky season",
-      "link": "https://coloradosun.com/2026/09/20/out-west-books-september-recommendations-2026/",
-      "summary": "Out West Books in Grand Junction recommends a tale of deceptive witches, a ghostly romance and a spooky Indigenous murder mystery.",
-      "publishedAt": "2026-09-20T08:05:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/01/Out-West-Books-picks.png?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=125341&secret=cM2XMtKpK3Lj&nonce=0ca96c019a",
-      "title": "Drawing together reveals how young and old brains build connection",
-      "link": "https://www.thebrighterside.news/post/drawing-together-reveals-how-young-and-old-brains-build-connection/",
-      "summary": "Intergenerational brain synchrony changed over six weeks as younger and older adults drew together and grew closer. The post Drawing together reveals how young and old brains build connection appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-09-19T23:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/people-drawing.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127145&secret=cM2XMtKpK3Lj&nonce=3a1fd45b8b",
+      "title": "Scientists outline how spacecraft could reach a nearby black hole within a century",
+      "link": "https://www.thebrighterside.news/post/scientists-outline-how-spacecraft-could-reach-a-nearby-black-hole-within-a-century/",
+      "summary": "A gram-scale probe traveling at one-third light speed could turn a nearby black hole into a direct laboratory for Einstein's gravity. The post Scientists outline how spacecraft could reach a nearby black hole within a century appeared first…",
+      "publishedAt": "2026-09-20T11:51:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/travel-to-black-hole.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
+    },
+    {
+      "id": "https://coloradosun.com/?p=501789",
+      "title": "Melissa Payne’s novel became a journey toward recognizing a meaningful life",
+      "link": "https://coloradosun.com/2026/09/20/sunlit-melissa-payne-in-this-life-or-another/",
+      "summary": "\"In This Life or Another\" author Melissa Payne employed magical realism, a limbo between life and death, to lead her character to examine his choices.",
+      "publishedAt": "2026-09-20T08:10:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/Payne-logo.png?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
     },
     {
       "id": "CBMiugFBVV95cUxPa3ROR1VpWlJFaW83bk9TMGlyS0lxNUwyRUR5dEJsQ2I4dThtSlVrSDBmY1UxTW0wNDhPQ20ydTY4UFlGMUMyYmhzakoyQlFsRmo5NE5Qa2w4VEV5Q0VsMmtnS2tzemZLb1puYVZfLThUeGQzamZfN0ZydW9fODkwTXh3dE1QX1pLNG9ua3RhMHZkaVJpTHhSRHdBMjdDd2lERWtaT0hVYWRvR05UOGFUSm1RZ2J2UnMzVGc",
@@ -3732,12 +3732,12 @@
       "category": "art"
     },
     {
-      "id": "https://nautil.us/?p=1285125",
-      "title": "Muscle Loss is a Big Warning Sign of Dementia",
-      "link": "https://nautil.us/muscle-loss-is-a-big-warning-sign-of-dementia-1285125/",
-      "summary": "But obesity has a more complicated relationship with the disease The post Muscle Loss is a Big Warning Sign of Dementia appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_709399353.jpeg?w=564",
+      "id": "https://nautil.us/?p=1285135",
+      "title": "The “Most Complete” Mastodon Tooth Ever Found",
+      "link": "https://nautil.us/the-most-complete-mastodon-tooth-ever-found-1285135/",
+      "summary": "Peering 10,000 years into the past The post The “Most Complete” Mastodon Tooth Ever Found appeared first on Nautilus.",
+      "publishedAt": "2026-09-18T20:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-tooth.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
@@ -3754,12 +3754,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.dwell.com/article/donald-olsen-kip-house-berkeley-california-real-estate-516f9970",
-      "title": "The Bay Area Home of a Famed Experimental Physicist Just Hit the Market for $1.4M",
-      "link": "https://www.dwell.com/article/donald-olsen-kip-house-berkeley-california-real-estate-516f9970",
-      "summary": "Architect Donald Olsen drew inspiration from the Bauhaus as he designed this clean-lined midcentury set on a wooded Berkeley hillside.",
-      "publishedAt": "2026-09-17T13:53:50.000Z",
-      "imageUrl": "https://images.dwell.com/photos-6818593201364905984/7496291125511823360-small/architect-donald-olsen-drew-inspiration-from-the-bauhaus-as-he-designed-this-clean-lined-midcentury-set-on-a-wooded-berkeley-hillside.jpg",
+      "id": "https://www.dwell.com/article/blakely-cabin-wittman-estes-remote-forest-retreat-b11e65e0",
+      "title": "Corbusier and Thoreau Inspired This 400-Square-Foot Washington Retreat",
+      "link": "https://www.dwell.com/article/blakely-cabin-wittman-estes-remote-forest-retreat-b11e65e0",
+      "summary": "Architecture firm Wittman Estes channeled Walden Pond’s sense of remove and the scrappy spirit of Le Cabanon.",
+      "publishedAt": "2026-09-17T14:13:56.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7500965409195548672/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -3809,11 +3809,11 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=464518",
-      "title": "Golden Square Mile Apartments by La Shed Architecture – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/golden-square-mile-apartments-by-la-shed-architecture-issue-21-feature-the-local-project/",
-      "summary": "The post Golden Square Mile Apartments by La Shed Architecture – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T00:11:12.000Z",
+      "id": "https://thelocalproject.com.au/?p=464684",
+      "title": "Burntwood House by Archco and Forté – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/burntwood-house-by-archco-and-forte-issue-21-feature-the-local-project/",
+      "summary": "The post Burntwood House by Archco and Forté – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-16T04:32:39.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
@@ -3875,25 +3875,25 @@
       "category": "ideas"
     },
     {
-      "id": "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_predict_the_right_partner_for_you#When:14:35:00Z",
-      "title": "Can Artificial Intelligence Predict the Right Partner for You?",
-      "link": "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_predict_the_right_partner_for_you",
-      "summary": "Finding love is big business (a multi-billion–dollar industry), and artificial intelligence is transforming that business. Dating apps are increasingly outsourcing user matching to AI. Recent examples range from Overtone, an AI-powered matc…",
-      "publishedAt": "2026-09-02T14:35:00.000Z",
-      "imageUrl": null,
-      "sourceId": "greater-good",
-      "sourceName": "Greater Good Magazine",
-      "category": "ideas"
-    },
-    {
-      "id": "https://www.mindful.org/?p=53081",
-      "title": "Jeneé Johnson: Build Resilience by Staying in the Moment",
-      "link": "https://www.mindful.org/build-resilience-by-staying-in-the-moment/",
-      "summary": "Jenée Johnson leads a practice to foster returning to ourselves whenever our mind wanders. The post Jeneé Johnson: Build Resilience by Staying in the Moment appeared first on Mindful.",
-      "publishedAt": "2026-08-31T23:10:19.000Z",
+      "id": "https://www.mindful.org/?p=15546",
+      "title": "How to Shift Mental Gears: 10 Ways to Build Resilience",
+      "link": "https://www.mindful.org/building-resilience-shift-mental-gears/",
+      "summary": "If we view challenges as stressful setbacks, there's an opportunity to shift our perspective and grow from our experiences. The post How to Shift Mental Gears: 10 Ways to Build Resilience appeared first on Mindful.",
+      "publishedAt": "2026-09-04T21:26:48.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://greatergood.berkeley.edu/article/item/am_i_doing_this_right_teens#When:12:45:00Z",
+      "title": "Am I Doing This Right? Teen Edition",
+      "link": "https://greatergood.berkeley.edu/article/item/am_i_doing_this_right_teens",
+      "summary": "Parenting a teen can sometimes make you nostalgic for the early years, when you could still scoop up a frustrated toddler and redirect her with bubbles. In the teen years, sweet hugs can provoke eye rolls; a well-intentioned “How was your d…",
+      "publishedAt": "2026-09-03T12:45:00.000Z",
+      "imageUrl": null,
+      "sourceId": "greater-good",
+      "sourceName": "Greater Good Magazine",
       "category": "ideas"
     },
     {
@@ -3941,12 +3941,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/397/",
-      "title": "DD397 / Last drinks at the AI casino",
-      "link": "https://www.densediscovery.com/issues/397/",
-      "summary": "Issue 397: Last drinks at the AI casino – Read the full issue in the archive.",
-      "publishedAt": "2026-07-13T08:11:51.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-397.jpg",
+      "id": "https://www.densediscovery.com/issues/398/",
+      "title": "DD398 / Cold turkey on the outrage machine",
+      "link": "https://www.densediscovery.com/issues/398/",
+      "summary": "Issue 398: Cold turkey on the outrage machine – Read the full issue in the archive.",
+      "publishedAt": "2026-07-20T08:03:40.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-398.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -4007,11 +4007,11 @@
       "category": "general"
     },
     {
-      "id": "https://dailystoic.com/?p=12039",
-      "title": "Stoicism and The Law of Attraction: The Ancient Truth About Manifestation and Magical Thinking",
-      "link": "https://dailystoic.com/law-of-attraction/",
-      "summary": "“The things you think about determine the quality of your mind,” the Roman Emperor Marcus Aurelius wrote. “Your soul takes on the color of your thoughts.” Does that mean Marcus Aurelius and the ancient Stoics believed in the Law of Attracti…",
-      "publishedAt": "2021-11-04T14:37:50.000Z",
+      "id": "https://dailystoic.com/?p=12358",
+      "title": "Stoicism and Christianity: The History of the Stoics and the Christians",
+      "link": "https://dailystoic.com/stoicism-christianity-history/",
+      "summary": "It’s pretty remarkable to think that two of history’s greatest philosophers walked the earth at the same time. That’s right, Seneca and Jesus were both born in the year 4BC. Not only that, they lived roughly parallel lives despite being sep…",
+      "publishedAt": "2022-01-05T18:40:06.000Z",
       "imageUrl": null,
       "sourceId": "daily-stoic",
       "sourceName": "Daily Stoic",
@@ -4040,11 +4040,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49788773",
-      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
-      "link": "http://pdp1173.com/",
-      "summary": "The box is a restored Q-bus PDP-11/83 named minerva: Mentec M11 CPU, two chassis tied with M9404/M9405, RQDX3, 2xEmulex UC07, KDA50, RLV12, DEQNA, M3104. Storage is RA82 + dual RA92, MFM boot/swap, dual RL02, RX50s, and a TKZ50. OS is 2.11B…",
-      "publishedAt": "2026-09-21T15:45:06.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791378",
+      "title": "Why does mathmain need an encrypted loader?",
+      "link": "https://safedep.io/mathmain-encrypted-loader/",
+      "summary": "Article URL: https://safedep.io/mathmain-encrypted-loader/ Comments URL: https://news.ycombinator.com/item?id=49791378 Points: 88 # Comments: 26",
+      "publishedAt": "2026-09-21T18:33:44.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4084,6 +4084,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.dwell.com/article/donald-olsen-kip-house-berkeley-california-real-estate-516f9970",
+      "title": "The Bay Area Home of a Famed Experimental Physicist Just Hit the Market for $1.4M",
+      "link": "https://www.dwell.com/article/donald-olsen-kip-house-berkeley-california-real-estate-516f9970",
+      "summary": "Architect Donald Olsen drew inspiration from the Bauhaus as he designed this clean-lined midcentury set on a wooded Berkeley hillside.",
+      "publishedAt": "2026-09-17T13:53:50.000Z",
+      "imageUrl": "https://images.dwell.com/photos-6818593201364905984/7496291125511823360-small/architect-donald-olsen-drew-inspiration-from-the-bauhaus-as-he-designed-this-clean-lined-midcentury-set-on-a-wooded-berkeley-hillside.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
       "id": "http://www.brainpickings.org/?p=35830",
       "title": "The Measure of a Life Well Lived: Henry Miller on How to Grow Old and the Secret of Remaining Young at Heart",
       "link": "https://www.themarginalian.org/2026/09/17/henry-miller-on-turning-eighty/",
@@ -4093,17 +4104,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.dwell.com/article/budget-breakdown-steel-garden-suite-chebucto-road-david-bourque-architecture-af6dde3a",
-      "title": "Budget Breakdown: In Nova Scotia, a Master Metalworker Builds a Steely ADU for $293K",
-      "link": "https://www.dwell.com/article/budget-breakdown-steel-garden-suite-chebucto-road-david-bourque-architecture-af6dde3a",
-      "summary": "\"If you do wood, you have to maintain it. Galvanized steel rusts. Cor-Ten, though, lasts for a lifetime—I don’t have to touch it,\" says homeowner Marc Schaedler. \"It’s the only material I really think will last in this climate.\"",
-      "publishedAt": "2026-09-16T13:48:07.000Z",
-      "imageUrl": "https://images.dwell.com/photos-6696836461368389632/7503453155219783680-small/cor-ten-steel-fencing-encloses-a-courtyard-shared-with-the-main-house.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
     },
     {
       "id": "CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw",
@@ -4139,12 +4139,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://greatergood.berkeley.edu/article/item/your_happiness_connection_calendar_for_september_2026#When:11:20:00Z",
-      "title": "Your Happiness & Connection Calendar for September 2026",
-      "link": "https://greatergood.berkeley.edu/article/item/your_happiness_connection_calendar_for_september_2026",
-      "summary": "Our monthly Happiness Calendar is a day-by-day guide to well-being. This month, we’re offering a special Happiness & Connection Calendar in partnership with the US Chamber of Connection—and we hope it inspires you to invite someone to belon…",
-      "publishedAt": "2026-09-01T11:20:00.000Z",
-      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/GGSC_Happiness___Connection_Calendar_Sep_2026.jpg",
+      "id": "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_predict_the_right_partner_for_you#When:14:35:00Z",
+      "title": "Can Artificial Intelligence Predict the Right Partner for You?",
+      "link": "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_predict_the_right_partner_for_you",
+      "summary": "Finding love is big business (a multi-billion–dollar industry), and artificial intelligence is transforming that business. Dating apps are increasingly outsourcing user matching to AI. Recent examples range from Overtone, an AI-powered matc…",
+      "publishedAt": "2026-09-02T14:35:00.000Z",
+      "imageUrl": null,
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
@@ -4172,12 +4172,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/396/",
-      "title": "DD396 / On being properly unwell",
-      "link": "https://www.densediscovery.com/issues/396/",
-      "summary": "Issue 396: On being properly unwell – Read the full issue in the archive.",
-      "publishedAt": "2026-07-06T07:07:25.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-396.jpg",
+      "id": "https://www.densediscovery.com/issues/397/",
+      "title": "DD397 / Last drinks at the AI casino",
+      "link": "https://www.densediscovery.com/issues/397/",
+      "summary": "Issue 397: Last drinks at the AI casino – Read the full issue in the archive.",
+      "publishedAt": "2026-07-13T08:11:51.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-397.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -4238,11 +4238,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49787726",
-      "title": "Attention is all you have",
-      "link": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "Article URL: https://alicegg.tech/2026/09/21/attention Comments URL: https://news.ycombinator.com/item?id=49787726 Points: 312 # Comments: 89",
-      "publishedAt": "2026-09-21T14:26:56.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791125",
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "link": "https://www.pagetable.com/300",
+      "summary": "Article URL: https://www.pagetable.com/300 Comments URL: https://news.ycombinator.com/item?id=49791125 Points: 64 # Comments: 17",
+      "publishedAt": "2026-09-21T18:15:32.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4293,12 +4293,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.dwell.com/article/cork-loft-office-sandm-renovation-loft-expansion-home-office-ae504f8d",
-      "title": "The Cladding, Insulation, and Flooring of This London Loft Extension Are All Made of Cork",
-      "link": "https://www.dwell.com/article/cork-loft-office-sandm-renovation-loft-expansion-home-office-ae504f8d",
-      "summary": "Office S&M went all in on the lightweight material for its sustainable—and quirky—qualities.",
-      "publishedAt": "2026-09-16T11:34:15.000Z",
-      "imageUrl": "https://images.dwell.com/photos-6818593201364905984/7500963609868795904-small/office-sandm-went-all-in-on-cork-for-its-sustainableand-quirkyqualities.jpg",
+      "id": "https://www.dwell.com/article/budget-breakdown-steel-garden-suite-chebucto-road-david-bourque-architecture-af6dde3a",
+      "title": "Budget Breakdown: In Nova Scotia, a Master Metalworker Builds a Steely ADU for $293K",
+      "link": "https://www.dwell.com/article/budget-breakdown-steel-garden-suite-chebucto-road-david-bourque-architecture-af6dde3a",
+      "summary": "\"If you do wood, you have to maintain it. Galvanized steel rusts. Cor-Ten, though, lasts for a lifetime—I don’t have to touch it,\" says homeowner Marc Schaedler. \"It’s the only material I really think will last in this climate.\"",
+      "publishedAt": "2026-09-16T13:48:07.000Z",
+      "imageUrl": "https://images.dwell.com/photos-6696836461368389632/7503453155219783680-small/cor-ten-steel-fencing-encloses-a-courtyard-shared-with-the-main-house.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -4337,12 +4337,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://greatergood.berkeley.edu/article/item/the_overlooked_ways_love_shows_up_in_urban_areas#When:15:31:00Z",
-      "title": "The Overlooked Ways Love Shows Up in Urban Spaces",
-      "link": "https://greatergood.berkeley.edu/article/item/the_overlooked_ways_love_shows_up_in_urban_areas",
-      "summary": "Over the past two decades, my doctoral students and I have focused on studying love, care, kindness, and compassion in urban settings. Why? Because social science research on life in America’s cities is desperately incomplete. Much like the…",
-      "publishedAt": "2026-08-31T15:31:00.000Z",
-      "imageUrl": null,
+      "id": "https://greatergood.berkeley.edu/article/item/your_happiness_connection_calendar_for_september_2026#When:11:20:00Z",
+      "title": "Your Happiness & Connection Calendar for September 2026",
+      "link": "https://greatergood.berkeley.edu/article/item/your_happiness_connection_calendar_for_september_2026",
+      "summary": "Our monthly Happiness Calendar is a day-by-day guide to well-being. This month, we’re offering a special Happiness & Connection Calendar in partnership with the US Chamber of Connection—and we hope it inspires you to invite someone to belon…",
+      "publishedAt": "2026-09-01T11:20:00.000Z",
+      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/GGSC_Happiness___Connection_Calendar_Sep_2026.jpg",
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
@@ -4370,12 +4370,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/395/",
-      "title": "DD395 / Everything bleeds into everything",
-      "link": "https://www.densediscovery.com/issues/395/",
-      "summary": "Issue 395: Everything bleeds into everything – Read the full issue in the archive.",
-      "publishedAt": "2026-06-29T09:51:39.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-395.jpg",
+      "id": "https://www.densediscovery.com/issues/396/",
+      "title": "DD396 / On being properly unwell",
+      "link": "https://www.densediscovery.com/issues/396/",
+      "summary": "Issue 396: On being properly unwell – Read the full issue in the archive.",
+      "publishedAt": "2026-07-06T07:07:25.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-396.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -4436,11 +4436,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49787684",
-      "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
-      "link": "https://digitalescapetools.com/tools/noodlegallery.html",
-      "summary": "Article URL: https://digitalescapetools.com/tools/noodlegallery.html Comments URL: https://news.ycombinator.com/item?id=49787684 Points: 32 # Comments: 16",
-      "publishedAt": "2026-09-21T14:22:58.000Z",
+      "id": "https://news.ycombinator.com/item?id=49791117",
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "link": "https://ieeexplore.ieee.org/document/689473",
+      "summary": "Article URL: https://ieeexplore.ieee.org/document/689473 Comments URL: https://news.ycombinator.com/item?id=49791117 Points: 22 # Comments: 6",
+      "publishedAt": "2026-09-21T18:14:56.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4491,12 +4491,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.dwell.com/article/menorca-home-renovation-vera-s-guasch-llucmacanes-real-estate-bb575b68",
-      "title": "Summer Never Ends at This Sun-Soaked Menorca Villa Asking €2.45M",
-      "link": "https://www.dwell.com/article/menorca-home-renovation-vera-s-guasch-llucmacanes-real-estate-bb575b68",
-      "summary": "Decked out with colorful original tile, the updated 1960s home opens to a lush garden and a sparkling pool.",
-      "publishedAt": "2026-09-16T11:28:09.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7496289956492189696/small.jpg",
+      "id": "https://www.dwell.com/article/cork-loft-office-sandm-renovation-loft-expansion-home-office-ae504f8d",
+      "title": "The Cladding, Insulation, and Flooring of This London Loft Extension Are All Made of Cork",
+      "link": "https://www.dwell.com/article/cork-loft-office-sandm-renovation-loft-expansion-home-office-ae504f8d",
+      "summary": "Office S&M went all in on the lightweight material for its sustainable—and quirky—qualities.",
+      "publishedAt": "2026-09-16T11:34:15.000Z",
+      "imageUrl": "https://images.dwell.com/photos-6818593201364905984/7500963609868795904-small/office-sandm-went-all-in-on-cork-for-its-sustainableand-quirkyqualities.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -4535,11 +4535,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://greatergood.berkeley.edu/article/item/what_does_gen_z_think_about_political_polarization#When:11:22:00Z",
-      "title": "What Does Gen Z Think About Political Polarization?",
-      "link": "https://greatergood.berkeley.edu/article/item/what_does_gen_z_think_about_political_polarization",
-      "summary": "Polarization is a fact of political life in the U.S. today. Gen Z, however, is less inclined than older generations to view it as a permanent fixture in American politics, according to research by students in the Stanford political science …",
-      "publishedAt": "2026-08-28T11:22:00.000Z",
+      "id": "https://greatergood.berkeley.edu/article/item/the_overlooked_ways_love_shows_up_in_urban_areas#When:15:31:00Z",
+      "title": "The Overlooked Ways Love Shows Up in Urban Spaces",
+      "link": "https://greatergood.berkeley.edu/article/item/the_overlooked_ways_love_shows_up_in_urban_areas",
+      "summary": "Over the past two decades, my doctoral students and I have focused on studying love, care, kindness, and compassion in urban settings. Why? Because social science research on life in America’s cities is desperately incomplete. Much like the…",
+      "publishedAt": "2026-08-31T15:31:00.000Z",
       "imageUrl": null,
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
@@ -4568,12 +4568,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.densediscovery.com/issues/394/",
-      "title": "DD394 / The friendship recession",
-      "link": "https://www.densediscovery.com/issues/394/",
-      "summary": "Issue 394: The friendship recession – Read the full issue in the archive.",
-      "publishedAt": "2026-06-22T07:00:02.000Z",
-      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-394.jpg",
+      "id": "https://www.densediscovery.com/issues/395/",
+      "title": "DD395 / Everything bleeds into everything",
+      "link": "https://www.densediscovery.com/issues/395/",
+      "summary": "Issue 395: Everything bleeds into everything – Read the full issue in the archive.",
+      "publishedAt": "2026-06-29T09:51:39.000Z",
+      "imageUrl": "https://www.densediscovery.com/img/screenshot/square-395.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
       "category": "design"
@@ -4634,11 +4634,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49787548",
-      "title": "Apple Mac mini review",
-      "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/ Comments URL: https://news.ycombinator.com/item?id=49787548 Points: 82 # Comments: 48",
-      "publishedAt": "2026-09-21T14:11:45.000Z",
+      "id": "https://news.ycombinator.com/item?id=49790409",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 205 # Comments: 130",
+      "publishedAt": "2026-09-21T17:30:21.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4689,12 +4689,12 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.dwell.com/article/this-oak-house-book-review-c304412b",
-      "title": "Forget Gatekeeping, Annie Meyers-Shyer’s \"This Oak House\" Shares Every Single Source for Her Home",
-      "link": "https://www.dwell.com/article/this-oak-house-book-review-c304412b",
-      "summary": "The social media personality took an unbelievably meticulous approach to her home renovation. Readers can use it as a cheat sheet—or an escape from the real life stresses of making over your space.",
-      "publishedAt": "2026-09-15T18:37:19.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7505329857061937152/small.jpg",
+      "id": "https://www.dwell.com/article/menorca-home-renovation-vera-s-guasch-llucmacanes-real-estate-bb575b68",
+      "title": "Summer Never Ends at This Sun-Soaked Menorca Villa Asking €2.45M",
+      "link": "https://www.dwell.com/article/menorca-home-renovation-vera-s-guasch-llucmacanes-real-estate-bb575b68",
+      "summary": "Decked out with colorful original tile, the updated 1960s home opens to a lush garden and a sparkling pool.",
+      "publishedAt": "2026-09-16T11:28:09.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7496289956492189696/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
