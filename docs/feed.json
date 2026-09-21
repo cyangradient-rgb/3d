@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:59:50.226Z",
+  "generatedAt": "2026-09-21T01:00:39.791Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -238,8 +238,8 @@
       "name": "Surface",
       "siteUrl": "https://www.surfacemag.com",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "dwell",
@@ -300,6 +300,61 @@
   ],
   "articles": [
     {
+      "id": "https://nautil.us/?p=1285150",
+      "title": "“Ferritin Face” Is Trending—But Can Your Skin Really Reveal Low Iron?",
+      "link": "https://nautil.us/ferritin-face-is-trending-but-can-your-skin-really-reveal-low-iron-1285150/",
+      "summary": "There’s a kernel of truth to it, but it’s not the whole story The post “Ferritin Face” Is Trending—But Can Your Skin Really Reveal Low Iron? appeared first on Nautilus.",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_492058866.jpeg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49781436",
+      "title": "Amiga Unix, Again",
+      "link": "https://amigaux.org/",
+      "summary": "Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 9 # Comments: 3",
+      "publishedAt": "2026-09-20T23:57:10.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=125744&secret=cM2XMtKpK3Lj&nonce=70f19d6eef",
+      "title": "Genetic ‘barcodes’ could explain why chromosomes recognize one another",
+      "link": "https://www.thebrighterside.news/post/genetic-barcodes-could-explain-why-chromosomes-recognize-one-another/",
+      "summary": "Repetitive DNA and the D1 protein help matching fruit fly chromosomes recognize one another before eggs form. The post Genetic ‘barcodes’ could explain why chromosomes recognize one another appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-20T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/chromosome-pairs.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "6ab056cb0e82f8588cab31bc",
+      "title": "The Weeknd Debuts New Song Sampling Neon Genesis Evangelion Theme",
+      "link": "https://pitchfork.com/story/the-weeknd-debuts-new-song-sampling-neon-genesis-evangelion-theme/",
+      "summary": "He performed it in Tokyo with Yoko Takahashi, who sings the anime’s opening theme “A Cruel Angel’s Thesis”",
+      "publishedAt": "2026-09-20T23:04:11.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ab0613c46b0bc9507436ccc/master/pass/GettyImages-2291612642.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://boulderreportinglab.org/?p=126063",
+      "title": "Boulder clerk rejects most allegations against La Grave mayoral campaign, finds two omissions",
+      "link": "https://boulderreportinglab.org/2026/09/20/boulder-clerk-rejects-most-allegations-against-la-grave-mayoral-campaign-finds-two-omissions/",
+      "summary": "The campaign must correct disclosures for about $280 in charges. The clerk found no probable cause to support the remaining allegations and imposed no penalty. The post Boulder clerk rejects most allegations against La Grave mayoral campaig…",
+      "publishedAt": "2026-09-20T23:00:00.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/PenfieldTate1-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
       "id": "https://thelocalproject.com.au/?p=465205",
       "title": "Eva’s Richmond House by In Addition – The Local Project",
       "link": "https://thelocalproject.com.au/articles/evas-richmond-house-by-in-addition-the-local-project/",
@@ -309,17 +364,6 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49780797",
-      "title": "Google's Open Agentic Orchestrator",
-      "link": "https://agentexecutor.io",
-      "summary": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 4 # Comments: 0",
-      "publishedAt": "2026-09-20T22:32:43.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "https://interestingengineering.com/?p=311421",
@@ -333,17 +377,6 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=125499&secret=cM2XMtKpK3Lj&nonce=e72fee4c36",
-      "title": "Natural compound linked to pomegranates improves heart function in preclinical tests",
-      "link": "https://www.thebrighterside.news/post/natural-compound-linked-to-pomegranates-improves-heart-function-in-preclinical-tests/",
-      "summary": "Urolithin A heart failure research points to a new pathway for improving heart relaxation in a hard-to-treat condition. The post Natural compound linked to pomegranates improves heart function in preclinical tests appeared first on The Brig…",
-      "publishedAt": "2026-09-20T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/heart-and-pomegranates.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
       "id": "CBMizAFBVV95cUxNTHY3V0stWFlxQzR1SWlmLUxoRDEtb1JrT3dCSVRwZjNyQ1dfRXl0bGlJUktSajFsUVlWNGxJUWp6b2xKLVZlM0lfUWxpMWJBaFlQaVJOSFJCVi1RbFNDOERmTE9Xd1ViTXJpTWtvMHY3RjlCSUFIYXNNaGItYThtMFRQUHZwenJiUWQ5Ynh1Uk10RXduNktlVWI2bUh1d2tVWHhKOHNTdjN3dHJIVFdHU3ZNU0pNc3FSZ0l5ckl3YjItMXptU210b2NQTHI",
       "title": "Instant reaction mailbag: Where does QB room stand after Hejny injury? - The Coloradoan",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHY3V0stWFlxQzR1SWlmLUxoRDEtb1JrT3dCSVRwZjNyQ1dfRXl0bGlJUktSajFsUVlWNGxJUWp6b2xKLVZlM0lfUWxpMWJBaFlQaVJOSFJCVi1RbFNDOERmTE9Xd1ViTXJpTWtvMHY3RjlCSUFIYXNNaGItYThtMFRQUHZwenJiUWQ5Ynh1Uk10RXduNktlVWI2bUh1d2tVWHhKOHNTdjN3dHJIVFdHU3ZNU0pNc3FSZ0l5ckl3YjItMXptU210b2NQTHI?oc=5",
@@ -353,17 +386,6 @@
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
-    },
-    {
-      "id": "6aafcf95a8787cdabf710331",
-      "title": "Ed Sheeran Clarifies Gaza Stance, Again Blames Venues for Kicking Macklemore Off Tour",
-      "link": "https://pitchfork.com/story/ed-sheeran-clarifies-gaza-stance-again-blames-venues-for-kicking-macklemore-off-tour/",
-      "summary": "Sheeran called what’s happening in Gaza “catastrophic, unjustifiable, and disproportionate” but did not take responsibility for the rapper being removed from the show",
-      "publishedAt": "2026-09-20T14:02:14.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aafd5e10e82f8588cab313f/master/pass/GettyImages-2251929698.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://www.themarginalian.org/?p=87945",
@@ -377,11 +399,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMioAFBVV95cUxNTjBveFotWmIwMXo2b19xSU9Obk14UTVNSkFBdVJlOU1OTXNrbXVadHIyRF9KN1hfNTR6S3l0alpHclU5dmpRWkd4Tk5HTWw0WWhLUFh0cXkycWdvNjB2b05ocG41X1VkSm5rWWNabEoycGR0SFpJWi1hcGVNcmRKQVh3dFhfZ3owb3BTSThZOWtJc0ZfTzBiNkpYTTN3c09K",
-      "title": "Penalties trip up CU Buffs at inopportune moments at Northwestern - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjBveFotWmIwMXo2b19xSU9Obk14UTVNSkFBdVJlOU1OTXNrbXVadHIyRF9KN1hfNTR6S3l0alpHclU5dmpRWkd4Tk5HTWw0WWhLUFh0cXkycWdvNjB2b05ocG41X1VkSm5rWWNabEoycGR0SFpJWi1hcGVNcmRKQVh3dFhfZ3owb3BTSThZOWtJc0ZfTzBiNkpYTTN3c09K?oc=5",
-      "summary": "Penalties trip up CU Buffs at inopportune moments at Northwestern Daily Camera",
-      "publishedAt": "2026-09-20T12:18:18.000Z",
+      "id": "CBMifEFVX3lxTE1LdUdyZVVyYzQzc0NFdzdUV3JsVXI0RHNfWjJDaUhvZG1TUmF1Skg3a3NlQVM4a2JRVWpYeGgzTFFZeE9fZ2V6RDlQbWk1dTJaZnB0dUYzQjYwRFlrai1vUGJwQnFhUUhoeUx6OHcxZE5ZbTQyU1ZZc1lwREY",
+      "title": "Boulder Valley engaged community early, but parents say closure decisions blindsided them - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LdUdyZVVyYzQzc0NFdzdUV3JsVXI0RHNfWjJDaUhvZG1TUmF1Skg3a3NlQVM4a2JRVWpYeGgzTFFZeE9fZ2V6RDlQbWk1dTJaZnB0dUYzQjYwRFlrai1vUGJwQnFhUUhoeUx6OHcxZE5ZbTQyU1ZZc1lwREY?oc=5",
+      "summary": "Boulder Valley engaged community early, but parents say closure decisions blindsided them dailycamera.com",
+      "publishedAt": "2026-09-20T12:25:01.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -452,28 +474,6 @@
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
       "category": "design"
-    },
-    {
-      "id": "https://nautil.us/?p=1285147",
-      "title": "This Dolphin Steals from Fish for Its Meals",
-      "link": "https://nautil.us/this-dolphin-steals-from-fish-for-its-meals-1285147/",
-      "summary": "Putting a dent in dolphins’ reputation as the “good guys of the sea” The post This Dolphin Steals from Fish for Its Meals appeared first on Nautilus.",
-      "publishedAt": "2026-09-19T12:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/bubbles.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=126032",
-      "title": "House committee subpoenas Boulder DA Michael Dougherty over immigration policies",
-      "link": "https://boulderreportinglab.org/2026/09/18/boulder-da-michael-dougherty-subpoenaed-by-house-committee-over-sanctuary-city-policies/",
-      "summary": "The House Judiciary Committee has requested documents about the office’s interactions with ICE and its prosecution of undocumented immigrants. Dougherty has not produced them, calling the inquiry “political theater.” The post House committe…",
-      "publishedAt": "2026-09-18T22:50:08.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/09/Verdict-5-done.jpg?fit=1024%2C762&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
     },
     {
       "id": "https://www.dwell.com/article/can-traditional-tattoos-help-us-understand-architectural-history-monique-lizardo-kalinga-batok-b776d9a5-3514ea0f",
@@ -674,15 +674,37 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49780630",
-      "title": "Bill to Ban Private Equity from Owning Medical Practices",
-      "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/ Comments URL: https://news.ycombinator.com/item?id=49780630 Points: 29 # Comments: 3",
-      "publishedAt": "2026-09-20T22:13:46.000Z",
+      "id": "https://news.ycombinator.com/item?id=49781138",
+      "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
+      "link": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO Comments URL: https://news.ycombinator.com/item?id=49781138 Points: 7 # Comments: 0",
+      "publishedAt": "2026-09-20T23:19:04.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://boulderreportinglab.org/?p=125914",
+      "title": "‘What is our function?’ Boulder Police Oversight Panel brings civilian review concerns to council",
+      "link": "https://boulderreportinglab.org/2026/09/20/what-is-our-function-boulder-police-oversight-panel-brings-civilian-review-concerns-to-council/",
+      "summary": "Panel members say police department changes have limited the independent monitor’s role in classifying complaints and weakened civilian oversight. The post ‘What is our function?’ Boulder Police Oversight Panel brings civilian review concer…",
+      "publishedAt": "2026-09-20T23:00:00.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/03/LS8I4245.jpeg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=125499&secret=cM2XMtKpK3Lj&nonce=e72fee4c36",
+      "title": "Natural compound linked to pomegranates improves heart function in preclinical tests",
+      "link": "https://www.thebrighterside.news/post/natural-compound-linked-to-pomegranates-improves-heart-function-in-preclinical-tests/",
+      "summary": "Urolithin A heart failure research points to a new pathway for improving heart relaxation in a hard-to-treat condition. The post Natural compound linked to pomegranates improves heart function in preclinical tests appeared first on The Brig…",
+      "publishedAt": "2026-09-20T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/heart-and-pomegranates.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "https://interestingengineering.com/?p=311337",
@@ -696,15 +718,15 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=124542&secret=cM2XMtKpK3Lj&nonce=18935f1a5e",
-      "title": "New physics explains how odor changes on its journey through the air",
-      "link": "https://www.thebrighterside.news/post/new-physics-explains-how-odor-changes-on-its-journey-through-the-air/",
-      "summary": "Wind reshapes the timing of odor whiffs, potentially giving animals clues about where a scent originated. The post New physics explains how odor changes on its journey through the air appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-09-20T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/Low-Res_ElleStark01.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
+      "id": "6aafcf95a8787cdabf710331",
+      "title": "Ed Sheeran Clarifies Gaza Stance, Again Blames Venues for Kicking Macklemore Off Tour",
+      "link": "https://pitchfork.com/story/ed-sheeran-clarifies-gaza-stance-again-blames-venues-for-kicking-macklemore-off-tour/",
+      "summary": "Sheeran called what’s happening in Gaza “catastrophic, unjustifiable, and disproportionate” but did not take responsibility for the rapper being removed from the show",
+      "publishedAt": "2026-09-20T14:02:14.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aafd5e10e82f8588cab313f/master/pass/GettyImages-2251929698.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.brainpickings.org/?p=62450",
@@ -718,11 +740,22 @@
       "category": "ideas"
     },
     {
-      "id": "CBMi1gFBVV95cUxOamM5MV9FM0NtVml6LTMtaEdvMVVYRzJYVTlweUxDRHZoNm94MDJNUWpzbXBtOTl4VmVmazN6Q3JuSzRmZl9CckFZS29KOFAxaHJ5UEtzR0VLN3BrQ3dsWmNyQ05JYnB2cW1aMDdCdVlzRG5ueXBNOExSdkZFbV93MWk4OWVSaG42cWNSRW9IbmFKWF9hbUxOV1F6cWtZamdlQUtRVmFKdndRaXNRMWcyM084aEhsYkRSenMtMDU2N3JXMjJjY2xkMUlvVDdRQUFGajZDM2Zn",
-      "title": "What Jim Mora said after CSU's loss to BYU, including QB updates - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOamM5MV9FM0NtVml6LTMtaEdvMVVYRzJYVTlweUxDRHZoNm94MDJNUWpzbXBtOTl4VmVmazN6Q3JuSzRmZl9CckFZS29KOFAxaHJ5UEtzR0VLN3BrQ3dsWmNyQ05JYnB2cW1aMDdCdVlzRG5ueXBNOExSdkZFbV93MWk4OWVSaG42cWNSRW9IbmFKWF9hbUxOV1F6cWtZamdlQUtRVmFKdndRaXNRMWcyM084aEhsYkRSenMtMDU2N3JXMjJjY2xkMUlvVDdRQUFGajZDM2Zn?oc=5",
-      "summary": "What Jim Mora said after CSU's loss to BYU, including QB updates The Coloradoan",
-      "publishedAt": "2026-09-20T10:31:00.000Z",
+      "id": "CBMioAFBVV95cUxNTjBveFotWmIwMXo2b19xSU9Obk14UTVNSkFBdVJlOU1OTXNrbXVadHIyRF9KN1hfNTR6S3l0alpHclU5dmpRWkd4Tk5HTWw0WWhLUFh0cXkycWdvNjB2b05ocG41X1VkSm5rWWNabEoycGR0SFpJWi1hcGVNcmRKQVh3dFhfZ3owb3BTSThZOWtJc0ZfTzBiNkpYTTN3c09K",
+      "title": "Penalties trip up CU Buffs at inopportune moments at Northwestern - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjBveFotWmIwMXo2b19xSU9Obk14UTVNSkFBdVJlOU1OTXNrbXVadHIyRF9KN1hfNTR6S3l0alpHclU5dmpRWkd4Tk5HTWw0WWhLUFh0cXkycWdvNjB2b05ocG41X1VkSm5rWWNabEoycGR0SFpJWi1hcGVNcmRKQVh3dFhfZ3owb3BTSThZOWtJc0ZfTzBiNkpYTTN3c09K?oc=5",
+      "summary": "Penalties trip up CU Buffs at inopportune moments at Northwestern dailycamera.com",
+      "publishedAt": "2026-09-20T12:18:18.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMiuwFBVV95cUxQRHBlUEhTWTJ6UV9jdy1ldXRhODYtS0NMQTVGZEdNdEotTkg2ZC1ITF9YU2NlN3I3eEwtTlNSQ016RnY1WGp4SXhMU0NJcWlzR0JMaEFPbWVFQWQ1NEhaOVZlY2J4aVBheEZqUTFGOFg0ZS1RRWgxTERGVnYxSV9GMi1KdmQtY1JWbHh0cmVBamkyaWM4bGk0S0pYN3lvM005VjYtVWtGS2M3dUxLcVFCUlhUcDIxbUxZRExN",
+      "title": "Colorado Lottery Powerball, Powerball Double Play results for Sept. 19, 2026 - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHBlUEhTWTJ6UV9jdy1ldXRhODYtS0NMQTVGZEdNdEotTkg2ZC1ITF9YU2NlN3I3eEwtTlNSQ016RnY1WGp4SXhMU0NJcWlzR0JMaEFPbWVFQWQ1NEhaOVZlY2J4aVBheEZqUTFGOFg0ZS1RRWgxTERGVnYxSV9GMi1KdmQtY1JWbHh0cmVBamkyaWM4bGk0S0pYN3lvM005VjYtVWtGS2M3dUxLcVFCUlhUcDIxbUxZRExN?oc=5",
+      "summary": "Colorado Lottery Powerball, Powerball Double Play results for Sept. 19, 2026 The Coloradoan",
+      "publishedAt": "2026-09-20T11:20:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -738,28 +771,6 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "CBMilwFBVV95cUxPeGJmdHcxYTFBMU5mM0RLRkVwTTVINzFZeGxGNW9XZ3I2Yzh2NVZNSE00NGZYdzhoQXVORlRtQ05UcV9QOVZOTmQtazFJdThEZlNQUmZ3RkYzQ3VhU2xyQ1o0SEcyendLaWVjQjJLT25DLUFhREhVZm1ON3g3d0RxeWJFMFU2VG9OSXpMa0E3a2N4WVZ6Q2xV",
-      "title": "Colorado fumbles away an opportunity at Northwestern - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGJmdHcxYTFBMU5mM0RLRkVwTTVINzFZeGxGNW9XZ3I2Yzh2NVZNSE00NGZYdzhoQXVORlRtQ05UcV9QOVZOTmQtazFJdThEZlNQUmZ3RkYzQ3VhU2xyQ1o0SEcyendLaWVjQjJLT25DLUFhREhVZm1ON3g3d0RxeWJFMFU2VG9OSXpMa0E3a2N4WVZ6Q2xV?oc=5",
-      "summary": "Colorado fumbles away an opportunity at Northwestern Daily Camera",
-      "publishedAt": "2026-09-20T06:09:50.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "6aad3e8974a1d6209f3f9522",
-      "title": "Easy Rider (Music From the Soundtrack)",
-      "link": "https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/",
-      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the blockbuster soundtrack for the 1969 biker classic: a generational bounty of radio hits…",
-      "publishedAt": "2026-09-20T04:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aad3db35d1e10272ab0f0da/master/pass/Easy%20Rider%20(Music%20From%20the%20Soundtrack).jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://leibal.com/?p=184550",
@@ -784,6 +795,17 @@
       "category": "design"
     },
     {
+      "id": "https://nautil.us/?p=1285147",
+      "title": "This Dolphin Steals from Fish for Its Meals",
+      "link": "https://nautil.us/this-dolphin-steals-from-fish-for-its-meals-1285147/",
+      "summary": "Putting a dent in dolphins’ reputation as the “good guys of the sea” The post This Dolphin Steals from Fish for Its Meals appeared first on Nautilus.",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/bubbles.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
       "id": "https://tricycle.org/?p=85017",
       "title": "What Is Essential for the Dharma to Take Root?",
       "link": "https://tricycle.org/article/what-is-essential-for-the-dharma-to-take-root/",
@@ -793,28 +815,6 @@
       "sourceId": "tricycle",
       "sourceName": "Tricycle: The Buddhist Review",
       "category": "ideas"
-    },
-    {
-      "id": "CBMiwgFBVV95cUxOQWNydGNRZjYwSzBtTTN1UFBrNFZ3bm1fYVZ1b1dwcTVwTGdzWHFGRUdRRkNfWUJOS21Nd2NQVG9ZUVlOU2dvQUdsS1Q0U0FtVTRtZXhtWVFPZ2h6TUNPTWQyMnliN1I2akNjS1EwX3hpVXF5blplYU1Bd004anZqNThVczFPS19McVY4a1ExcUVtVXFrN2NXcVRLZk9JM1hGdkc3a3RpRTcwbGZvOUwwZnRCWXdsOE42YmVmWHRFYzc5QQ",
-      "title": "4 Burner Natural Gas Bosch Stove with - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWNydGNRZjYwSzBtTTN1UFBrNFZ3bm1fYVZ1b1dwcTVwTGdzWHFGRUdRRkNfWUJOS21Nd2NQVG9ZUVlOU2dvQUdsS1Q0U0FtVTRtZXhtWVFPZ2h6TUNPTWQyMnliN1I2akNjS1EwX3hpVXF5blplYU1Bd004anZqNThVczFPS19McVY4a1ExcUVtVXFrN2NXcVRLZk9JM1hGdkc3a3RpRTcwbGZvOUwwZnRCWXdsOE42YmVmWHRFYzc5QQ?oc=5",
-      "summary": "4 Burner Natural Gas Bosch Stove with The Taos News",
-      "publishedAt": "2026-09-19T00:30:26.000Z",
-      "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
-      "category": "local"
-    },
-    {
-      "id": "https://nautil.us/?p=1285140",
-      "title": "The Moon has a New Once-in-a-Century Crater",
-      "link": "https://nautil.us/the-moon-has-a-new-once-in-a-century-crater-1285140/",
-      "summary": "The lunar surface is more dynamic than you might think The post The Moon has a New Once-in-a-Century Crater appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T21:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/McGetchinLRONAC.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
     },
     {
       "id": "https://www.dwell.com/article/kennedy-center-airbnb-housing-fund-c8f40129",
@@ -828,14 +828,14 @@
       "category": "design"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=125950",
-      "title": "Boulder City Council approves FAA grant application, deepening its commitment to city airport",
-      "link": "https://boulderreportinglab.org/2026/09/17/boulder-city-council-approves-faa-grant-application-deepening-its-commitment-to-city-airport/",
-      "summary": "The city is applying for about $140,000 in federal money for a pavement maintenance project. City officials have said the grant could require Boulder to operate the airport in perpetuity. The post Boulder City Council approves FAA grant app…",
-      "publishedAt": "2026-09-18T04:14:44.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/07/Airport_Fuel3-scaled.jpg?fit=1024%2C768&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
+      "id": "CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ",
+      "title": "Monster mash - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ?oc=5",
+      "summary": "Monster mash The Taos News",
+      "publishedAt": "2026-09-18T15:46:23.000Z",
+      "imageUrl": null,
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
       "category": "local"
     },
     {
@@ -1048,11 +1048,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49780064",
-      "title": "Nobody pays for FOSS, we can force them to",
-      "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-      "summary": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Comments URL: https://news.ycombinator.com/item?id=49780064 Points: 63 # Comments: 34",
-      "publishedAt": "2026-09-20T21:04:32.000Z",
+      "id": "https://news.ycombinator.com/item?id=49780820",
+      "title": "What happened to the Snowden archive",
+      "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 114 # Comments: 39",
+      "publishedAt": "2026-09-20T22:35:49.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1070,15 +1070,26 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127130&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Greenland and Antarctica have lost more than 11 trillion tons of ice since 1979",
-      "link": "https://www.thebrighterside.news/post/greenland-and-antarctica-have-lost-more-than-11-trillion-tons-of-ice-since-1979/",
-      "summary": "Four decades of satellites reveal accelerating polar ice loss driven mainly by glaciers moving faster into warming oceans. The post Greenland and Antarctica have lost more than 11 trillion tons of ice since 1979 appeared first on The Bright…",
-      "publishedAt": "2026-09-20T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/antarctic-ice-loss.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=124542&secret=cM2XMtKpK3Lj&nonce=18935f1a5e",
+      "title": "New physics explains how odor changes on its journey through the air",
+      "link": "https://www.thebrighterside.news/post/new-physics-explains-how-odor-changes-on-its-journey-through-the-air/",
+      "summary": "Wind reshapes the timing of odor whiffs, potentially giving animals clues about where a scent originated. The post New physics explains how odor changes on its journey through the air appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-20T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/Low-Res_ElleStark01.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
+    },
+    {
+      "id": "CBMi1gFBVV95cUxOamM5MV9FM0NtVml6LTMtaEdvMVVYRzJYVTlweUxDRHZoNm94MDJNUWpzbXBtOTl4VmVmazN6Q3JuSzRmZl9CckFZS29KOFAxaHJ5UEtzR0VLN3BrQ3dsWmNyQ05JYnB2cW1aMDdCdVlzRG5ueXBNOExSdkZFbV93MWk4OWVSaG42cWNSRW9IbmFKWF9hbUxOV1F6cWtZamdlQUtRVmFKdndRaXNRMWcyM084aEhsYkRSenMtMDU2N3JXMjJjY2xkMUlvVDdRQUFGajZDM2Zn",
+      "title": "What Jim Mora said after CSU's loss to BYU, including QB updates - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOamM5MV9FM0NtVml6LTMtaEdvMVVYRzJYVTlweUxDRHZoNm94MDJNUWpzbXBtOTl4VmVmazN6Q3JuSzRmZl9CckFZS29KOFAxaHJ5UEtzR0VLN3BrQ3dsWmNyQ05JYnB2cW1aMDdCdVlzRG5ueXBNOExSdkZFbV93MWk4OWVSaG42cWNSRW9IbmFKWF9hbUxOV1F6cWtZamdlQUtRVmFKdndRaXNRMWcyM084aEhsYkRSenMtMDU2N3JXMjJjY2xkMUlvVDdRQUFGajZDM2Zn?oc=5",
+      "summary": "What Jim Mora said after CSU's loss to BYU, including QB updates The Coloradoan",
+      "publishedAt": "2026-09-20T10:31:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
     },
     {
       "id": "https://coloradosun.com/?p=502584",
@@ -1092,15 +1103,26 @@
       "category": "local"
     },
     {
-      "id": "CBMi3gFBVV95cUxPeWFfVkNLMkRYWUlub19fTnR2Q2h6bW5ZRWxOMV82TUZQMjZ4NnlzWWZoRzlITUVETU5HRWZPUUNYM2RBUXJUMExsMVYzdHNWN21IQnhncW1hZkhFZ3NOYThrejNZVGhCVG1QZGppRkZ0bmFscV8tSDBPeDU5THBSeWxNZGZleExTN18ydk5lalhXRFFsNnF2c0R0aUVSZFJ2YWVIZWtKa2c5dmVFNThMWlN0cUVyc3pJUEwzb09PSndUSnpYaWZPNGVKWl9pc1pYQlk0OHBLN25Jb1FJaXc",
-      "title": "CSU issues statement of apology to BYU for in-game chants by fans - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWFfVkNLMkRYWUlub19fTnR2Q2h6bW5ZRWxOMV82TUZQMjZ4NnlzWWZoRzlITUVETU5HRWZPUUNYM2RBUXJUMExsMVYzdHNWN21IQnhncW1hZkhFZ3NOYThrejNZVGhCVG1QZGppRkZ0bmFscV8tSDBPeDU5THBSeWxNZGZleExTN18ydk5lalhXRFFsNnF2c0R0aUVSZFJ2YWVIZWtKa2c5dmVFNThMWlN0cUVyc3pJUEwzb09PSndUSnpYaWZPNGVKWl9pc1pYQlk0OHBLN25Jb1FJaXc?oc=5",
-      "summary": "CSU issues statement of apology to BYU for in-game chants by fans The Coloradoan",
-      "publishedAt": "2026-09-20T05:45:00.000Z",
+      "id": "CBMilwFBVV95cUxPeGJmdHcxYTFBMU5mM0RLRkVwTTVINzFZeGxGNW9XZ3I2Yzh2NVZNSE00NGZYdzhoQXVORlRtQ05UcV9QOVZOTmQtazFJdThEZlNQUmZ3RkYzQ3VhU2xyQ1o0SEcyendLaWVjQjJLT25DLUFhREhVZm1ON3g3d0RxeWJFMFU2VG9OSXpMa0E3a2N4WVZ6Q2xV",
+      "title": "Colorado fumbles away an opportunity at Northwestern - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGJmdHcxYTFBMU5mM0RLRkVwTTVINzFZeGxGNW9XZ3I2Yzh2NVZNSE00NGZYdzhoQXVORlRtQ05UcV9QOVZOTmQtazFJdThEZlNQUmZ3RkYzQ3VhU2xyQ1o0SEcyendLaWVjQjJLT25DLUFhREhVZm1ON3g3d0RxeWJFMFU2VG9OSXpMa0E3a2N4WVZ6Q2xV?oc=5",
+      "summary": "Colorado fumbles away an opportunity at Northwestern dailycamera.com",
+      "publishedAt": "2026-09-20T06:09:50.000Z",
       "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
       "category": "local"
+    },
+    {
+      "id": "6aad3e8974a1d6209f3f9522",
+      "title": "Easy Rider (Music From the Soundtrack)",
+      "link": "https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/",
+      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the blockbuster soundtrack for the 1969 biker classic: a generational bounty of radio hits…",
+      "publishedAt": "2026-09-20T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aad3db35d1e10272ab0f0da/master/pass/Easy%20Rider%20(Music%20From%20the%20Soundtrack).jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "https://www.themarginalian.org/?p=84476",
@@ -1114,48 +1136,26 @@
       "category": "ideas"
     },
     {
-      "id": "6aad67b40bd44f61e66f76ea",
-      "title": "“Choosin’ Texas”",
-      "link": "https://pitchfork.com/reviews/tracks/ella-langley-choosin-texas/",
-      "summary": "Ella Langley’s timeless, traditionalist country hit is set to become the longest-running No. 1 in U.S. history this week. Like everything else in America, it’s polarizing.",
-      "publishedAt": "2026-09-19T04:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aad683d07d034f32c7298d5/master/pass/P4K26_SatTracks_Choosin%20Texas_2x1.png",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "CBMihgFBVV95cUxOV1MwaG1LSUhGOTVyN0lkSC1JLXdUQncxRFJCTWZ3dU53N1RUS1BPN2VUeEhrTUlTdkQxSGpFaHNtSEJGREs0VlVrUGh1ZjFydU5NbC02akw1Z3hsdk9SODRGT3ROdzlzN1JzZlVuSnRIX1QxakNkVVBTb3gwY2hYazJBdG9MZw",
-      "title": "Colorado draws rain and an underdog role in Northwestern’s lakefront finale - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1MwaG1LSUhGOTVyN0lkSC1JLXdUQncxRFJCTWZ3dU53N1RUS1BPN2VUeEhrTUlTdkQxSGpFaHNtSEJGREs0VlVrUGh1ZjFydU5NbC02akw1Z3hsdk9SODRGT3ROdzlzN1JzZlVuSnRIX1QxakNkVVBTb3gwY2hYazJBdG9MZw?oc=5",
-      "summary": "Colorado draws rain and an underdog role in Northwestern’s lakefront finale Daily Camera",
-      "publishedAt": "2026-09-18T22:50:41.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
+      "id": "https://boulderreportinglab.org/?p=126032",
+      "title": "House committee subpoenas Boulder DA Michael Dougherty over immigration policies",
+      "link": "https://boulderreportinglab.org/2026/09/18/boulder-da-michael-dougherty-subpoenaed-by-house-committee-over-sanctuary-city-policies/",
+      "summary": "The House Judiciary Committee has requested documents about the office’s interactions with ICE and its prosecution of undocumented immigrants. Dougherty has not produced them, calling the inquiry “political theater.” The post House committe…",
+      "publishedAt": "2026-09-18T22:50:08.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/09/Verdict-5-done.jpg?fit=1024%2C762&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285135",
-      "title": "The “Most Complete” Mastodon Tooth Ever Found",
-      "link": "https://nautil.us/the-most-complete-mastodon-tooth-ever-found-1285135/",
-      "summary": "Peering 10,000 years into the past The post The “Most Complete” Mastodon Tooth Ever Found appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T20:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-tooth.jpg?w=564",
+      "id": "https://nautil.us/?p=1285140",
+      "title": "The Moon has a New Once-in-a-Century Crater",
+      "link": "https://nautil.us/the-moon-has-a-new-once-in-a-century-crater-1285140/",
+      "summary": "The lunar surface is more dynamic than you might think The post The Moon has a New Once-in-a-Century Crater appeared first on Nautilus.",
+      "publishedAt": "2026-09-18T21:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/McGetchinLRONAC.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
-    },
-    {
-      "id": "CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ",
-      "title": "Monster mash - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3RQdUdSbllwV2Rwci1oaVJ3NUlLaG9VbUtuOFdXRC11eGdfbVkyZ2RMM2ptZGRhVzJFZWVSR2ZEZ0FlbUFQRVprRGpJNTBJZWdIR2djUjJjOVRKQkY0SzBsRFBKak04U3lER0RLS09Ebl9VeHlzRllUZDVlLTNnZ3dZMzlzb3Bpb1lGQWdFOHhqaFdwTHlselJ2RG5DLVVxeHVJ?oc=5",
-      "summary": "Monster mash The Taos News",
-      "publishedAt": "2026-09-18T15:46:23.000Z",
-      "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
-      "category": "local"
     },
     {
       "id": "https://www.dwell.com/article/before-and-after-windsor-terrace-residence-renovation-office-of-tangible-space-c4ee196d",
@@ -1202,14 +1202,14 @@
       "category": "design"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=125644",
-      "title": "The history of Boulder’s Spruce Pool, born from an ice plant’s hot water",
-      "link": "https://boulderreportinglab.org/2026/09/17/the-history-of-boulders-spruce-pool-born-from-an-ice-plants-hot-water/",
-      "summary": "Built with hot water from an ice plant’s cooling process, the pool opened in 1923 and was hailed as “one of the greatest needs of the city.” More than a century later, its future is uncertain. The post The history of Boulder’s Spruce Pool, …",
-      "publishedAt": "2026-09-18T04:14:07.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/1.BathingBeauties701-1-3c-4-scaled.jpg?fit=1024%2C726&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
+      "id": "CBMi1AFBVV95cUxQcTBkeEIxX1BnbWtESEVZX3ExclF3OXJBRThDYkpFSUJZQlZDdXRobWNZY2Nxdnp6VHM0d2gzbDRrQ21jYS1OWVd3RkZyU3ZETnY5czJUeWFoSDJZb25tWW5aN3dRVUVQTnByTTg0XzZ3Q0xCbzZqWEtUMnRvMmdhVXJKNGJzVDNtWkJ5d1pQbF9ZQUU4dGRmX3V4eG1hamNNY0R3MzJyZWtORTFjTmVzbGs4cll5ck43QXJZOHRiSWNLR0hDNTNyZTlRTUp2dWg0SnphbA",
+      "title": "Town of Taos tightens water conservation measures - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTBkeEIxX1BnbWtESEVZX3ExclF3OXJBRThDYkpFSUJZQlZDdXRobWNZY2Nxdnp6VHM0d2gzbDRrQ21jYS1OWVd3RkZyU3ZETnY5czJUeWFoSDJZb25tWW5aN3dRVUVQTnByTTg0XzZ3Q0xCbzZqWEtUMnRvMmdhVXJKNGJzVDNtWkJ5d1pQbF9ZQUU4dGRmX3V4eG1hamNNY0R3MzJyZWtORTFjTmVzbGs4cll5ck43QXJZOHRiSWNLR0hDNTNyZTlRTUp2dWg0SnphbA?oc=5",
+      "summary": "Town of Taos tightens water conservation measures The Taos News",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
       "category": "local"
     },
     {
@@ -1422,11 +1422,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49780022",
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 11 # Comments: 3",
-      "publishedAt": "2026-09-20T20:59:02.000Z",
+      "id": "https://news.ycombinator.com/item?id=49780797",
+      "title": "Google's Open Agentic Orchestrator",
+      "link": "https://agentexecutor.io",
+      "summary": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 137 # Comments: 55",
+      "publishedAt": "2026-09-20T22:32:43.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1444,12 +1444,12 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127117&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Webb finds brown dwarfs barely twice Jupiter’s mass, challenging star-formation models",
-      "link": "https://www.thebrighterside.news/post/webb-finds-brown-dwarfs-barely-twice-jupiters-mass-challenging-star-formation-models/",
-      "summary": "Tiny worlds in IC 348 reveal disks and unusual atmospheric chemistry at the extreme lower boundary of star formation. The post Webb finds brown dwarfs barely twice Jupiter’s mass, challenging star-formation models appeared first on The Brig…",
-      "publishedAt": "2026-09-20T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/brown-dwarfs-1-e1789756031837.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127130&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Greenland and Antarctica have lost more than 11 trillion tons of ice since 1979",
+      "link": "https://www.thebrighterside.news/post/greenland-and-antarctica-have-lost-more-than-11-trillion-tons-of-ice-since-1979/",
+      "summary": "Four decades of satellites reveal accelerating polar ice loss driven mainly by glaciers moving faster into warming oceans. The post Greenland and Antarctica have lost more than 11 trillion tons of ice since 1979 appeared first on The Bright…",
+      "publishedAt": "2026-09-20T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/antarctic-ice-loss.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -1477,34 +1477,34 @@
       "category": "local"
     },
     {
-      "id": "6aad475594de84dca359d187",
-      "title": "Second Song",
-      "link": "https://pitchfork.com/reviews/albums/neil-young-and-the-chrome-hearts-second-song/",
-      "summary": "The 80-year-old musician’s 50th studio album emphasizes atmosphere over songcraft, but its long, rambling tracks offer ample reminders of his melodic dexterity and lyrical gifts.",
+      "id": "6aad67b40bd44f61e66f76ea",
+      "title": "“Choosin’ Texas”",
+      "link": "https://pitchfork.com/reviews/tracks/ella-langley-choosin-texas/",
+      "summary": "Ella Langley’s timeless, traditionalist country hit is set to become the longest-running No. 1 in U.S. history this week. Like everything else in America, it’s polarizing.",
       "publishedAt": "2026-09-19T04:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6a7615e62cd6fb2598322219/master/pass/unnamed%20-%202026-08-07T131858.350.jpg",
+      "imageUrl": "https://media.pitchfork.com/photos/6aad683d07d034f32c7298d5/master/pass/P4K26_SatTracks_Choosin%20Texas_2x1.png",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM",
-      "title": "CU Buffs scouting report vs. Northwestern Wildcats - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM?oc=5",
-      "summary": "CU Buffs scouting report vs. Northwestern Wildcats Daily Camera",
-      "publishedAt": "2026-09-18T22:30:33.000Z",
+      "id": "CBMihgFBVV95cUxOV1MwaG1LSUhGOTVyN0lkSC1JLXdUQncxRFJCTWZ3dU53N1RUS1BPN2VUeEhrTUlTdkQxSGpFaHNtSEJGREs0VlVrUGh1ZjFydU5NbC02akw1Z3hsdk9SODRGT3ROdzlzN1JzZlVuSnRIX1QxakNkVVBTb3gwY2hYazJBdG9MZw",
+      "title": "Colorado draws rain and an underdog role in Northwestern’s lakefront finale - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1MwaG1LSUhGOTVyN0lkSC1JLXdUQncxRFJCTWZ3dU53N1RUS1BPN2VUeEhrTUlTdkQxSGpFaHNtSEJGREs0VlVrUGh1ZjFydU5NbC02akw1Z3hsdk9SODRGT3ROdzlzN1JzZlVuSnRIX1QxakNkVVBTb3gwY2hYazJBdG9MZw?oc=5",
+      "summary": "Colorado draws rain and an underdog role in Northwestern’s lakefront finale dailycamera.com",
+      "publishedAt": "2026-09-18T22:50:41.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285132",
-      "title": "This Stray Cat Turned Out to Be the First New Cat Species Discovered in Over a Century",
-      "link": "https://nautil.us/this-stray-cat-turned-out-to-be-the-first-new-cat-species-discovered-in-over-a-century-1285132/",
-      "summary": "It was living on a diet of rice, noodles, and eggs The post This Stray Cat Turned Out to Be the First New Cat Species Discovered in Over a Century appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T18:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Tilcayo_tiger_cat_full_body-copy.jpg?w=564",
+      "id": "https://nautil.us/?p=1285135",
+      "title": "The “Most Complete” Mastodon Tooth Ever Found",
+      "link": "https://nautil.us/the-most-complete-mastodon-tooth-ever-found-1285135/",
+      "summary": "Peering 10,000 years into the past The post The “Most Complete” Mastodon Tooth Ever Found appeared first on Nautilus.",
+      "publishedAt": "2026-09-18T20:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-tooth.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
@@ -1554,25 +1554,25 @@
       "category": "design"
     },
     {
-      "id": "CBMi1AFBVV95cUxQcTBkeEIxX1BnbWtESEVZX3ExclF3OXJBRThDYkpFSUJZQlZDdXRobWNZY2Nxdnp6VHM0d2gzbDRrQ21jYS1OWVd3RkZyU3ZETnY5czJUeWFoSDJZb25tWW5aN3dRVUVQTnByTTg0XzZ3Q0xCbzZqWEtUMnRvMmdhVXJKNGJzVDNtWkJ5d1pQbF9ZQUU4dGRmX3V4eG1hamNNY0R3MzJyZWtORTFjTmVzbGs4cll5ck43QXJZOHRiSWNLR0hDNTNyZTlRTUp2dWg0SnphbA",
-      "title": "Town of Taos tightens water conservation measures - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTBkeEIxX1BnbWtESEVZX3ExclF3OXJBRThDYkpFSUJZQlZDdXRobWNZY2Nxdnp6VHM0d2gzbDRrQ21jYS1OWVd3RkZyU3ZETnY5czJUeWFoSDJZb25tWW5aN3dRVUVQTnByTTg0XzZ3Q0xCbzZqWEtUMnRvMmdhVXJKNGJzVDNtWkJ5d1pQbF9ZQUU4dGRmX3V4eG1hamNNY0R3MzJyZWtORTFjTmVzbGs4cll5ck43QXJZOHRiSWNLR0hDNTNyZTlRTUp2dWg0SnphbA?oc=5",
-      "summary": "Town of Taos tightens water conservation measures The Taos News",
-      "publishedAt": "2026-09-18T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
+      "id": "https://boulderreportinglab.org/?p=125950",
+      "title": "Boulder City Council approves FAA grant application, deepening its commitment to city airport",
+      "link": "https://boulderreportinglab.org/2026/09/17/boulder-city-council-approves-faa-grant-application-deepening-its-commitment-to-city-airport/",
+      "summary": "The city is applying for about $140,000 in federal money for a pavement maintenance project. City officials have said the grant could require Boulder to operate the airport in perpetuity. The post Boulder City Council approves FAA grant app…",
+      "publishedAt": "2026-09-18T04:14:44.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/07/Airport_Fuel3-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=125856",
-      "title": "Music lessons were out of reach for some Boulder families. Then Parlando brought them closer to home.",
-      "link": "https://boulderreportinglab.org/2026/09/17/music-lessons-were-out-of-reach-for-some-boulder-families-then-parlando-brought-them-closer-to-home/",
-      "summary": "A new partnership offers sliding-scale piano, violin and cello lessons at Boulder Housing Partners communities, removing a key transportation barrier. The post Music lessons were out of reach for some Boulder families. Then Parlando brought…",
-      "publishedAt": "2026-09-17T14:22:21.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/Parlando-Lesson-at-BHP_2-1-scaled.jpg?fit=1024%2C768&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
+      "id": "CBMipAFBVV95cUxQVXlXakFuR0hjOTJoZ0ZLLTB4aEt5U0l0b3Z1Z014aFdGdG5jV2MtYnVRQWY2ZjBJNnF5WmZWaGhWZU04eHRsaGZZYmlYbjVZb3l6Y2dNaFROOTZQdVlXWm55WVkwR0JOeVBtSHlsNVFNakJfMUpPcVI3NFVJUGUtdlYwcHpwMHRMLU5ObjNfT3B5cXQ0ZlN4WWtUQjdWUXc3U1Bnaw",
+      "title": "Reel report - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXlXakFuR0hjOTJoZ0ZLLTB4aEt5U0l0b3Z1Z014aFdGdG5jV2MtYnVRQWY2ZjBJNnF5WmZWaGhWZU04eHRsaGZZYmlYbjVZb3l6Y2dNaFROOTZQdVlXWm55WVkwR0JOeVBtSHlsNVFNakJfMUpPcVI3NFVJUGUtdlYwcHpwMHRMLU5ObjNfT3B5cXQ0ZlN4WWtUQjdWUXc3U1Bnaw?oc=5",
+      "summary": "Reel report The Taos News",
+      "publishedAt": "2026-09-17T15:32:09.000Z",
+      "imageUrl": null,
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
       "category": "local"
     },
     {
@@ -1796,11 +1796,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49779432",
-      "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
-      "link": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
-      "summary": "Article URL: https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage Comments URL: https://news.ycombinator.com/item?id=49779432 Points: 97 # Comments: 31",
-      "publishedAt": "2026-09-20T19:55:36.000Z",
+      "id": "https://news.ycombinator.com/item?id=49780704",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "link": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm5y7qj54klpo Comments URL: https://news.ycombinator.com/item?id=49780704 Points: 11 # Comments: 0",
+      "publishedAt": "2026-09-20T22:22:16.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1818,12 +1818,12 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127145&secret=cM2XMtKpK3Lj&nonce=3a1fd45b8b",
-      "title": "Scientists outline how spacecraft could reach a nearby black hole within a century",
-      "link": "https://www.thebrighterside.news/post/scientists-outline-how-spacecraft-could-reach-a-nearby-black-hole-within-a-century/",
-      "summary": "A gram-scale probe traveling at one-third light speed could turn a nearby black hole into a direct laboratory for Einstein's gravity. The post Scientists outline how spacecraft could reach a nearby black hole within a century appeared first…",
-      "publishedAt": "2026-09-20T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/travel-to-black-hole.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127117&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Webb finds brown dwarfs barely twice Jupiter’s mass, challenging star-formation models",
+      "link": "https://www.thebrighterside.news/post/webb-finds-brown-dwarfs-barely-twice-jupiters-mass-challenging-star-formation-models/",
+      "summary": "Tiny worlds in IC 348 reveal disks and unusual atmospheric chemistry at the extreme lower boundary of star formation. The post Webb finds brown dwarfs barely twice Jupiter’s mass, challenging star-formation models appeared first on The Brig…",
+      "publishedAt": "2026-09-20T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/brown-dwarfs-1-e1789756031837.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -1851,23 +1851,34 @@
       "category": "local"
     },
     {
-      "id": "6aa958b017d62e9f9eff525c",
-      "title": "Who Should Be Nominated at the 2027 Grammy Awards",
-      "link": "https://pitchfork.com/story/who-should-be-nominated-at-the-2027-grammy-awards/",
-      "summary": "Here are some far-too-early predictions—starring Geese, Kelela, Robyn, and more",
-      "publishedAt": "2026-09-18T19:21:19.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aada01c0bd44f61e66f797a/master/pass/P4K26_GrammysPredictions_2x1.gif",
+      "id": "6aad475594de84dca359d187",
+      "title": "Second Song",
+      "link": "https://pitchfork.com/reviews/albums/neil-young-and-the-chrome-hearts-second-song/",
+      "summary": "The 80-year-old musician’s 50th studio album emphasizes atmosphere over songcraft, but its long, rambling tracks offer ample reminders of his melodic dexterity and lyrical gifts.",
+      "publishedAt": "2026-09-19T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6a7615e62cd6fb2598322219/master/pass/unnamed%20-%202026-08-07T131858.350.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "https://nautil.us/?p=1285125",
-      "title": "Muscle Loss is a Big Warning Sign of Dementia",
-      "link": "https://nautil.us/muscle-loss-is-a-big-warning-sign-of-dementia-1285125/",
-      "summary": "But obesity has a more complicated relationship with the disease The post Muscle Loss is a Big Warning Sign of Dementia appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_709399353.jpeg?w=564",
+      "id": "CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM",
+      "title": "CU Buffs scouting report vs. Northwestern Wildcats - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM?oc=5",
+      "summary": "CU Buffs scouting report vs. Northwestern Wildcats dailycamera.com",
+      "publishedAt": "2026-09-18T22:30:33.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "https://nautil.us/?p=1285132",
+      "title": "This Stray Cat Turned Out to Be the First New Cat Species Discovered in Over a Century",
+      "link": "https://nautil.us/this-stray-cat-turned-out-to-be-the-first-new-cat-species-discovered-in-over-a-century-1285132/",
+      "summary": "It was living on a diet of rice, noodles, and eggs The post This Stray Cat Turned Out to Be the First New Cat Species Discovered in Over a Century appeared first on Nautilus.",
+      "publishedAt": "2026-09-18T18:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Tilcayo_tiger_cat_full_body-copy.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
@@ -1884,14 +1895,14 @@
       "category": "ideas"
     },
     {
-      "id": "CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw",
-      "title": "Meet the CU Boulder student running to be city’s next mayor - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw?oc=5",
-      "summary": "Meet the CU Boulder student running to be city’s next mayor Daily Camera",
-      "publishedAt": "2026-09-18T12:05:25.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
+      "id": "https://boulderreportinglab.org/?p=125644",
+      "title": "The history of Boulder’s Spruce Pool, born from an ice plant’s hot water",
+      "link": "https://boulderreportinglab.org/2026/09/17/the-history-of-boulders-spruce-pool-born-from-an-ice-plants-hot-water/",
+      "summary": "Built with hot water from an ice plant’s cooling process, the pool opened in 1923 and was hailed as “one of the greatest needs of the city.” More than a century later, its future is uncertain. The post The history of Boulder’s Spruce Pool, …",
+      "publishedAt": "2026-09-18T04:14:07.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/1.BathingBeauties701-1-3c-4-scaled.jpg?fit=1024%2C726&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
@@ -1906,11 +1917,11 @@
       "category": "design"
     },
     {
-      "id": "CBMipAFBVV95cUxQVXlXakFuR0hjOTJoZ0ZLLTB4aEt5U0l0b3Z1Z014aFdGdG5jV2MtYnVRQWY2ZjBJNnF5WmZWaGhWZU04eHRsaGZZYmlYbjVZb3l6Y2dNaFROOTZQdVlXWm55WVkwR0JOeVBtSHlsNVFNakJfMUpPcVI3NFVJUGUtdlYwcHpwMHRMLU5ObjNfT3B5cXQ0ZlN4WWtUQjdWUXc3U1Bnaw",
-      "title": "Reel report - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXlXakFuR0hjOTJoZ0ZLLTB4aEt5U0l0b3Z1Z014aFdGdG5jV2MtYnVRQWY2ZjBJNnF5WmZWaGhWZU04eHRsaGZZYmlYbjVZb3l6Y2dNaFROOTZQdVlXWm55WVkwR0JOeVBtSHlsNVFNakJfMUpPcVI3NFVJUGUtdlYwcHpwMHRMLU5ObjNfT3B5cXQ0ZlN4WWtUQjdWUXc3U1Bnaw?oc=5",
-      "summary": "Reel report The Taos News",
-      "publishedAt": "2026-09-17T15:32:09.000Z",
+      "id": "CBMi1gFBVV95cUxQTkdob0tKUTBmcjBESDFBbUZHSWN3S2VmYWNNS1kxWnBIVFprZVFJYXlQY2lyQzV3VG9sTmMxWTZ1c3BDSFhpOHNQRlVwbWNNc21rOHNvZjZVR2tJU1EtS3REMlpIZEhSU3pnSXdyZzI1a0duR2tGY29SZHBmZ2VzeEYzUmNwbFQ4UWNTUVVEdGhhdDRYUFBpMEo4MzZXcllrSGtkN3NLRDZoV3duZGd3aHVXNnNEc1hubGUwT2tKbWxTOC1JaFRNZDVyVXhQRzltNGRnSjhn",
+      "title": "Lady Tigers takes second home loss - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTkdob0tKUTBmcjBESDFBbUZHSWN3S2VmYWNNS1kxWnBIVFprZVFJYXlQY2lyQzV3VG9sTmMxWTZ1c3BDSFhpOHNQRlVwbWNNc21rOHNvZjZVR2tJU1EtS3REMlpIZEhSU3pnSXdyZzI1a0duR2tGY29SZHBmZ2VzeEYzUmNwbFQ4UWNTUVVEdGhhdDRYUFBpMEo4MzZXcllrSGtkN3NLRDZoV3duZGd3aHVXNnNEc1hubGUwT2tKbWxTOC1JaFRNZDVyVXhQRzltNGRnSjhn?oc=5",
+      "summary": "Lady Tigers takes second home loss The Taos News",
+      "publishedAt": "2026-09-17T15:32:07.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -1948,17 +1959,6 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=125748",
-      "title": "Boulder mayoral candidate Aquiles La Grave faces lawsuit and campaign finance complaint",
-      "link": "https://boulderreportinglab.org/2026/09/16/boulder-mayoral-candidate-aquiles-la-grave-faces-lawsuit-and-campaign-finance-complaint/",
-      "summary": "His former campaign manager alleges unpaid work and unreported campaign spending. La Grave disputes both allegations, and neither has been decided. The post Boulder mayoral candidate Aquiles La Grave faces lawsuit and campaign finance compl…",
-      "publishedAt": "2026-09-16T11:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/IMG_6586-scaled.jpeg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
     },
     {
       "id": "https://thelocalproject.com.au/?p=465035",
@@ -2170,11 +2170,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49779253",
-      "title": "The Hierarchy of Money",
-      "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-      "summary": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL: https://news.ycombinator.com/item?id=49779253 Points: 56 # Comments: 16",
-      "publishedAt": "2026-09-20T19:37:43.000Z",
+      "id": "https://news.ycombinator.com/item?id=49780630",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/ Comments URL: https://news.ycombinator.com/item?id=49780630 Points: 175 # Comments: 102",
+      "publishedAt": "2026-09-20T22:13:46.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2192,6 +2192,17 @@
       "category": "science"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=127145&secret=cM2XMtKpK3Lj&nonce=3a1fd45b8b",
+      "title": "Scientists outline how spacecraft could reach a nearby black hole within a century",
+      "link": "https://www.thebrighterside.news/post/scientists-outline-how-spacecraft-could-reach-a-nearby-black-hole-within-a-century/",
+      "summary": "A gram-scale probe traveling at one-third light speed could turn a nearby black hole into a direct laboratory for Einstein's gravity. The post Scientists outline how spacecraft could reach a nearby black hole within a century appeared first…",
+      "publishedAt": "2026-09-20T11:51:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/travel-to-black-hole.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "https://coloradosun.com/?p=501789",
       "title": "Melissa Payne’s novel became a journey toward recognizing a meaningful life",
       "link": "https://coloradosun.com/2026/09/20/sunlit-melissa-payne-in-this-life-or-another/",
@@ -2201,17 +2212,6 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=125341&secret=cM2XMtKpK3Lj&nonce=0ca96c019a",
-      "title": "Drawing together reveals how young and old brains build connection",
-      "link": "https://www.thebrighterside.news/post/drawing-together-reveals-how-young-and-old-brains-build-connection/",
-      "summary": "Intergenerational brain synchrony changed over six weeks as younger and older adults drew together and grew closer. The post Drawing together reveals how young and old brains build connection appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-09-19T23:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/people-drawing.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
     },
     {
       "id": "CBMi2AFBVV95cUxQa0JCdjBvSDh0QUNZTG11VzU5SlV2eTNXT3NfLWVZVmd5LWxscDZLenBreXNpQ2VDVXBPeFBhZ0JWZ1hWRXVQQ1lwUUg0ZEJlTnBnRmYwVm9nNmI3VjNNRDhRTzlZUnlPdEQwLVljLU5sYjY0aDVZLVhXX1o0SkZOdWZpbDktM25oVnBZTE9qcWdrOFZfWGI0VWFtZWZuMFJxWXNyYzJMS21UbEdrU1h4SXZxRE9TRkc4UFlqX0pERjNWb3BjNUR4Q0s0ZndyTEtjSGRVRzd2dnA",
@@ -2225,33 +2225,33 @@
       "category": "local"
     },
     {
-      "id": "6aad5b5b5d1e10272ab0f2a4",
-      "title": "Tune-Yards Line Up U.S. Tour",
-      "link": "https://pitchfork.com/story/tune-yards-are-touring-the-score-of-boots-riley-film-i-love-boosters/",
-      "summary": "The Oakland band is hitting Chicago, Cleveland, Boston, and more",
-      "publishedAt": "2026-09-18T17:01:18.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aad5f340bd44f61e66f76d8/master/pass/Tune-Yards%20by%20Shervin%20Lainez.jpg",
+      "id": "6aa958b017d62e9f9eff525c",
+      "title": "Who Should Be Nominated at the 2027 Grammy Awards",
+      "link": "https://pitchfork.com/story/who-should-be-nominated-at-the-2027-grammy-awards/",
+      "summary": "Here are some far-too-early predictions—starring Geese, Kelela, Robyn, and more",
+      "publishedAt": "2026-09-18T19:21:19.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aada01c0bd44f61e66f797a/master/pass/P4K26_GrammysPredictions_2x1.gif",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "https://nautil.us/?p=1285119",
-      "title": "Is This Massive New Study on the Benefits of Whole Grains Part of the “War on Protein” RFK Jr. is Ending?",
-      "link": "https://nautil.us/is-this-massive-new-study-on-the-benefits-of-whole-grains-part-of-the-war-on-protein-rfk-jr-is-ending-1285119/",
-      "summary": "When it comes to whole grains and health, a new analysis suggests the more the better The post Is This Massive New Study on the Benefits of Whole Grains Part of the “War on Protein” RFK Jr. is Ending? appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T14:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_277415593.jpeg?w=564",
+      "id": "https://nautil.us/?p=1285125",
+      "title": "Muscle Loss is a Big Warning Sign of Dementia",
+      "link": "https://nautil.us/muscle-loss-is-a-big-warning-sign-of-dementia-1285125/",
+      "summary": "But obesity has a more complicated relationship with the disease The post Muscle Loss is a Big Warning Sign of Dementia appeared first on Nautilus.",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_709399353.jpeg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
     },
     {
-      "id": "CBMikAFBVV95cUxPbDhBSFNfRzB2ejFGejZjVXFabi1JVXlxXzNLNHhLXzJwNldJX0E5X1NiZnBYSFl0NE50em13dVhRSzZzeFVkbXZ5RjBwMTgySEMyQmFuanJJcXBMWnNSVkRFck5LREYwYVlZYmRncGZwSmF0TF9JWmdhMnBJOFNjVEVQMVFXOGtBeFI4ei1tNTQ",
-      "title": "No. 17 Colorado volleyball outlasts Colorado State for rivalry win - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDhBSFNfRzB2ejFGejZjVXFabi1JVXlxXzNLNHhLXzJwNldJX0E5X1NiZnBYSFl0NE50em13dVhRSzZzeFVkbXZ5RjBwMTgySEMyQmFuanJJcXBMWnNSVkRFck5LREYwYVlZYmRncGZwSmF0TF9JWmdhMnBJOFNjVEVQMVFXOGtBeFI4ei1tNTQ?oc=5",
-      "summary": "No. 17 Colorado volleyball outlasts Colorado State for rivalry win Daily Camera",
-      "publishedAt": "2026-09-18T04:17:15.000Z",
+      "id": "CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw",
+      "title": "Meet the CU Boulder student running to be city’s next mayor - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw?oc=5",
+      "summary": "Meet the CU Boulder student running to be city’s next mayor dailycamera.com",
+      "publishedAt": "2026-09-18T12:05:25.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -2277,6 +2277,17 @@
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
+      "id": "https://boulderreportinglab.org/?p=125856",
+      "title": "Music lessons were out of reach for some Boulder families. Then Parlando brought them closer to home.",
+      "link": "https://boulderreportinglab.org/2026/09/17/music-lessons-were-out-of-reach-for-some-boulder-families-then-parlando-brought-them-closer-to-home/",
+      "summary": "A new partnership offers sliding-scale piano, violin and cello lessons at Boulder Housing Partners communities, removing a key transportation barrier. The post Music lessons were out of reach for some Boulder families. Then Parlando brought…",
+      "publishedAt": "2026-09-17T14:22:21.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/Parlando-Lesson-at-BHP_2-1-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
@@ -2311,17 +2322,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=125754",
-      "title": "Drop in international enrollment drives CU Boulder’s first enrollment decline since 2020",
-      "link": "https://boulderreportinglab.org/2026/09/16/drop-in-international-enrollment-drives-cu-boulders-first-enrollment-decline-since-2020/",
-      "summary": "CU Boulder reported its first year-over-year enrollment decline since fall 2020, driven largely by a sharp drop in international students. The university’s preliminary fall 2026 enrollment was 38,510 degree-seeking students, down 298 studen…",
-      "publishedAt": "2026-09-16T06:48:51.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2023/11/shutterstock_1933548440-scaled.jpg?fit=1024%2C579&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
     },
     {
       "id": "https://thelocalproject.com.au/?p=464714",
@@ -2544,11 +2544,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49778670",
-      "title": "Software Sandboxing: The Basics (2025)",
-      "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-      "summary": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL: https://news.ycombinator.com/item?id=49778670 Points: 52 # Comments: 6",
-      "publishedAt": "2026-09-20T18:42:47.000Z",
+      "id": "https://news.ycombinator.com/item?id=49780064",
+      "title": "Nobody pays for FOSS, we can force them to",
+      "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "summary": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Comments URL: https://news.ycombinator.com/item?id=49780064 Points: 130 # Comments: 94",
+      "publishedAt": "2026-09-20T21:04:32.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2577,6 +2577,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=125341&secret=cM2XMtKpK3Lj&nonce=0ca96c019a",
+      "title": "Drawing together reveals how young and old brains build connection",
+      "link": "https://www.thebrighterside.news/post/drawing-together-reveals-how-young-and-old-brains-build-connection/",
+      "summary": "Intergenerational brain synchrony changed over six weeks as younger and older adults drew together and grew closer. The post Drawing together reveals how young and old brains build connection appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-19T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/08/people-drawing.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "CBMiwwFBVV95cUxNMnQ1dVBpX0p2dFRnanAzckJxOFVNNjU2c01yeEZ4UzhrR3dRcHdnZnhRVzU5ZTV0X1NTdHNNSUlWMG1IbmpzYTV1ZXpubXRGTzFJQS1ELS16aEVwd0swVHdjcUZYWEZsYjhBRm9DSGZtNkV6RWt6cTFueVBTV09HY0x1d09GaTR5Nzc4clk5eE1JUG9KZ2dmVW5iVVlMQmtoaFFobE9GQXRZMDZib1MxTU02WnNSWThfdU9Wb0toVGFOX0E",
       "title": "BYU football at Colorado State kickoff delayed due to lightning - The Coloradoan",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnQ1dVBpX0p2dFRnanAzckJxOFVNNjU2c01yeEZ4UzhrR3dRcHdnZnhRVzU5ZTV0X1NTdHNNSUlWMG1IbmpzYTV1ZXpubXRGTzFJQS1ELS16aEVwd0swVHdjcUZYWEZsYjhBRm9DSGZtNkV6RWt6cTFueVBTV09HY0x1d09GaTR5Nzc4clk5eE1JUG9KZ2dmVW5iVVlMQmtoaFFobE9GQXRZMDZib1MxTU02WnNSWThfdU9Wb0toVGFOX0E?oc=5",
@@ -2588,37 +2599,37 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=123956&secret=cM2XMtKpK3Lj&nonce=519c09bf8d",
-      "title": "Seven new diamond frog species reveal Madagascar’s hidden biodiversity",
-      "link": "https://www.thebrighterside.news/post/seven-new-diamond-frog-species-reveal-madagascars-hidden-biodiversity/",
-      "summary": "Scientists identify seven new Madagascar diamond frog species, highlighting hidden biodiversity and urgent conservation needs. The post Seven new diamond frog species reveal Madagascar’s hidden biodiversity appeared first on The Brighter Si…",
-      "publishedAt": "2026-09-19T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/frogs.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "6aad40ec0daa6ee8bdb179a6",
-      "title": "The Unbearable Ubiquity of “GG EZ”",
-      "link": "https://pitchfork.com/story/the-unbearable-ubiquity-of-gg-ez/",
-      "summary": "Rabbit Holed is Kieran Press-Reynolds’ column exploring songs and scenes at the intersection of music and digital culture, separating shitpost genius from shitpassé lameness. This edition is all about “GG EZ,” an AI song that became a human…",
-      "publishedAt": "2026-09-18T15:12:06.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aad4a875d1e10272ab0f0e4/master/pass/P4K26_RabbitHoled_GGEZ_2x1.gif",
+      "id": "6aad5b5b5d1e10272ab0f2a4",
+      "title": "Tune-Yards Line Up U.S. Tour",
+      "link": "https://pitchfork.com/story/tune-yards-are-touring-the-score-of-boots-riley-film-i-love-boosters/",
+      "summary": "The Oakland band is hitting Chicago, Cleveland, Boston, and more",
+      "publishedAt": "2026-09-18T17:01:18.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aad5f340bd44f61e66f76d8/master/pass/Tune-Yards%20by%20Shervin%20Lainez.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "https://nautil.us/?p=1285111",
-      "title": "You Have Two Brains, Not One",
-      "link": "https://nautil.us/you-have-two-brains-not-one-1285111/",
-      "summary": "Being of two minds may be more than just an idiom The post You Have Two Brains, Not One appeared first on Nautilus.",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2370199377.jpg?w=564",
+      "id": "https://nautil.us/?p=1285119",
+      "title": "Is This Massive New Study on the Benefits of Whole Grains Part of the “War on Protein” RFK Jr. is Ending?",
+      "link": "https://nautil.us/is-this-massive-new-study-on-the-benefits-of-whole-grains-part-of-the-war-on-protein-rfk-jr-is-ending-1285119/",
+      "summary": "When it comes to whole grains and health, a new analysis suggests the more the better The post Is This Massive New Study on the Benefits of Whole Grains Part of the “War on Protein” RFK Jr. is Ending? appeared first on Nautilus.",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_277415593.jpeg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
+    },
+    {
+      "id": "CBMiggFBVV95cUxQaXhMd01Uckl5NE1JTzQ4NDBiaHNxWW5ZVlhOQjVxeHhmUXZ0UnhBcHlCeHp6cU1lYUttUVNMU2hxWjgwX2lwTnZnVFB4UHhibFRBRDdmNkJnUG9WelRtYWRjSkN3eklxZnR3ZXhEMVdxTVlMNEd5UDVCc1RPQmt2bDNB",
+      "title": "Speed, hands, and a CU Buffs plan for Northwestern's zone defense - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaXhMd01Uckl5NE1JTzQ4NDBiaHNxWW5ZVlhOQjVxeHhmUXZ0UnhBcHlCeHp6cU1lYUttUVNMU2hxWjgwX2lwTnZnVFB4UHhibFRBRDdmNkJnUG9WelRtYWRjSkN3eklxZnR3ZXhEMVdxTVlMNEd5UDVCc1RPQmt2bDNB?oc=5",
+      "summary": "Speed, hands, and a CU Buffs plan for Northwestern's zone defense dailycamera.com",
+      "publishedAt": "2026-09-18T02:02:34.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.themarginalian.org/?p=87932",
@@ -2665,17 +2676,6 @@
       "category": "design"
     },
     {
-      "id": "CBMipAFBVV95cUxNdTVHZUZkbldNa215a1B3MUNWVWwzMy1LSWZFSTR4MkhCOWE1V2cyNXMzNzhWaUFQWXhpTXFrUlZXUURibDRLLVZ2dzRGaWIyYTliRnhPNjRvSWxlZ25oN2c5bi1yUWtKYlJsWjZMQUUxNmVRUmtyZ3hwb2hOcUw2bHNNbHo2V2ozQU80ZUxOS3ZKMk40aWJIaWtpWi1yNXJwZ1hFVA",
-      "title": "Gary Barnett’s run at Northwestern put Wildcats football back on map - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTVHZUZkbldNa215a1B3MUNWVWwzMy1LSWZFSTR4MkhCOWE1V2cyNXMzNzhWaUFQWXhpTXFrUlZXUURibDRLLVZ2dzRGaWIyYTliRnhPNjRvSWxlZ25oN2c5bi1yUWtKYlJsWjZMQUUxNmVRUmtyZ3hwb2hOcUw2bHNNbHo2V2ozQU80ZUxOS3ZKMk40aWJIaWtpWi1yNXJwZ1hFVA?oc=5",
-      "summary": "Gary Barnett’s run at Northwestern put Wildcats football back on map Daily Camera",
-      "publishedAt": "2026-09-17T00:00:38.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
       "id": "https://leibal.com/?p=184248",
       "title": "Forest Villa MB",
       "link": "https://leibal.com/interiors/forest-villa-mb/",
@@ -2687,12 +2687,12 @@
       "category": "design"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=125783",
-      "title": "Brian Keegan: Boulder’s school closures were decades in the making",
-      "link": "https://boulderreportinglab.org/2026/09/16/brian-keegan-boulders-school-closures-were-decades-in-the-making/",
-      "summary": "BVSD’s declining enrollment reflects 50 years of housing and land-use choices — and won’t reverse without different policies. The post Brian Keegan: Boulder’s school closures were decades in the making appeared first on The Boulder Reportin…",
-      "publishedAt": "2026-09-16T06:32:19.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/BRL_OpinionGraphic1.jpg?fit=1024%2C576&amp;ssl=1",
+      "id": "https://boulderreportinglab.org/?p=125748",
+      "title": "Boulder mayoral candidate Aquiles La Grave faces lawsuit and campaign finance complaint",
+      "link": "https://boulderreportinglab.org/2026/09/16/boulder-mayoral-candidate-aquiles-la-grave-faces-lawsuit-and-campaign-finance-complaint/",
+      "summary": "His former campaign manager alleges unpaid work and unreported campaign spending. La Grave disputes both allegations, and neither has been decided. The post Boulder mayoral candidate Aquiles La Grave faces lawsuit and campaign finance compl…",
+      "publishedAt": "2026-09-16T11:00:00.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/IMG_6586-scaled.jpeg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
@@ -2918,11 +2918,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49778195",
-      "title": "A Necessary History of the Oddest Letter: W",
-      "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 78 # Comments: 44",
-      "publishedAt": "2026-09-20T17:55:57.000Z",
+      "id": "https://news.ycombinator.com/item?id=49780022",
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
+      "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 21 # Comments: 7",
+      "publishedAt": "2026-09-20T20:59:02.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2940,6 +2940,17 @@
       "category": "science"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=123956&secret=cM2XMtKpK3Lj&nonce=519c09bf8d",
+      "title": "Seven new diamond frog species reveal Madagascar’s hidden biodiversity",
+      "link": "https://www.thebrighterside.news/post/seven-new-diamond-frog-species-reveal-madagascars-hidden-biodiversity/",
+      "summary": "Scientists identify seven new Madagascar diamond frog species, highlighting hidden biodiversity and urgent conservation needs. The post Seven new diamond frog species reveal Madagascar’s hidden biodiversity appeared first on The Brighter Si…",
+      "publishedAt": "2026-09-19T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/frogs.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "CBMiugFBVV95cUxPa3ROR1VpWlJFaW83bk9TMGlyS0lxNUwyRUR5dEJsQ2I4dThtSlVrSDBmY1UxTW0wNDhPQ20ydTY4UFlGMUMyYmhzakoyQlFsRmo5NE5Qa2w4VEV5Q0VsMmtnS2tzemZLb1puYVZfLThUeGQzamZfN0ZydW9fODkwTXh3dE1QX1pLNG9ua3RhMHZkaVJpTHhSRHdBMjdDd2lERWtaT0hVYWRvR05UOGFUSm1RZ2J2UnMzVGc",
       "title": "What we're watching for and prediction for top-15 BYU football and CSU - The Coloradoan",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa3ROR1VpWlJFaW83bk9TMGlyS0lxNUwyRUR5dEJsQ2I4dThtSlVrSDBmY1UxTW0wNDhPQ20ydTY4UFlGMUMyYmhzakoyQlFsRmo5NE5Qa2w4VEV5Q0VsMmtnS2tzemZLb1puYVZfLThUeGQzamZfN0ZydW9fODkwTXh3dE1QX1pLNG9ua3RhMHZkaVJpTHhSRHdBMjdDd2lERWtaT0hVYWRvR05UOGFUSm1RZ2J2UnMzVGc?oc=5",
@@ -2949,17 +2960,6 @@
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=126878&secret=cM2XMtKpK3Lj&nonce=22c1fabc1a",
-      "title": "The law of kissing has changed dramatically across 4,500 years",
-      "link": "https://www.thebrighterside.news/post/the-law-of-kissing-has-changed-dramatically-across-4500-years/",
-      "summary": "Across 4,500 years, a kiss has served as affection, agreement, social ritual, moral offense and unwanted contact. The post The law of kissing has changed dramatically across 4,500 years appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-09-19T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/shutterstock_2748984481-scaled.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
     },
     {
       "id": "https://coloradosun.com/?p=502551",
@@ -2973,23 +2973,23 @@
       "category": "local"
     },
     {
-      "id": "6aad4b9a0bd44f61e66f75e8",
-      "title": "Duncan Sheik Dies at 56",
-      "link": "https://pitchfork.com/story/duncan-sheik-dies-at-56/",
-      "summary": "The musician was best known for his 1996 single “Barely Breathing” and his Tony-winning work on Broadway’s Spring Awakening",
-      "publishedAt": "2026-09-18T14:40:14.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aad4d149fd1f61e3dcef160/master/pass/GettyImages-85845341.jpg",
+      "id": "6aad40ec0daa6ee8bdb179a6",
+      "title": "The Unbearable Ubiquity of “GG EZ”",
+      "link": "https://pitchfork.com/story/the-unbearable-ubiquity-of-gg-ez/",
+      "summary": "Rabbit Holed is Kieran Press-Reynolds’ column exploring songs and scenes at the intersection of music and digital culture, separating shitpost genius from shitpassé lameness. This edition is all about “GG EZ,” an AI song that became a human…",
+      "publishedAt": "2026-09-18T15:12:06.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aad4a875d1e10272ab0f0e4/master/pass/P4K26_RabbitHoled_GGEZ_2x1.gif",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "https://nautil.us/?p=1285114",
-      "title": "Humpback Whales Grieve for Lost Offspring, Video Evidence Shows",
-      "link": "https://nautil.us/humpback-whales-grieve-for-lost-offspring-video-evidence-shows-1285114/",
-      "summary": "Behavior we’ve never seen before The post Humpback Whales Grieve for Lost Offspring, Video Evidence Shows appeared first on Nautilus.",
-      "publishedAt": "2026-09-17T22:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/02-grieving.jpg?w=564",
+      "id": "https://nautil.us/?p=1285111",
+      "title": "You Have Two Brains, Not One",
+      "link": "https://nautil.us/you-have-two-brains-not-one-1285111/",
+      "summary": "Being of two minds may be more than just an idiom The post You Have Two Brains, Not One appeared first on Nautilus.",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2370199377.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
@@ -3028,11 +3028,11 @@
       "category": "design"
     },
     {
-      "id": "CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5",
-      "title": "3 dead after being swept away by floodwaters on the Navajo Nation - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5?oc=5",
-      "summary": "3 dead after being swept away by floodwaters on the Navajo Nation Daily Camera",
-      "publishedAt": "2026-09-16T23:28:39.000Z",
+      "id": "CBMipAFBVV95cUxNdTVHZUZkbldNa215a1B3MUNWVWwzMy1LSWZFSTR4MkhCOWE1V2cyNXMzNzhWaUFQWXhpTXFrUlZXUURibDRLLVZ2dzRGaWIyYTliRnhPNjRvSWxlZ25oN2c5bi1yUWtKYlJsWjZMQUUxNmVRUmtyZ3hwb2hOcUw2bHNNbHo2V2ozQU80ZUxOS3ZKMk40aWJIaWtpWi1yNXJwZ1hFVA",
+      "title": "Gary Barnett’s run at Northwestern put Wildcats football back on map - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTVHZUZkbldNa215a1B3MUNWVWwzMy1LSWZFSTR4MkhCOWE1V2cyNXMzNzhWaUFQWXhpTXFrUlZXUURibDRLLVZ2dzRGaWIyYTliRnhPNjRvSWxlZ25oN2c5bi1yUWtKYlJsWjZMQUUxNmVRUmtyZ3hwb2hOcUw2bHNNbHo2V2ozQU80ZUxOS3ZKMk40aWJIaWtpWi1yNXJwZ1hFVA?oc=5",
+      "summary": "Gary Barnett’s run at Northwestern put Wildcats football back on map dailycamera.com",
+      "publishedAt": "2026-09-17T00:00:38.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -3061,6 +3061,17 @@
       "category": "design"
     },
     {
+      "id": "https://boulderreportinglab.org/?p=125754",
+      "title": "Drop in international enrollment drives CU Boulder’s first enrollment decline since 2020",
+      "link": "https://boulderreportinglab.org/2026/09/16/drop-in-international-enrollment-drives-cu-boulders-first-enrollment-decline-since-2020/",
+      "summary": "CU Boulder reported its first year-over-year enrollment decline since fall 2020, driven largely by a sharp drop in international students. The university’s preliminary fall 2026 enrollment was 38,510 degree-seeking students, down 298 studen…",
+      "publishedAt": "2026-09-16T06:48:51.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2023/11/shutterstock_1933548440-scaled.jpg?fit=1024%2C579&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
       "id": "https://thelocalproject.com.au/?p=464664",
       "title": "Sydney Fish Market by 3XN GXN with BVN Architecture and ASPECT Studios – Issue 21 Feature – The Local Project",
       "link": "https://thelocalproject.com.au/articles/sydney-fish-market-by-3xn-gxn-with-bvn-architecture-and-aspect-studios-issue-21-feature-the-local-project/",
@@ -3070,17 +3081,6 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=125659",
-      "title": "Boulder Market Meals: Hot summer brings a bumper crop of local chiles for fiery fall salsa",
-      "link": "https://boulderreportinglab.org/2026/09/15/boulder-market-meals-hot-summer-brings-a-bumper-crop-of-local-chiles-for-fiery-fall-salsa/",
-      "summary": "Market Meals is a collaboration between Boulder Reporting Lab and the Boulder County Farmers Markets, featuring weekly seasonal recipes built around ingredients from local growers, ranchers and food producers. Find it in Nibbles every Tuesd…",
-      "publishedAt": "2026-09-15T15:08:08.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/BCFMpeppers-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
     },
     {
       "id": "https://www.science.org/content/article/exclusive-new-nih-research-center-vaccine-harms-takes-shape",
@@ -3248,11 +3248,11 @@
       "category": "design"
     },
     {
-      "id": "CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ",
-      "title": "The Three Sides of Risk - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbHdxeGwzZTFRQVMydG9xMm5maDZ1NVU1UDF2bThkX0t0ZjJMWTFqbHVyUVI4c3RkT2lCdWt5dlJTSTlhUEhxSEphTDhJTFhGNVhENm5CUFBVQThpcUFRTEZoU0xWYnlPdkJWRThiVUQ?oc=5",
-      "summary": "The Three Sides of Risk Read Something Great",
-      "publishedAt": "2023-12-02T06:44:31.000Z",
+      "id": "CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc",
+      "title": "Hugging the X-Axis - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc?oc=5",
+      "summary": "Hugging the X-Axis Read Something Great",
+      "publishedAt": "2023-11-07T15:38:45.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -3292,11 +3292,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49778162",
-      "title": "I turned Jev into a (lousy) chatbot",
-      "link": "https://github.com/kyle-pena-nlp/jevchat/",
-      "summary": "Article URL: https://github.com/kyle-pena-nlp/jevchat/ Comments URL: https://news.ycombinator.com/item?id=49778162 Points: 73 # Comments: 24",
-      "publishedAt": "2026-09-20T17:51:27.000Z",
+      "id": "https://news.ycombinator.com/item?id=49779329",
+      "title": "Why MCP Was Always a Bad Idea?",
+      "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "summary": "Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/ Comments URL: https://news.ycombinator.com/item?id=49779329 Points: 32 # Comments: 57",
+      "publishedAt": "2026-09-20T19:44:40.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3314,6 +3314,17 @@
       "category": "science"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=126878&secret=cM2XMtKpK3Lj&nonce=22c1fabc1a",
+      "title": "The law of kissing has changed dramatically across 4,500 years",
+      "link": "https://www.thebrighterside.news/post/the-law-of-kissing-has-changed-dramatically-across-4500-years/",
+      "summary": "Across 4,500 years, a kiss has served as affection, agreement, social ritual, moral offense and unwanted contact. The post The law of kissing has changed dramatically across 4,500 years appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-09-19T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/shutterstock_2748984481-scaled.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "CBMiwwFBVV95cUxQc0RsVDlTbVFkc2VnamxGYzIwb3JjYUIyVDd1NDVKOFY2WEY2XzU3c2tOYXFPemt2N2prNGp3bTQ2WGFyRlFtNjVrMG9URG1iTGtkcTlzd3IybGQ3N25odmNucnBLT09DMzBaMDdHQ3A5cTdadFpqSld1UU1KeGMxaHVrU05iUHdPdW5nZy1JeWFzYnpITVRmcnlyNHpVdnRDUnp2T2JHOHpLOXJ0UFlpa3otM0NWamhKWlpQUzZGSEQtdlE",
       "title": "Red Bull pulled from King Soopers, City Market. When could it return? - The Coloradoan",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0RsVDlTbVFkc2VnamxGYzIwb3JjYUIyVDd1NDVKOFY2WEY2XzU3c2tOYXFPemt2N2prNGp3bTQ2WGFyRlFtNjVrMG9URG1iTGtkcTlzd3IybGQ3N25odmNucnBLT09DMzBaMDdHQ3A5cTdadFpqSld1UU1KeGMxaHVrU05iUHdPdW5nZy1JeWFzYnpITVRmcnlyNHpVdnRDUnp2T2JHOHpLOXJ0UFlpa3otM0NWamhKWlpQUzZGSEQtdlE?oc=5",
@@ -3323,17 +3334,6 @@
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=127096&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Supercomputer simulations may finally explain Webb’s mysterious Little Red Dots",
-      "link": "https://www.thebrighterside.news/post/supercomputer-simulations-may-finally-explain-webbs-mysterious-little-red-dots/",
-      "summary": "Dense gas and intense ultraviolet radiation may explain how massive black holes emerged remarkably early in cosmic history. The post Supercomputer simulations may finally explain Webb’s mysterious Little Red Dots appeared first on The Brigh…",
-      "publishedAt": "2026-09-19T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/little-red-dots-new-1-scaled.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
     },
     {
       "id": "https://coloradosun.com/?p=502562",
@@ -3347,23 +3347,23 @@
       "category": "local"
     },
     {
-      "id": "6aad3dfa98120f7c2673fe77",
-      "title": "The National’s Matt Berninger Releases Type It Up EP and New Video",
-      "link": "https://pitchfork.com/story/the-nationals-matt-berninger-launches-type-it-up-ep-with-new-video/",
-      "summary": "“People were mishearing the lyric, ‘That would look good in a black letter font’ as ‘I would look good in a black leather thong,’ so I decided to swap the chorus,” he says of the title track",
-      "publishedAt": "2026-09-18T14:18:37.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aad3e6a74a1d6209f3f9518/master/pass/Type%20It%20Up%20EP%20Matt%20Berninger.JPG",
+      "id": "6aad4b9a0bd44f61e66f75e8",
+      "title": "Duncan Sheik Dies at 56",
+      "link": "https://pitchfork.com/story/duncan-sheik-dies-at-56/",
+      "summary": "The musician was best known for his 1996 single “Barely Breathing” and his Tony-winning work on Broadway’s Spring Awakening",
+      "publishedAt": "2026-09-18T14:40:14.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aad4d149fd1f61e3dcef160/master/pass/GettyImages-85845341.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "https://nautil.us/?p=1285107",
-      "title": "There’s a Neurological Basis for “Pregnancy Brain”",
-      "link": "https://nautil.us/theres-a-neurological-basis-for-pregnancy-brain-1285107/",
-      "summary": "And it’s temporary The post There’s a Neurological Basis for “Pregnancy Brain” appeared first on Nautilus.",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2777553455.jpg?w=564",
+      "id": "https://nautil.us/?p=1285114",
+      "title": "Humpback Whales Grieve for Lost Offspring, Video Evidence Shows",
+      "link": "https://nautil.us/humpback-whales-grieve-for-lost-offspring-video-evidence-shows-1285114/",
+      "summary": "Behavior we’ve never seen before The post Humpback Whales Grieve for Lost Offspring, Video Evidence Shows appeared first on Nautilus.",
+      "publishedAt": "2026-09-17T22:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/02-grieving.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
@@ -3391,6 +3391,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5",
+      "title": "3 dead after being swept away by floodwaters on the Navajo Nation - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5?oc=5",
+      "summary": "3 dead after being swept away by floodwaters on the Navajo Nation dailycamera.com",
+      "publishedAt": "2026-09-16T23:28:39.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.surfacemag.com/?p=211753",
       "title": "Sabyasachi Mukherjee Introduces “Bengal Byzantine Broadway” at the Met",
       "link": "https://www.surfacemag.com/articles/sabyasachi-mukherjee-introduces-bengal-byzantine-broadway-at-the-met/",
@@ -3413,14 +3424,14 @@
       "category": "design"
     },
     {
-      "id": "CBMiekFVX3lxTE9ldF8yWEJCUElqQVNoUDBleVdFbE4ySnphcXpSSEFfbkJUeWUzNW1UYWdwckpDU1RaeTJJMXhEVlUzRExWMkl0SWY3cEdDRXhlRXJZeGhIVmdadmc2TzBLQlh5TDFqVWhkMW1abnl5TkZabWNEWHlNMmhn",
-      "title": "Boulder Valley leaders defend school closure process as parents question urgency - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ldF8yWEJCUElqQVNoUDBleVdFbE4ySnphcXpSSEFfbkJUeWUzNW1UYWdwckpDU1RaeTJJMXhEVlUzRExWMkl0SWY3cEdDRXhlRXJZeGhIVmdadmc2TzBLQlh5TDFqVWhkMW1abnl5TkZabWNEWHlNMmhn?oc=5",
-      "summary": "Boulder Valley leaders defend school closure process as parents question urgency Daily Camera",
-      "publishedAt": "2026-09-16T00:28:55.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
+      "id": "https://boulderreportinglab.org/?p=125783",
+      "title": "Brian Keegan: Boulder’s school closures were decades in the making",
+      "link": "https://boulderreportinglab.org/2026/09/16/brian-keegan-boulders-school-closures-were-decades-in-the-making/",
+      "summary": "BVSD’s declining enrollment reflects 50 years of housing and land-use choices — and won’t reverse without different policies. The post Brian Keegan: Boulder’s school closures were decades in the making appeared first on The Boulder Reportin…",
+      "publishedAt": "2026-09-16T06:32:19.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/BRL_OpinionGraphic1.jpg?fit=1024%2C576&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
@@ -3455,17 +3466,6 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=125522",
-      "title": "Boulder County voters will decide a $30 million-a-year childcare tax. Here’s what it would do.",
-      "link": "https://boulderreportinglab.org/2026/09/13/boulder-county-voters-will-decide-a-30-million-a-year-childcare-tax-heres-what-it-would-do/",
-      "summary": "The measure would cost the owner of a $1 million home about $163 a year and fund tuition assistance, more infant and toddler slots and higher pay for childcare teachers and staff amid a shortage of affordable care. The post Boulder County v…",
-      "publishedAt": "2026-09-14T03:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/BalSwanWebsite-AJ-13.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=85031",
@@ -3622,11 +3622,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc",
-      "title": "Hugging the X-Axis - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jc213MUt2aEVGLV9yQlIydUtWTVY0a0pXOHp3OUsyaXhTNmdzYnlueWFCUV9ub2VEQkYtNGJaMTIwZmNmZXZzUkFGdXdFSWhsZC1rLVRJX181Tnl0OVVRTmlaRDNFeE8yRXc?oc=5",
-      "summary": "Hugging the X-Axis Read Something Great",
-      "publishedAt": "2023-11-07T15:38:45.000Z",
+      "id": "CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw",
+      "title": "The Bus Ticket Theory of Genius - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw?oc=5",
+      "summary": "The Bus Ticket Theory of Genius Read Something Great",
+      "publishedAt": "2023-10-25T09:42:32.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -3666,11 +3666,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49778029",
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "summary": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 273 # Comments: 188",
-      "publishedAt": "2026-09-20T17:38:50.000Z",
+      "id": "https://news.ycombinator.com/item?id=49779253",
+      "title": "The Hierarchy of Money",
+      "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+      "summary": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL: https://news.ycombinator.com/item?id=49779253 Points: 85 # Comments: 34",
+      "publishedAt": "2026-09-20T19:37:43.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -3688,12 +3688,12 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=127087&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
-      "title": "Astronomers discover a baby planet less than 1 million years old",
-      "link": "https://www.thebrighterside.news/post/astronomers-discover-a-baby-planet-less-than-1-million-years-old/",
-      "summary": "A newborn giant found inside its dusty birth disk offers astronomers a rare view of planet formation almost from the beginning. The post Astronomers discover a baby planet less than 1 million years old appeared first on The Brighter Side of…",
-      "publishedAt": "2026-09-19T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/baby-planet-1-scaled.webp?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=127096&secret=cM2XMtKpK3Lj&nonce=c6fcbf840f",
+      "title": "Supercomputer simulations may finally explain Webb’s mysterious Little Red Dots",
+      "link": "https://www.thebrighterside.news/post/supercomputer-simulations-may-finally-explain-webbs-mysterious-little-red-dots/",
+      "summary": "Dense gas and intense ultraviolet radiation may explain how massive black holes emerged remarkably early in cosmic history. The post Supercomputer simulations may finally explain Webb’s mysterious Little Red Dots appeared first on The Brigh…",
+      "publishedAt": "2026-09-19T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/09/little-red-dots-new-1-scaled.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -3721,23 +3721,23 @@
       "category": "local"
     },
     {
-      "id": "6aa868a8c7a24ceeb15d24da",
-      "title": "11 New Albums You Should Listen to Now: Carly Rae Jepsen, Miley Cyrus, and More",
-      "link": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-carly-rae-jepsen-empress-of-miley-cyrus/",
-      "summary": "Stream new releases from Miley Cyrus, Carly Rae Jepsen, Team Dresch, and Empress Of",
-      "publishedAt": "2026-09-18T13:41:36.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aac3b11ff2de3826267dfd6/master/pass/4cb0c34e-806e-4244-b644-8fdc611de06f.jpeg",
+      "id": "6aad3dfa98120f7c2673fe77",
+      "title": "The National’s Matt Berninger Releases Type It Up EP and New Video",
+      "link": "https://pitchfork.com/story/the-nationals-matt-berninger-launches-type-it-up-ep-with-new-video/",
+      "summary": "“People were mishearing the lyric, ‘That would look good in a black letter font’ as ‘I would look good in a black leather thong,’ so I decided to swap the chorus,” he says of the title track",
+      "publishedAt": "2026-09-18T14:18:37.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aad3e6a74a1d6209f3f9518/master/pass/Type%20It%20Up%20EP%20Matt%20Berninger.JPG",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "https://nautil.us/?p=1285103",
-      "title": "Dinosaur Eggs Have Never Been Discovered This Far South Before",
-      "link": "https://nautil.us/dinosaur-eggs-have-never-been-discovered-this-far-south-before-1285103/",
-      "summary": "Researchers are hypothesizing how a clutch was kept warm The post Dinosaur Eggs Have Never Been Discovered This Far South Before appeared first on Nautilus.",
-      "publishedAt": "2026-09-17T19:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-illustration.jpg?w=564",
+      "id": "https://nautil.us/?p=1285107",
+      "title": "There’s a Neurological Basis for “Pregnancy Brain”",
+      "link": "https://nautil.us/theres-a-neurological-basis-for-pregnancy-brain-1285107/",
+      "summary": "And it’s temporary The post There’s a Neurological Basis for “Pregnancy Brain” appeared first on Nautilus.",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2777553455.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
@@ -3787,6 +3787,17 @@
       "category": "design"
     },
     {
+      "id": "CBMiekFVX3lxTE9ldF8yWEJCUElqQVNoUDBleVdFbE4ySnphcXpSSEFfbkJUeWUzNW1UYWdwckpDU1RaeTJJMXhEVlUzRExWMkl0SWY3cEdDRXhlRXJZeGhIVmdadmc2TzBLQlh5TDFqVWhkMW1abnl5TkZabWNEWHlNMmhn",
+      "title": "Boulder Valley leaders defend school closure process as parents question urgency - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ldF8yWEJCUElqQVNoUDBleVdFbE4ySnphcXpSSEFfbkJUeWUzNW1UYWdwckpDU1RaeTJJMXhEVlUzRExWMkl0SWY3cEdDRXhlRXJZeGhIVmdadmc2TzBLQlh5TDFqVWhkMW1abnl5TkZabWNEWHlNMmhn?oc=5",
+      "summary": "Boulder Valley leaders defend school closure process as parents question urgency dailycamera.com",
+      "publishedAt": "2026-09-16T00:28:55.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://thelocalproject.com.au/?p=464558",
       "title": "Hannah St Hotel by Flack Studio – Issue 21 Feature – The Local Project",
       "link": "https://thelocalproject.com.au/articles/hannah-st-hotel-by-flack-studio-issue-21-feature-the-local-project/",
@@ -3798,14 +3809,14 @@
       "category": "design"
     },
     {
-      "id": "CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw",
-      "title": "Colorado meets Chip Kelly’s tempo offense this week in Evanston - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw?oc=5",
-      "summary": "Colorado meets Chip Kelly’s tempo offense this week in Evanston Daily Camera",
-      "publishedAt": "2026-09-15T23:32:39.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
+      "id": "https://boulderreportinglab.org/?p=125659",
+      "title": "Boulder Market Meals: Hot summer brings a bumper crop of local chiles for fiery fall salsa",
+      "link": "https://boulderreportinglab.org/2026/09/15/boulder-market-meals-hot-summer-brings-a-bumper-crop-of-local-chiles-for-fiery-fall-salsa/",
+      "summary": "Market Meals is a collaboration between Boulder Reporting Lab and the Boulder County Farmers Markets, featuring weekly seasonal recipes built around ingredients from local growers, ranchers and food producers. Find it in Nibbles every Tuesd…",
+      "publishedAt": "2026-09-15T15:08:08.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/BCFMpeppers-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
@@ -3829,17 +3840,6 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=125511",
-      "title": "Nicole Speer and Mark Wallach: Boulder’s facilities funding debate deserves facts, not misinformation",
-      "link": "https://boulderreportinglab.org/2026/09/13/nicole-speer-and-mark-wallach-boulders-facilities-funding-debate-deserves-facts-not-misinformation/",
-      "summary": "The city’s $400 million bond proposal would address aging recreation centers, fire stations and public safety facilities. Delaying those investments will only increase the costs. The post Nicole Speer and Mark Wallach: Boulder’s facilities …",
-      "publishedAt": "2026-09-14T03:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/BRL_OpinionGraphic1.jpg?fit=1024%2C576&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=84980",
@@ -3996,11 +3996,11 @@
       "category": "design"
     },
     {
-      "id": "CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw",
-      "title": "The Bus Ticket Theory of Genius - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw?oc=5",
-      "summary": "The Bus Ticket Theory of Genius Read Something Great",
-      "publishedAt": "2023-10-25T09:42:32.000Z",
+      "id": "CBMiiAFBVV95cUxQVkZBZ09MaG5iU2ZVQ21FaHJLeEM5YTgwd3dLNndudlBMX0dJVmRXemQybV9RbzlPWWtDYUxsa0hTdUZRNVFzc25MOFlSZUZocU9teWt1UjhZQ0dMTGNJOE9OUFR0ZXVsT1hZRzRTV3h3Z2diZ0NMTEFsVFhWbFdSbUhvN2t6WW9P",
+      "title": "Reality has a surprising amount of detail - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkZBZ09MaG5iU2ZVQ21FaHJLeEM5YTgwd3dLNndudlBMX0dJVmRXemQybV9RbzlPWWtDYUxsa0hTdUZRNVFzc25MOFlSZUZocU9teWt1UjhZQ0dMTGNJOE9OUFR0ZXVsT1hZRzRTV3h3Z2diZ0NMTEFsVFhWbFdSbUhvN2t6WW9P?oc=5",
+      "summary": "Reality has a surprising amount of detail Read Something Great",
+      "publishedAt": "2023-10-24T18:09:53.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -4040,11 +4040,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49778022",
-      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
-      "link": "https://github.com/adonis-singh/re4",
-      "summary": "Article URL: https://github.com/adonis-singh/re4 Comments URL: https://news.ycombinator.com/item?id=49778022 Points: 73 # Comments: 43",
-      "publishedAt": "2026-09-20T17:38:27.000Z",
+      "id": "https://news.ycombinator.com/item?id=49778670",
+      "title": "Software sandboxing: The basics (2025)",
+      "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+      "summary": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL: https://news.ycombinator.com/item?id=49778670 Points: 62 # Comments: 8",
+      "publishedAt": "2026-09-20T18:42:47.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4062,12 +4062,12 @@
       "category": "local"
     },
     {
-      "id": "6aad2d8e74a1d6209f3f9308",
-      "title": "Bill Callahan Joins Meshell Ndegeocello to Cover Bob Dylan’s “With God on Our Side”",
-      "link": "https://pitchfork.com/story/bill-callahan-joins-meshell-ndegeocello-to-cover-bob-dylans-with-god-on-our-side/",
-      "summary": "Chris Thile also sings on the track from Ndegeocello’s duets album Synonym",
-      "publishedAt": "2026-09-18T13:23:05.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aad2e7174a1d6209f3f930d/master/pass/meshell-bill-callahan-video.JPG",
+      "id": "6aa868a8c7a24ceeb15d24da",
+      "title": "11 New Albums You Should Listen to Now: Carly Rae Jepsen, Miley Cyrus, and More",
+      "link": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-carly-rae-jepsen-empress-of-miley-cyrus/",
+      "summary": "Stream new releases from Miley Cyrus, Carly Rae Jepsen, Team Dresch, and Empress Of",
+      "publishedAt": "2026-09-18T13:41:36.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aac3b11ff2de3826267dfd6/master/pass/4cb0c34e-806e-4244-b644-8fdc611de06f.jpeg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4095,6 +4095,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw",
+      "title": "Colorado meets Chip Kelly’s tempo offense this week in Evanston - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX09uQUVsaDk4NjY4M0hfejRFbXRRY29kendzRW9Ubm53NmdyUkdVTVMyZEhDdGxYX2k5UzJxWDM1cERsQ1Q4bk5yelEyak5DLW9kSnpwUmZRT1J0OW0xUHNUU1UzR1J6c193Yl9EYTU1MVpDRW56dF92RjZWZEJpUk1iUWZGMk1ZUlp1QmNQaw?oc=5",
+      "summary": "Colorado meets Chip Kelly’s tempo offense this week in Evanston dailycamera.com",
+      "publishedAt": "2026-09-15T23:32:39.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.dwell.com/article/this-oak-house-book-review-c304412b",
       "title": "Forget Gatekeeping, Annie Meyers-Shyer’s \"This Oak House\" Shares Every Single Source for Her Home",
       "link": "https://www.dwell.com/article/this-oak-house-book-review-c304412b",
@@ -4104,17 +4115,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "CBMitAFBVV95cUxNaC0tbDJGa055Z0w2Q0VMMHFycFZOWGFmbU5xZVR3NVNuWVBMNGVUamNqcldnRkdLV0Y0WVlxUkNWN2tXdTg0aktKX09jR1dVWUpIQWtZWldSMGhhRkxJNkR6VTFkYmNIQmUySmRoWTl2SlpTV1h4Y0lfZ2I1TXp4djRTVDNYSWswajNSYUxYR3h2RG9fbUJWTWRQMGtCUlFMQ21fYklpWDFZZHctVG04Umd5Wjc",
-      "title": "Time to celebrate success on homelessness (Opinion) - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC0tbDJGa055Z0w2Q0VMMHFycFZOWGFmbU5xZVR3NVNuWVBMNGVUamNqcldnRkdLV0Y0WVlxUkNWN2tXdTg0aktKX09jR1dVWUpIQWtZWldSMGhhRkxJNkR6VTFkYmNIQmUySmRoWTl2SlpTV1h4Y0lfZ2I1TXp4djRTVDNYSWswajNSYUxYR3h2RG9fbUJWTWRQMGtCUlFMQ21fYklpWDFZZHctVG04Umd5Wjc?oc=5",
-      "summary": "Time to celebrate success on homelessness (Opinion) Daily Camera",
-      "publishedAt": "2026-09-15T10:04:22.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "urn:id:8625",
@@ -4216,11 +4216,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiiAFBVV95cUxQVkZBZ09MaG5iU2ZVQ21FaHJLeEM5YTgwd3dLNndudlBMX0dJVmRXemQybV9RbzlPWWtDYUxsa0hTdUZRNVFzc25MOFlSZUZocU9teWt1UjhZQ0dMTGNJOE9OUFR0ZXVsT1hZRzRTV3h3Z2diZ0NMTEFsVFhWbFdSbUhvN2t6WW9P",
-      "title": "Reality has a surprising amount of detail - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkZBZ09MaG5iU2ZVQ21FaHJLeEM5YTgwd3dLNndudlBMX0dJVmRXemQybV9RbzlPWWtDYUxsa0hTdUZRNVFzc25MOFlSZUZocU9teWt1UjhZQ0dMTGNJOE9OUFR0ZXVsT1hZRzRTV3h3Z2diZ0NMTEFsVFhWbFdSbUhvN2t6WW9P?oc=5",
-      "summary": "Reality has a surprising amount of detail Read Something Great",
-      "publishedAt": "2023-10-24T18:09:53.000Z",
+      "id": "CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg",
+      "title": "Default Alive or Default Dead - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg?oc=5",
+      "summary": "Default Alive or Default Dead Read Something Great",
+      "publishedAt": "2023-10-24T16:29:40.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -4238,11 +4238,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49777913",
-      "title": "Trying the Software Factory Pattern",
-      "link": "https://lethain.com/software-factory-experiment/",
-      "summary": "Article URL: https://lethain.com/software-factory-experiment/ Comments URL: https://news.ycombinator.com/item?id=49777913 Points: 55 # Comments: 33",
-      "publishedAt": "2026-09-20T17:27:11.000Z",
+      "id": "https://news.ycombinator.com/item?id=49778195",
+      "title": "A Necessary History of the Oddest Letter: W",
+      "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 89 # Comments: 51",
+      "publishedAt": "2026-09-20T17:55:57.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4260,22 +4260,22 @@
       "category": "local"
     },
     {
-      "id": "6aac96ac8c894de51ea89788",
-      "title": "Read the Full Credits to Miley Cyrus’ Bass Persuades",
-      "link": "https://pitchfork.com/story/read-the-full-credits-to-miley-cyrus-bass-persuades/",
-      "summary": "The singer’s first album as just Miley features assists from Model/Actriz, Miike Snow’s Andrew Wyatt, Kid Harpoon, and more",
-      "publishedAt": "2026-09-18T05:24:11.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aacbe8bb1b75a82135a268f/master/pass/mileypress.jpg",
+      "id": "6aad2d8e74a1d6209f3f9308",
+      "title": "Bill Callahan Joins Meshell Ndegeocello to Cover Bob Dylan’s “With God on Our Side”",
+      "link": "https://pitchfork.com/story/bill-callahan-joins-meshell-ndegeocello-to-cover-bob-dylans-with-god-on-our-side/",
+      "summary": "Chris Thile also sings on the track from Ndegeocello’s duets album Synonym",
+      "publishedAt": "2026-09-18T13:23:05.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aad2e7174a1d6209f3f930d/master/pass/meshell-bill-callahan-video.JPG",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "CBMi6AFBVV95cUxPUmlRNG1hSkdqZE8yYWtGTi0tZ0o3RDlXMDNWYXpJUm1VQ2JiNy1abXU2OEFPd1VNdEhBdkFIWXcwSVFFX1V3eHU0a2FVWTF1LVRVcUVIVDU1c2tZM2NnZ2ViUERxdV9kNlJLRElIY0dPdVNqTkZKTWdLN2Q0S2R2R1U5c3ZZeFE2NExtMXF0aGxBRjM0OS1xU25EREU1dFJYNExYTlg0WkZQQ3BNeE1yeUNZekhWQlpUS1FXMWJ6V2FmYjJFcnNkb05SRi0xUXMtN1VsT01WNUxnZlFxbmlaSFJkZ0NCcm1P",
-      "title": "Peñasco volleyball loses home opener to Springer - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUmlRNG1hSkdqZE8yYWtGTi0tZ0o3RDlXMDNWYXpJUm1VQ2JiNy1abXU2OEFPd1VNdEhBdkFIWXcwSVFFX1V3eHU0a2FVWTF1LVRVcUVIVDU1c2tZM2NnZ2ViUERxdV9kNlJLRElIY0dPdVNqTkZKTWdLN2Q0S2R2R1U5c3ZZeFE2NExtMXF0aGxBRjM0OS1xU25EREU1dFJYNExYTlg0WkZQQ3BNeE1yeUNZekhWQlpUS1FXMWJ6V2FmYjJFcnNkb05SRi0xUXMtN1VsT01WNUxnZlFxbmlaSFJkZ0NCcm1P?oc=5",
-      "summary": "Peñasco volleyball loses home opener to Springer The Taos News",
-      "publishedAt": "2026-09-17T15:11:10.000Z",
+      "id": "CBMi4AFBVV95cUxQSENDQmRTbUtKOW1GM2czeUs3czJaM3MxYV96cmFSckJYbnZWUVRhMDBJem9QNlpBakFobndYYzRUaGxuLWJJVElCMHZwM28tRW80MGxyTHZ0TEQwTURTMkF4eFNwc0M5RzduMHA5Yld3UHJBb0VrcjhjYVBHTmQtYXV4VzdYMTBMM2xjeTVBYVFEN0pCMUowWk5wSXFzaWVBUEpFYm5RclJWY0NXY3FPS0ZVd095YjlranR5Q2hUZlpHTGhpbjlfSk14MVVtQ09GXzNiQXZpaFpLQ0xKcGJmcw",
+      "title": "Oregon forests are a test case for stripping protections - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSENDQmRTbUtKOW1GM2czeUs3czJaM3MxYV96cmFSckJYbnZWUVRhMDBJem9QNlpBakFobndYYzRUaGxuLWJJVElCMHZwM28tRW80MGxyTHZ0TEQwTURTMkF4eFNwc0M5RzduMHA5Yld3UHJBb0VrcjhjYVBHTmQtYXV4VzdYMTBMM2xjeTVBYVFEN0pCMUowWk5wSXFzaWVBUEpFYm5RclJWY0NXY3FPS0ZVd095YjlranR5Q2hUZlpHTGhpbjlfSk14MVVtQ09GXzNiQXZpaFpLQ0xKcGJmcw?oc=5",
+      "summary": "Oregon forests are a test case for stripping protections The Taos News",
+      "publishedAt": "2026-09-17T15:11:14.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -4304,11 +4304,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiiAFBVV95cUxPY0RHcWIyV3Z4ZmJjLUh5NzNTRXo2Mnlqcm1CNkQ2V21HRnVhVzFyWWJWR2RXZkt4Xy1lRTR6SElwZmdKVlNqNlMwX2RndlRfMnE0aEQ0RDZxblJaOFZpUkVTYUJ4ZUdob0pyM3N6eW5NZVlZb1hZRURhNXpCQ1FiMmIxOXgxbjBj",
-      "title": "CU Buffs defense has leaks to fix before Northwestern - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0RHcWIyV3Z4ZmJjLUh5NzNTRXo2Mnlqcm1CNkQ2V21HRnVhVzFyWWJWR2RXZkt4Xy1lRTR6SElwZmdKVlNqNlMwX2RndlRfMnE0aEQ0RDZxblJaOFZpUkVTYUJ4ZUdob0pyM3N6eW5NZVlZb1hZRURhNXpCQ1FiMmIxOXgxbjBj?oc=5",
-      "summary": "CU Buffs defense has leaks to fix before Northwestern Daily Camera",
-      "publishedAt": "2026-09-14T22:46:52.000Z",
+      "id": "CBMitAFBVV95cUxNaC0tbDJGa055Z0w2Q0VMMHFycFZOWGFmbU5xZVR3NVNuWVBMNGVUamNqcldnRkdLV0Y0WVlxUkNWN2tXdTg0aktKX09jR1dVWUpIQWtZWldSMGhhRkxJNkR6VTFkYmNIQmUySmRoWTl2SlpTV1h4Y0lfZ2I1TXp4djRTVDNYSWswajNSYUxYR3h2RG9fbUJWTWRQMGtCUlFMQ21fYklpWDFZZHctVG04Umd5Wjc",
+      "title": "Time to celebrate success on homelessness (Opinion) - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC0tbDJGa055Z0w2Q0VMMHFycFZOWGFmbU5xZVR3NVNuWVBMNGVUamNqcldnRkdLV0Y0WVlxUkNWN2tXdTg0aktKX09jR1dVWUpIQWtZWldSMGhhRkxJNkR6VTFkYmNIQmUySmRoWTl2SlpTV1h4Y0lfZ2I1TXp4djRTVDNYSWswajNSYUxYR3h2RG9fbUJWTWRQMGtCUlFMQ21fYklpWDFZZHctVG04Umd5Wjc?oc=5",
+      "summary": "Time to celebrate success on homelessness (Opinion) dailycamera.com",
+      "publishedAt": "2026-09-15T10:04:22.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4414,11 +4414,11 @@
       "category": "design"
     },
     {
-      "id": "CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg",
-      "title": "Default Alive or Default Dead - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UGQzX0ZkTTRNaFVVMHdMdlB1VmVZSzVxNDBETVJvSUx3RnhtaVlZTml2M2ptOHREMTBqcE9YU1E4dTg5MU15TUYtZmFBUWxwTmNwd1VFQ3d3NUlQRnA1ZU4xR09oMFEzRlNZQWVEUzVZYzlraDAtTg?oc=5",
-      "summary": "Default Alive or Default Dead Read Something Great",
-      "publishedAt": "2023-10-24T16:29:40.000Z",
+      "id": "CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B",
+      "title": "The Tail End - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B?oc=5",
+      "summary": "The Tail End Read Something Great",
+      "publishedAt": "2023-07-17T22:13:10.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -4436,23 +4436,23 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49777841",
-      "title": "US Revokes Limits on Power Plants' Climate Pollution",
-      "link": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
-      "summary": "Article URL: https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution Comments URL: https://news.ycombinator.com/item?id=49777841 Points: 188 # Comments: 171",
-      "publishedAt": "2026-09-20T17:19:52.000Z",
+      "id": "https://news.ycombinator.com/item?id=49778162",
+      "title": "I turned Jev into a (lousy) chatbot",
+      "link": "https://github.com/kyle-pena-nlp/jevchat/",
+      "summary": "Article URL: https://github.com/kyle-pena-nlp/jevchat/ Comments URL: https://news.ycombinator.com/item?id=49778162 Points: 88 # Comments: 30",
+      "publishedAt": "2026-09-20T17:51:27.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "6aac7c18a581076974050051",
-      "title": "Miley Cyrus Hits the Chateau Marmont in New “Let’s Get Married” Video",
-      "link": "https://pitchfork.com/story/miley-cyrus-lets-get-married-video/",
-      "summary": "The singer’s real-life fiancé Maxx Morando appears in the latest Bass Persuades visual",
-      "publishedAt": "2026-09-18T04:23:25.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6aacbc64bc85f1edea2f1e3f/master/pass/mileywedding.png",
+      "id": "6aac96ac8c894de51ea89788",
+      "title": "Read the Full Credits to Miley Cyrus’ Bass Persuades",
+      "link": "https://pitchfork.com/story/read-the-full-credits-to-miley-cyrus-bass-persuades/",
+      "summary": "The singer’s first album as just Miley features assists from Model/Actriz, Miike Snow’s Andrew Wyatt, Kid Harpoon, and more",
+      "publishedAt": "2026-09-18T05:24:11.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aacbe8bb1b75a82135a268f/master/pass/mileypress.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4502,11 +4502,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiW0FVX3lxTE1ub1REbVVoSVRxanl0enpKMkpibURwRzlRV0dKRElnVmtYOXVrVHMyb2hpVzFQN3ZrY1B2b1Q2VXR6Sy1FUGJ5eVIwaW1icVlwU2oyRFpnUlNmTFE",
-      "title": "Sitemap - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ub1REbVVoSVRxanl0enpKMkpibURwRzlRV0dKRElnVmtYOXVrVHMyb2hpVzFQN3ZrY1B2b1Q2VXR6Sy1FUGJ5eVIwaW1icVlwU2oyRFpnUlNmTFE?oc=5",
-      "summary": "Sitemap Daily Camera",
-      "publishedAt": "2026-09-13T10:10:05.000Z",
+      "id": "CBMiiAFBVV95cUxPY0RHcWIyV3Z4ZmJjLUh5NzNTRXo2Mnlqcm1CNkQ2V21HRnVhVzFyWWJWR2RXZkt4Xy1lRTR6SElwZmdKVlNqNlMwX2RndlRfMnE0aEQ0RDZxblJaOFZpUkVTYUJ4ZUdob0pyM3N6eW5NZVlZb1hZRURhNXpCQ1FiMmIxOXgxbjBj",
+      "title": "CU Buffs defense has leaks to fix before Northwestern - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0RHcWIyV3Z4ZmJjLUh5NzNTRXo2Mnlqcm1CNkQ2V21HRnVhVzFyWWJWR2RXZkt4Xy1lRTR6SElwZmdKVlNqNlMwX2RndlRfMnE0aEQ0RDZxblJaOFZpUkVTYUJ4ZUdob0pyM3N6eW5NZVlZb1hZRURhNXpCQ1FiMmIxOXgxbjBj?oc=5",
+      "summary": "CU Buffs defense has leaks to fix before Northwestern dailycamera.com",
+      "publishedAt": "2026-09-14T22:46:52.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4612,11 +4612,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B",
-      "title": "The Tail End - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUS2Z0UWhyMzVBZVhmQmIwZUdCLUtXdnE4YjlzODVycEM1MWxlSlF0ek8tdEt3NF94U1FyWE9qLWpyNm1XV1BpZ0E1RW9SUlo4YnVZRVZNVndfRWtNMW5wcy1B?oc=5",
-      "summary": "The Tail End Read Something Great",
-      "publishedAt": "2023-07-17T22:13:10.000Z",
+      "id": "CBMickFVX3lxTFA3enhDTEZMdnVqY2tvTXlsQ2lDanBCTXYwZU5aNWgyTW5vOHZmNWN0SHBsM2ZQcHJ5Y25Zb0RzOW9RcHNOeG1ZaDJ6Q1lBMElHMVNMaEZtSjQ1S2NFMHdOYXFRbndtT2xuRWp2VFROY1dKZw",
+      "title": "Keep Your Identity Small - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3enhDTEZMdnVqY2tvTXlsQ2lDanBCTXYwZU5aNWgyTW5vOHZmNWN0SHBsM2ZQcHJ5Y25Zb0RzOW9RcHNOeG1ZaDJ6Q1lBMElHMVNMaEZtSjQ1S2NFMHdOYXFRbndtT2xuRWp2VFROY1dKZw?oc=5",
+      "summary": "Keep Your Identity Small Read Something Great",
+      "publishedAt": "2023-06-23T13:17:30.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -4634,23 +4634,23 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49777539",
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "link": "https://radius.to/",
-      "summary": "Hello HN! I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that). Radius started out from my frustration with not knowing what was going on around me. The initial plan was to \"show all and…",
-      "publishedAt": "2026-09-20T16:51:26.000Z",
+      "id": "https://news.ycombinator.com/item?id=49778029",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "summary": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 334 # Comments: 214",
+      "publishedAt": "2026-09-20T17:38:50.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "6aabfa44d82cf7b042476f2a",
-      "title": "Day and Night",
-      "link": "https://pitchfork.com/reviews/albums/carly-rae-jepsen-day-and-night/",
-      "summary": "Carly Rae Jepsen’s sprawling new double album celebrates full-time love and commitment with sweet, sunny tracks for Day and sleeker, dancier songs for Night.",
-      "publishedAt": "2026-09-18T04:03:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6a39559a7da85ddc43e1b0d4/master/pass/Carly-Rae-Jepsen-Day-and-Night.jpeg",
+      "id": "6aac7c18a581076974050051",
+      "title": "Miley Cyrus Hits the Chateau Marmont in New “Let’s Get Married” Video",
+      "link": "https://pitchfork.com/story/miley-cyrus-lets-get-married-video/",
+      "summary": "The singer’s real-life fiancé Maxx Morando appears in the latest Bass Persuades visual",
+      "publishedAt": "2026-09-18T04:23:25.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6aacbc64bc85f1edea2f1e3f/master/pass/mileywedding.png",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
