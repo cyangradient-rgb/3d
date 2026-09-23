@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:08:59.400Z",
+  "generatedAt": "2026-09-23T01:39:00.537Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -238,8 +238,8 @@
       "name": "Surface",
       "siteUrl": "https://www.surfacemag.com",
       "category": "design",
-      "status": "error",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "dwell",
@@ -300,6 +300,39 @@
   ],
   "articles": [
     {
+      "id": "https://interestingengineering.com/?p=311951",
+      "title": "Quantum sensor could shrink chemical and biological threat detection to laptop size",
+      "link": "https://interestingengineering.com/innovation/quantum-sensor-chemical-biological-threat-detection",
+      "summary": "Scientists at Johns Hopkins Applied Physics Laboratory (APL) are developing a quantum sensing platform that...",
+      "publishedAt": "2026-09-23T01:01:30.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-US-quantum-sensors.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=465516",
+      "title": "In Focus: CDK Stone – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/in-focus-cdk-stone-issue-21-feature-the-local-project/",
+      "summary": "The post In Focus: CDK Stone – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-22T23:47:11.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49809806",
+      "title": "The new CC, an AI agent built for families",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49809806 Points: 25 # Comments: 19",
+      "publishedAt": "2026-09-22T23:46:07.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "https://www.thebrighterside.news/api/preview?id=127282&secret=cM2XMtKpK3Lj&nonce=37529dbe42",
       "title": "Which came first, the chicken or the egg? Evolution has a surprisingly clear answer",
       "link": "https://www.thebrighterside.news/post/which-came-first-the-chicken-or-the-egg-evolution-has-a-surprisingly-clear-answer/",
@@ -309,6 +342,17 @@
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
+    },
+    {
+      "id": "CBMihAFBVV95cUxPOTVSSzI2dG44N09LRWZEZm45el81LVFETnlqdW9VQ0F0UUJTRF83dlFMYVBGRkdYS0dNMXEtX1VUM29GV2c3RTgxak9vNlkwVVYtUGgxalJkQ1MwNEp6YW5wZURtdVAzU2tPTUhXVGMwbzZ3eUlrbkxPb3M0N0hBWGRfZ2w",
+      "title": "Deion Sanders says ‘a few’ players are no longer on CU Buffs roster, pointing to ‘conduct detrimental to the team’ - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTVSSzI2dG44N09LRWZEZm45el81LVFETnlqdW9VQ0F0UUJTRF83dlFMYVBGRkdYS0dNMXEtX1VUM29GV2c3RTgxak9vNlkwVVYtUGgxalJkQ1MwNEp6YW5wZURtdVAzU2tPTUhXVGMwbzZ3eUlrbkxPb3M0N0hBWGRfZ2w?oc=5",
+      "summary": "Deion Sanders says ‘a few’ players are no longer on CU Buffs roster, pointing to ‘conduct detrimental to the team’ Daily Camera",
+      "publishedAt": "2026-09-22T22:59:47.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.brainpickings.org/?p=69418",
@@ -344,37 +388,15 @@
       "category": "local"
     },
     {
-      "id": "https://interestingengineering.com/?p=312003",
-      "title": "US Army tests 30mm combat vehicle with counter-drone and target-sharing systems",
-      "link": "https://interestingengineering.com/military/bae-ampv-30-us-army-counter-drone-vehicle",
-      "summary": "BAE Systems has delivered two new AMPV 30 concept infantry fighting vehicles to the US...",
-      "publishedAt": "2026-09-22T21:46:47.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/armored-vehicle.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
       "id": "https://coloradosun.com/?p=502778",
-      "title": "Aspen-Pitkin County Airport reopens after law enforcement responds to “incident”",
+      "title": "Aspen-Pitkin County Airport reopens after law enforcement responds to unspecified threat",
       "link": "https://coloradosun.com/2026/09/22/evacuations-aspen-pitkin-county-airport/",
-      "summary": "The airport was closed for more than an hour as law enforcement responded to an “incident,” but it was not immediately clear what happened",
+      "summary": "The airport was closed for more than an hour as law enforcement responded to an unspecified threat",
       "publishedAt": "2026-09-22T21:29:28.000Z",
       "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/11/AspenAirport_HC_1591.jpg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49808109",
-      "title": "The UV index is not the warm sensation of sunlight on bare skin",
-      "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-      "summary": "Article URL: https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/ Comments URL: https://news.ycombinator.com/item?id=49808109 Points: 46 # Comments: 35",
-      "publishedAt": "2026-09-22T21:06:40.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "CBMi2gFBVV95cUxOSE9UVkRraG9UTi11bzgzVVFJckpxdTlwZHVPSGhiQi1oWTF5d1N5RXAxUDkzbHJ0a2ZybThZYTg3M19mc0RBNG5ZNUZCcmJjVDhQbk5XNzExdFhSUUVBOHdjSEp4RGRMR2o3dE8xaXE3bXh2TGk3QmEzWHRGWHo3bE1HZDdIM1YtXzdYNnNZVndUUjdpamhuWEFmNGprQTJsNnRMa054aFFiczJUai1za3RXV1o5MG9NLVU5T0N3NUc3cWJtZWVVOTgzb0VBTmZ4RlZMS3hYNGtudw",
@@ -531,17 +553,6 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=465356",
-      "title": "Loller Street Apartments by Telha Clarke and Mim Design – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/loller-street-apartments-by-telha-clarke-and-mim-design-issue-21-feature-the-local-project/",
-      "summary": "The post Loller Street Apartments by Telha Clarke and Mim Design – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-22T02:21:18.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
       "id": "CBMiXkFVX3lxTFA2YnZXamszaU9WREhTd01Ndm1Iam1Wb0pkNHNQbm5BVVVWNlBLTFJaUFBYZWxoSWVYaG1tZlhFLVgxYUg5OElCY3dfNmlPMTBfOFl3aXMwNUpZV09Bb2c",
       "title": "Privacy policy - Read Something Great",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2YnZXamszaU9WREhTd01Ndm1Iam1Wb0pkNHNQbm5BVVVWNlBLTFJaUFBYZWxoSWVYaG1tZlhFLVgxYUg5OElCY3dfNmlPMTBfOFl3aXMwNUpZV09Bb2c?oc=5",
@@ -573,17 +584,6 @@
       "sourceId": "mindful",
       "sourceName": "Mindful",
       "category": "ideas"
-    },
-    {
-      "id": "CBMipAFBVV95cUxPb2xsRnhvY3VwSzYwSEFmVWZnX2ZzTkhFenpmVXE1eDdvWXdrMjVJQVRxSDd2Z0p6NVVrMVM3Tng5OTFaYmRlZ2pXNnQzUXFPWTduTThXZ3dWVXlMLTJrd2xJUDhOcFY3NjJlYVQwdkZhRE5UM2RHUllZekVPSGt0OVZEUGVkenpyR1BIUnlmSVh2SEV3VWNUZWNfcjVwb2RYbmRWTA",
-      "title": "Northwestern debacle raises familiar questions for CU Buffs - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2xsRnhvY3VwSzYwSEFmVWZnX2ZzTkhFenpmVXE1eDdvWXdrMjVJQVRxSDd2Z0p6NVVrMVM3Tng5OTFaYmRlZ2pXNnQzUXFPWTduTThXZ3dWVXlMLTJrd2xJUDhOcFY3NjJlYVQwdkZhRE5UM2RHUllZekVPSGt0OVZEUGVkenpyR1BIUnlmSVh2SEV3VWNUZWNfcjVwb2RYbmRWTA?oc=5",
-      "summary": "Northwestern debacle raises familiar questions for CU Buffs Daily Camera",
-      "publishedAt": "2026-09-21T21:19:18.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://www.densediscovery.com/issues/407/",
@@ -631,9 +631,9 @@
     },
     {
       "id": "CBMihAFBVV95cUxPQVV1c2VSLWllVm00RW1LSWNRNjlmRk9iMUgxenhMS2dVMnhUczBUcFBtX2E0b0FGTjd6c2R3LWJRb1ZtNjFjYm1peXZ4MzlrQWdZaDF0VEMwc21rbVVudFF4Q1ZEVkpiZTlPQzF1M2RWR2dHMUVRa3MwZWNQaVlTemRHX2o",
-      "title": "Naushad Ali Flagship Atelier by The Architecture Story - newnormmag.com",
+      "title": "Naushad Ali Flagship Atelier by The Architecture Story - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVV1c2VSLWllVm00RW1LSWNRNjlmRk9iMUgxenhMS2dVMnhUczBUcFBtX2E0b0FGTjd6c2R3LWJRb1ZtNjFjYm1peXZ4MzlrQWdZaDF0VEMwc21rbVVudFF4Q1ZEVkpiZTlPQzF1M2RWR2dHMUVRa3MwZWNQaVlTemRHX2o?oc=5",
-      "summary": "Naushad Ali Flagship Atelier by The Architecture Story newnormmag.com",
+      "summary": "Naushad Ali Flagship Atelier by The Architecture Story New Norm Magazine",
       "publishedAt": "2026-07-27T09:57:42.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -674,6 +674,39 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=312012",
+      "title": "Deep boreholes could slash disposal costs for nuclear fuel recycling waste, study finds",
+      "link": "https://interestingengineering.com/energy/deep-borehole-nuclear-waste-recycling-disposal",
+      "summary": "Deep boreholes could provide a safe and relatively low-cost way to permanently dispose of radioactive...",
+      "publishedAt": "2026-09-22T23:51:51.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Deep-Isolation-Nuclear.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=465495",
+      "title": "In Focus: Carini Lang – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/in-focus-carini-lang-issue-21-feature-the-local-project/",
+      "summary": "The post In Focus: Carini Lang – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-22T23:43:57.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49809404",
+      "title": "Augustofaces: Pareidolia Fine Art",
+      "link": "https://augusto.at/augustosfaces/",
+      "summary": "Article URL: https://augusto.at/augustosfaces/ Comments URL: https://news.ycombinator.com/item?id=49809404 Points: 4 # Comments: 0",
+      "publishedAt": "2026-09-22T22:52:11.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "CBMisgFBVV95cUxNb3BKMk5iS28wNGpCMXZnS2NsUmhJOXI5SkU2UHoyOWN4RExDUzcyNnU4LXVXM01UUGt1MnVpc3A1S2xPVzZ4WUVyOUpGUEg1N21VZWcwRm5aU050TDhfU1NKeFNvU0pEOHNDRDVfTm9PUHdtRW9nYzFES3NhTDN3NjdJRzdTOUF3eTlidGNaMjk5Tm1MVVlZUVdwTDlsQmN2WjVqMXBnTkQzN2M4VlBaU2RB",
       "title": "Screenshot 2026-09-22 at 3.16.57 PM.png - The Taos News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3BKMk5iS28wNGpCMXZnS2NsUmhJOXI5SkU2UHoyOWN4RExDUzcyNnU4LXVXM01UUGt1MnVpc3A1S2xPVzZ4WUVyOUpGUEg1N21VZWcwRm5aU050TDhfU1NKeFNvU0pEOHNDRDVfTm9PUHdtRW9nYzFES3NhTDN3NjdJRzdTOUF3eTlidGNaMjk5Tm1MVVlZUVdwTDlsQmN2WjVqMXBnTkQzN2M4VlBaU2RB?oc=5",
@@ -683,28 +716,6 @@
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=49808023",
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "link": "https://foxscript.org/",
-      "summary": "Article URL: https://foxscript.org/ Comments URL: https://news.ycombinator.com/item?id=49808023 Points: 105 # Comments: 75",
-      "publishedAt": "2026-09-22T21:00:30.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=311968",
-      "title": "US military orders 4,000 one-way attack UAVs with single-operator drone swarm control",
-      "link": "https://interestingengineering.com/military/4000-attack-drones-swarm-control-us-military",
-      "summary": "Swarm Defense Technologies has received an order from the US Department of War for 4,000...",
-      "publishedAt": "2026-09-22T20:45:24.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/swarm-Defense.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=123568&secret=cM2XMtKpK3Lj&nonce=0ed1d22832",
@@ -806,22 +817,11 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=465310",
-      "title": "Profile: Gemma Smith – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/profile-gemma-smith-issue-21-feature-the-local-project/",
-      "summary": "The post Profile: Gemma Smith – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-21T22:13:25.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
-      "id": "CBMipgFBVV95cUxQOFQ1VWlTaGI3ZFlaYXc3Z0ZRYzJGSVN4YXE3LUdpa283eGNEcWRGaVFSeFVzdHpFOWdxbm9DNzVNeTBMOFNBWGJQZjdPd3BZT3dYcHdkTlpTOUVvYk1lbFhTbXIwTWdjTTkzMy1JQm5DZHNxVUl0RFdFYk1OUzJLY2xBSU4wNndpb1BQVWQ3MHlibUdSdW0zam5va2ZiRFpldnh0UHhn",
-      "title": "Asking Eric: Husband’s poor hygiene mars otherwise great marriage - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFQ1VWlTaGI3ZFlaYXc3Z0ZRYzJGSVN4YXE3LUdpa283eGNEcWRGaVFSeFVzdHpFOWdxbm9DNzVNeTBMOFNBWGJQZjdPd3BZT3dYcHdkTlpTOUVvYk1lbFhTbXIwTWdjTTkzMy1JQm5DZHNxVUl0RFdFYk1OUzJLY2xBSU4wNndpb1BQVWQ3MHlibUdSdW0zam5va2ZiRFpldnh0UHhn?oc=5",
-      "summary": "Asking Eric: Husband’s poor hygiene mars otherwise great marriage Daily Camera",
-      "publishedAt": "2026-09-21T19:09:02.000Z",
+      "id": "CBMipAFBVV95cUxPb2xsRnhvY3VwSzYwSEFmVWZnX2ZzTkhFenpmVXE1eDdvWXdrMjVJQVRxSDd2Z0p6NVVrMVM3Tng5OTFaYmRlZ2pXNnQzUXFPWTduTThXZ3dWVXlMLTJrd2xJUDhOcFY3NjJlYVQwdkZhRE5UM2RHUllZekVPSGt0OVZEUGVkenpyR1BIUnlmSVh2SEV3VWNUZWNfcjVwb2RYbmRWTA",
+      "title": "Northwestern debacle raises familiar questions for CU Buffs - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2xsRnhvY3VwSzYwSEFmVWZnX2ZzTkhFenpmVXE1eDdvWXdrMjVJQVRxSDd2Z0p6NVVrMVM3Tng5OTFaYmRlZ2pXNnQzUXFPWTduTThXZ3dWVXlMLTJrd2xJUDhOcFY3NjJlYVQwdkZhRE5UM2RHUllZekVPSGt0OVZEUGVkenpyR1BIUnlmSVh2SEV3VWNUZWNfcjVwb2RYbmRWTA?oc=5",
+      "summary": "Northwestern debacle raises familiar questions for CU Buffs Daily Camera",
+      "publishedAt": "2026-09-21T21:19:18.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -1005,9 +1005,9 @@
     },
     {
       "id": "CBMif0FVX3lxTE1ZWmo4b0MxSGdIZ0Vmd1FSR3BQd0lFYk95YkpSUThnRXRoUUo3UndhUVc3YVJwUzFNcUREUWt1VEt3RWwwUHVjcGNzdEJ2eF9KNlpkX2Q2bmNsNl9OdzhPZUJ1NE5GeFZFNU5BYmVsWUw0ZFJHSzJNWGFKODlFODg",
-      "title": "Minimalism with a Touch of Farmhouse by RENOSTUD.IO - newnormmag.com",
+      "title": "Minimalism with a Touch of Farmhouse by RENOSTUD.IO - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZWmo4b0MxSGdIZ0Vmd1FSR3BQd0lFYk95YkpSUThnRXRoUUo3UndhUVc3YVJwUzFNcUREUWt1VEt3RWwwUHVjcGNzdEJ2eF9KNlpkX2Q2bmNsNl9OdzhPZUJ1NE5GeFZFNU5BYmVsWUw0ZFJHSzJNWGFKODlFODg?oc=5",
-      "summary": "Minimalism with a Touch of Farmhouse by RENOSTUD.IO newnormmag.com",
+      "summary": "Minimalism with a Touch of Farmhouse by RENOSTUD.IO New Norm Magazine",
       "publishedAt": "2026-03-10T08:41:11.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -1048,37 +1048,48 @@
       "category": "design"
     },
     {
-      "id": "CBMitwFBVV95cUxPUjBmVVdYcW4zd3hXZjZnV080VHdRSTdoLXpoWjc5LXB4aFV4SG5UdGdZdVpJbjBkdG1rTmdnZFVMOFg1alFoQjRnTy1WcjNhSVc1cEtzUzFnUGFNelRyYl82Nk1LdDMwcVFNVi1xakRUNUdBbXM4YnR6am5ZM21CUGM5bnJVOFFTblJiVUwwa0FnYWUweDRuVU5va0Y0aW5WemJSWUpkZFhSNVl0ZlBxc2owcTR5WGs",
-      "title": "tempo_balloonsonthescenedp_241031_dp002.jpg - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBmVVdYcW4zd3hXZjZnV080VHdRSTdoLXpoWjc5LXB4aFV4SG5UdGdZdVpJbjBkdG1rTmdnZFVMOFg1alFoQjRnTy1WcjNhSVc1cEtzUzFnUGFNelRyYl82Nk1LdDMwcVFNVi1xakRUNUdBbXM4YnR6am5ZM21CUGM5bnJVOFFTblJiVUwwa0FnYWUweDRuVU5va0Y0aW5WemJSWUpkZFhSNVl0ZlBxc2owcTR5WGs?oc=5",
-      "summary": "tempo_balloonsonthescenedp_241031_dp002.jpg The Taos News",
-      "publishedAt": "2026-09-22T20:11:27.000Z",
+      "id": "https://thelocalproject.com.au/?p=465475",
+      "title": "GridWork by Tongue & Groove – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/gridwork-by-tongue-groove-issue-21-feature-the-local-project/",
+      "summary": "The post GridWork by Tongue & Groove – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-22T23:37:43.000Z",
       "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
-      "category": "local"
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49807248",
-      "title": "The JavaScript Midlife Crisis",
-      "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-      "summary": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/ Comments URL: https://news.ycombinator.com/item?id=49807248 Points: 23 # Comments: 7",
-      "publishedAt": "2026-09-22T19:58:47.000Z",
+      "id": "https://interestingengineering.com/?p=312007",
+      "title": "US team to build offshore system for industrial-scale uranium recovery from seawater",
+      "link": "https://interestingengineering.com/energy/seawater-uranium-extraction-offshore-recovery-system",
+      "summary": "SuperCritical Materials has partnered with the University of Michigan to engineer and test offshore systems...",
+      "publishedAt": "2026-09-22T23:23:40.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/uranium-seawater-recovery.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49808816",
+      "title": "The current balance of power in open models",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open Comments URL: https://news.ycombinator.com/item?id=49808816 Points: 33 # Comments: 10",
+      "publishedAt": "2026-09-22T22:03:46.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311747",
-      "title": "New nanoscale electrode design could unlock lighter, longer-range EV batteries",
-      "link": "https://interestingengineering.com/transportation/300-nm-structures-lighter-longer-range-ev-batteries",
-      "summary": "South Korean researchers have developed a nanoscale electrode design that could help make electric-vehicle batteries...",
-      "publishedAt": "2026-09-22T19:46:29.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/EV-batteries.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "CBMijAJBVV95cUxQWFQ0QTRnUmg3T3g4dEExdC1vN1k1cThVak82S2RpVVB1Mko1elIwVDJxN3c3Y0FkSEV6MG83cVM2dk9pM1hoeVhmUjRwbjhvUmExOXNtdWlSYVIzN3FKbE52anpLN0tISy05UXFsWlpTSEpKMW1IVnBFdzJOOGEyb1dDUlM4VEhmWU5nWFoyblhUVENfRDVkOEZiV1RJcFpDRVNZMmdudFBLOVJiMHRyRGR2TkVTSkhUM1dmSllORmE0QTJwU2E0bDBHWEdWTWVYRUFkdEd0Yjlrb09jcjZYTnYzdnhJZjVFcExQdXR5VzN1YTd2S3NfQXVoUUMwMmY3Wm9Kbjk0R19veWMx",
+      "title": "Enchanted Circle, much of NM at risk for flooding, adverse driving conditions: Weather Service - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWFQ0QTRnUmg3T3g4dEExdC1vN1k1cThVak82S2RpVVB1Mko1elIwVDJxN3c3Y0FkSEV6MG83cVM2dk9pM1hoeVhmUjRwbjhvUmExOXNtdWlSYVIzN3FKbE52anpLN0tISy05UXFsWlpTSEpKMW1IVnBFdzJOOGEyb1dDUlM4VEhmWU5nWFoyblhUVENfRDVkOEZiV1RJcFpDRVNZMmdudFBLOVJiMHRyRGR2TkVTSkhUM1dmSllORmE0QTJwU2E0bDBHWEdWTWVYRUFkdEd0Yjlrb09jcjZYTnYzdnhJZjVFcExQdXR5VzN1YTd2S3NfQXVoUUMwMmY3Wm9Kbjk0R19veWMx?oc=5",
+      "summary": "Enchanted Circle, much of NM at risk for flooding, adverse driving conditions: Weather Service The Taos News",
+      "publishedAt": "2026-09-22T21:36:00.000Z",
+      "imageUrl": null,
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
+      "category": "local"
     },
     {
       "id": "6ab2b73416371b41ccca58ff",
@@ -1158,17 +1169,6 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=464848",
-      "title": "Reece’s Immersive New Showroom at Sydney’s Rosebery Engine Yards – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/reeces-immersive-new-showroom-at-sydneys-rosebery-engine-yards-the-local-project/",
-      "summary": "The post Reece’s Immersive New Showroom at Sydney’s Rosebery Engine Yards – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-21T22:08:17.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
       "id": "https://www.dwell.com/article/borland-crossman-house-wowowa-modernist-kevin-borland-renovation-736a4fce",
       "title": "The Double-Height Atrium Is Still the Best Part of This Revived ’70s Australian Home",
       "link": "https://www.dwell.com/article/borland-crossman-house-wowowa-modernist-kevin-borland-renovation-736a4fce",
@@ -1180,11 +1180,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiggFBVV95cUxPOG9pcVRsYWM5dHV3SnltQkJ2Ry1JM2tXWWo0aVdUNWVmT0pyaThkRmxUbGRuNFdhSVY2cXBfQXh6Q0NTb0JpcFRiUU0yWGd4eXcwNF9LbThVWXpGSFJHQXZ1amlndkJnQVBBZlo4UDkyWDh1MVFFdG14RVpWTmRhTXBR",
-      "title": "Fire engulfs home in east Boulder on Sunday - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG9pcVRsYWM5dHV3SnltQkJ2Ry1JM2tXWWo0aVdUNWVmT0pyaThkRmxUbGRuNFdhSVY2cXBfQXh6Q0NTb0JpcFRiUU0yWGd4eXcwNF9LbThVWXpGSFJHQXZ1amlndkJnQVBBZlo4UDkyWDh1MVFFdG14RVpWTmRhTXBR?oc=5",
-      "summary": "Fire engulfs home in east Boulder on Sunday Daily Camera",
-      "publishedAt": "2026-09-21T16:53:33.000Z",
+      "id": "CBMipgFBVV95cUxQOFQ1VWlTaGI3ZFlaYXc3Z0ZRYzJGSVN4YXE3LUdpa283eGNEcWRGaVFSeFVzdHpFOWdxbm9DNzVNeTBMOFNBWGJQZjdPd3BZT3dYcHdkTlpTOUVvYk1lbFhTbXIwTWdjTTkzMy1JQm5DZHNxVUl0RFdFYk1OUzJLY2xBSU4wNndpb1BQVWQ3MHlibUdSdW0zam5va2ZiRFpldnh0UHhn",
+      "title": "Asking Eric: Husband’s poor hygiene mars otherwise great marriage - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFQ1VWlTaGI3ZFlaYXc3Z0ZRYzJGSVN4YXE3LUdpa283eGNEcWRGaVFSeFVzdHpFOWdxbm9DNzVNeTBMOFNBWGJQZjdPd3BZT3dYcHdkTlpTOUVvYk1lbFhTbXIwTWdjTTkzMy1JQm5DZHNxVUl0RFdFYk1OUzJLY2xBSU4wNndpb1BQVWQ3MHlibUdSdW0zam5va2ZiRFpldnh0UHhn?oc=5",
+      "summary": "Asking Eric: Husband’s poor hygiene mars otherwise great marriage Daily Camera",
+      "publishedAt": "2026-09-21T19:09:02.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "CBMiWkFVX3lxTE95SEJ2SUdaM1NSYUNmMlFJSXJCSEtxUzBEQ0lHakx4cThwbmRtd05zSlNXeEVTaXlMa1c2Ql9iUVVpTnVPTE4xSjlxc1JXT1ZGbVoxeC1OU3pIdw",
-      "title": "Cape Schanck by mckimm - newnormmag.com",
+      "title": "Cape Schanck by mckimm - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SEJ2SUdaM1NSYUNmMlFJSXJCSEtxUzBEQ0lHakx4cThwbmRtd05zSlNXeEVTaXlMa1c2Ql9iUVVpTnVPTE4xSjlxc1JXT1ZGbVoxeC1OU3pIdw?oc=5",
-      "summary": "Cape Schanck by mckimm newnormmag.com",
+      "summary": "Cape Schanck by mckimm New Norm Magazine",
       "publishedAt": "2026-01-20T05:56:29.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -1422,37 +1422,48 @@
       "category": "design"
     },
     {
-      "id": "CBMikAFBVV95cUxPRm1tS2tmcUUtWnVTX01WRlplN0EwYzhBMFBCRlJSdUs2Ylp6X1FpTkpfWHlzaHJVWXlEdk5fb1FfZ0JkVEw4MHBoam1IaVNaSlJUQjZtXzM3LXdEaENSWVAtRndCTWttanE3WmhpSTFYYmlNTG9kWTMxV3dtb1ZKMmJWN25hTDFmbjUySHJ1QmQ",
-      "title": "miya_endo.webp - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm1tS2tmcUUtWnVTX01WRlplN0EwYzhBMFBCRlJSdUs2Ylp6X1FpTkpfWHlzaHJVWXlEdk5fb1FfZ0JkVEw4MHBoam1IaVNaSlJUQjZtXzM3LXdEaENSWVAtRndCTWttanE3WmhpSTFYYmlNTG9kWTMxV3dtb1ZKMmJWN25hTDFmbjUySHJ1QmQ?oc=5",
-      "summary": "miya_endo.webp The Taos News",
-      "publishedAt": "2026-09-22T20:11:22.000Z",
+      "id": "https://thelocalproject.com.au/?p=465393",
+      "title": "Living Cities Forum Reimagines How We Build, Adapt and Care for Cities – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/living-cities-forum-reimagines-how-we-build-adapt-and-care-for-cities-the-local-project/",
+      "summary": "The post Living Cities Forum Reimagines How We Build, Adapt and Care for Cities – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-22T23:32:11.000Z",
       "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
-      "category": "local"
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49807021",
-      "title": "Native apps written in TypeScript and CSS",
-      "link": "https://github.com/geastack/examples",
-      "summary": "Article URL: https://github.com/geastack/examples Comments URL: https://news.ycombinator.com/item?id=49807021 Points: 56 # Comments: 16",
-      "publishedAt": "2026-09-22T19:42:20.000Z",
+      "id": "https://interestingengineering.com/?p=312003",
+      "title": "US Army tests 30mm combat vehicle with counter-drone and target-sharing systems",
+      "link": "https://interestingengineering.com/military/bae-ampv-30-us-army-counter-drone-vehicle",
+      "summary": "BAE Systems has delivered two new AMPV 30 concept infantry fighting vehicles to the US...",
+      "publishedAt": "2026-09-22T21:46:47.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/armored-vehicle.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49808109",
+      "title": "The UV index is not the warm sensation of sunlight on bare skin",
+      "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+      "summary": "Article URL: https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/ Comments URL: https://news.ycombinator.com/item?id=49808109 Points: 60 # Comments: 53",
+      "publishedAt": "2026-09-22T21:06:40.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311769",
-      "title": "Lockheed connects 16 F-35 flight simulators across four bases for combat drill",
-      "link": "https://interestingengineering.com/military/lockheed-links-16-f-35-simulators",
-      "summary": "Lockheed Martin connected 16 F-35 full mission simulators across four military bases for a two-hour...",
-      "publishedAt": "2026-09-22T19:34:29.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-72.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "CBMitwFBVV95cUxPUjBmVVdYcW4zd3hXZjZnV080VHdRSTdoLXpoWjc5LXB4aFV4SG5UdGdZdVpJbjBkdG1rTmdnZFVMOFg1alFoQjRnTy1WcjNhSVc1cEtzUzFnUGFNelRyYl82Nk1LdDMwcVFNVi1xakRUNUdBbXM4YnR6am5ZM21CUGM5bnJVOFFTblJiVUwwa0FnYWUweDRuVU5va0Y0aW5WemJSWUpkZFhSNVl0ZlBxc2owcTR5WGs",
+      "title": "tempo_balloonsonthescenedp_241031_dp002.jpg - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBmVVdYcW4zd3hXZjZnV080VHdRSTdoLXpoWjc5LXB4aFV4SG5UdGdZdVpJbjBkdG1rTmdnZFVMOFg1alFoQjRnTy1WcjNhSVc1cEtzUzFnUGFNelRyYl82Nk1LdDMwcVFNVi1xakRUNUdBbXM4YnR6am5ZM21CUGM5bnJVOFFTblJiVUwwa0FnYWUweDRuVU5va0Y0aW5WemJSWUpkZFhSNVl0ZlBxc2owcTR5WGs?oc=5",
+      "summary": "tempo_balloonsonthescenedp_241031_dp002.jpg The Taos News",
+      "publishedAt": "2026-09-22T20:11:27.000Z",
+      "imageUrl": null,
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
+      "category": "local"
     },
     {
       "id": "6ab2a8c6f99f7bf88c242215",
@@ -1543,6 +1554,17 @@
       "category": "design"
     },
     {
+      "id": "CBMiggFBVV95cUxPOG9pcVRsYWM5dHV3SnltQkJ2Ry1JM2tXWWo0aVdUNWVmT0pyaThkRmxUbGRuNFdhSVY2cXBfQXh6Q0NTb0JpcFRiUU0yWGd4eXcwNF9LbThVWXpGSFJHQXZ1amlndkJnQVBBZlo4UDkyWDh1MVFFdG14RVpWTmRhTXBR",
+      "title": "Fire engulfs home in east Boulder on Sunday - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG9pcVRsYWM5dHV3SnltQkJ2Ry1JM2tXWWo0aVdUNWVmT0pyaThkRmxUbGRuNFdhSVY2cXBfQXh6Q0NTb0JpcFRiUU0yWGd4eXcwNF9LbThVWXpGSFJHQXZ1amlndkJnQVBBZlo4UDkyWDh1MVFFdG14RVpWTmRhTXBR?oc=5",
+      "summary": "Fire engulfs home in east Boulder on Sunday Daily Camera",
+      "publishedAt": "2026-09-21T16:53:33.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://leibal.com/?p=184468",
       "title": "Apartamento dos Pórticos",
       "link": "https://leibal.com/interiors/apartamento-dos-porticos/",
@@ -1551,17 +1573,6 @@
       "imageUrl": null,
       "sourceId": "leibal",
       "sourceName": "Leibal",
-      "category": "design"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=465296",
-      "title": "Saint by BOND – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/saint-by-bond-issue-21-feature-the-local-project/",
-      "summary": "The post Saint by BOND – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-21T04:17:04.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
       "category": "design"
     },
     {
@@ -1574,17 +1585,6 @@
       "sourceId": "mindful",
       "sourceName": "Mindful",
       "category": "ideas"
-    },
-    {
-      "id": "CBMioAFBVV95cUxNTjBveFotWmIwMXo2b19xSU9Obk14UTVNSkFBdVJlOU1OTXNrbXVadHIyRF9KN1hfNTR6S3l0alpHclU5dmpRWkd4Tk5HTWw0WWhLUFh0cXkycWdvNjB2b05ocG41X1VkSm5rWWNabEoycGR0SFpJWi1hcGVNcmRKQVh3dFhfZ3owb3BTSThZOWtJc0ZfTzBiNkpYTTN3c09K",
-      "title": "Penalties trip up CU Buffs at inopportune moments at Northwestern - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjBveFotWmIwMXo2b19xSU9Obk14UTVNSkFBdVJlOU1OTXNrbXVadHIyRF9KN1hfNTR6S3l0alpHclU5dmpRWkd4Tk5HTWw0WWhLUFh0cXkycWdvNjB2b05ocG41X1VkSm5rWWNabEoycGR0SFpJWi1hcGVNcmRKQVh3dFhfZ3owb3BTSThZOWtJc0ZfTzBiNkpYTTN3c09K?oc=5",
-      "summary": "Penalties trip up CU Buffs at inopportune moments at Northwestern Daily Camera",
-      "publishedAt": "2026-09-20T12:18:18.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=85017",
@@ -1742,9 +1742,9 @@
     },
     {
       "id": "CBMiakFVX3lxTE9QSmljcjNtc09rdGZmRWgzZWFTWWE5Y3ZFRVBuQWtoS29NbzZnZDNFSjAwelpRUWd3RGxla1ljQ2ZKM0RlV3VNWEpxUEFNTUxCdmhLWGVXLVNzNTBpYkhfTGk4RUNvY0JtSlE",
-      "title": "Plaza del Sauce by BU arquitectura - newnormmag.com",
+      "title": "Plaza del Sauce by BU arquitectura - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QSmljcjNtc09rdGZmRWgzZWFTWWE5Y3ZFRVBuQWtoS29NbzZnZDNFSjAwelpRUWd3RGxla1ljQ2ZKM0RlV3VNWEpxUEFNTUxCdmhLWGVXLVNzNTBpYkhfTGk4RUNvY0JtSlE?oc=5",
-      "summary": "Plaza del Sauce by BU arquitectura newnormmag.com",
+      "summary": "Plaza del Sauce by BU arquitectura New Norm Magazine",
       "publishedAt": "2025-12-15T15:15:23.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -1796,37 +1796,48 @@
       "category": "design"
     },
     {
-      "id": "CBMiqAFBVV95cUxNbXJ4SkljTXhaX1hPaW9hR0M1NUl0TEpoQVhScGEwTEFqWmdqem5ueWwtcjhnZUtibGFfRVcyVGJGMG1Zem8wd19rdUZnQmFINFFxMWZqQUV2U3lsc1FNcENIdVNMeE16STRtMTBEWlljbnNzMzBiRnNjU0pxbzlJSHY4Z1dvSmNmSUlvZHNpbUtDRFA2dTVBeHl5YzhMUVlUU2xTdUZwTnQ",
-      "title": "26-Quillian,+Alma_draft horse.jpg - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXJ4SkljTXhaX1hPaW9hR0M1NUl0TEpoQVhScGEwTEFqWmdqem5ueWwtcjhnZUtibGFfRVcyVGJGMG1Zem8wd19rdUZnQmFINFFxMWZqQUV2U3lsc1FNcENIdVNMeE16STRtMTBEWlljbnNzMzBiRnNjU0pxbzlJSHY4Z1dvSmNmSUlvZHNpbUtDRFA2dTVBeHl5YzhMUVlUU2xTdUZwTnQ?oc=5",
-      "summary": "26-Quillian,+Alma_draft horse.jpg The Taos News",
-      "publishedAt": "2026-09-22T20:11:18.000Z",
+      "id": "https://thelocalproject.com.au/?p=465421",
+      "title": "SARAH & SEBASTIAN Opens Standalone Store in Chadstone – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/sarah-sebastian-opens-standalone-store-in-chadstone-the-local-project/",
+      "summary": "The post SARAH & SEBASTIAN Opens Standalone Store in Chadstone – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-22T23:23:58.000Z",
       "imageUrl": null,
-      "sourceId": "taos-news",
-      "sourceName": "Taos News",
-      "category": "local"
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=311957",
-      "title": "US Navy targets 3 nuclear submarines a year from 2031 under new four-pillar plan",
-      "link": "https://interestingengineering.com/military/us-navy-2-virginia-1-columbia-submarines-yearly-2031",
-      "summary": "The US Navy has announced a novel strategy to speed up its nuclear submarine construction,...",
-      "publishedAt": "2026-09-22T19:26:09.000Z",
-      "imageUrl": "https://www.youtube.com/embed/4typFI12_9k",
+      "id": "https://news.ycombinator.com/item?id=49808023",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "link": "https://foxscript.org/",
+      "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable f…",
+      "publishedAt": "2026-09-22T21:00:30.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=311968",
+      "title": "US military orders 4,000 one-way attack UAVs with single-operator drone swarm control",
+      "link": "https://interestingengineering.com/military/4000-attack-drones-swarm-control-us-military",
+      "summary": "Swarm Defense Technologies has received an order from the US Department of War for 4,000...",
+      "publishedAt": "2026-09-22T20:45:24.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/swarm-Defense.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49806430",
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 316 # Comments: 161",
-      "publishedAt": "2026-09-22T19:03:38.000Z",
+      "id": "CBMikAFBVV95cUxPRm1tS2tmcUUtWnVTX01WRlplN0EwYzhBMFBCRlJSdUs2Ylp6X1FpTkpfWHlzaHJVWXlEdk5fb1FfZ0JkVEw4MHBoam1IaVNaSlJUQjZtXzM3LXdEaENSWVAtRndCTWttanE3WmhpSTFYYmlNTG9kWTMxV3dtb1ZKMmJWN25hTDFmbjUySHJ1QmQ",
+      "title": "miya_endo.webp - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm1tS2tmcUUtWnVTX01WRlplN0EwYzhBMFBCRlJSdUs2Ylp6X1FpTkpfWHlzaHJVWXlEdk5fb1FfZ0JkVEw4MHBoam1IaVNaSlJUQjZtXzM3LXdEaENSWVAtRndCTWttanE3WmhpSTFYYmlNTG9kWTMxV3dtb1ZKMmJWN25hTDFmbjUySHJ1QmQ?oc=5",
+      "summary": "miya_endo.webp The Taos News",
+      "publishedAt": "2026-09-22T20:11:22.000Z",
       "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "sourceId": "taos-news",
+      "sourceName": "Taos News",
+      "category": "local"
     },
     {
       "id": "6ab2aebe598fea73efdcde49",
@@ -1917,21 +1928,10 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=465205",
-      "title": "Eva’s Richmond House by In Addition – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/evas-richmond-house-by-in-addition-the-local-project/",
-      "summary": "The post Eva’s Richmond House by In Addition – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-20T22:55:44.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
-      "id": "CBMickFVX3lxTE54RXlDbzB3REdwUGxwalFycV9yRmZpV2xTeUpWNzZkSTRxVTlnbnVFamdraE11alJyTmlwcm12RDl2RV95WlIzaWRydzczQXMyTlZNeWVqN0lMa2ZiWXhqcEJxeEZSc1k3MkxDdnhyT3FjQQ",
-      "title": "Data centers are booming across Colorado. Here’s where regional cities stand - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54RXlDbzB3REdwUGxwalFycV9yRmZpV2xTeUpWNzZkSTRxVTlnbnVFamdraE11alJyTmlwcm12RDl2RV95WlIzaWRydzczQXMyTlZNeWVqN0lMa2ZiWXhqcEJxeEZSc1k3MkxDdnhyT3FjQQ?oc=5",
-      "summary": "Data centers are booming across Colorado. Here’s where regional cities stand Daily Camera",
+      "id": "CBMioAFBVV95cUxNTjBveFotWmIwMXo2b19xSU9Obk14UTVNSkFBdVJlOU1OTXNrbXVadHIyRF9KN1hfNTR6S3l0alpHclU5dmpRWkd4Tk5HTWw0WWhLUFh0cXkycWdvNjB2b05ocG41X1VkSm5rWWNabEoycGR0SFpJWi1hcGVNcmRKQVh3dFhfZ3owb3BTSThZOWtJc0ZfTzBiNkpYTTN3c09K",
+      "title": "Penalties trip up CU Buffs at inopportune moments at Northwestern - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjBveFotWmIwMXo2b19xSU9Obk14UTVNSkFBdVJlOU1OTXNrbXVadHIyRF9KN1hfNTR6S3l0alpHclU5dmpRWkd4Tk5HTWw0WWhLUFh0cXkycWdvNjB2b05ocG41X1VkSm5rWWNabEoycGR0SFpJWi1hcGVNcmRKQVh3dFhfZ3owb3BTSThZOWtJc0ZfTzBiNkpYTTN3c09K?oc=5",
+      "summary": "Penalties trip up CU Buffs at inopportune moments at Northwestern Daily Camera",
       "publishedAt": "2026-09-20T12:18:18.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
@@ -2116,9 +2116,9 @@
     },
     {
       "id": "CBMidEFVX3lxTE9jM180YzZSSEdQelBBQXhHY21yQTRJZ3l2ZUVaY0UyZmRrZHI2UEU0U281MTNGeGNuZDVNNkRxQ25DSnpMeTdUY3RCWHk1V19OM19nTkJKMm9Za1ZsTVhSZWd6RGdSMG11WXp2VlJfcnp6ejVF",
-      "title": "A Home Between Journeys by Intheory Design - newnormmag.com",
+      "title": "A Home Between Journeys by Intheory Design - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jM180YzZSSEdQelBBQXhHY21yQTRJZ3l2ZUVaY0UyZmRrZHI2UEU0U281MTNGeGNuZDVNNkRxQ25DSnpMeTdUY3RCWHk1V19OM19nTkJKMm9Za1ZsTVhSZWd6RGdSMG11WXp2VlJfcnp6ejVF?oc=5",
-      "summary": "A Home Between Journeys by Intheory Design newnormmag.com",
+      "summary": "A Home Between Journeys by Intheory Design New Norm Magazine",
       "publishedAt": "2025-12-02T06:31:45.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -2170,34 +2170,45 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49806335",
-      "title": "SAML: A fractal of bad design",
-      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "summary": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ Comments URL: https://news.ycombinator.com/item?id=49806335 Points: 115 # Comments: 61",
-      "publishedAt": "2026-09-22T18:57:17.000Z",
+      "id": "https://thelocalproject.com.au/?p=465447",
+      "title": "MAPIO: Architectural Hardware with a European Sensibility – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/mapio-architectural-hardware-with-a-european-sensibility-the-local-project/",
+      "summary": "The post MAPIO: Architectural Hardware with a European Sensibility – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-22T23:11:52.000Z",
       "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
-      "id": "CBMinAFBVV95cUxOSVlVemsxeTlYZGhBUVJSTFRtWlJoa1NKQmpIblRxYzVPYU1KcGt4SGMtdzY0Uy1meml3cVB3MUxDME1mNWFTQnVxVGlLWkRsd3UyRGUwRUVsUVYyRHhlOXJqdENjMGU4NGRibVJnekJudUttd1RLZjZDekR2bDhQczIzSElSdmhOR2lUMTJrc3JsYktyQ1JBak1UcjY",
-      "title": "FallColors2009_0310.jpg - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlVemsxeTlYZGhBUVJSTFRtWlJoa1NKQmpIblRxYzVPYU1KcGt4SGMtdzY0Uy1meml3cVB3MUxDME1mNWFTQnVxVGlLWkRsd3UyRGUwRUVsUVYyRHhlOXJqdENjMGU4NGRibVJnekJudUttd1RLZjZDekR2bDhQczIzSElSdmhOR2lUMTJrc3JsYktyQ1JBak1UcjY?oc=5",
-      "summary": "FallColors2009_0310.jpg The Taos News",
-      "publishedAt": "2026-09-22T18:50:30.000Z",
+      "id": "CBMiqAFBVV95cUxNbXJ4SkljTXhaX1hPaW9hR0M1NUl0TEpoQVhScGEwTEFqWmdqem5ueWwtcjhnZUtibGFfRVcyVGJGMG1Zem8wd19rdUZnQmFINFFxMWZqQUV2U3lsc1FNcENIdVNMeE16STRtMTBEWlljbnNzMzBiRnNjU0pxbzlJSHY4Z1dvSmNmSUlvZHNpbUtDRFA2dTVBeHl5YzhMUVlUU2xTdUZwTnQ",
+      "title": "26-Quillian,+Alma_draft horse.jpg - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXJ4SkljTXhaX1hPaW9hR0M1NUl0TEpoQVhScGEwTEFqWmdqem5ueWwtcjhnZUtibGFfRVcyVGJGMG1Zem8wd19rdUZnQmFINFFxMWZqQUV2U3lsc1FNcENIdVNMeE16STRtMTBEWlljbnNzMzBiRnNjU0pxbzlJSHY4Z1dvSmNmSUlvZHNpbUtDRFA2dTVBeHl5YzhMUVlUU2xTdUZwTnQ?oc=5",
+      "summary": "26-Quillian,+Alma_draft horse.jpg The Taos News",
+      "publishedAt": "2026-09-22T20:11:18.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
     },
     {
-      "id": "https://interestingengineering.com/?p=311984",
-      "title": "‘Artificial’ sounds fake: Trump proposes renaming AI ‘super intelligence’ in UN speech",
-      "link": "https://interestingengineering.com/culture/trump-renames-ai-super-intelligence-us-government",
-      "summary": "US President Donald Trump has announced that the US government will replace the term “artificial...",
-      "publishedAt": "2026-09-22T18:31:32.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-2296584703.jpg",
+      "id": "https://news.ycombinator.com/item?id=49807248",
+      "title": "The JavaScript Midlife Crisis",
+      "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
+      "summary": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/ Comments URL: https://news.ycombinator.com/item?id=49807248 Points: 41 # Comments: 23",
+      "publishedAt": "2026-09-22T19:58:47.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=311747",
+      "title": "New nanoscale electrode design could unlock lighter, longer-range EV batteries",
+      "link": "https://interestingengineering.com/transportation/300-nm-structures-lighter-longer-range-ev-batteries",
+      "summary": "South Korean researchers have developed a nanoscale electrode design that could help make electric-vehicle batteries...",
+      "publishedAt": "2026-09-22T19:46:29.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/EV-batteries.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -2291,11 +2302,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMilwFBVV95cUxPeGJmdHcxYTFBMU5mM0RLRkVwTTVINzFZeGxGNW9XZ3I2Yzh2NVZNSE00NGZYdzhoQXVORlRtQ05UcV9QOVZOTmQtazFJdThEZlNQUmZ3RkYzQ3VhU2xyQ1o0SEcyendLaWVjQjJLT25DLUFhREhVZm1ON3g3d0RxeWJFMFU2VG9OSXpMa0E3a2N4WVZ6Q2xV",
-      "title": "Colorado fumbles away an opportunity at Northwestern - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGJmdHcxYTFBMU5mM0RLRkVwTTVINzFZeGxGNW9XZ3I2Yzh2NVZNSE00NGZYdzhoQXVORlRtQ05UcV9QOVZOTmQtazFJdThEZlNQUmZ3RkYzQ3VhU2xyQ1o0SEcyendLaWVjQjJLT25DLUFhREhVZm1ON3g3d0RxeWJFMFU2VG9OSXpMa0E3a2N4WVZ6Q2xV?oc=5",
-      "summary": "Colorado fumbles away an opportunity at Northwestern Daily Camera",
-      "publishedAt": "2026-09-20T06:09:50.000Z",
+      "id": "CBMickFVX3lxTE54RXlDbzB3REdwUGxwalFycV9yRmZpV2xTeUpWNzZkSTRxVTlnbnVFamdraE11alJyTmlwcm12RDl2RV95WlIzaWRydzczQXMyTlZNeWVqN0lMa2ZiWXhqcEJxeEZSc1k3MkxDdnhyT3FjQQ",
+      "title": "Data centers are booming across Colorado. Here’s where regional cities stand - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54RXlDbzB3REdwUGxwalFycV9yRmZpV2xTeUpWNzZkSTRxVTlnbnVFamdraE11alJyTmlwcm12RDl2RV95WlIzaWRydzczQXMyTlZNeWVqN0lMa2ZiWXhqcEJxeEZSc1k3MkxDdnhyT3FjQQ?oc=5",
+      "summary": "Data centers are booming across Colorado. Here’s where regional cities stand Daily Camera",
+      "publishedAt": "2026-09-20T12:18:18.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -2344,17 +2355,6 @@
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=464747",
-      "title": "Autex Acoustics Australian HQ by Made For – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/autex-acoustics-australian-hq-by-made-for-issue-21-feature-the-local-project/",
-      "summary": "The post Autex Acoustics Australian HQ by Made For – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T22:47:07.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
     },
     {
       "id": "urn:id:8691",
@@ -2490,9 +2490,9 @@
     },
     {
       "id": "CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r",
-      "title": "Sensual Minimalist Apartment by Bordo Design - newnormmag.com",
+      "title": "Sensual Minimalist Apartment by Bordo Design - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r?oc=5",
-      "summary": "Sensual Minimalist Apartment by Bordo Design newnormmag.com",
+      "summary": "Sensual Minimalist Apartment by Bordo Design New Norm Magazine",
       "publishedAt": "2025-10-17T11:08:49.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -2544,37 +2544,37 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49805748",
-      "title": "Unreal Agent",
-      "link": "https://unreallabs.ai/blog/unreal-agent/",
-      "summary": "https://github.com/unreallabsai/unreal-agent Comments URL: https://news.ycombinator.com/item?id=49805748 Points: 98 # Comments: 59",
-      "publishedAt": "2026-09-22T18:15:53.000Z",
+      "id": "https://news.ycombinator.com/item?id=49807021",
+      "title": "Native apps written in TypeScript and CSS",
+      "link": "https://github.com/geastack/examples",
+      "summary": "Article URL: https://github.com/geastack/examples Comments URL: https://news.ycombinator.com/item?id=49807021 Points: 79 # Comments: 22",
+      "publishedAt": "2026-09-22T19:42:20.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "CBMitAFBVV95cUxOZUpISWFiSjVoTWxlZ1dHVTA4anVsOXBwVC1pUUNiQi01YUVydXVqMUo3U1ZuV20wT1ZHcWdtMjNwal9Ma1ZzYmN1VmRhZnRsdDM4VGttZXRNMUNuemV1a3UxWnpUbUNuc1dqY3dwcm1LWVBYbWpRVFZCaWxnbmc4SGZnaHFPZTZleVYxVmVuVmJ2WVFBdXRjZnA5b1NpdnFYT2piLXJzbjJTc0FYOFkxbGUxMFI",
-      "title": "1790017471_light-patterns-of-change-2.jpg - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUpISWFiSjVoTWxlZ1dHVTA4anVsOXBwVC1pUUNiQi01YUVydXVqMUo3U1ZuV20wT1ZHcWdtMjNwal9Ma1ZzYmN1VmRhZnRsdDM4VGttZXRNMUNuemV1a3UxWnpUbUNuc1dqY3dwcm1LWVBYbWpRVFZCaWxnbmc4SGZnaHFPZTZleVYxVmVuVmJ2WVFBdXRjZnA5b1NpdnFYT2piLXJzbjJTc0FYOFkxbGUxMFI?oc=5",
-      "summary": "1790017471_light-patterns-of-change-2.jpg The Taos News",
-      "publishedAt": "2026-09-22T17:45:28.000Z",
+      "id": "https://interestingengineering.com/?p=311769",
+      "title": "Lockheed connects 16 F-35 flight simulators across four bases for combat drill",
+      "link": "https://interestingengineering.com/military/lockheed-links-16-f-35-simulators",
+      "summary": "Lockheed Martin connected 16 F-35 full mission simulators across four military bases for a two-hour...",
+      "publishedAt": "2026-09-22T19:34:29.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-Photo-72.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "CBMinAFBVV95cUxOSVlVemsxeTlYZGhBUVJSTFRtWlJoa1NKQmpIblRxYzVPYU1KcGt4SGMtdzY0Uy1meml3cVB3MUxDME1mNWFTQnVxVGlLWkRsd3UyRGUwRUVsUVYyRHhlOXJqdENjMGU4NGRibVJnekJudUttd1RLZjZDekR2bDhQczIzSElSdmhOR2lUMTJrc3JsYktyQ1JBak1UcjY",
+      "title": "FallColors2009_0310.jpg - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlVemsxeTlYZGhBUVJSTFRtWlJoa1NKQmpIblRxYzVPYU1KcGt4SGMtdzY0Uy1meml3cVB3MUxDME1mNWFTQnVxVGlLWkRsd3UyRGUwRUVsUVYyRHhlOXJqdENjMGU4NGRibVJnekJudUttd1RLZjZDekR2bDhQczIzSElSdmhOR2lUMTJrc3JsYktyQ1JBak1UcjY?oc=5",
+      "summary": "FallColors2009_0310.jpg The Taos News",
+      "publishedAt": "2026-09-22T18:50:30.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=311885",
-      "title": "Beyond lithium-ion: Qnetic’s 200kWh Pulsar system enters low-speed testing phase",
-      "link": "https://interestingengineering.com/energy/energy-storage-qnetic-pulsar-testing",
-      "summary": "Flywheel-based energy storage system manufacturer Qnetic has reached an important milestone after it began low-speed...",
-      "publishedAt": "2026-09-22T17:13:47.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/P-3.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "6ab29e0a16371b41ccca5893",
@@ -2586,6 +2586,17 @@
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=465356",
+      "title": "Loller Street Apartments by Telha Clarke and Mim Design – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/loller-street-apartments-by-telha-clarke-and-mim-design-issue-21-feature-the-local-project/",
+      "summary": "The post Loller Street Apartments by Telha Clarke and Mim Design – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-22T02:21:18.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=125735&secret=cM2XMtKpK3Lj&nonce=70f19d6eef",
@@ -2643,11 +2654,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMihwFBVV95cUxPaHhKWXBhM1dPNWhCYkNrOEtUMjF1T01WUUhKc2N5Xy00aHVWVTRId0d5WlF3cFFuekZYVHMwY3o0dzJqY3J2NnBIQlJTY09YeHJkRUdEV0tGRElHZXdiZDQ0dC04RGFIVUlqRFV2WW1pU1htUUNRbU1aY3R5cDVzY3dhNTJYdTg",
-      "title": "CU Buffs football: Northwestern in review, 41-7 loss - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHhKWXBhM1dPNWhCYkNrOEtUMjF1T01WUUhKc2N5Xy00aHVWVTRId0d5WlF3cFFuekZYVHMwY3o0dzJqY3J2NnBIQlJTY09YeHJkRUdEV0tGRElHZXdiZDQ0dC04RGFIVUlqRFV2WW1pU1htUUNRbU1aY3R5cDVzY3dhNTJYdTg?oc=5",
-      "summary": "CU Buffs football: Northwestern in review, 41-7 loss Daily Camera",
-      "publishedAt": "2026-09-20T02:59:33.000Z",
+      "id": "CBMilwFBVV95cUxPeGJmdHcxYTFBMU5mM0RLRkVwTTVINzFZeGxGNW9XZ3I2Yzh2NVZNSE00NGZYdzhoQXVORlRtQ05UcV9QOVZOTmQtazFJdThEZlNQUmZ3RkYzQ3VhU2xyQ1o0SEcyendLaWVjQjJLT25DLUFhREhVZm1ON3g3d0RxeWJFMFU2VG9OSXpMa0E3a2N4WVZ6Q2xV",
+      "title": "Colorado fumbles away an opportunity at Northwestern - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGJmdHcxYTFBMU5mM0RLRkVwTTVINzFZeGxGNW9XZ3I2Yzh2NVZNSE00NGZYdzhoQXVORlRtQ05UcV9QOVZOTmQtazFJdThEZlNQUmZ3RkYzQ3VhU2xyQ1o0SEcyendLaWVjQjJLT25DLUFhREhVZm1ON3g3d0RxeWJFMFU2VG9OSXpMa0E3a2N4WVZ6Q2xV?oc=5",
+      "summary": "Colorado fumbles away an opportunity at Northwestern Daily Camera",
+      "publishedAt": "2026-09-20T06:09:50.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -2718,17 +2729,6 @@
       "sourceId": "psyche",
       "sourceName": "Psyche",
       "category": "ideas"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=464735",
-      "title": "In Focus: Dulux Colour Forecast 2026 – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/in-focus-dulux-colour-forecast-2026-issue-21-feature-the-local-project/",
-      "summary": "The post In Focus: Dulux Colour Forecast 2026 – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T05:14:56.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
     },
     {
       "id": "https://www.science.org/content/article/why-ai-agents-invent-their-own-language-if-you-let-them-chat",
@@ -2853,9 +2853,9 @@
     },
     {
       "id": "CBMiYkFVX3lxTFBVcmdYcVJ3cmtuN2JoX0FPV3FGcHlrR1BEOW45YnE4UWpBWE5INW0wbU40Z3M0R1pRczNqbzR1MWhPa3FVdlFiQ0NrdFFIWlF4Tm1RSDBIbFZPUWZCd0U3Tzh3",
-      "title": "The Curlicue House by S+Arch - newnormmag.com",
+      "title": "The Curlicue House by S+Arch - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVcmdYcVJ3cmtuN2JoX0FPV3FGcHlrR1BEOW45YnE4UWpBWE5INW0wbU40Z3M0R1pRczNqbzR1MWhPa3FVdlFiQ0NrdFFIWlF4Tm1RSDBIbFZPUWZCd0U3Tzh3?oc=5",
-      "summary": "The Curlicue House by S+Arch newnormmag.com",
+      "summary": "The Curlicue House by S+Arch New Norm Magazine",
       "publishedAt": "2025-09-05T14:46:10.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -2918,37 +2918,37 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49805677",
-      "title": "An update on how we confirm your age group on Discord",
-      "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
-      "summary": "Article URL: https://discord.com/blog/safer-for-teens-same-discord-for-adults Comments URL: https://news.ycombinator.com/item?id=49805677 Points: 89 # Comments: 36",
-      "publishedAt": "2026-09-22T18:10:31.000Z",
+      "id": "https://news.ycombinator.com/item?id=49807003",
+      "title": "Obscura: VPN that can't log your activity",
+      "link": "https://obscura.com/#faq-technical",
+      "summary": "Article URL: https://obscura.com/#faq-technical Comments URL: https://news.ycombinator.com/item?id=49807003 Points: 76 # Comments: 73",
+      "publishedAt": "2026-09-22T19:40:28.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "CBMi1wFBVV95cUxQWnFpbWpxVVJtUFl2VmNJNzVuV011U1RFUnViZWxhQWQtSmYwMS1wQjNEcXNCRzdsS0o3dEt4NlBSbENMWnRSdUFGM2hUcmVabklDMFBXRHdkdE8yblVWck51NEk3cEJZUjZnNUVqWXlyNExma1FYZC1tTmJuR0MwOWZ0T3ZlR3lQUV9qVkhkRUw4U0wxc0twQXo5bURBN0hfcGk4NmVYQVJ1TEpSVC1YaU91WXVnQTlmVXBOU2VvM0V4cXlfMktaUnl3QVo5aTVIeGplZ2xZWQ",
-      "title": "1790011570_ODonnell_NM_Taos_Taos_Land_Trust_children-027-scaled.jpg - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnFpbWpxVVJtUFl2VmNJNzVuV011U1RFUnViZWxhQWQtSmYwMS1wQjNEcXNCRzdsS0o3dEt4NlBSbENMWnRSdUFGM2hUcmVabklDMFBXRHdkdE8yblVWck51NEk3cEJZUjZnNUVqWXlyNExma1FYZC1tTmJuR0MwOWZ0T3ZlR3lQUV9qVkhkRUw4U0wxc0twQXo5bURBN0hfcGk4NmVYQVJ1TEpSVC1YaU91WXVnQTlmVXBOU2VvM0V4cXlfMktaUnl3QVo5aTVIeGplZ2xZWQ?oc=5",
-      "summary": "1790011570_ODonnell_NM_Taos_Taos_Land_Trust_children-027-scaled.jpg The Taos News",
-      "publishedAt": "2026-09-22T17:30:36.000Z",
+      "id": "https://interestingengineering.com/?p=311957",
+      "title": "US Navy targets 3 nuclear submarines a year from 2031 under new four-pillar plan",
+      "link": "https://interestingengineering.com/military/us-navy-2-virginia-1-columbia-submarines-yearly-2031",
+      "summary": "The US Navy has announced a novel strategy to speed up its nuclear submarine construction,...",
+      "publishedAt": "2026-09-22T19:26:09.000Z",
+      "imageUrl": "https://www.youtube.com/embed/4typFI12_9k",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "CBMitAFBVV95cUxOZUpISWFiSjVoTWxlZ1dHVTA4anVsOXBwVC1pUUNiQi01YUVydXVqMUo3U1ZuV20wT1ZHcWdtMjNwal9Ma1ZzYmN1VmRhZnRsdDM4VGttZXRNMUNuemV1a3UxWnpUbUNuc1dqY3dwcm1LWVBYbWpRVFZCaWxnbmc4SGZnaHFPZTZleVYxVmVuVmJ2WVFBdXRjZnA5b1NpdnFYT2piLXJzbjJTc0FYOFkxbGUxMFI",
+      "title": "1790017471_light-patterns-of-change-2.jpg - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUpISWFiSjVoTWxlZ1dHVTA4anVsOXBwVC1pUUNiQi01YUVydXVqMUo3U1ZuV20wT1ZHcWdtMjNwal9Ma1ZzYmN1VmRhZnRsdDM4VGttZXRNMUNuemV1a3UxWnpUbUNuc1dqY3dwcm1LWVBYbWpRVFZCaWxnbmc4SGZnaHFPZTZleVYxVmVuVmJ2WVFBdXRjZnA5b1NpdnFYT2piLXJzbjJTc0FYOFkxbGUxMFI?oc=5",
+      "summary": "1790017471_light-patterns-of-change-2.jpg The Taos News",
+      "publishedAt": "2026-09-22T17:45:28.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=311893",
-      "title": "Smart sensors track 932°F molten salt to spot hidden faults in US nuclear reactors",
-      "link": "https://interestingengineering.com/energy/smart-sensors-track-932f-molten-salt-to-spot-hidden-faults-in-us-nuclear-reactors",
-      "summary": "A novel monitoring system developed by scientists in the US combines fiber-optic temperature sensors with...",
-      "publishedAt": "2026-09-22T15:27:13.000Z",
-      "imageUrl": "https://www.youtube.com/embed/gH3Wlhwy_2E",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "6ab290ce53bdeef50ce591b3",
@@ -2960,6 +2960,17 @@
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=465310",
+      "title": "Profile: Gemma Smith – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/profile-gemma-smith-issue-21-feature-the-local-project/",
+      "summary": "The post Profile: Gemma Smith – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-21T22:13:25.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=123074&secret=cM2XMtKpK3Lj&nonce=ff7db58057",
@@ -3006,6 +3017,17 @@
       "category": "local"
     },
     {
+      "id": "CBMihwFBVV95cUxPaHhKWXBhM1dPNWhCYkNrOEtUMjF1T01WUUhKc2N5Xy00aHVWVTRId0d5WlF3cFFuekZYVHMwY3o0dzJqY3J2NnBIQlJTY09YeHJkRUdEV0tGRElHZXdiZDQ0dC04RGFIVUlqRFV2WW1pU1htUUNRbU1aY3R5cDVzY3dhNTJYdTg",
+      "title": "CU Buffs football: Northwestern in review, 41-7 loss - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHhKWXBhM1dPNWhCYkNrOEtUMjF1T01WUUhKc2N5Xy00aHVWVTRId0d5WlF3cFFuekZYVHMwY3o0dzJqY3J2NnBIQlJTY09YeHJkRUdEV0tGRElHZXdiZDQ0dC04RGFIVUlqRFV2WW1pU1htUUNRbU1aY3R5cDVzY3dhNTJYdTg?oc=5",
+      "summary": "CU Buffs football: Northwestern in review, 41-7 loss Daily Camera",
+      "publishedAt": "2026-09-20T02:59:33.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.surfacemag.com/?p=211948",
       "title": "A Sunset Fête for Designer Presley Oldham’s Spring/Summer 2027 Collection",
       "link": "https://www.surfacemag.com/articles/presley-oldhams-spring-summer-2027-collection/",
@@ -3026,17 +3048,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM",
-      "title": "CU Buffs scouting report vs. Northwestern Wildcats - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM?oc=5",
-      "summary": "CU Buffs scouting report vs. Northwestern Wildcats Daily Camera",
-      "publishedAt": "2026-09-18T22:30:33.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://www.dwell.com/article/kennedy-center-airbnb-housing-fund-c8f40129",
@@ -3070,17 +3081,6 @@
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=465063",
-      "title": "TASS Brings Resort-Like Living to a Sydney Family Home – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/tass-brings-resort-like-living-to-a-sydney-family-home-the-local-project/",
-      "summary": "The post TASS Brings Resort-Like Living to a Sydney Family Home – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T05:10:39.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
     },
     {
       "id": "urn:id:9075",
@@ -3227,9 +3227,9 @@
     },
     {
       "id": "CBMiYEFVX3lxTE5PbGlVMndWV3A1bnJlb3VuQnJwOUF3TzBQV2RWOFMyc2F4RVZDOU9hTm8ybGpTOE05NDAxTm1JVWhTa2lmTTJYcGFvU08tSW5JbGhsTXhQV3JvanRTLTBPSA",
-      "title": "Mount Martha by Mékr Studio - newnormmag.com",
+      "title": "Mount Martha by Mékr Studio - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PbGlVMndWV3A1bnJlb3VuQnJwOUF3TzBQV2RWOFMyc2F4RVZDOU9hTm8ybGpTOE05NDAxTm1JVWhTa2lmTTJYcGFvU08tSW5JbGhsTXhQV3JvanRTLTBPSA?oc=5",
-      "summary": "Mount Martha by Mékr Studio newnormmag.com",
+      "summary": "Mount Martha by Mékr Studio New Norm Magazine",
       "publishedAt": "2025-07-29T22:38:19.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -3292,23 +3292,23 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49805509",
-      "title": "GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 997 # Comments: 537",
-      "publishedAt": "2026-09-22T18:00:34.000Z",
+      "id": "https://news.ycombinator.com/item?id=49806430",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 408 # Comments: 213",
+      "publishedAt": "2026-09-22T19:03:38.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311937",
-      "title": "US Army orders $1.2B precision strike missile upgrade that can hunt moving targets",
-      "link": "https://interestingengineering.com/military/prsm-increment-2-lockheed-martin-1-2-billion-contract",
-      "summary": "Lockheed Martin has secured a U.S. Army contract worth up to $1.2 billion to produce...",
-      "publishedAt": "2026-09-22T14:52:32.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-Lockheed-martin-gets-precision-strike-contract-.jpg",
+      "id": "https://interestingengineering.com/?p=311984",
+      "title": "‘Artificial’ sounds fake: Trump proposes renaming AI ‘super intelligence’ in UN speech",
+      "link": "https://interestingengineering.com/culture/trump-renames-ai-super-intelligence-us-government",
+      "summary": "US President Donald Trump has announced that the US government will replace the term “artificial...",
+      "publishedAt": "2026-09-22T18:31:32.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-2296584703.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -3334,6 +3334,17 @@
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=464848",
+      "title": "Reece’s Immersive New Showroom at Sydney’s Rosebery Engine Yards – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/reeces-immersive-new-showroom-at-sydneys-rosebery-engine-yards-the-local-project/",
+      "summary": "The post Reece’s Immersive New Showroom at Sydney’s Rosebery Engine Yards – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-21T22:08:17.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "https://nautil.us/?p=1285163",
@@ -3380,6 +3391,17 @@
       "category": "local"
     },
     {
+      "id": "CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM",
+      "title": "CU Buffs scouting report vs. Northwestern Wildcats - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW01Wmk3NFVfTUk5LU5fVW9ZY3QyZHVqd2hVNjU5b2lUamRYdmVIbzBhdUdyeExUYWlQWWZsd3VYMEhzTjlFVzNHVFlZX3VzcXp4WXA2VGdpSldJNnlGa3dud3J3UjZtc0FSVmVTcW0xM0pOSU1uSTZieGpIdXRJcnBXbk9pZDBIQzYzcHFqOVVFUVF2WmJYZm1JUnJ3c2VCYVNwMmQyanM?oc=5",
+      "summary": "CU Buffs scouting report vs. Northwestern Wildcats Daily Camera",
+      "publishedAt": "2026-09-18T22:30:33.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.themarginalian.org/?p=86136",
       "title": "Against the Cartesian Myth of Work/Life Balance: André Gregory’s Extraordinary Letter to Richard Avedon about the Nature of Creativity",
       "link": "https://www.themarginalian.org/2026/09/18/andre-gregory-richard-avedon-letter/",
@@ -3400,17 +3422,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw",
-      "title": "Meet the CU Boulder student running to be city’s next mayor - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw?oc=5",
-      "summary": "Meet the CU Boulder student running to be city’s next mayor Daily Camera",
-      "publishedAt": "2026-09-18T12:05:25.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://www.surfacemag.com/?p=211865",
@@ -3444,17 +3455,6 @@
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=465035",
-      "title": "Caulfield House by Zenn Design – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/caulfield-house-by-zenn-design-the-local-project/",
-      "summary": "The post Caulfield House by Zenn Design – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T05:01:52.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
     },
     {
       "id": "https://www.science.org/content/article/california-spend-billions-visionary-plan-boost-fish-habitat",
@@ -3601,9 +3601,9 @@
     },
     {
       "id": "CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91",
-      "title": "G Residence by Atelier01 (A01) - newnormmag.com",
+      "title": "G Residence by Atelier01 (A01) - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91?oc=5",
-      "summary": "G Residence by Atelier01 (A01) newnormmag.com",
+      "summary": "G Residence by Atelier01 (A01) New Norm Magazine",
       "publishedAt": "2025-07-29T21:18:52.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -3666,23 +3666,23 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49805278",
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "summary": "https://archive.ph/96YBP Comments URL: https://news.ycombinator.com/item?id=49805278 Points: 252 # Comments: 185",
-      "publishedAt": "2026-09-22T17:46:02.000Z",
+      "id": "https://news.ycombinator.com/item?id=49806335",
+      "title": "SAML: A fractal of bad design",
+      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ Comments URL: https://news.ycombinator.com/item?id=49806335 Points: 152 # Comments: 88",
+      "publishedAt": "2026-09-22T18:57:17.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=311832",
-      "title": "US firms join hands to turn 565,000 tons of food waste into renewable natural gas",
-      "link": "https://interestingengineering.com/energy/vanguard-renewables-generate-upcycle-food-waste-rng",
-      "summary": "Vanguard Renewables is set to acquire Generate Upcycle’s North American operations in a deal that...",
-      "publishedAt": "2026-09-22T13:49:16.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Thumbnails-for-IE-Food-waste-companies-merge.jpg",
+      "id": "https://interestingengineering.com/?p=311885",
+      "title": "Beyond lithium-ion: Qnetic’s 200kWh Pulsar system enters low-speed testing phase",
+      "link": "https://interestingengineering.com/energy/energy-storage-qnetic-pulsar-testing",
+      "summary": "Flywheel-based energy storage system manufacturer Qnetic has reached an important milestone after it began low-speed...",
+      "publishedAt": "2026-09-22T17:13:47.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/P-3.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -3743,6 +3743,17 @@
       "category": "local"
     },
     {
+      "id": "https://thelocalproject.com.au/?p=465296",
+      "title": "Saint by BOND – Issue 21 Feature – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/saint-by-bond-issue-21-feature-the-local-project/",
+      "summary": "The post Saint by BOND – Issue 21 Feature – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-09-21T04:17:04.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
       "id": "CBMizAFBVV95cUxNTHY3V0stWFlxQzR1SWlmLUxoRDEtb1JrT3dCSVRwZjNyQ1dfRXl0bGlJUktSajFsUVlWNGxJUWp6b2xKLVZlM0lfUWxpMWJBaFlQaVJOSFJCVi1RbFNDOERmTE9Xd1ViTXJpTWtvMHY3RjlCSUFIYXNNaGItYThtMFRQUHZwenJiUWQ5Ynh1Uk10RXduNktlVWI2bUh1d2tVWHhKOHNTdjN3dHJIVFdHU3ZNU0pNc3FSZ0l5ckl3YjItMXptU210b2NQTHI",
       "title": "Instant reaction mailbag: Where does QB room stand after Hejny injury? - The Coloradoan",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHY3V0stWFlxQzR1SWlmLUxoRDEtb1JrT3dCSVRwZjNyQ1dfRXl0bGlJUktSajFsUVlWNGxJUWp6b2xKLVZlM0lfUWxpMWJBaFlQaVJOSFJCVi1RbFNDOERmTE9Xd1ViTXJpTWtvMHY3RjlCSUFIYXNNaGItYThtMFRQUHZwenJiUWQ5Ynh1Uk10RXduNktlVWI2bUh1d2tVWHhKOHNTdjN3dHJIVFdHU3ZNU0pNc3FSZ0l5ckl3YjItMXptU210b2NQTHI?oc=5",
@@ -3776,6 +3787,17 @@
       "category": "design"
     },
     {
+      "id": "CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw",
+      "title": "Meet the CU Boulder student running to be city’s next mayor - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc3lZM2w5dzhGaWdIYXhIWDhrbTJjcWJFYlByOTFQRVk1enlnQWlSN2Q0YUpKVGR5VzZYUVJzWHRJVWJtbnk3T2NFZFgxLVFPT24zdnJfaVppS3VNRFBsMl9raEJvTHFNb3I1em55MzhXM2E4SjJuUzFfMEhLTzdYYlotRW5Hdw?oc=5",
+      "summary": "Meet the CU Boulder student running to be city’s next mayor Daily Camera",
+      "publishedAt": "2026-09-18T12:05:25.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.surfacemag.com/?p=211853",
       "title": "Chanel’s Hatmaker Maison Michel Opens a 90th-Anniversary Show in Paris, and Other News.",
       "link": "https://www.surfacemag.com/articles/chanel-hatmaker-maison-michel-opens-a-90th-anniversary-show-in-paris/",
@@ -3785,17 +3807,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "CBMiggFBVV95cUxQaXhMd01Uckl5NE1JTzQ4NDBiaHNxWW5ZVlhOQjVxeHhmUXZ0UnhBcHlCeHp6cU1lYUttUVNMU2hxWjgwX2lwTnZnVFB4UHhibFRBRDdmNkJnUG9WelRtYWRjSkN3eklxZnR3ZXhEMVdxTVlMNEd5UDVCc1RPQmt2bDNB",
-      "title": "Speed, hands, and a CU Buffs plan for Northwestern's zone defense - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaXhMd01Uckl5NE1JTzQ4NDBiaHNxWW5ZVlhOQjVxeHhmUXZ0UnhBcHlCeHp6cU1lYUttUVNMU2hxWjgwX2lwTnZnVFB4UHhibFRBRDdmNkJnUG9WelRtYWRjSkN3eklxZnR3ZXhEMVdxTVlMNEd5UDVCc1RPQmt2bDNB?oc=5",
-      "summary": "Speed, hands, and a CU Buffs plan for Northwestern's zone defense Daily Camera",
-      "publishedAt": "2026-09-18T02:02:34.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://leibal.com/?p=184324",
@@ -3818,17 +3829,6 @@
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=464714",
-      "title": "Arthouse by Lake Flato Architects – Issue 21 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/arthouse-by-lake-flato-architects-issue-21-feature-the-local-project/",
-      "summary": "The post Arthouse by Lake Flato Architects – Issue 21 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-09-16T04:38:44.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
     },
     {
       "id": "https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math",
@@ -3975,9 +3975,9 @@
     },
     {
       "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
-      "title": "FOX Home by Yara Lysiuk - newnormmag.com",
+      "title": "FOX Home by Yara Lysiuk - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE?oc=5",
-      "summary": "FOX Home by Yara Lysiuk newnormmag.com",
+      "summary": "FOX Home by Yara Lysiuk New Norm Magazine",
       "publishedAt": "2025-05-27T02:21:54.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -4040,11 +4040,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49804931",
-      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-      "link": "https://www.coveragecat.com/",
-      "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives.…",
-      "publishedAt": "2026-09-22T17:26:36.000Z",
+      "id": "https://news.ycombinator.com/item?id=49805748",
+      "title": "Unreal Agent",
+      "link": "https://unreallabs.ai/blog/unreal-agent/",
+      "summary": "https://github.com/unreallabsai/unreal-agent Comments URL: https://news.ycombinator.com/item?id=49805748 Points: 131 # Comments: 75",
+      "publishedAt": "2026-09-22T18:15:53.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4084,6 +4084,17 @@
       "category": "local"
     },
     {
+      "id": "CBMiggFBVV95cUxQaXhMd01Uckl5NE1JTzQ4NDBiaHNxWW5ZVlhOQjVxeHhmUXZ0UnhBcHlCeHp6cU1lYUttUVNMU2hxWjgwX2lwTnZnVFB4UHhibFRBRDdmNkJnUG9WelRtYWRjSkN3eklxZnR3ZXhEMVdxTVlMNEd5UDVCc1RPQmt2bDNB",
+      "title": "Speed, hands, and a CU Buffs plan for Northwestern's zone defense - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaXhMd01Uckl5NE1JTzQ4NDBiaHNxWW5ZVlhOQjVxeHhmUXZ0UnhBcHlCeHp6cU1lYUttUVNMU2hxWjgwX2lwTnZnVFB4UHhibFRBRDdmNkJnUG9WelRtYWRjSkN3eklxZnR3ZXhEMVdxTVlMNEd5UDVCc1RPQmt2bDNB?oc=5",
+      "summary": "Speed, hands, and a CU Buffs plan for Northwestern's zone defense Daily Camera",
+      "publishedAt": "2026-09-18T02:02:34.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.themarginalian.org/?p=87932",
       "title": "On Losing a Parent",
       "link": "https://www.themarginalian.org/2026/09/17/on-losing-a-parent/",
@@ -4104,17 +4115,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "CBMipAFBVV95cUxNdTVHZUZkbldNa215a1B3MUNWVWwzMy1LSWZFSTR4MkhCOWE1V2cyNXMzNzhWaUFQWXhpTXFrUlZXUURibDRLLVZ2dzRGaWIyYTliRnhPNjRvSWxlZ25oN2c5bi1yUWtKYlJsWjZMQUUxNmVRUmtyZ3hwb2hOcUw2bHNNbHo2V2ozQU80ZUxOS3ZKMk40aWJIaWtpWi1yNXJwZ1hFVA",
-      "title": "Gary Barnett’s run at Northwestern put Wildcats football back on map - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTVHZUZkbldNa215a1B3MUNWVWwzMy1LSWZFSTR4MkhCOWE1V2cyNXMzNzhWaUFQWXhpTXFrUlZXUURibDRLLVZ2dzRGaWIyYTliRnhPNjRvSWxlZ25oN2c5bi1yUWtKYlJsWjZMQUUxNmVRUmtyZ3hwb2hOcUw2bHNNbHo2V2ozQU80ZUxOS3ZKMk40aWJIaWtpWi1yNXJwZ1hFVA?oc=5",
-      "summary": "Gary Barnett’s run at Northwestern put Wildcats football back on map Daily Camera",
-      "publishedAt": "2026-09-17T00:00:38.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "urn:id:9121",
@@ -4206,9 +4206,9 @@
     },
     {
       "id": "CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg",
-      "title": "Pantheone Audio - newnormmag.com",
+      "title": "Pantheone Audio - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg?oc=5",
-      "summary": "Pantheone Audio newnormmag.com",
+      "summary": "Pantheone Audio New Norm Magazine",
       "publishedAt": "2025-04-10T07:30:22.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -4238,11 +4238,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49804683",
-      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-      "link": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117299954135808210 Comments URL: https://news.ycombinator.com/item?id=49804683 Points: 235 # Comments: 103",
-      "publishedAt": "2026-09-22T17:12:51.000Z",
+      "id": "https://news.ycombinator.com/item?id=49805509",
+      "title": "GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1169 # Comments: 601",
+      "publishedAt": "2026-09-22T18:00:34.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4304,11 +4304,11 @@
       "category": "design"
     },
     {
-      "id": "CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5",
-      "title": "3 dead after being swept away by floodwaters on the Navajo Nation - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5?oc=5",
-      "summary": "3 dead after being swept away by floodwaters on the Navajo Nation Daily Camera",
-      "publishedAt": "2026-09-16T23:28:39.000Z",
+      "id": "CBMipAFBVV95cUxNdTVHZUZkbldNa215a1B3MUNWVWwzMy1LSWZFSTR4MkhCOWE1V2cyNXMzNzhWaUFQWXhpTXFrUlZXUURibDRLLVZ2dzRGaWIyYTliRnhPNjRvSWxlZ25oN2c5bi1yUWtKYlJsWjZMQUUxNmVRUmtyZ3hwb2hOcUw2bHNNbHo2V2ozQU80ZUxOS3ZKMk40aWJIaWtpWi1yNXJwZ1hFVA",
+      "title": "Gary Barnett’s run at Northwestern put Wildcats football back on map - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTVHZUZkbldNa215a1B3MUNWVWwzMy1LSWZFSTR4MkhCOWE1V2cyNXMzNzhWaUFQWXhpTXFrUlZXUURibDRLLVZ2dzRGaWIyYTliRnhPNjRvSWxlZ25oN2c5bi1yUWtKYlJsWjZMQUUxNmVRUmtyZ3hwb2hOcUw2bHNNbHo2V2ozQU80ZUxOS3ZKMk40aWJIaWtpWi1yNXJwZ1hFVA?oc=5",
+      "summary": "Gary Barnett’s run at Northwestern put Wildcats football back on map Daily Camera",
+      "publishedAt": "2026-09-17T00:00:38.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4404,9 +4404,9 @@
     },
     {
       "id": "CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU",
-      "title": "PNY in Reims, France by Rudy Guénaire - newnormmag.com",
+      "title": "PNY in Reims, France by Rudy Guénaire - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU?oc=5",
-      "summary": "PNY in Reims, France by Rudy Guénaire newnormmag.com",
+      "summary": "PNY in Reims, France by Rudy Guénaire New Norm Magazine",
       "publishedAt": "2025-02-07T15:07:15.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -4436,11 +4436,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49804316",
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 204 # Comments: 56",
-      "publishedAt": "2026-09-22T16:51:31.000Z",
+      "id": "https://news.ycombinator.com/item?id=49805278",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "summary": "https://archive.ph/96YBP Comments URL: https://news.ycombinator.com/item?id=49805278 Points: 386 # Comments: 277",
+      "publishedAt": "2026-09-22T17:46:02.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4502,11 +4502,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiekFVX3lxTE9ldF8yWEJCUElqQVNoUDBleVdFbE4ySnphcXpSSEFfbkJUeWUzNW1UYWdwckpDU1RaeTJJMXhEVlUzRExWMkl0SWY3cEdDRXhlRXJZeGhIVmdadmc2TzBLQlh5TDFqVWhkMW1abnl5TkZabWNEWHlNMmhn",
-      "title": "Boulder Valley leaders defend school closure process as parents question urgency - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ldF8yWEJCUElqQVNoUDBleVdFbE4ySnphcXpSSEFfbkJUeWUzNW1UYWdwckpDU1RaeTJJMXhEVlUzRExWMkl0SWY3cEdDRXhlRXJZeGhIVmdadmc2TzBLQlh5TDFqVWhkMW1abnl5TkZabWNEWHlNMmhn?oc=5",
-      "summary": "Boulder Valley leaders defend school closure process as parents question urgency Daily Camera",
-      "publishedAt": "2026-09-16T00:28:55.000Z",
+      "id": "CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5",
+      "title": "3 dead after being swept away by floodwaters on the Navajo Nation - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSm5YYmlwUk83azRGdlhobkR2S3h0eHdoX3JYR25IaElOTUd0OWhNTWJsbTdIMHFGbG1sSC12RDVMUU52QjZVR01sTXR2WGdIRm1sSF9meWVCWDM0NWJ3dHlYNG9KYVNfdUpPVHAwX3NmN0d5?oc=5",
+      "summary": "3 dead after being swept away by floodwaters on the Navajo Nation Daily Camera",
+      "publishedAt": "2026-09-16T23:28:39.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4602,9 +4602,9 @@
     },
     {
       "id": "CBMiYEFVX3lxTE5QMkFySVdNXzdXRnhNRHgxN0IySHJETjQ0b19TY3BfME9xbVRoTmQyaVplYTNiam5NX2FWd0lMNWI0TEdtOXdNUE1vaUNNNUxQLXFJT05HWk1tNG1YMkxjVA",
-      "title": "Rumah Orchid | 28 a.m. - newnormmag.com",
+      "title": "Rumah Orchid | 28 a.m. - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QMkFySVdNXzdXRnhNRHgxN0IySHJETjQ0b19TY3BfME9xbVRoTmQyaVplYTNiam5NX2FWd0lMNWI0TEdtOXdNUE1vaUNNNUxQLXFJT05HWk1tNG1YMkxjVA?oc=5",
-      "summary": "Rumah Orchid | 28 a.m. newnormmag.com",
+      "summary": "Rumah Orchid | 28 a.m. New Norm Magazine",
       "publishedAt": "2024-12-30T13:42:25.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
@@ -4634,11 +4634,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=49803959",
-      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "summary": "Article URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp Comments URL: https://news.ycombinator.com/item?id=49803959 Points: 141 # Comments: 72",
-      "publishedAt": "2026-09-22T16:33:45.000Z",
+      "id": "https://news.ycombinator.com/item?id=49804316",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 233 # Comments: 70",
+      "publishedAt": "2026-09-22T16:51:31.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
