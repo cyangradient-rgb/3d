@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T17:30:03.937Z",
+  "generatedAt": "2026-10-08T22:22:31.420Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -238,8 +238,8 @@
       "name": "Surface",
       "siteUrl": "https://www.surfacemag.com",
       "category": "design",
-      "status": "error",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "dwell",
@@ -300,6 +300,94 @@
   ],
   "articles": [
     {
+      "id": "https://nautil.us/?p=1285654",
+      "title": "Our Ancient Ancestors’ Lost Habitat Revealed by 700,000-Year-Old Elephant’s Tooth",
+      "link": "https://nautil.us/our-ancient-ancestors-lost-habitat-revealed-by-700000-year-old-elephants-tooth-1285654/",
+      "summary": "An elephant’s tooth never forgets The post Our Ancient Ancestors’ Lost Habitat Revealed by 700,000-Year-Old Elephant’s Tooth appeared first on Nautilus.",
+      "publishedAt": "2026-10-08T22:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Area-B-2022-tel-24-1.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=467395",
+      "title": "Casa de Ondas by SAOTA – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/casa-de-ondas-by-saota-the-local-project/",
+      "summary": "The post Casa de Ondas by SAOTA – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-08T21:57:07.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316622",
+      "title": "US Marines add new amphibious recovery fleet to keep combat vehicles moving in battle",
+      "link": "https://interestingengineering.com/military/bae-systems-amphibious-recovery-vehicle",
+      "summary": "BAE Systems has won a $230.1 million contract from the U.S. Marine Corps to produce...",
+      "publishedAt": "2026-10-08T21:43:05.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T005358.359.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50012199",
+      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+      "link": "https://github.com/thesnarkitecht/rembrandt",
+      "summary": "Article URL: https://github.com/thesnarkitecht/rembrandt Comments URL: https://news.ycombinator.com/item?id=50012199 Points: 23 # Comments: 19",
+      "publishedAt": "2026-10-08T21:00:55.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://www.dwell.com/article/hanghar-casa-guadalupe-custom-designed-prefab-home-6fd17e2e",
+      "title": "The Reason This Spanish Architect Got Into Prefab Has Nothing to Do With Speed or Budget",
+      "link": "https://www.dwell.com/article/hanghar-casa-guadalupe-custom-designed-prefab-home-6fd17e2e",
+      "summary": "The first factory-built home by Eduardo Mediero of Madrid firm Hanghar is an experiment in something he feels is much more valuable to a client.",
+      "publishedAt": "2026-10-08T20:51:22.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7501767929549131776/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128314&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "Scientists demonstrate sustained operation of the world’s first self-regulating nuclear clock",
+      "link": "https://www.thebrighterside.news/post/scientists-demonstrate-sustained-operation-of-the-worlds-first-self-regulating-nuclear-clock/",
+      "summary": "Thorium nuclei now guide a working clock’s laser through automatic feedback, though the prototype still trails leading atomic clocks. The post Scientists demonstrate sustained operation of the world’s first self-regulating nuclear clock app…",
+      "publishedAt": "2026-10-08T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Screenshot-2026-10-07-144313.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=74022",
+      "title": "Arthur Sze on Language as a Raft",
+      "link": "https://www.lionsroar.com/language-as-a-raft/",
+      "summary": "Arthur Sze, Poet Laureate of the United States, speaks with Jhani Randhawa about the spiritual endeavor of poetry and translation. The post Arthur Sze on Language as a Raft appeared first on Lion’s Roar.",
+      "publishedAt": "2026-10-08T19:29:45.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
+    },
+    {
+      "id": "https://coloradosun.com/?p=504400",
+      "title": "Victor Marx’s campaign spending is as unusual as the rest of his bid for Colorado governor",
+      "link": "https://coloradosun.com/2026/10/08/victor-marx-campaign-spending-includes-paying-inner-circle/",
+      "summary": "The Republican candidate for Colorado governor spent heavily on fundraising and security, often through people in his inner circle, according to a CPR News investigation",
+      "publishedAt": "2026-10-08T18:15:28.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/victor_marx_denver_jp-7-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
       "id": "6ac7c43135f78c577f76c0b3",
       "title": "Loretta Lynn’s Van Lear Rose Is Returning to Streaming",
       "link": "https://pitchfork.com/story/loretta-lynns-van-lear-rose-is-returning-to-streaming/",
@@ -309,28 +397,6 @@
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=316491",
-      "title": "US’ 100,000-ton aircraft carrier strike group launched 450 land-attack cruise missiles against Iran",
-      "link": "https://interestingengineering.com/military/us-100000-ton-aircraft-carrier-strike-group",
-      "summary": "One of the most powerful aircraft carrier strike group of the United States launched more...",
-      "publishedAt": "2026-10-08T17:21:28.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/carrier.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50008565",
-      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude Comments URL: https://news.ycombinator.com/item?id=50008565 Points: 15 # Comments: 10",
-      "publishedAt": "2026-10-08T17:08:02.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "https://minimalissimo.com/articles/halo-smart-diffuser",
@@ -344,28 +410,6 @@
       "category": "design"
     },
     {
-      "id": "https://www.dwell.com/article/mahogany-house-fred-hollingsworth-frank-paxton-north-vancouver-midcentury-real-estate-48dbe076",
-      "title": "In North Vancouver, a Never-Before-Seen Fred Hollingsworth Midcentury Just Listed for $1.8M",
-      "link": "https://www.dwell.com/article/mahogany-house-fred-hollingsworth-frank-paxton-north-vancouver-midcentury-real-estate-48dbe076",
-      "summary": "Built in 1952, the mahogany-wrapped home has been held by the same family for five decades, and it hasn’t been photographed or published before now.",
-      "publishedAt": "2026-10-08T16:13:36.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7506180356424192000/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128283&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "Physicists use 3D light pulses to unlock new electron quantum states",
-      "link": "https://www.thebrighterside.news/post/physicists-use-3d-light-pulses-to-unlock-new-electron-quantum-states/",
-      "summary": "Two shaped laser pulses opened new electron excitation pathways and tracked rapid quantum dynamics in potassium atoms. The post Physicists use 3D light pulses to unlock new electron quantum states appeared first on The Brighter Side of News…",
-      "publishedAt": "2026-10-08T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/3d-light-1-scaled.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
       "id": "CBMiqwFBVV95cUxOakEzZEtscHFhS1FpR1VIRDNfVmNLeDZEbmk2WUVGeHNIR1VydEdWWmhEMHpVR0JHZ3VfRFFRN1JycXVqSFRTbTQ4VWtsN0VqVGhaTGV5X2pSLWxrN3RxMXZ5dy1oOHgwYjNzd2ROQjFyeWctZlZDNTRGVjJMUEVOSEdFVGZITVU2TlM3TmV0MlprbEFtSTJJSVR3UUMzSEFkVWVwUURYbE9sZFU",
       "title": "1791395726_EarlyVoting-10.jpg - The Taos News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOakEzZEtscHFhS1FpR1VIRDNfVmNLeDZEbmk2WUVGeHNIR1VydEdWWmhEMHpVR0JHZ3VfRFFRN1JycXVqSFRTbTQ4VWtsN0VqVGhaTGV5X2pSLWxrN3RxMXZ5dy1oOHgwYjNzd2ROQjFyeWctZlZDNTRGVjJMUEVOSEdFVGZITVU2TlM3TmV0MlprbEFtSTJJSVR3UUMzSEFkVWVwUURYbE9sZFU?oc=5",
@@ -377,28 +421,6 @@
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285643",
-      "title": "A Distant Star is Slowly Snacking on a Brown Dwarf",
-      "link": "https://nautil.us/a-distant-star-is-slowly-snacking-on-a-brown-dwarf-1285643/",
-      "summary": "This absorption could take billions of years The post A Distant Star is Slowly Snacking on a Brown Dwarf appeared first on Nautilus.",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-grabber.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
-    },
-    {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73946",
-      "title": "Bodhi Leaves Fellowship",
-      "link": "https://www.lionsroar.com/bodhi-leaves-fellowship/",
-      "summary": "Lion’s Roar, a leading voice for Buddhism in the English-speaking world, invites applications to its Bodhi Leaves Fellowship. The post Bodhi Leaves Fellowship appeared first on Lion’s Roar.",
-      "publishedAt": "2026-10-08T14:46:41.000Z",
-      "imageUrl": null,
-      "sourceId": "lions-roar",
-      "sourceName": "Lion's Roar",
-      "category": "ideas"
-    },
-    {
       "id": "https://boulderreportinglab.org/?p=127920",
       "title": "After 20 years of entertaining Boulder kids, Jeff & Paige have their own PBS show",
       "link": "https://boulderreportinglab.org/2026/10/08/after-20-years-of-entertaining-boulder-kids-jeff-paige-have-their-own-pbs-show/",
@@ -407,17 +429,6 @@
       "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/RainbowSocks-165-scaled.jpg?fit=1024%2C684&amp;ssl=1",
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
-      "category": "local"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504292",
-      "title": "What to do in Colorado this week: A reworked Great American Beer Festival heads outdoors and sketch comedy returns to Denver",
-      "link": "https://coloradosun.com/2026/10/08/what-to-do-in-colorado-this-week-great-american-beer-fest-sketch-comedy/",
-      "summary": "Plus: A sensory-friendly \"Don Quixote\" by Colorado Ballet and a fall festival in Fort Collins",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/DSF-2026-photo-2-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
@@ -443,11 +454,11 @@
       "category": "design"
     },
     {
-      "id": "https://www.science.org/content/article/nih-ends-2026-boost-early-career-researchers-new-awards-are-down-overall",
-      "title": "NIH ends 2026 with a boost for early-career researchers, but new awards are down overall",
-      "link": "https://www.science.org/content/article/nih-ends-2026-boost-early-career-researchers-new-awards-are-down-overall",
-      "summary": "The agency spent its full budget, but left many applicants out of luck",
-      "publishedAt": "2026-10-08T11:55:00.000Z",
+      "id": "https://www.science.org/content/article/nih-revives-network-study-emerging-diseases-its-new-restrictions-baffle-scientists",
+      "title": "NIH revives network to study emerging diseases—but its new restrictions baffle scientists",
+      "link": "https://www.science.org/content/article/nih-revives-network-study-emerging-diseases-its-new-restrictions-baffle-scientists",
+      "summary": "Ban on hunting for new viruses in wildlife is at odds with program’s mission, researchers say",
+      "publishedAt": "2026-10-08T12:45:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
@@ -476,6 +487,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://www.surfacemag.com/?p=212929",
+      "title": "Laila Gohar Wants You to Taste Highland Park With Your Imagination",
+      "link": "https://www.surfacemag.com/articles/laila-gohar-highland-park-collaboration/",
+      "summary": "Courtesy of Highland Park Give New York-based Laila Gohar a dram of whisky and she is more likely to picture fully formed scenes than start ticking off citrus, vanilla, and smoke. It's the kind of instinct that led Scotch whisky distiller H…",
+      "publishedAt": "2026-10-08T10:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
+    },
+    {
       "id": "urn:id:8911",
       "title": "Tuesdays with the guys",
       "link": "https://psyche.co/turning-points/tragedy-called-for-a-radical-change-in-my-male-friendships",
@@ -498,22 +520,22 @@
       "category": "ideas"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=467195",
-      "title": "Rustic Canyon by West Haddon Hall – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/rustic-canyon-by-west-haddon-hall-the-local-project/",
-      "summary": "The post Rustic Canyon by West Haddon Hall – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-07T21:25:19.000Z",
+      "id": "CBMihwFBVV95cUxQbFhULXpfdXM1UnFpZXFKdzBCc0xDUnZNRTNGNzlXd2p3SVI3cUNrOVIwaUtxTHRZQjZ4UjRRZHQwMUtJU1RjcDFGSUhLRzlrTlhhWmpIbGZoSDlNYVhKQXhUa3VZQXBtMTFYQTQ4X284WWJySlh6ak95Z0ozSk5EeHRLZDlkbnM",
+      "title": "Here’s how Boulder police are using drones, real-time camera feeds in the field - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFhULXpfdXM1UnFpZXFKdzBCc0xDUnZNRTNGNzlXd2p3SVI3cUNrOVIwaUtxTHRZQjZ4UjRRZHQwMUtJU1RjcDFGSUhLRzlrTlhhWmpIbGZoSDlNYVhKQXhUa3VZQXBtMTFYQTQ4X284WWJySlh6ak95Z0ozSk5EeHRLZDlkbnM?oc=5",
+      "summary": "Here’s how Boulder police are using drones, real-time camera feeds in the field Daily Camera",
+      "publishedAt": "2026-10-07T22:00:38.000Z",
       "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
-      "id": "CBMixAFBVV95cUxPWjFOb2ZfTGNTUGVjdWwycEtlWjg1TVJuVmhWd083VjVnLUlEZTdvV1M0T254Z3VuU2YyVWVKUjNnRF9rZ3FEVV81Q1pTdDM0RDVYdnNmcjB1bDRGSzFmLVk2WGZBWVVIcF9aazY1TTBPUGZrbkVOSEtSaTVhc1JCWjhHMUJfcjQ4Qi15dm1CUVVad19ubXg0aDlwNUFXeTVmYXg1Y1dRNzc1TkNabW1HOHoyNS1iYnN5VXZXa0J1dUN4X3Y1",
-      "title": "Fort Collins City Council to vote on data center moratorium - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjFOb2ZfTGNTUGVjdWwycEtlWjg1TVJuVmhWd083VjVnLUlEZTdvV1M0T254Z3VuU2YyVWVKUjNnRF9rZ3FEVV81Q1pTdDM0RDVYdnNmcjB1bDRGSzFmLVk2WGZBWVVIcF9aazY1TTBPUGZrbkVOSEtSaTVhc1JCWjhHMUJfcjQ4Qi15dm1CUVVad19ubXg0aDlwNUFXeTVmYXg1Y1dRNzc1TkNabW1HOHoyNS1iYnN5VXZXa0J1dUN4X3Y1?oc=5",
-      "summary": "Fort Collins City Council to vote on data center moratorium The Coloradoan",
-      "publishedAt": "2026-10-07T17:08:00.000Z",
+      "id": "CBMitwFBVV95cUxOdXNMbXFtWnhQc096YzdMOTRETVI2VWwzOVBiaHg3VEQ1Z0Z6UGVCQjFpN2trT3dFRTRaSUJxNGJuaEdoY25NZUFsc3pMTlJtNzlfYmVrU0pBbHk4TUktSzRySU8zVERjaVl6VHNraW92dHZ0M20xemR0RFlHUVZkZ0t6RFY1ek5oSEZCMHBLdVAwaDZYLWxodGhES3YtbXFSNWlRa3dwSGFxQ3pZcjJzeXJhOGtURnc",
+      "title": "These are Colorado’s best towns for retirees - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXNMbXFtWnhQc096YzdMOTRETVI2VWwzOVBiaHg3VEQ1Z0Z6UGVCQjFpN2trT3dFRTRaSUJxNGJuaEdoY25NZUFsc3pMTlJtNzlfYmVrU0pBbHk4TUktSzRySU8zVERjaVl6VHNraW92dHZ0M20xemR0RFlHUVZkZ0t6RFY1ek5oSEZCMHBLdVAwaDZYLWxodGhES3YtbXFSNWlRa3dwSGFxQ3pZcjJzeXJhOGtURnc?oc=5",
+      "summary": "These are Colorado’s best towns for retirees The Coloradoan",
+      "publishedAt": "2026-10-07T21:57:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -529,28 +551,6 @@
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
-    },
-    {
-      "id": "CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk",
-      "title": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk?oc=5",
-      "summary": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around Daily Camera",
-      "publishedAt": "2026-10-07T14:01:51.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=212842",
-      "title": "Arca Welcomes Alfredo Paredes and Surface to Wynwood",
-      "link": "https://www.surfacemag.com/articles/arca-talks-alfredo-paredes-and-surface-in-wynwood/",
-      "summary": "Inside the architecturally expressive Wynwood, Miami showroom of luxury marble and natural stone brand Arca, lauded interior designer Alfredo Paredes and Surface Editor-in-Chief David Graver regaled guests with industry insights and persona…",
-      "publishedAt": "2026-10-07T09:56:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
     },
     {
       "id": "https://www.mindful.org/?p=669099",
@@ -674,6 +674,83 @@
       "category": "design"
     },
     {
+      "id": "https://thelocalproject.com.au/?p=467367",
+      "title": "Venini’s bespoke lighting range – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/veninis-bespoke-lighting-range-the-local-project/",
+      "summary": "The post Venini’s bespoke lighting range – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-08T21:52:13.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316615",
+      "title": "World’s first drone to reach the stratosphere climbs 34,245 feet for weather data",
+      "link": "https://interestingengineering.com/innovation/weather-drone-34245-feet-strato-meteomatics",
+      "summary": "Swiss weather technology company Meteomatics has unveiled a multicopter drone that it says reached an...",
+      "publishedAt": "2026-10-08T21:28:02.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/image.jpeg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50011999",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 30 # Comments: 1",
+      "publishedAt": "2026-10-08T20:46:25.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://nautil.us/?p=1285650",
+      "title": "Single Orangutan Moms Set up Playdates for Their Kids",
+      "link": "https://nautil.us/single-orangutan-moms-set-up-playdates-for-their-kids-1285650/",
+      "summary": "And they go to considerable lengths to do it The post Single Orangutan Moms Set up Playdates for Their Kids appeared first on Nautilus.",
+      "publishedAt": "2026-10-08T20:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Four-year-old-infant-carried-by-mother-during-travel.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
+      "id": "https://www.dwell.com/article/soak-bathhouse-badweather-floating-wood-fired-sauna-2f221d14",
+      "title": "£32 Gets You Aboard This Floating Wood-Fired Sauna in London",
+      "link": "https://www.dwell.com/article/soak-bathhouse-badweather-floating-wood-fired-sauna-2f221d14",
+      "summary": "Soak bills itself as an off-grid wellness space with a steam room, cold plunges, showers, and a café and bar area.",
+      "publishedAt": "2026-10-08T18:35:41.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7506411642691256320/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128305&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "Ancient skull fractures strengthen evidence of human sacrifice around Egypt’s royal burials",
+      "link": "https://www.thebrighterside.news/post/ancient-skull-fractures-strengthen-evidence-of-human-sacrifice-around-egypts-royal-burials/",
+      "summary": "Modern forensic analysis finds potentially lethal trauma in ancient Abydos skulls, adding evidence to a century-old sacrifice debate. The post Ancient skull fractures strengthen evidence of human sacrifice around Egypt’s royal burials appea…",
+      "publishedAt": "2026-10-08T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/egypt-main.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://coloradosun.com/?p=504393",
+      "title": "Only eligible votes on Colorado passenger rail ballot question will be counted, Secretary of State says",
+      "link": "https://coloradosun.com/2026/10/08/colorado-counties-reconfigure-voting-systems-passenger-rail-ballot/",
+      "summary": "Adams, Arapahoe, Douglas and Weld County clerks are instructed to reconfigure their voting systems to discount about 800,000 ineligible votes on Ballot Issue 7A",
+      "publishedAt": "2026-10-08T17:44:11.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/Prop-7A-02.jpg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
       "id": "6ac6d3bb169ecf9833519ea6",
       "title": "Watch Audrey Hobert Talk to a Redwood Tree in New “Phoebe” Video",
       "link": "https://pitchfork.com/story/audrey-hobert-phoebe-video/",
@@ -683,28 +760,6 @@
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50008427",
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "link": "https://cactuscompute.com/blog/whistle",
-      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 30 # Comments: 0",
-      "publishedAt": "2026-10-08T16:59:39.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=316570",
-      "title": "World’s first lead-cooled nuclear plant installs massive 95-ton steam separators",
-      "link": "https://interestingengineering.com/energy/worlds-first-lead-cooled-nuclear-plant",
-      "summary": "Engineers in Siberia have installed two 95-ton steam separators at the BREST-OD-300 nuclear reactor. The...",
-      "publishedAt": "2026-10-08T16:24:14.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Rosatom.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "CBMiqgFBVV95cUxNXzZmSXlrZ0lLblFrQ1ZZNXpHdTFadnA1YWFoSHV5azM3aGZ1TG9PaFpDZUxBUUdsZnBHRFNoeHJteUlSYWpIaTV0Tl80bTdTTmh2elR1TThURFkwRXF3NVRIb2lJbDRRZnVyUFlWNVNrUzBqRDBUb0lZUXBRbmlhYXpDVHZFMEstdXJUSk1JV19QZC1WeWdIM2pOQ016REx3U0YyeW1rMlJQdw",
@@ -718,48 +773,26 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128293&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "Astronomers discover a ‘phoenix planet’ reborn from the ashes of a dead star",
-      "link": "https://www.thebrighterside.news/post/astronomers-discover-a-phoenix-planet-reborn-from-the-ashes-of-a-dead-star/",
-      "summary": "A white dwarf’s heavy elements hint at a planet containing material from its dying star, but confirmation is still needed. The post Astronomers discover a ‘phoenix planet’ reborn from the ashes of a dead star appeared first on The Brighter …",
-      "publishedAt": "2026-10-08T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/phoenix-planet-main.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "https://nautil.us/?p=1285626",
-      "title": "What Babies Learn From Spit-Swapping",
-      "link": "https://nautil.us/what-babies-learn-from-spit-swapping-1285626/",
-      "summary": "Saliva is thicker than water The post What Babies Learn From Spit-Swapping appeared first on Nautilus.",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2602613433.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
-    },
-    {
-      "id": "https://www.dwell.com/article/deaths-disclosures-and-discounts-buying-and-selling-stigmatized-properties-murder-houses-a4182fe5-c6875079",
-      "title": "Deaths, Disclosures, and Discounts: How Dark Histories Impact Home Sales",
-      "link": "https://www.dwell.com/article/deaths-disclosures-and-discounts-buying-and-selling-stigmatized-properties-murder-houses-a4182fe5-c6875079",
-      "summary": "When a \"stigmatized property\" hits the market, it doesn’t always come with a reduced asking price—or even notice of its tragic backstory.",
-      "publishedAt": "2026-10-08T13:57:47.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7513243399598284800/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
-    },
-    {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73917",
-      "title": "Some Days, I Have No Patience for Mindfulness",
-      "link": "https://www.lionsroar.com/some-days-i-have-no-patience-for-mindfulness/",
-      "summary": "Kyle Neo spilled milk, lost patience for being a patient, and remembered that mindfulness is a practice, not a personality trait. The post Some Days, I Have No Patience for Mindfulness appeared first on Lion’s Roar.",
-      "publishedAt": "2026-10-08T13:28:11.000Z",
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73111",
+      "title": "The Bardo of Illness",
+      "link": "https://www.lionsroar.com/the-bardo-of-illness/",
+      "summary": "Facing a deadly infection, Ann Tashi Slater learns how to live. The post The Bardo of Illness appeared first on Lion’s Roar.",
+      "publishedAt": "2026-10-08T15:33:00.000Z",
       "imageUrl": null,
       "sourceId": "lions-roar",
       "sourceName": "Lion's Roar",
       "category": "ideas"
+    },
+    {
+      "id": "https://www.science.org/content/article/nih-ends-2026-boost-early-career-researchers-new-awards-are-down-overall",
+      "title": "NIH ends 2026 with a boost for early-career researchers, but new awards are down overall",
+      "link": "https://www.science.org/content/article/nih-ends-2026-boost-early-career-researchers-new-awards-are-down-overall",
+      "summary": "The agency spent its full budget, but left many applicants out of luck",
+      "publishedAt": "2026-10-08T11:55:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
+      "category": "science"
     },
     {
       "id": "https://leibal.com/?p=185085",
@@ -773,17 +806,6 @@
       "category": "design"
     },
     {
-      "id": "https://coloradosun.com/?p=504305",
-      "title": "A Vail mountaineer is vying to be the first American woman to scale the world’s tallest volcanoes",
-      "link": "https://coloradosun.com/2026/10/08/nicole-otake-7-volcanic-summits-mountaineer-vail/",
-      "summary": "Nicole Otake is on a quest to complete the 7 Volcanic Summits — and to help other women start climbing without paying too high a price.",
-      "publishedAt": "2026-10-08T10:20:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/IMG_0258-1.jpg?fit=1024%2C768&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
       "id": "urn:id:9105",
       "title": "The ghetto on the lagoon",
       "link": "https://aeon.co/essays/the-making-of-the-ghetto-on-a-venetian-island-in-1516",
@@ -793,6 +815,17 @@
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
+    },
+    {
+      "id": "https://www.surfacemag.com/?p=212882",
+      "title": "Setting the Table for Genius",
+      "link": "https://www.surfacemag.com/articles/setting-the-table-for-genius-reindustrialize-detroit/",
+      "summary": "Inside Bell Labs Sometime in the middle of the last century, the patent lawyers at Bell Laboratories became curious about their own inventors. The Labs was then one of the most productive research institutions on earth. The transistor, the …",
+      "publishedAt": "2026-10-08T09:56:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
     },
     {
       "id": "https://www.brainpickings.org/?p=63084",
@@ -806,6 +839,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMixAFBVV95cUxPWjFOb2ZfTGNTUGVjdWwycEtlWjg1TVJuVmhWd083VjVnLUlEZTdvV1M0T254Z3VuU2YyVWVKUjNnRF9rZ3FEVV81Q1pTdDM0RDVYdnNmcjB1bDRGSzFmLVk2WGZBWVVIcF9aazY1TTBPUGZrbkVOSEtSaTVhc1JCWjhHMUJfcjQ4Qi15dm1CUVVad19ubXg0aDlwNUFXeTVmYXg1Y1dRNzc1TkNabW1HOHoyNS1iYnN5VXZXa0J1dUN4X3Y1",
+      "title": "Fort Collins City Council to vote on data center moratorium - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjFOb2ZfTGNTUGVjdWwycEtlWjg1TVJuVmhWd083VjVnLUlEZTdvV1M0T254Z3VuU2YyVWVKUjNnRF9rZ3FEVV81Q1pTdDM0RDVYdnNmcjB1bDRGSzFmLVk2WGZBWVVIcF9aazY1TTBPUGZrbkVOSEtSaTVhc1JCWjhHMUJfcjQ4Qi15dm1CUVVad19ubXg0aDlwNUFXeTVmYXg1Y1dRNzc1TkNabW1HOHoyNS1iYnN5VXZXa0J1dUN4X3Y1?oc=5",
+      "summary": "Fort Collins City Council to vote on data center moratorium The Coloradoan",
+      "publishedAt": "2026-10-07T17:08:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
+    },
+    {
       "id": "https://boulderreportinglab.org/?p=127889",
       "title": "Skunk Canyon Fire reported in Boulder; firefighters establish line around blaze",
       "link": "https://boulderreportinglab.org/2026/10/07/skunk-canyon-fire-reported-in-boulder-firefighters-establish-line-around-blaze/",
@@ -817,36 +861,14 @@
       "category": "local"
     },
     {
-      "id": "https://www.science.org/content/article/world-s-once-largest-penguin-colony-perilous-decline",
-      "title": "World’s once-largest penguin colony is in perilous decline",
-      "link": "https://www.science.org/content/article/world-s-once-largest-penguin-colony-perilous-decline",
-      "summary": "Climate change appears to have made food scarce for chinstrap penguins, which had numbered more than 1 million on a remote South Atlantic island",
-      "publishedAt": "2026-10-07T12:25:00.000Z",
-      "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
-    },
-    {
-      "id": "CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8",
-      "title": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8?oc=5",
-      "summary": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say Daily Camera",
-      "publishedAt": "2026-10-07T11:06:49.000Z",
+      "id": "CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk",
+      "title": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk?oc=5",
+      "summary": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around Daily Camera",
+      "publishedAt": "2026-10-07T14:01:51.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "CBMi8gFBVV95cUxOLXVMMkVyZ3ZBd0JMZUlibHdfQjhfZWE1WHJUVkFMRVpIMmRjYVg0bG5hUXd2SkJEc25WclFMbXp2RVpJOHQ4dFdtR0JGamdfTko0d1UtcmFXT001NzdRTGtJVk5nT1JFTExWcU51M0hHY1dXSTRIS3BsZ0w4OTFfN2E1YXVFMWVjX0hobjdzTmRpbUZuLXhYQVdFU0h6YWtXc2h5bU11bDFQbFcyTlJOS2o4a0NvTkNNY0tVOHhhb3Z4WE5VS2ExbEdqUWExdFJxVDZoN0hKXzlzYm1vZTNyQ0xQN2x2SWZ6Mm10TXQtLXhDZw",
-      "title": "School closure plan has some parents calling for secession from PSD - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLXVMMkVyZ3ZBd0JMZUlibHdfQjhfZWE1WHJUVkFMRVpIMmRjYVg0bG5hUXd2SkJEc25WclFMbXp2RVpJOHQ4dFdtR0JGamdfTko0d1UtcmFXT001NzdRTGtJVk5nT1JFTExWcU51M0hHY1dXSTRIS3BsZ0w4OTFfN2E1YXVFMWVjX0hobjdzTmRpbUZuLXhYQVdFU0h6YWtXc2h5bU11bDFQbFcyTlJOS2o4a0NvTkNNY0tVOHhhb3Z4WE5VS2ExbEdqUWExdFJxVDZoN0hKXzlzYm1vZTNyQ0xQN2x2SWZ6Mm10TXQtLXhDZw?oc=5",
-      "summary": "School closure plan has some parents calling for secession from PSD The Coloradoan",
-      "publishedAt": "2026-10-07T11:02:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -870,17 +892,6 @@
       "sourceId": "psyche",
       "sourceName": "Psyche",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=212751",
-      "title": "Sophie Elgort Steps in Front of the Camera for Season Two of “Portrait Mode”",
-      "link": "https://www.surfacemag.com/articles/sophie-elgort-steps-in-front-of-the-camera-for-season-two-of-portrait-mode/",
-      "summary": "The photographer, director, producer, and host talks about her transition from ski racing to photography, the advice from Anna Wintour that changed her creative approach, and what people reveal when a portrait becomes a conversation. Sophie…",
-      "publishedAt": "2026-10-07T09:49:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
     },
     {
       "id": "https://www.mindful.org/?p=650303",
@@ -925,17 +936,6 @@
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=467002",
-      "title": "Henbest House by Jamie Bush + Co – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/henbest-house-by-jamie-bush-co-the-local-project/",
-      "summary": "The post Henbest House by Jamie Bush + Co – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-06T04:53:46.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
     },
     {
       "id": "CBMickFVX3lxTE1HckthcUlrdFg0NG50dUU4eUJfU3JKbnZ3YVRGQWwxUl9MbU14NWhvWWRMT1ZST1paSUxyMTNsRzc2cUhpXzg1VzlLUFdJN2Ftc1BKdDNaX1Q3ZzF6QjBkX3I2ZmVCYlFDUl9RaVdWLWN0Zw",
@@ -1048,6 +1048,50 @@
       "category": "design"
     },
     {
+      "id": "https://thelocalproject.com.au/?p=467343",
+      "title": "Affordable Art Fair Returns to Sydney in November – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/affordable-art-fair-returns-to-sydney-in-november-the-local-project/",
+      "summary": "The post Affordable Art Fair Returns to Sydney in November – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-08T21:35:14.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316639",
+      "title": "‘Modern-day Thomas Edison’ Elon Musk receives National Medal of Science from Trump",
+      "link": "https://interestingengineering.com/culture/elon-musk-donald-trump-science-medal",
+      "summary": "President Donald Trump awarded Elon Musk the National Medal of Science on Thursday, praising the...",
+      "publishedAt": "2026-10-08T20:56:50.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T021926.540.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50011928",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy",
+      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 52 # Comments: 31",
+      "publishedAt": "2026-10-08T20:42:16.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://nautil.us/?p=1285647",
+      "title": "A Recipe for Stopping AI from Going Rogue",
+      "link": "https://nautil.us/a-recipe-for-stopping-ai-from-going-rogue-1285647/",
+      "summary": "This formula aims to prevent LLMs from doing things that endanger humans The post A Recipe for Stopping AI from Going Rogue appeared first on Nautilus.",
+      "publishedAt": "2026-10-08T19:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2362076895.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
       "id": "6ac7afded1e096c849ba8b58",
       "title": "David Byrne and Daniel Pemberton Made a Song Using Weird Elon Musk Quotes",
       "link": "https://pitchfork.com/story/david-byrne-and-daniel-pemberton-made-a-song-using-weird-elon-musk-quotes/",
@@ -1059,15 +1103,26 @@
       "category": "art"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50007764",
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "link": "https://openrouter.ai/stepfun/step-5-preview",
-      "summary": "Article URL: https://openrouter.ai/stepfun/step-5-preview Comments URL: https://news.ycombinator.com/item?id=50007764 Points: 15 # Comments: 6",
-      "publishedAt": "2026-10-08T16:20:20.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "id": "https://www.dwell.com/article/mahogany-house-fred-hollingsworth-frank-paxton-north-vancouver-midcentury-real-estate-48dbe076",
+      "title": "In North Vancouver, a Never-Before-Seen Fred Hollingsworth Midcentury Just Listed for $1.8M",
+      "link": "https://www.dwell.com/article/mahogany-house-fred-hollingsworth-frank-paxton-north-vancouver-midcentury-real-estate-48dbe076",
+      "summary": "Built in 1952, the mahogany-wrapped home has been held by the same family for five decades, and it hasn’t been photographed or published before now.",
+      "publishedAt": "2026-10-08T16:13:36.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7506180356424192000/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128283&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "Physicists use 3D light pulses to unlock new electron quantum states",
+      "link": "https://www.thebrighterside.news/post/physicists-use-3d-light-pulses-to-unlock-new-electron-quantum-states/",
+      "summary": "Two shaped laser pulses opened new electron excitation pathways and tracked rapid quantum dynamics in potassium atoms. The post Physicists use 3D light pulses to unlock new electron quantum states appeared first on The Brighter Side of News…",
+      "publishedAt": "2026-10-08T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/3d-light-1-scaled.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "CBMiyAFBVV95cUxPdmEzcUZ4dU9tOFI1ZEgxR1Y1dWc5N25LVnN0NnJETjJDbDZ3clpuSEtKUERuM1FVVHE2T2d2bHN4TnJuUWVTbmxxaEk4RlNIcjNhTUFDT0JMM1VoLUZfd181Y0FLOEl5U016SjBtQ1BzeEU3ZERwdjVjUVlvTWRvREFLcE4xLTZDV2tRN3hyeUtkYktPTjB4MlQzUnY0dEk0QUtiRUxtaTM4ZjR5ejRsR3dMdS0tQkxGOV9CeG82eWVlaGp4Q1RQZQ",
@@ -1081,59 +1136,48 @@
       "category": "local"
     },
     {
-      "id": "https://interestingengineering.com/?p=316485",
-      "title": "Newly-built fighter aircraft conducts maiden flight, mission verified performance of main systems",
-      "link": "https://interestingengineering.com/military/newly-built-fighter-aircraft-maiden-flight",
-      "summary": "The maiden flight of the first Gripen E fighter aircraft produced in Brazil has been...",
-      "publishedAt": "2026-10-08T14:58:21.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/SAAB-GRPEN.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128271&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "New AI can reconstruct what you’re looking at by reading brain activity",
-      "link": "https://www.thebrighterside.news/post/new-ai-can-reconstruct-what-youre-looking-at-by-reading-brain-activity/",
-      "summary": "A Weizmann AI model recovers visual content and layout from brain scans, with improved results using limited data from new participants. The post New AI can reconstruct what you’re looking at by reading brain activity appeared first on The …",
-      "publishedAt": "2026-10-08T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/brain-image.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504296",
-      "title": "Nederland is seeking state funds, donations to complete purchase of Eldora Mountain Resort",
-      "link": "https://coloradosun.com/2026/10/08/nederland-eldora-ski-area-purchase-donations-bonds/",
-      "summary": "After nearly 2 years, Nederland officials say they need $20M in donations and possibly state grants to help it convince potential bond buyers to fund a $120M acquisition of the local ski area.",
-      "publishedAt": "2026-10-08T10:07:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/01/eldora-snow2-scaled.jpg?fit=1024%2C576&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=504292",
+      "title": "What to do in Colorado this week: A reworked Great American Beer Festival heads outdoors and sketch comedy returns to Denver",
+      "link": "https://coloradosun.com/2026/10/08/what-to-do-in-colorado-this-week-great-american-beer-fest-sketch-comedy/",
+      "summary": "Plus: A sensory-friendly \"Don Quixote\" by Colorado Ballet and a fall festival in Fort Collins",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/DSF-2026-photo-2-scaled.jpg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285635",
-      "title": "Meet the New Otterlike Predator That Scurried Alongside Dinosaurs",
-      "link": "https://nautil.us/meet-the-new-otterlike-predator-that-scurried-alongside-dinosaurs-1285635/",
-      "summary": "Its unique throat paved the way for our big brains The post Meet the New Otterlike Predator That Scurried Alongside Dinosaurs appeared first on Nautilus.",
-      "publishedAt": "2026-10-07T23:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Martin-FossilindreiBildern-klein-1.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73946",
+      "title": "Bodhi Leaves Fellowship",
+      "link": "https://www.lionsroar.com/bodhi-leaves-fellowship/",
+      "summary": "Lion’s Roar, a leading voice for Buddhism in the English-speaking world, invites applications to its Bodhi Leaves Fellowship. The post Bodhi Leaves Fellowship appeared first on Lion’s Roar.",
+      "publishedAt": "2026-10-08T13:30:00.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
-      "id": "https://www.dwell.com/article/cathedral-house-jak-architecture-bushfire-design-a56ccfab",
-      "title": "This Country Home in Australia Almost Burned Down Before It Was Even Completed",
-      "link": "https://www.dwell.com/article/cathedral-house-jak-architecture-bushfire-design-a56ccfab",
-      "summary": "A team stepped in to save the residence from a wildfire, which was designed with concrete and a corrugated-metal roof to ward of flames.",
-      "publishedAt": "2026-10-07T21:46:06.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7506184960471654400/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
+      "id": "https://www.surfacemag.com/?p=212906",
+      "title": "Art Basel and UBS Release the Survey of Global Collecting 2026, and Other News.",
+      "link": "https://www.surfacemag.com/articles/art-basel-and-ubs-release-the-survey-of-global-collecting-2026/",
+      "summary": "Plus, Zaha Hadid's Clerkenwell studio reopens as a cultural space, and Boston's Affordable Art Fair spotlights more than 400 artists from 45 countries for its second edition. Courtesy of Art Basel Art Basel and UBS release the Survey of Glo…",
+      "publishedAt": "2026-10-08T09:50:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
       "category": "design"
+    },
+    {
+      "id": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "title": "Audacious space heist aims to bring home bits of mysterious martian moon",
+      "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "summary": "Samples from Japan’s MMX mission could reveal how Phobos formed—and may contain pieces of Mars",
+      "publishedAt": "2026-10-08T02:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
+      "category": "science"
     },
     {
       "id": "https://leibal.com/?p=185098",
@@ -1147,25 +1191,25 @@
       "category": "design"
     },
     {
-      "id": "https://www.science.org/content/article/was-odd-animal-world-s-first-milk-suckler",
-      "title": "Was this odd animal the world’s first milk suckler?",
-      "link": "https://www.science.org/content/article/was-odd-animal-world-s-first-milk-suckler",
-      "summary": "Ancient swimming creature provides clues to when nursing evolved",
-      "publishedAt": "2026-10-07T11:10:00.000Z",
-      "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
-    },
-    {
-      "id": "CBMikgFBVV95cUxPLTVTT3NiTV9aY1VncUF0QjVGaVRUOXQzd2lmX3hrUURCbFMybDVFOWZ4X2FmOGZiZEhVT0ktM0dtQy1XUDFRM0ZuanVKZEVjbXlsemtxb1F3Z3RDWlBFOU1Zek5BNGVORFhPREZHTWU0dWpfN2J3OXI1SncxTFJwc0VrSXd6LVpCR0Ztc0dxNGt3UQ",
-      "title": "Burton: After 11 years, the Alpine-Balsam numbers have finally come out - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTVTT3NiTV9aY1VncUF0QjVGaVRUOXQzd2lmX3hrUURCbFMybDVFOWZ4X2FmOGZiZEhVT0ktM0dtQy1XUDFRM0ZuanVKZEVjbXlsemtxb1F3Z3RDWlBFOU1Zek5BNGVORFhPREZHTWU0dWpfN2J3OXI1SncxTFJwc0VrSXd6LVpCR0Ztc0dxNGt3UQ?oc=5",
-      "summary": "Burton: After 11 years, the Alpine-Balsam numbers have finally come out Daily Camera",
-      "publishedAt": "2026-10-07T10:01:27.000Z",
+      "id": "CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8",
+      "title": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8?oc=5",
+      "summary": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say Daily Camera",
+      "publishedAt": "2026-10-07T11:06:49.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMi8gFBVV95cUxOLXVMMkVyZ3ZBd0JMZUlibHdfQjhfZWE1WHJUVkFMRVpIMmRjYVg0bG5hUXd2SkJEc25WclFMbXp2RVpJOHQ4dFdtR0JGamdfTko0d1UtcmFXT001NzdRTGtJVk5nT1JFTExWcU51M0hHY1dXSTRIS3BsZ0w4OTFfN2E1YXVFMWVjX0hobjdzTmRpbUZuLXhYQVdFU0h6YWtXc2h5bU11bDFQbFcyTlJOS2o4a0NvTkNNY0tVOHhhb3Z4WE5VS2ExbEdqUWExdFJxVDZoN0hKXzlzYm1vZTNyQ0xQN2x2SWZ6Mm10TXQtLXhDZw",
+      "title": "School closure plan has some parents calling for secession from PSD - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLXVMMkVyZ3ZBd0JMZUlibHdfQjhfZWE1WHJUVkFMRVpIMmRjYVg0bG5hUXd2SkJEc25WclFMbXp2RVpJOHQ4dFdtR0JGamdfTko0d1UtcmFXT001NzdRTGtJVk5nT1JFTExWcU51M0hHY1dXSTRIS3BsZ0w4OTFfN2E1YXVFMWVjX0hobjdzTmRpbUZuLXhYQVdFU0h6YWtXc2h5bU11bDFQbFcyTlJOS2o4a0NvTkNNY0tVOHhhb3Z4WE5VS2ExbEdqUWExdFJxVDZoN0hKXzlzYm1vZTNyQ0xQN2x2SWZ6Mm10TXQtLXhDZw?oc=5",
+      "summary": "School closure plan has some parents calling for secession from PSD The Coloradoan",
+      "publishedAt": "2026-10-07T11:02:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -1178,17 +1222,6 @@
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=212815",
-      "title": "Francisco Costa Builds a World of His Own",
-      "link": "https://www.surfacemag.com/articles/francisco-costa-builds-a-world-of-his-own/",
-      "summary": "At Costa Brazil's new Hudson Yards flagship, the designer turns his private world of books, objects, and Brazilian references into a space that feels like an extension of his home. Photo by Bjorn Wallander. After designing at Gucci under To…",
-      "publishedAt": "2026-10-07T09:49:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
     },
     {
       "id": "https://boulderreportinglab.org/?p=127649",
@@ -1213,28 +1246,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMi6AFBVV95cUxOZ2NkdmpsRVVaMmxlVHFZeEVYb3JzZi10bzZEVWtsTnpMQmtEcmMxbXJqcDhIcWxwTUNmY1RDajBwd0o2LUh5cWl1aVhGNFRCVjRZYnRiUHlMa2dlTmF4RUhob3YzMi1pNmJVR1hTMXpSQ3FiTEthd2hrTmVDWHBEUmQ1ci1lUlVKaUE2X0hiMmE3R044MU9ld3hkUE1oZFZLVjNwQlZiUGRCbjM1SW9NMzZuYjRVUkJGanJGMFFxSFktRGp5V2lfdURJN2lhUnJJbzhXaGRTSFh1Ui1SOUw5QzM5bXF1bTVz",
-      "title": "Colorado election: Q&A with SOS candidate Celeste Landry - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2NkdmpsRVVaMmxlVHFZeEVYb3JzZi10bzZEVWtsTnpMQmtEcmMxbXJqcDhIcWxwTUNmY1RDajBwd0o2LUh5cWl1aVhGNFRCVjRZYnRiUHlMa2dlTmF4RUhob3YzMi1pNmJVR1hTMXpSQ3FiTEthd2hrTmVDWHBEUmQ1ci1lUlVKaUE2X0hiMmE3R044MU9ld3hkUE1oZFZLVjNwQlZiUGRCbjM1SW9NMzZuYjRVUkJGanJGMFFxSFktRGp5V2lfdURJN2lhUnJJbzhXaGRTSFh1Ui1SOUw5QzM5bXF1bTVz?oc=5",
-      "summary": "Colorado election: Q&A with SOS candidate Celeste Landry The Coloradoan",
-      "publishedAt": "2026-10-06T20:39:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
-    },
-    {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73417",
-      "title": "Wise Engagement",
-      "link": "https://www.lionsroar.com/wise-engagement/",
-      "summary": "Not-knowing, bearing witness, and taking action—these tenets offer a grounded way to meet charged moments with clarity and compassion. Jitsujo T. Gauthier explains how to bring this three-fold path into your life. The post Wise Engagement a…",
-      "publishedAt": "2026-10-06T17:47:18.000Z",
-      "imageUrl": "https://www.lionsroar.com/wp-content/uploads/2026/09/zen-3-tenets-mala-practice-making-mala-illo_jing_li-1024x576.jpg",
-      "sourceId": "lions-roar",
-      "sourceName": "Lion's Roar",
-      "category": "ideas"
-    },
-    {
       "id": "https://tricycle.org/?p=85331",
       "title": "The Buddha of the Future",
       "link": "https://tricycle.org/article/maitreya-future-buddha/",
@@ -1255,17 +1266,6 @@
       "sourceId": "psyche",
       "sourceName": "Psyche",
       "category": "ideas"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=466945",
-      "title": "Campbell House by Nüüd Studio – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/campbell-house-by-nuud-studio-the-local-project/",
-      "summary": "The post Campbell House by Nüüd Studio – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-06T04:39:28.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
     },
     {
       "id": "https://www.mindful.org/glimpse-up-the-garden-path/",
@@ -1422,15 +1422,48 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50007519",
-      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-      "link": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
-      "summary": "Article URL: https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/ Comments URL: https://news.ycombinator.com/item?id=50007519 Points: 77 # Comments: 30",
-      "publishedAt": "2026-10-08T16:03:33.000Z",
+      "id": "https://thelocalproject.com.au/?p=467309",
+      "title": "Nera by Bastion Group – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/nera-by-bastion-group-the-local-project/",
+      "summary": "The post Nera by Bastion Group – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-08T21:20:52.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316621",
+      "title": "US suspends Microsoft, Adobe and 6 IT firms from key green card certification program",
+      "link": "https://interestingengineering.com/culture/us-suspends-microsoft-adobe-green-card-program",
+      "summary": "The Trump administration has suspended major tech firms, including Microsoft, Adobe and Cognizant, from a...",
+      "publishedAt": "2026-10-08T19:11:10.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/GettyImages-2299226013.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50010470",
+      "title": "The value of not getting to the point (2015)",
+      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "summary": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 77 # Comments: 25",
+      "publishedAt": "2026-10-08T19:04:56.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://nautil.us/?p=1285640",
+      "title": "In 1960, Mathematicians Predicted that Earth’s Population Would Reach Infinity on a Friday Next Month",
+      "link": "https://nautil.us/in-1960-mathematicians-predicted-that-earths-population-would-reach-infinity-on-a-friday-next-month-1285640/",
+      "summary": "It will not The post In 1960, Mathematicians Predicted that Earth’s Population Would Reach Infinity on a Friday Next Month appeared first on Nautilus.",
+      "publishedAt": "2026-10-08T18:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_618211523.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
     },
     {
       "id": "CBMi4wFBVV95cUxNbzBLNWw5TF9nQWhKc2FXc2Q4ZVZTMkVhMkNRZ2JYMXVuenM5OFppMUp0V2NmdEVkVE1MTk1EVE42cy1NQWVzSUxaNUIzeW80WU80LVNIbDU1ejRqTU00eHZZM0o5cDRUSnppOXZyaXBPR2ZyeHZiaHRDT09ZSmN4NVM0eDdpTTZNcXk0Qy11ZFAtTDJ3bnMtTW44blotU2g3TGtCMTlkZElhYk51MWN0NURyWnpqY2FldDRqSnFFcmItNl9GVnNEM1paUWtkbWJEYmlyblNzUmdwbE92TzNjS1Jpcw",
@@ -1455,59 +1488,70 @@
       "category": "art"
     },
     {
-      "id": "https://interestingengineering.com/?p=316420",
-      "title": "Dassault-backed startup unveils strike weapon designed to hit targets up to 1,240 miles away",
-      "link": "https://interestingengineering.com/military/french-dassault-autonomous-strike-system",
-      "summary": "French defense startup Harmattan AI has unveiled IRIFI, an autonomous long-range strike system designed to...",
-      "publishedAt": "2026-10-08T14:39:32.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Precision-strike-2.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504298",
-      "title": "New website is helping campers score Colorado’s most elusive campsites",
-      "link": "https://coloradosun.com/2026/10/08/new-websites-helps-campers-score-top-campsites-in-colorado/",
-      "summary": "With sites often selling out in hours, months in advance, Campsite Ranger gives campers an edge .",
-      "publishedAt": "2026-10-08T10:01:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/02_Chris-hiking-with-Sloane_south-Boulder_May-2025.jpg?fit=1024%2C771&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128240&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "67,800 year-old cave wall hand stencil offers clues to Australia’s first settlement",
-      "link": "https://www.thebrighterside.news/post/67800-year-old-cave-wall-hand-stencil-offers-clues-to-australias-first-settlement/",
-      "summary": "Mineral deposits over an Indonesian hand stencil establish a minimum age of 67,800 years, extending the known record of cave art. The post 67,800 year-old cave wall hand stencil offers clues to Australia’s first settlement appeared first on…",
-      "publishedAt": "2026-10-07T23:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/rock-art-main.webp?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128293&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "Astronomers discover a ‘phoenix planet’ reborn from the ashes of a dead star",
+      "link": "https://www.thebrighterside.news/post/astronomers-discover-a-phoenix-planet-reborn-from-the-ashes-of-a-dead-star/",
+      "summary": "A white dwarf’s heavy elements hint at a planet containing material from its dying star, but confirmation is still needed. The post Astronomers discover a ‘phoenix planet’ reborn from the ashes of a dead star appeared first on The Brighter …",
+      "publishedAt": "2026-10-08T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/phoenix-planet-main.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://nautil.us/?p=1285629",
-      "title": "Why Forgive and Forget is Bad Advice",
-      "link": "https://nautil.us/why-forgive-and-forget-is-bad-advice-1285629/",
-      "summary": "A conversation with MacArthur fellow Felipe de Brigard about how forgiveness reshapes the memory of atrocity The post Why Forgive and Forget is Bad Advice appeared first on Nautilus.",
-      "publishedAt": "2026-10-07T20:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_790044697.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
-      "category": "science"
-    },
-    {
-      "id": "https://www.dwell.com/article/laneway-studio-olaver-architecture-melbourne-australia-adu-b7c45826",
-      "title": "It’s Made From Glass Bricks, But Their Backyard Studio Is Anything But ’80s",
-      "link": "https://www.dwell.com/article/laneway-studio-olaver-architecture-melbourne-australia-adu-b7c45826",
-      "summary": "\"They quite liked this relatively standard glass block that you’d see in office buildings,\" says architect Emlyn Olaver of the poolside ADU in Melbourne, Australia.",
-      "publishedAt": "2026-10-07T15:54:16.000Z",
-      "imageUrl": "https://images.dwell.com/photos-7316283596586422272/7511297147795693568-small/olaver-architecture-ran-a-two-storey-studio-across-the-back-of-the-block-and-set-the-pool-in-the-gap-between-it-and-the-main-house-recycled-white-brick-a-concrete-band-beam-and-a-wall-of-glass-block-face-the-garden-angelucci-butterfly-chairs-sit-poolside-.jpg",
+      "id": "https://www.dwell.com/article/deaths-disclosures-and-discounts-buying-and-selling-stigmatized-properties-murder-houses-a4182fe5-c6875079",
+      "title": "Deaths, Disclosures, and Discounts: How Dark Histories Impact Home Sales",
+      "link": "https://www.dwell.com/article/deaths-disclosures-and-discounts-buying-and-selling-stigmatized-properties-murder-houses-a4182fe5-c6875079",
+      "summary": "When a \"stigmatized property\" hits the market, it doesn’t always come with a reduced asking price—or even notice of its tragic backstory.",
+      "publishedAt": "2026-10-08T13:57:47.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7513243399598284800/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
+    },
+    {
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73917",
+      "title": "Some Days, I Have No Patience for Mindfulness",
+      "link": "https://www.lionsroar.com/some-days-i-have-no-patience-for-mindfulness/",
+      "summary": "Kyle Neo spilled milk, lost patience for being a patient, and remembered that mindfulness is a practice, not a personality trait. The post Some Days, I Have No Patience for Mindfulness appeared first on Lion’s Roar.",
+      "publishedAt": "2026-10-08T13:28:11.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
+    },
+    {
+      "id": "https://coloradosun.com/?p=504305",
+      "title": "A Vail mountaineer is vying to be the first American woman to scale the world’s tallest volcanoes",
+      "link": "https://coloradosun.com/2026/10/08/nicole-otake-7-volcanic-summits-mountaineer-vail/",
+      "summary": "Nicole Otake is on a quest to complete the 7 Volcanic Summits — and to help other women start climbing without paying too high a price.",
+      "publishedAt": "2026-10-08T10:20:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/IMG_0258-1.jpg?fit=1024%2C768&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
+      "id": "https://www.surfacemag.com/?p=212772",
+      "title": "The Whitney Museum and Gap Turn Roy Lichtenstein Art Into Something to Wear",
+      "link": "https://www.surfacemag.com/articles/whitney-museum-gap-roy-lichtenstein-collection/",
+      "summary": "Ahead of the museum's newest exhibition \"Roy Lichtenstein: Like New,\" Nancy and Fred Poses Curator Meg Onli and The Whitney's Director of Retail & Licensing Jack Sachs discuss bringing the Pop artist's images to hoodies, varsity jackets and…",
+      "publishedAt": "2026-10-08T09:26:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
+    },
+    {
+      "id": "https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell",
+      "title": "Two teams map development of mammal embryos, cell by cell",
+      "link": "https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell",
+      "summary": "Using genome editing to trace cell lineages, researchers capture the early history of the mouse embryo in unprecedented detail",
+      "publishedAt": "2026-10-08T02:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
+      "category": "science"
     },
     {
       "id": "https://leibal.com/?p=185067",
@@ -1519,28 +1563,6 @@
       "sourceId": "leibal",
       "sourceName": "Leibal",
       "category": "design"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=212801",
-      "title": "Phoenix Art Museum Receives a $5 Million Donation, and Other News.",
-      "link": "https://www.surfacemag.com/articles/the-phoenix-art-museum-receives-a-5-million-donation/",
-      "summary": "Plus, Christopher Bailey relaunches Burleigh online, and Independent Art Fair sells to London-based conglomerate Informa. Pala Pothupitiye's Iranamadu (2025) Photo by Airi Katsuta, courtesy Phoenix Art Museum. Phoenix Art Museum’s Asian gal…",
-      "publishedAt": "2026-10-07T09:22:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
-    },
-    {
-      "id": "https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers",
-      "title": "Watch: What’s the deal with OpenAI’s massive dump of math papers?",
-      "link": "https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers",
-      "summary": "The landmark release of 722 papers targeting 372 unsolved problems draws amazement—and criticism",
-      "publishedAt": "2026-10-07T06:15:00.000Z",
-      "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
     },
     {
       "id": "https://boulderreportinglab.org/?p=127680",
@@ -1576,11 +1598,11 @@
       "category": "local"
     },
     {
-      "id": "CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw",
-      "title": "Where Colorado State's defense ranks in college football - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw?oc=5",
-      "summary": "Where Colorado State's defense ranks in college football The Coloradoan",
-      "publishedAt": "2026-10-06T17:05:00.000Z",
+      "id": "CBMi6AFBVV95cUxOZ2NkdmpsRVVaMmxlVHFZeEVYb3JzZi10bzZEVWtsTnpMQmtEcmMxbXJqcDhIcWxwTUNmY1RDajBwd0o2LUh5cWl1aVhGNFRCVjRZYnRiUHlMa2dlTmF4RUhob3YzMi1pNmJVR1hTMXpSQ3FiTEthd2hrTmVDWHBEUmQ1ci1lUlVKaUE2X0hiMmE3R044MU9ld3hkUE1oZFZLVjNwQlZiUGRCbjM1SW9NMzZuYjRVUkJGanJGMFFxSFktRGp5V2lfdURJN2lhUnJJbzhXaGRTSFh1Ui1SOUw5QzM5bXF1bTVz",
+      "title": "Colorado election: Q&A with SOS candidate Celeste Landry - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2NkdmpsRVVaMmxlVHFZeEVYb3JzZi10bzZEVWtsTnpMQmtEcmMxbXJqcDhIcWxwTUNmY1RDajBwd0o2LUh5cWl1aVhGNFRCVjRZYnRiUHlMa2dlTmF4RUhob3YzMi1pNmJVR1hTMXpSQ3FiTEthd2hrTmVDWHBEUmQ1ci1lUlVKaUE2X0hiMmE3R044MU9ld3hkUE1oZFZLVjNwQlZiUGRCbjM1SW9NMzZuYjRVUkJGanJGMFFxSFktRGp5V2lfdURJN2lhUnJJbzhXaGRTSFh1Ui1SOUw5QzM5bXF1bTVz?oc=5",
+      "summary": "Colorado election: Q&A with SOS candidate Celeste Landry The Coloradoan",
+      "publishedAt": "2026-10-06T20:39:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -1595,28 +1617,6 @@
       "imageUrl": "https://images.aeonmedia.co/images/12748f11-e0ce-47d8-8b35-d2d1018380bc/essay-2016-10-10t000000z_1858079971_d1aeugejeiaa_rtrmadp_3_health-cancer-immunotherapy.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
-      "category": "ideas"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=466929",
-      "title": "Clarksville Residence by Michael Hsu Office of Architecture – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/clarksville-residence-by-michael-hsu-office-of-architecture-the-local-project/",
-      "summary": "The post Clarksville Residence by Michael Hsu Office of Architecture – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-06T04:22:34.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73107",
-      "title": "When Anxiety Arrives Unexpectedly",
-      "link": "https://www.lionsroar.com/when-anxiety-arrives-unexpectedly/",
-      "summary": "Lion's Roar editor Andrea Miller introduces the November 2026 issue. The post When Anxiety Arrives Unexpectedly appeared first on Lion’s Roar.",
-      "publishedAt": "2026-10-05T17:13:33.000Z",
-      "imageUrl": null,
-      "sourceId": "lions-roar",
-      "sourceName": "Lion's Roar",
       "category": "ideas"
     },
     {
@@ -1701,7 +1701,7 @@
       "title": "Terms of use - Read Something Great",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tTlNGUm1WYnNvSEhrbGh3S1BoZXhwOTdydWxneU9aMlk5aVZJQWN0d3R3c2JFek5ONlEzNExZeG9HZEozZGstUGdVRFd5ZFU4ZXc?oc=5",
       "summary": "Terms of use Read Something Great",
-      "publishedAt": "2026-09-22T06:51:53.000Z",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -1796,6 +1796,39 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=316550",
+      "title": "Bamboo waste makes plastic 173% tougher, blocks unwanted signals in smartphones",
+      "link": "https://interestingengineering.com/science/bamboo-waste-makes-plastic-blocks",
+      "summary": "Chinese researchers have recently come up with a new bamboo-reinforced plastic that is 81 percent...",
+      "publishedAt": "2026-10-08T18:10:49.000Z",
+      "imageUrl": "https://www.youtube.com/embed/7qVcEvKEfGc",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50009295",
+      "title": "Theranos.world",
+      "link": "https://www.theranos.world/",
+      "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 160 # Comments: 82",
+      "publishedAt": "2026-10-08T17:51:49.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://nautil.us/?p=1285643",
+      "title": "A Distant Star is Slowly Snacking on a Brown Dwarf",
+      "link": "https://nautil.us/a-distant-star-is-slowly-snacking-on-a-brown-dwarf-1285643/",
+      "summary": "This absorption could take billions of years The post A Distant Star is Slowly Snacking on a Brown Dwarf appeared first on Nautilus.",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-grabber.jpg?w=564",
+      "sourceId": "nautilus",
+      "sourceName": "Nautilus",
+      "category": "science"
+    },
+    {
       "id": "CBMi4AFBVV95cUxPZlc1NFdTOUp6cjhVQXkzTEVxQ3lFX1dIWXJTRWItUFh1ZHpDaGd0NERjYVFDQnBDcWFJY01FU1N6dkxHM0hPRTZ3LVhoUDNucXhGbHJib1pscm9mdDlubE1KR0p3SXlDcTFRLV9aU1FiWW5ULUxwVHNSSkFjQVhRdnkwUG1sbE05RExVUFRyTHR4TmhUZkppcGJrMzlnNUZ6OU1BaU9LUU5CRHo5bjlvRkZrdzJGbjJUZDEyYzk5aDZVcFJVeDdVRHZ5NVlobFQ1TlFyM1dwU3NSbG1qOXBpQw",
       "title": "Peñasco volleyball breaks losing streak with return of head coach - The Taos News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZlc1NFdTOUp6cjhVQXkzTEVxQ3lFX1dIWXJTRWItUFh1ZHpDaGd0NERjYVFDQnBDcWFJY01FU1N6dkxHM0hPRTZ3LVhoUDNucXhGbHJib1pscm9mdDlubE1KR0p3SXlDcTFRLV9aU1FiWW5ULUxwVHNSSkFjQVhRdnkwUG1sbE05RExVUFRyTHR4TmhUZkppcGJrMzlnNUZ6OU1BaU9LUU5CRHo5bjlvRkZrdzJGbjJUZDEyYzk5aDZVcFJVeDdVRHZ5NVlobFQ1TlFyM1dwU3NSbG1qOXBpQw?oc=5",
@@ -1805,28 +1838,6 @@
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50006832",
-      "title": "Trump administration is suspending Microsoft from a green card program",
-      "link": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-      "summary": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea Comments URL: https://news.ycombinator.com/item?id=50006832 Points: 349 # Comments: 485",
-      "publishedAt": "2026-10-08T15:15:00.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=316431",
-      "title": "Sodium-ion home battery delivers 9.7 kWh capacity and promises 20,000 cycles",
-      "link": "https://interestingengineering.com/energy/sodium-home-battery-promises-20000-cycles",
-      "summary": "Home energy storage is being revamped. The 48 V residential energy storage system (RESS) developed...",
-      "publishedAt": "2026-10-08T14:38:27.000Z",
-      "imageUrl": "https://www.youtube.com/embed/he7cLZC-nyM",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "6ac6ddd735f78c577f76bea3",
@@ -1840,59 +1851,81 @@
       "category": "art"
     },
     {
-      "id": "https://coloradosun.com/?p=504349",
-      "title": "Colorado should buy part of San Luis Valley ranch at the center of a long-running land battle, report says",
-      "link": "https://coloradosun.com/2026/10/08/san-luis-valley-land-battle-salazar-report/",
-      "summary": "Gov. Jared Polis appointed former US Sen. Ken Salazar to come up with a solution to the battle over Cielo Vista Ranch in Costilla County",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/JMc-Culebra-Peak-14047-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
+      "id": "https://lionsroar.com/lr-article/meet-a-teacher-myokei-caine-barrett-shonin/",
+      "title": "Meet a Teacher: Myokei Caine-Barrett, Shonin",
+      "link": "https://www.lionsroar.com/meet-a-teacher-myokei-caine-barrett-shonin/",
+      "summary": "Buddhist teacher Myokei Caine-Barrett, Shonin gets personal with the Lion's Roar readership. The post Meet a Teacher: Myokei Caine-Barrett, Shonin appeared first on Lion’s Roar.",
+      "publishedAt": "2026-10-08T12:43:00.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128255&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "Scientists use generative AI to build better proteins for editing DNA",
-      "link": "https://www.thebrighterside.news/post/scientists-use-generative-ai-to-build-better-proteins-for-editing-dna/",
-      "summary": "A genome search and protein language model produced new DNA-moving proteins, including one that doubled targeted insertion in lab tests. The post Scientists use generative AI to build better proteins for editing DNA appeared first on The Br…",
-      "publishedAt": "2026-10-07T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/dna-editing.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128271&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "New AI can reconstruct what you’re looking at by reading brain activity",
+      "link": "https://www.thebrighterside.news/post/new-ai-can-reconstruct-what-youre-looking-at-by-reading-brain-activity/",
+      "summary": "A Weizmann AI model recovers visual content and layout from brain scans, with improved results using limited data from new participants. The post New AI can reconstruct what you’re looking at by reading brain activity appeared first on The …",
+      "publishedAt": "2026-10-08T11:51:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/brain-image.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://nautil.us/?p=1285604",
-      "title": "How to Live to Be 194 Years Old",
-      "link": "https://nautil.us/how-to-live-to-be-194-years-old-1285604/",
-      "summary": "A tortoise’s genetic hacks for longevity The post How to Live to Be 194 Years Old appeared first on Nautilus.",
-      "publishedAt": "2026-10-07T19:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Jonathan-in-front-of-Plantation.-Credit-Joe-Hollins.jpg?w=564",
-      "sourceId": "nautilus",
-      "sourceName": "Nautilus",
+      "id": "https://coloradosun.com/?p=504296",
+      "title": "Nederland is seeking state funds, donations to complete purchase of Eldora Mountain Resort",
+      "link": "https://coloradosun.com/2026/10/08/nederland-eldora-ski-area-purchase-donations-bonds/",
+      "summary": "After nearly 2 years, Nederland officials say they need $20M in donations and possibly state grants to help it convince potential bond buyers to fund a $120M acquisition of the local ski area.",
+      "publishedAt": "2026-10-08T10:07:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/01/eldora-snow2-scaled.jpg?fit=1024%2C576&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
+      "id": "https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960",
+      "title": "Will the world end next month? Science said so, in 1960",
+      "link": "https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960",
+      "summary": "Researchers concluded that doomsday will fall on 13 November—but not for the reasons we might expect today",
+      "publishedAt": "2026-10-08T02:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
       "category": "science"
     },
     {
-      "id": "https://www.dwell.com/article/diamond-heights-eichler-home-claude-oakland-san-francisco-midcentury-real-estate-2cfdae68",
-      "title": "Eichler Homes Are Rare in San Francisco. Here’s a Stunner for $3.5M",
-      "link": "https://www.dwell.com/article/diamond-heights-eichler-home-claude-oakland-san-francisco-midcentury-real-estate-2cfdae68",
-      "summary": "The famed developer built about 100 single-family residences in the city—and this Diamond Heights midcentury comes with a custom Henrybuilt kitchen and a garden designed by Terremoto.",
-      "publishedAt": "2026-10-07T15:34:57.000Z",
-      "imageUrl": "https://images.dwell.com/photos-6818593201364905984/7505710907094159360-small/this-recently-updated-home-was-designed-in-1962-by-architect-claude-oakland-for-famed-real-estate-developer-joseph-eichler.jpg",
+      "id": "https://www.dwell.com/article/cathedral-house-jak-architecture-bushfire-design-a56ccfab",
+      "title": "This Country Home in Australia Almost Burned Down Before It Was Even Completed",
+      "link": "https://www.dwell.com/article/cathedral-house-jak-architecture-bushfire-design-a56ccfab",
+      "summary": "A team stepped in to save the residence from a wildfire, which was designed with concrete and a corrugated-metal roof to ward off flames.",
+      "publishedAt": "2026-10-07T21:46:06.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7506184960471654400/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
     },
     {
-      "id": "https://www.science.org/content/article/chemistry-nobel-honors-researchers-who-developed-reactions-leading-one-handed-molecules",
-      "title": "Nobel Prize honors researchers who showed how ‘handedness’ can emerge in chemistry",
-      "link": "https://www.science.org/content/article/chemistry-nobel-honors-researchers-who-developed-reactions-leading-one-handed-molecules",
-      "summary": "Henri Kagan and Kenso Soai win award for reactions leading to mirror-image molecules",
-      "publishedAt": "2026-10-07T06:05:00.000Z",
+      "id": "https://thelocalproject.com.au/?p=467195",
+      "title": "Rustic Canyon by West Haddon Hall – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/rustic-canyon-by-west-haddon-hall-the-local-project/",
+      "summary": "The post Rustic Canyon by West Haddon Hall – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-07T21:25:19.000Z",
       "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://www.surfacemag.com/?p=212842",
+      "title": "Arca Welcomes Alfredo Paredes and Surface to Wynwood",
+      "link": "https://www.surfacemag.com/articles/arca-talks-alfredo-paredes-and-surface-in-wynwood/",
+      "summary": "Inside the architecturally expressive Wynwood, Miami showroom of luxury marble and natural stone brand Arca, lauded interior designer Alfredo Paredes and Surface Editor-in-Chief David Graver regaled guests with industry insights and persona…",
+      "publishedAt": "2026-10-07T09:56:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
     },
     {
       "id": "https://boulderreportinglab.org/?p=127773",
@@ -1928,11 +1961,11 @@
       "category": "local"
     },
     {
-      "id": "CBMi5gFBVV95cUxNeVU4QlIwNVV3b0M4ZzYyYS1LN2lyZjd4MVZtQzdjWlpwY0htdEtBd0pVdEswbzl1WktpWnV5QkxMOU5ybWhRT09HUW5vbjVYM2diWkdJa1NhQWRNbUxWdGtpZlo4YkpSbmJiejZTdHRYRmNkWUppZ0ZJYVlETlVhOGgweWllcVFwMVUtdW1HUzRpRm1IY2VaeDBWWkQxbXN5TTdqVHFHTWFaTy1qWkZMRHMyeXF0b2RCNDlaRUUweEZic2JHWU1jSTUzNmMzVXM0ZFk4NFZqYWt2azZFMDg0bmU1Yy0yZw",
-      "title": "Vote for Blue FCU's Fort Collins-area Football Player of Week (Week 6) - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeVU4QlIwNVV3b0M4ZzYyYS1LN2lyZjd4MVZtQzdjWlpwY0htdEtBd0pVdEswbzl1WktpWnV5QkxMOU5ybWhRT09HUW5vbjVYM2diWkdJa1NhQWRNbUxWdGtpZlo4YkpSbmJiejZTdHRYRmNkWUppZ0ZJYVlETlVhOGgweWllcVFwMVUtdW1HUzRpRm1IY2VaeDBWWkQxbXN5TTdqVHFHTWFaTy1qWkZMRHMyeXF0b2RCNDlaRUUweEZic2JHWU1jSTUzNmMzVXM0ZFk4NFZqYWt2azZFMDg0bmU1Yy0yZw?oc=5",
-      "summary": "Vote for Blue FCU's Fort Collins-area Football Player of Week (Week 6) The Coloradoan",
-      "publishedAt": "2026-10-06T16:57:00.000Z",
+      "id": "CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw",
+      "title": "Where Colorado State's defense ranks in college football - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw?oc=5",
+      "summary": "Where Colorado State's defense ranks in college football The Coloradoan",
+      "publishedAt": "2026-10-06T17:05:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -1948,39 +1981,6 @@
       "sourceId": "leibal",
       "sourceName": "Leibal",
       "category": "design"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=212724",
-      "title": "McLaurin & Piercy Introduces the Kamal Wallpaper Collection",
-      "link": "https://www.surfacemag.com/articles/mclaurin-piercy-kamal-wallpaper-collection/",
-      "summary": "Courtesy of McLaurin & Piercy An ancient celestial navigation device, the kamal equipped seafarers as early as the late 9th century. This simple tool enabled adventure and inspired centuries of stories, many mythic in nature. For Los Angele…",
-      "publishedAt": "2026-10-06T09:59:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=466883",
-      "title": "Hawthorn Residence by Workroom – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/hawthorn-residence-by-workroom-the-local-project/",
-      "summary": "The post Hawthorn Residence by Workroom – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-06T04:04:18.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73119",
-      "title": "The Essential Practice Nobody Is Talking About",
-      "link": "https://www.lionsroar.com/the-essential-practice-nobody-is-talking-about/",
-      "summary": "Josh Korda on why right effort is so important—it keeps the mind from slipping into the spirals and storylines that make life harder than it needs to be. The post The Essential Practice Nobody Is Talking About appeared first on Lion’s Roar.",
-      "publishedAt": "2026-10-05T17:13:33.000Z",
-      "imageUrl": null,
-      "sourceId": "lions-roar",
-      "sourceName": "Lion's Roar",
-      "category": "ideas"
     },
     {
       "id": "urn:id:9064",
@@ -2170,6 +2170,28 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=316392",
+      "title": "New US plant to turn wastewater into 3,000 tons of lithium for batteries",
+      "link": "https://interestingengineering.com/energy/us-opens-first-lithium-plant",
+      "summary": "The US has reportedly launched its first new lithium mining plant in the last five...",
+      "publishedAt": "2026-10-08T17:51:13.000Z",
+      "imageUrl": "https://www.youtube.com/embed/GoiECSXOvQE",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50008427",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "link": "https://cactuscompute.com/blog/whistle",
+      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 399 # Comments: 98",
+      "publishedAt": "2026-10-08T16:59:39.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "CBMivwFBVV95cUxQVDNUTDJCcm1qWVFNTnBDTTFqZ0REWGV6ZUpRemE3MGpBMnEzMG4yeHQ2UExpcGU4eWJYczItaGNjdWtFR3doRDFIRl81Q1MzVDNrNTlpeWtQNk5PaXB1TlV2UXNnVXJhYS1WNzhNZ29KSXFjR2FJVm4wVm4zQmtEMjhkeG9zS3pJR2kwcUhkcXhJYlo2cmt3VEczdWRST3l2aDRaUGJFeVJTY1Q0NXpubW1CTnppRUp4Nl9DMUR1QQ",
       "title": "Tigers place 4th in Taos golf tournament - The Taos News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDNUTDJCcm1qWVFNTnBDTTFqZ0REWGV6ZUpRemE3MGpBMnEzMG4yeHQ2UExpcGU4eWJYczItaGNjdWtFR3doRDFIRl81Q1MzVDNrNTlpeWtQNk5PaXB1TlV2UXNnVXJhYS1WNzhNZ29KSXFjR2FJVm4wVm4zQmtEMjhkeG9zS3pJR2kwcUhkcXhJYlo2cmt3VEczdWRST3l2aDRaUGJFeVJTY1Q0NXpubW1CTnppRUp4Nl9DMUR1QQ?oc=5",
@@ -2179,28 +2201,6 @@
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50006366",
-      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-      "link": "https://news.ycombinator.com/item?id=50006366",
-      "summary": "Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There's no school in the village. The nearest one is a boarding school an hour away that costs a few h…",
-      "publishedAt": "2026-10-08T14:39:47.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=316347",
-      "title": "72 real-world BMW trips suggest regenerative braking can spare EV battery range",
-      "link": "https://interestingengineering.com/transportation/bmw-trips-spare-ev-battery-range",
-      "summary": "Keeping an electric car warm draws on the same battery that powers its wheels. Researchers...",
-      "publishedAt": "2026-10-08T14:37:02.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Electric-vehicle-2.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "6ac79beb9fe1feb19568b013",
@@ -2214,59 +2214,70 @@
       "category": "art"
     },
     {
-      "id": "https://coloradosun.com/?p=504183",
-      "title": "A robot entered a Denver comedy club. (This isn’t a joke.)",
-      "link": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
-      "summary": "What happens when a robot friend faces death? At a Denver improv performance, humans and robots talked it out, maybe for the first time",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/Portraits-BW_Dental_ORR-03.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128230&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "Higher body weight linked to lower risk of death from dementia",
-      "link": "https://www.thebrighterside.news/post/higher-body-weight-linked-to-lower-risk-of-death-from-dementia/",
-      "summary": "Higher weight at dementia onset was linked to lower mortality, but the study does not establish a benefit from weight gain. The post Higher body weight linked to lower risk of death from dementia appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-10-07T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/obesity-and-dementia.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "https://nautil.us/?p=1285608",
-      "title": "Neanderthals Were Adept Woodworkers Too",
-      "link": "https://nautil.us/neanderthals-were-adept-woodworkers-too-1285608/",
-      "summary": "But most of their work has been lost The post Neanderthals Were Adept Woodworkers Too appeared first on Nautilus.",
-      "publishedAt": "2026-10-07T18:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Photo_11.jpg?w=564",
+      "id": "https://nautil.us/?p=1285626",
+      "title": "What Babies Learn From Spit-Swapping",
+      "link": "https://nautil.us/what-babies-learn-from-spit-swapping-1285626/",
+      "summary": "Saliva is thicker than water The post What Babies Learn From Spit-Swapping appeared first on Nautilus.",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2602613433.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
     },
     {
-      "id": "https://www.dwell.com/article/cramped-attic-pastel-primary-suite-b70d6ea5",
-      "title": "How They Pulled It Off: A Cramped Attic Becomes a Curvy, Pastel-Toned Primary Suite",
-      "link": "https://www.dwell.com/article/cramped-attic-pastel-primary-suite-b70d6ea5",
-      "summary": "Homeowner Irina Alimanestianu saved the brightest room in her home for her art studio, deciding to transform her dim living quarters upstairs instead.",
-      "publishedAt": "2026-10-07T13:57:42.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7513282829874987008/small.jpg",
+      "id": "https://coloradosun.com/?p=504298",
+      "title": "New website is helping campers score Colorado’s most elusive campsites",
+      "link": "https://coloradosun.com/2026/10/08/new-websites-helps-campers-score-top-campsites-in-colorado/",
+      "summary": "With sites often selling out in hours, months in advance, Campsite Ranger gives campers an edge .",
+      "publishedAt": "2026-10-08T10:01:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/02_Chris-hiking-with-Sloane_south-Boulder_May-2025.jpg?fit=1024%2C771&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128240&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "67,800 year-old cave wall hand stencil offers clues to Australia’s first settlement",
+      "link": "https://www.thebrighterside.news/post/67800-year-old-cave-wall-hand-stencil-offers-clues-to-australias-first-settlement/",
+      "summary": "Mineral deposits over an Indonesian hand stencil establish a minimum age of 67,800 years, extending the known record of cave art. The post 67,800 year-old cave wall hand stencil offers clues to Australia’s first settlement appeared first on…",
+      "publishedAt": "2026-10-07T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/rock-art-main.webp?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://www.dwell.com/article/laneway-studio-olaver-architecture-melbourne-australia-adu-b7c45826",
+      "title": "It’s Made From Glass Bricks, But Their Backyard Studio Is Anything But ’80s",
+      "link": "https://www.dwell.com/article/laneway-studio-olaver-architecture-melbourne-australia-adu-b7c45826",
+      "summary": "\"They quite liked this relatively standard glass block that you’d see in office buildings,\" says architect Emlyn Olaver of the poolside ADU in Melbourne, Australia.",
+      "publishedAt": "2026-10-07T15:54:16.000Z",
+      "imageUrl": "https://images.dwell.com/photos-7316283596586422272/7511297147795693568-small/olaver-architecture-ran-a-two-storey-studio-across-the-back-of-the-block-and-set-the-pool-in-the-gap-between-it-and-the-main-house-recycled-white-brick-a-concrete-band-beam-and-a-wall-of-glass-block-face-the-garden-angelucci-butterfly-chairs-sit-poolside-.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
     },
     {
-      "id": "https://www.science.org/content/article/anti-fauci-lab-leak-proponent-listed-nih-directory-denies-being-hired",
-      "title": "‘The anti-Fauci’? Lab-leak proponent listed in NIH directory but denies being hired",
-      "link": "https://www.science.org/content/article/anti-fauci-lab-leak-proponent-listed-nih-directory-denies-being-hired",
-      "summary": "Biotech executive Steven Quay may be in contention for leadership role in infectious disease institute",
-      "publishedAt": "2026-10-07T05:25:00.000Z",
+      "id": "https://www.science.org/content/article/world-s-once-largest-penguin-colony-perilous-decline",
+      "title": "World’s once-largest penguin colony is in perilous decline",
+      "link": "https://www.science.org/content/article/world-s-once-largest-penguin-colony-perilous-decline",
+      "summary": "Climate change appears to have made food scarce for chinstrap penguins, which had numbered more than 1 million on a remote South Atlantic island",
+      "publishedAt": "2026-10-07T12:25:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
+    },
+    {
+      "id": "https://www.surfacemag.com/?p=212751",
+      "title": "Sophie Elgort Steps in Front of the Camera for Season Two of “Portrait Mode”",
+      "link": "https://www.surfacemag.com/articles/sophie-elgort-steps-in-front-of-the-camera-for-season-two-of-portrait-mode/",
+      "summary": "The photographer, director, producer, and host talks about her transition from ski racing to photography, the advice from Anna Wintour that changed her creative approach, and what people reveal when a portrait becomes a conversation. Sophie…",
+      "publishedAt": "2026-10-07T09:49:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
     },
     {
       "id": "https://boulderreportinglab.org/?p=127589",
@@ -2278,6 +2289,17 @@
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
+    },
+    {
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73417",
+      "title": "Wise Engagement",
+      "link": "https://www.lionsroar.com/wise-engagement/",
+      "summary": "Not-knowing, bearing witness, and taking action—these tenets offer a grounded way to meet charged moments with clarity and compassion. Jitsujo T. Gauthier explains how to bring this three-fold path into your life. The post Wise Engagement a…",
+      "publishedAt": "2026-10-06T17:47:18.000Z",
+      "imageUrl": "https://www.lionsroar.com/wp-content/uploads/2026/09/zen-3-tenets-mala-practice-making-mala-illo_jing_li-1024x576.jpg",
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "http://www.brainpickings.org/?p=33823",
@@ -2324,37 +2346,15 @@
       "category": "design"
     },
     {
-      "id": "https://www.surfacemag.com/?p=212686",
-      "title": "Tiffany Shlain Debuts “If These Walls Could Talk: Women of the Hotel Chelsea”",
-      "link": "https://www.surfacemag.com/articles/tiffany-shlain-debuts-if-these-walls-could-talk-women-of-the-hotel-chelsea/",
-      "summary": "On October 1, Tiffany Shlain added a new chapter to the Hotel Chelsea's storied artistic history. The artist, Emmy-nominated filmmaker, and bestselling author celebrated the debut of If \"These Walls Could Talk: Women of the Hotel Chelsea,\" …",
-      "publishedAt": "2026-10-06T09:56:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=466978",
-      "title": "Orient Farmhouse by General Assembly – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/orient-farmhouse-by-general-assembly-the-local-project/",
-      "summary": "The post Orient Farmhouse by General Assembly – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-05T22:26:19.000Z",
+      "id": "https://thelocalproject.com.au/?p=467002",
+      "title": "Henbest House by Jamie Bush + Co – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/henbest-house-by-jamie-bush-co-the-local-project/",
+      "summary": "The post Henbest House by Jamie Bush + Co – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-06T04:53:46.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73127",
-      "title": "Ride the Waves",
-      "link": "https://www.lionsroar.com/ride-the-waves-2/",
-      "summary": "Novice bodysurfer C. J. Bahnsen on what the ocean taught him about spacious awareness. The post Ride the Waves appeared first on Lion’s Roar.",
-      "publishedAt": "2026-10-05T17:13:33.000Z",
-      "imageUrl": null,
-      "sourceId": "lions-roar",
-      "sourceName": "Lion's Roar",
-      "category": "ideas"
     },
     {
       "id": "urn:id:9154",
@@ -2544,6 +2544,28 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=316478",
+      "title": "New testing technique shows how water-based cells convert waste heat to electricity",
+      "link": "https://interestingengineering.com/innovation/water-based-cells-convert-waste-heat-electricity",
+      "summary": "Scientists have figured out how to make a cheap, water-based device that turns low-grade waste...",
+      "publishedAt": "2026-10-08T17:41:58.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-19-1.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50008047",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "summary": "Article URL: http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html Comments URL: https://news.ycombinator.com/item?id=50008047 Points: 70 # Comments: 14",
+      "publishedAt": "2026-10-08T16:37:24.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "CBMivAFBVV95cUxNY3FIclItTFk1OUxIMmRXZUMzVktTb2xxc1Q1Y2pQN3JBSFVfdmpYWVk0VXJKdEF1bExYOFlxbG5MSHQwa0RfTm5FWXpzcVlma0xhcVdxWVhvbDQzVWRyS0JPeHl5VW9EczlIcm1UV2pmRDdCaWtpdXYzZDFtNVNaSXE2cnd0elBiVXdBalRXU3p1bDkxeWltMXh0NGV6Zi1KZmFCdnNWTGM1cUU4dF9Ea0tQd2lHeGduQklGOQ",
       "title": "The impermanent cycle of life - The Taos News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3FIclItTFk1OUxIMmRXZUMzVktTb2xxc1Q1Y2pQN3JBSFVfdmpYWVk0VXJKdEF1bExYOFlxbG5MSHQwa0RfTm5FWXpzcVlma0xhcVdxWVhvbDQzVWRyS0JPeHl5VW9EczlIcm1UV2pmRDdCaWtpdXYzZDFtNVNaSXE2cnd0elBiVXdBalRXU3p1bDkxeWltMXh0NGV6Zi1KZmFCdnNWTGM1cUU4dF9Ea0tQd2lHeGduQklGOQ?oc=5",
@@ -2553,17 +2575,6 @@
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50006012",
-      "title": "Orkut.com",
-      "link": "https://orkut.com/",
-      "summary": "Article URL: https://orkut.com/ Comments URL: https://news.ycombinator.com/item?id=50006012 Points: 66 # Comments: 49",
-      "publishedAt": "2026-10-08T14:09:53.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "6ac7993248f18a9866f521dd",
@@ -2577,70 +2588,70 @@
       "category": "art"
     },
     {
-      "id": "https://interestingengineering.com/?p=316397",
-      "title": "Watch: 27-foot thermal airship built from fabric and model-aircraft parts takes flight",
-      "link": "https://interestingengineering.com/innovation/27-foot-homemade-blimp-hot-air-propane-pandora",
-      "summary": "A Youtuber has built a 27-foot-long experimental blimp that uses hot air instead of helium...",
-      "publishedAt": "2026-10-08T13:49:04.000Z",
-      "imageUrl": "https://www.youtube.com/embed/m3bz_bz4JC4",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504261",
-      "title": "Where Jeff Hurd and Dwayne Romero stand on the top issues in Colorado’s 3rd Congressional District race",
-      "link": "https://coloradosun.com/2026/10/08/jeff-hurd-dwayne-romero-colorado-third-district-issue-voter-guide/",
-      "summary": "Republican U.S. Rep. Jeff Hurd and Democrat Dwayne Romero are competing to represent a sprawling district that stretches from the Western Slope and mountain communities to southern Colorado",
-      "publishedAt": "2026-10-08T09:55:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/elex-2026-cd3.png?fit=1024%2C768&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=504349",
+      "title": "Colorado should buy part of San Luis Valley ranch at the center of a long-running land battle, report says",
+      "link": "https://coloradosun.com/2026/10/08/san-luis-valley-land-battle-salazar-report/",
+      "summary": "Gov. Jared Polis appointed former US Sen. Ken Salazar to come up with a solution to the battle over Cielo Vista Ranch in Costilla County",
+      "publishedAt": "2026-10-08T10:00:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/JMc-Culebra-Peak-14047-scaled.jpg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285613",
-      "title": "The Most Curious Cloud on Mars Relies on Some Bizarre Physics",
-      "link": "https://nautil.us/the-most-curious-cloud-on-mars-relies-on-some-bizarre-physics-1285613/",
-      "summary": "We’ve never seen anything like this before The post The Most Curious Cloud on Mars Relies on Some Bizarre Physics appeared first on Nautilus.",
-      "publishedAt": "2026-10-07T16:30:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-amec.jpg?w=564",
+      "id": "https://nautil.us/?p=1285635",
+      "title": "Meet the New Otterlike Predator That Scurried Alongside Dinosaurs",
+      "link": "https://nautil.us/meet-the-new-otterlike-predator-that-scurried-alongside-dinosaurs-1285635/",
+      "summary": "Its unique throat paved the way for our big brains The post Meet the New Otterlike Predator That Scurried Alongside Dinosaurs appeared first on Nautilus.",
+      "publishedAt": "2026-10-07T23:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Martin-FossilindreiBildern-klein-1.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128220&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "Cosmic ‘pearls’ emerge around the surviving star of an ancient supernova",
-      "link": "https://www.thebrighterside.news/post/cosmic-pearls-emerge-around-the-surviving-star-of-an-ancient-supernova/",
-      "summary": "Pa 30’s apparent streaks are chains of enormous gas knots, while its surviving star shows little sideways recoil from the explosion. The post Cosmic ‘pearls’ emerge around the surviving star of an ancient supernova appeared first on The Bri…",
-      "publishedAt": "2026-10-07T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/supernova-remnant-1.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128255&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "Scientists use generative AI to build better proteins for editing DNA",
+      "link": "https://www.thebrighterside.news/post/scientists-use-generative-ai-to-build-better-proteins-for-editing-dna/",
+      "summary": "A genome search and protein language model produced new DNA-moving proteins, including one that doubled targeted insertion in lab tests. The post Scientists use generative AI to build better proteins for editing DNA appeared first on The Br…",
+      "publishedAt": "2026-10-07T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/dna-editing.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://www.science.org/content/article/neanderthals-were-skilled-woodworkers-first-its-kind-tool-trove-reveals",
-      "title": "Neanderthals were skilled woodworkers, first-of-its-kind tool trove reveals",
-      "link": "https://www.science.org/content/article/neanderthals-were-skilled-woodworkers-first-its-kind-tool-trove-reveals",
-      "summary": "Find in Spanish cave provides rare window into the domestic lives of our closest relatives",
-      "publishedAt": "2026-10-07T02:00:00.000Z",
+      "id": "https://www.dwell.com/article/diamond-heights-eichler-home-claude-oakland-san-francisco-midcentury-real-estate-2cfdae68",
+      "title": "Eichler Homes Are Rare in San Francisco. Here’s a Stunner for $3.5M",
+      "link": "https://www.dwell.com/article/diamond-heights-eichler-home-claude-oakland-san-francisco-midcentury-real-estate-2cfdae68",
+      "summary": "The famed developer built about 100 single-family residences in the city—and this Diamond Heights midcentury comes with a custom Henrybuilt kitchen and a garden designed by Terremoto.",
+      "publishedAt": "2026-10-07T15:34:57.000Z",
+      "imageUrl": "https://images.dwell.com/photos-6818593201364905984/7505710907094159360-small/this-recently-updated-home-was-designed-in-1962-by-architect-claude-oakland-for-famed-real-estate-developer-joseph-eichler.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://www.surfacemag.com/?p=212815",
+      "title": "Francisco Costa Builds a World of His Own",
+      "link": "https://www.surfacemag.com/articles/francisco-costa-builds-a-world-of-his-own/",
+      "summary": "At Costa Brazil's new Hudson Yards flagship, the designer turns his private world of books, objects, and Brazilian references into a space that feels like an extension of his home. Photo by Bjorn Wallander. After designing at Gucci under To…",
+      "publishedAt": "2026-10-07T09:49:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
+    },
+    {
+      "id": "https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers",
+      "title": "Watch: What’s the deal with OpenAI’s massive dump of math papers?",
+      "link": "https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers",
+      "summary": "The landmark release of 722 papers targeting 372 unsolved problems draws amazement—and criticism",
+      "publishedAt": "2026-10-07T06:15:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "https://www.dwell.com/article/sothebys-international-house-spa-retreat-fair-oaks-real-estate-2e5edfad",
-      "title": "A Santa Barbara–Inspired Sanctuary Seeks $7.5M in Fair Oaks",
-      "link": "https://www.dwell.com/article/sothebys-international-house-spa-retreat-fair-oaks-real-estate-2e5edfad",
-      "summary": "The compound doubles as a personal wellness retreat with a resort-style pool, cold plunge, hot tub, full-size tennis court, and private casita.",
-      "publishedAt": "2026-10-06T21:35:06.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7509001519349895168/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
     },
     {
       "id": "https://boulderreportinglab.org/?p=127647",
@@ -2654,14 +2665,14 @@
       "category": "local"
     },
     {
-      "id": "https://www.surfacemag.com/?p=212675",
-      "title": "Tarini Sethi Turns Stainless Steel Into a Walk-Through Utopia for Frieze Sculpture",
-      "link": "https://www.surfacemag.com/articles/tarini-sethi-at-frieze-sculpture-artist-statement/",
-      "summary": "New Delhi-based artist Tarini Sethi draws on India's artistic traditions, from mythology and miniature painting to tribal art, to imagine utopias where the body can transform without limits. Her latest work, \"The Sun Bathes Its Friends and …",
-      "publishedAt": "2026-10-06T09:29:00.000Z",
+      "id": "https://thelocalproject.com.au/?p=466945",
+      "title": "Campbell House by Nüüd Studio – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/campbell-house-by-nuud-studio-the-local-project/",
+      "summary": "The post Campbell House by Nüüd Studio – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-06T04:39:28.000Z",
       "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
       "category": "design"
     },
     {
@@ -2676,28 +2687,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiggFBVV95cUxPU2FyVzlPZkp6aXg4dldsVzBaNkhrQ29TVGxCYlJRZEdPUmI4ZE16cTE5ZEJ4Y1oySEFCVUlJbExLcHRwU3B6ZFFJcnVpVjk1U2NJSVhUOWloMk1qMHdrQWpFUUlhVmlVZnU1Q19RTEdVVU9UVTkzNjhBbjVGeGRzMEp3",
-      "title": "2 dead in plane crash south of Boulder - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2FyVzlPZkp6aXg4dldsVzBaNkhrQ29TVGxCYlJRZEdPUmI4ZE16cTE5ZEJ4Y1oySEFCVUlJbExLcHRwU3B6ZFFJcnVpVjk1U2NJSVhUOWloMk1qMHdrQWpFUUlhVmlVZnU1Q19RTEdVVU9UVTkzNjhBbjVGeGRzMEp3?oc=5",
-      "summary": "2 dead in plane crash south of Boulder Daily Camera",
-      "publishedAt": "2026-10-06T03:11:36.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=466422",
-      "title": "Mark Elmore: Reflecting on Four Decades at Fisher & Paykel – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/mark-elmore-reflecting-on-four-decades-at-fisher-paykel-the-local-project/",
-      "summary": "The post Mark Elmore: Reflecting on Four Decades at Fisher & Paykel – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-05T21:43:24.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
       "id": "CBMi2wFBVV95cUxNUU12cWJTOXR3c1E4aUlFc19BTWI0Mi1SS2I0NzhsRXFjc2hQeHNSQUJlbUlUYW9KY2lkWFR3elN3bFgwTkxTTXhfRUpCVENmdjZoSURMV1RVTnIwM1hIcE9ZSGdXcXNaZnd4bm5BNHdHYzFTRXdYLWFnWTk2S3paMlNiX0doUjlKT29qaUc4UTQxNVFyWmc5dFdFc2pSNlljVFk3bXp1UEJpMTAxaW5iblVRdmt6RFUyYmhod3FETDhHR2J3bkFlT01qTW1wZksybXFvNDlaYjlWVjg",
       "title": "Referee suspended for incident involving Trey McBride, per report - The Coloradoan",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUU12cWJTOXR3c1E4aUlFc19BTWI0Mi1SS2I0NzhsRXFjc2hQeHNSQUJlbUlUYW9KY2lkWFR3elN3bFgwTkxTTXhfRUpCVENmdjZoSURMV1RVTnIwM1hIcE9ZSGdXcXNaZnd4bm5BNHdHYzFTRXdYLWFnWTk2S3paMlNiX0doUjlKT29qaUc4UTQxNVFyWmc5dFdFc2pSNlljVFk3bXp1UEJpMTAxaW5iblVRdmt6RFUyYmhod3FETDhHR2J3bkFlT01qTW1wZksybXFvNDlaYjlWVjg?oc=5",
@@ -2709,10 +2698,10 @@
       "category": "local"
     },
     {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73138",
-      "title": "Too Much to Do, Too Little Time",
-      "link": "https://www.lionsroar.com/too-much-to-do-too-little-time/",
-      "summary": "Allyson Pimentel on how to take refuge when overwhelm takes over. The post Too Much to Do, Too Little Time appeared first on Lion’s Roar.",
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73107",
+      "title": "When Anxiety Arrives Unexpectedly",
+      "link": "https://www.lionsroar.com/when-anxiety-arrives-unexpectedly/",
+      "summary": "Lion's Roar editor Andrea Miller introduces the November 2026 issue. The post When Anxiety Arrives Unexpectedly appeared first on Lion’s Roar.",
       "publishedAt": "2026-10-05T17:13:33.000Z",
       "imageUrl": null,
       "sourceId": "lions-roar",
@@ -2729,6 +2718,17 @@
       "sourceId": "leibal",
       "sourceName": "Leibal",
       "category": "design"
+    },
+    {
+      "id": "CBMilAFBVV95cUxQTzJhR1Q1RERCVmY2dlB5NWVhSU11U0VFRXl0Q3p4dWFLd0FoQkw1bE5mRkNoM1ZDNFZ1VktIRW56TmpaYU9DazB1OVBvU3NHM2hXU1hhajMzVktRa2o5ZmxiVlJUNF9Id0ZHdVItNkRHNTBEU2ZDVEdYUThsYS1vQ1JlVExfUFVhWF9EQTFWTUZjR05O",
+      "title": "Boulder Valley announces preschool locations following school closure decision - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzJhR1Q1RERCVmY2dlB5NWVhSU11U0VFRXl0Q3p4dWFLd0FoQkw1bE5mRkNoM1ZDNFZ1VktIRW56TmpaYU9DazB1OVBvU3NHM2hXU1hhajMzVktRa2o5ZmxiVlJUNF9Id0ZHdVItNkRHNTBEU2ZDVEdYUThsYS1vQ1JlVExfUFVhWF9EQTFWTUZjR05O?oc=5",
+      "summary": "Boulder Valley announces preschool locations following school closure decision Daily Camera",
+      "publishedAt": "2026-10-05T06:07:13.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=85303",
@@ -2918,6 +2918,28 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=316491",
+      "title": "US’ 100,000-ton aircraft carrier strike group launched 450 land-attack cruise missiles against Iran",
+      "link": "https://interestingengineering.com/military/us-100000-ton-aircraft-carrier-strike-group",
+      "summary": "One of the most powerful aircraft carrier strike group of the United States launched more...",
+      "publishedAt": "2026-10-08T17:21:32.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/carrier.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50007764",
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "link": "https://openrouter.ai/stepfun/step-5-preview",
+      "summary": "Article URL: https://openrouter.ai/stepfun/step-5-preview Comments URL: https://news.ycombinator.com/item?id=50007764 Points: 73 # Comments: 22",
+      "publishedAt": "2026-10-08T16:20:20.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "CBMitgFBVV95cUxQUjhuWVhYTVRKMHlpYmo3ZWtrQkNhYVRaNkhRRmFseW92NU1URzZGLVRzaFo5T1ZBS3NNMkNIdy01TUJNN2taZjNGamtPYWo5Nno3cXhBWEowQlZuZ1dWX3BRWVpnYjhsejZkWTQ0WVdJcE1vMWxJVE1QNkdQbW45YzRsN1RMRDNaZElZVzNScEFYT05KSXJoRGZRMGdoRWFJME9iYU8xSndQMEgwYmxjNzQ2VVJsdw",
       "title": "Life is fleeting. Go vote - The Taos News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjhuWVhYTVRKMHlpYmo3ZWtrQkNhYVRaNkhRRmFseW92NU1URzZGLVRzaFo5T1ZBS3NNMkNIdy01TUJNN2taZjNGamtPYWo5Nno3cXhBWEowQlZuZ1dWX3BRWVpnYjhsejZkWTQ0WVdJcE1vMWxJVE1QNkdQbW45YzRsN1RMRDNaZElZVzNScEFYT05KSXJoRGZRMGdoRWFJME9iYU8xSndQMEgwYmxjNzQ2VVJsdw?oc=5",
@@ -2940,80 +2962,80 @@
       "category": "art"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50005643",
-      "title": "2027 Web Platform Feature Ranking",
-      "link": "https://interop-rank.fxdx.dev/",
-      "summary": "Article URL: https://interop-rank.fxdx.dev/ Comments URL: https://news.ycombinator.com/item?id=50005643 Points: 38 # Comments: 7",
-      "publishedAt": "2026-10-08T13:34:22.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504241",
-      "title": "Opinion: Colorado can protect critical lifelines before the next major flood",
-      "link": "https://coloradosun.com/2026/10/08/opinion-colorado-protecting-critical-lifelines-flooding/",
-      "summary": "Roads, bridges, utilities and communications systems belong at the center of flood planning",
-      "publishedAt": "2026-10-08T07:30:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/zelenok-and-Igel-sig.png?fit=1024%2C700&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=504183",
+      "title": "A robot entered a Denver comedy club. (This isn’t a joke.)",
+      "link": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
+      "summary": "What happens when a robot friend faces death? At a Denver improv performance, humans and robots talked it out, maybe for the first time",
+      "publishedAt": "2026-10-08T10:00:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/Portraits-BW_Dental_ORR-01.jpg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128211&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "Recycled plastic and moon dust become 3D-printed parts and structures for future lunar missions",
-      "link": "https://www.thebrighterside.news/post/recycled-plastic-and-moon-dust-become-3d-printed-parts-and-structures-for-future-lunar-missions/",
-      "summary": "Recycled plastic mixed with simulated lunar dust produced printable parts, with benefits and trade-offs that need further testing. The post Recycled plastic and moon dust become 3D-printed parts and structures for future lunar missions appe…",
-      "publishedAt": "2026-10-07T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Lunar-regolith-1.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "https://nautil.us/?p=1285601",
-      "title": "Penguin Poop is Melting Antarctic Snow",
-      "link": "https://nautil.us/penguin-poop-is-melting-antarctic-snow-1285601/",
-      "summary": "Thanks to green algae that groove on guano The post Penguin Poop is Melting Antarctic Snow appeared first on Nautilus.",
-      "publishedAt": "2026-10-07T13:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_186637537-1.jpeg?w=564",
+      "id": "https://nautil.us/?p=1285629",
+      "title": "Why Forgive and Forget is Bad Advice",
+      "link": "https://nautil.us/why-forgive-and-forget-is-bad-advice-1285629/",
+      "summary": "A conversation with MacArthur fellow Felipe de Brigard about how forgiveness reshapes the memory of atrocity The post Why Forgive and Forget is Bad Advice appeared first on Nautilus.",
+      "publishedAt": "2026-10-07T20:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_790044697.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
     },
     {
-      "id": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
-      "title": "As AI triggers a tsunami of submissions, computer science conferences impose caps",
-      "link": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
-      "summary": "New controls could limit papers by early-career researchers",
-      "publishedAt": "2026-10-07T01:40:00.000Z",
+      "id": "https://www.thebrighterside.news/api/preview?id=128230&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "Higher body weight linked to lower risk of death from dementia",
+      "link": "https://www.thebrighterside.news/post/higher-body-weight-linked-to-lower-risk-of-death-from-dementia/",
+      "summary": "Higher weight at dementia onset was linked to lower mortality, but the study does not establish a benefit from weight gain. The post Higher body weight linked to lower risk of death from dementia appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-10-07T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/obesity-and-dementia.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://www.dwell.com/article/cramped-attic-pastel-primary-suite-b70d6ea5",
+      "title": "How They Pulled It Off: A Cramped Attic Becomes a Curvy, Pastel-Toned Primary Suite",
+      "link": "https://www.dwell.com/article/cramped-attic-pastel-primary-suite-b70d6ea5",
+      "summary": "Homeowner Irina Alimanestianu saved the brightest room in her home for her art studio, deciding to transform her dim living quarters upstairs instead.",
+      "publishedAt": "2026-10-07T13:57:42.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7513282829874987008/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
+    },
+    {
+      "id": "https://www.surfacemag.com/?p=212801",
+      "title": "Phoenix Art Museum Receives a $5 Million Donation, and Other News.",
+      "link": "https://www.surfacemag.com/articles/the-phoenix-art-museum-receives-a-5-million-donation/",
+      "summary": "Plus, Christopher Bailey relaunches Burleigh online, and Independent Art Fair sells to London-based conglomerate Informa. Pala Pothupitiye's Iranamadu (2025) Photo by Airi Katsuta, courtesy Phoenix Art Museum. Phoenix Art Museum’s Asian gal…",
+      "publishedAt": "2026-10-07T09:22:00.000Z",
+      "imageUrl": null,
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
+    },
+    {
+      "id": "https://www.science.org/content/article/anti-fauci-lab-leak-proponent-listed-nih-directory-denies-being-hired",
+      "title": "‘The anti-Fauci’? Lab-leak proponent listed in NIH directory but denies being hired",
+      "link": "https://www.science.org/content/article/anti-fauci-lab-leak-proponent-listed-nih-directory-denies-being-hired",
+      "summary": "Biotech executive Steven Quay may be in contention for leadership role in infectious disease institute",
+      "publishedAt": "2026-10-07T05:25:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
     },
     {
-      "id": "https://www.dwell.com/article/sothebys-international-house-coastal-villa-armou-real-estate-657f0ad4",
-      "title": "This Elegant $1.7M Cyprus Villa Stretches to the Mediterranean Sea",
-      "link": "https://www.dwell.com/article/sothebys-international-house-coastal-villa-armou-real-estate-657f0ad4",
-      "summary": "Perched above the sea where Aphrodite supposedly rose from the waves, the home pairs ancient lore with sleek design.",
-      "publishedAt": "2026-10-06T21:35:01.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7508997046458396672/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=212706",
-      "title": "The Metropolitan Museum of Art Positions Lee Krasner and Jackson Pollock as Artistic Peers, and Other News.",
-      "link": "https://www.surfacemag.com/articles/the-metropolitan-museum-of-art-pairs-lee-krasner-and-jackson-pollock-as-artistic-peers/",
-      "summary": "Plus, The Ashmolean Museum and the Samdani Art Foundation team up to bring Bangladeshi artists to Oxford, and Cyra Levenson leaves the Guggenheim to lead Yaddo. Photo by Anna-Marie Kellen. Courtesy of the Met. The Metropolitan Museum of Art…",
-      "publishedAt": "2026-10-06T09:21:00.000Z",
+      "id": "https://thelocalproject.com.au/?p=466929",
+      "title": "Clarksville Residence by Michael Hsu Office of Architecture – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/clarksville-residence-by-michael-hsu-office-of-architecture-the-local-project/",
+      "summary": "The post Clarksville Residence by Michael Hsu Office of Architecture – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-06T04:22:34.000Z",
       "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
       "category": "design"
     },
     {
@@ -3050,22 +3072,11 @@
       "category": "local"
     },
     {
-      "id": "CBMieEFVX3lxTE9xTU1zUVJZZTZqWG9lVkNfRUJGb0JGY1pyWnJldlV0NTBlVnFmUzc0VFVpRnZBc1lPb0kxc3gxVk1fMVlETU40cTR4QkVzSy1WUm95NVlrbGszSERxbDZ4Nk8teGxqeWNxckZGWFp0WWdMY3lkQ25FZw",
-      "title": "CU Buffs take quarterback uncertainty into bye week - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xTU1zUVJZZTZqWG9lVkNfRUJGb0JGY1pyWnJldlV0NTBlVnFmUzc0VFVpRnZBc1lPb0kxc3gxVk1fMVlETU40cTR4QkVzSy1WUm95NVlrbGszSERxbDZ4Nk8teGxqeWNxckZGWFp0WWdMY3lkQ25FZw?oc=5",
-      "summary": "CU Buffs take quarterback uncertainty into bye week Daily Camera",
-      "publishedAt": "2026-10-05T19:29:39.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73144",
-      "title": "Books in Brief: November 2026",
-      "link": "https://www.lionsroar.com/books-in-brief-november-2026/",
-      "summary": "Jessica Little reviews eight new books for the November 2026 issue of Lion's Roar. The post Books in Brief: November 2026 appeared first on Lion’s Roar.",
-      "publishedAt": "2026-10-05T17:13:32.000Z",
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73119",
+      "title": "The Essential Practice Nobody Is Talking About",
+      "link": "https://www.lionsroar.com/the-essential-practice-nobody-is-talking-about/",
+      "summary": "Josh Korda on why right effort is so important—it keeps the mind from slipping into the spirals and storylines that make life harder than it needs to be. The post The Essential Practice Nobody Is Talking About appeared first on Lion’s Roar.",
+      "publishedAt": "2026-10-05T17:13:33.000Z",
       "imageUrl": null,
       "sourceId": "lions-roar",
       "sourceName": "Lion's Roar",
@@ -3083,15 +3094,15 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=466862",
-      "title": "New York House by Greg Natale – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/new-york-house-by-greg-natale-the-local-project/",
-      "summary": "The post New York House by Greg Natale – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-02T05:57:54.000Z",
+      "id": "CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE",
+      "title": "CU Buffs defense gives Colorado a chance against Texas Tech - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE?oc=5",
+      "summary": "CU Buffs defense gives Colorado a chance against Texas Tech Daily Camera",
+      "publishedAt": "2026-10-04T22:11:57.000Z",
       "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "urn:id:9098",
@@ -3281,6 +3292,28 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=316570",
+      "title": "World’s first lead-cooled nuclear plant installs massive 95-ton steam separators",
+      "link": "https://interestingengineering.com/energy/worlds-first-lead-cooled-nuclear-plant",
+      "summary": "Engineers in Siberia have installed two 95-ton steam separators at the BREST-OD-300 nuclear reactor. The...",
+      "publishedAt": "2026-10-08T16:24:14.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Rosatom.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50007353",
+      "title": "New gTLD Application for .lan",
+      "link": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+      "summary": "Article URL: https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary Comments URL: https://news.ycombinator.com/item?id=50007353 Points: 86 # Comments: 90",
+      "publishedAt": "2026-10-08T15:51:51.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
       "id": "CBMizgFBVV95cUxNRDN0Q2xvV3lWVGZ6N1d6bWNjSVdCM0dDaGFSMGJBdTRlUUpyOEphZHN6QnpwT1hoeU1ZR3Q4dW5OUE1tXzRsaFVPZkdLaWNvUGR4Y1AxRHJfdlpLU01xODVGZ3htLW1GUnJYVkVNMGNGb3BYNVkybWRzSmlFYmlwa1FuWWEwX2dlN1o5eVNPWGxIZTk5RW9sTldRYkg5V2xNVERUdl8zOHlKYWtoT19MZVd0T2RvYk53a1VRSWFlOUtiRGF3M3VUUi1FX1Fxdw",
       "title": "FAA approves Angel Fire to take over airport - The Taos News",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRDN0Q2xvV3lWVGZ6N1d6bWNjSVdCM0dDaGFSMGJBdTRlUUpyOEphZHN6QnpwT1hoeU1ZR3Q4dW5OUE1tXzRsaFVPZkdLaWNvUGR4Y1AxRHJfdlpLU01xODVGZ3htLW1GUnJYVkVNMGNGb3BYNVkybWRzSmlFYmlwa1FuWWEwX2dlN1o5eVNPWGxIZTk5RW9sTldRYkg5V2xNVERUdl8zOHlKYWtoT19MZVd0T2RvYk53a1VRSWFlOUtiRGF3M3VUUi1FX1Fxdw?oc=5",
@@ -3292,19 +3325,8 @@
       "category": "local"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50005608",
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "link": "https://github.com/SamsungLabs/LittleBit",
-      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 52 # Comments: 7",
-      "publishedAt": "2026-10-08T13:29:46.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
       "id": "6ac6bdf62a68ffce93feb8da",
-      "title": "Andrew Savage Launches New Band Iconic Fugues with “2025 Dream/2025 Blues”",
+      "title": "Andrew Savage Launches New Band Iconic Fugues With “2025 Dream/2025 Blues”",
       "link": "https://pitchfork.com/story/andrew-savage-launches-new-band-iconic-fugues-with-2025-dream-2025-blues/",
       "summary": "“I think it’s just amazing the way a fun guitar solo can draw a bit of sun out from behind the clouds”",
       "publishedAt": "2026-10-08T11:24:29.000Z",
@@ -3314,59 +3336,81 @@
       "category": "art"
     },
     {
-      "id": "https://coloradosun.com/?p=504288",
-      "title": "Medida Electoral 7A: Los votantes del Front Range decidirán sobre un aumento del impuesto sobre las ventas para financiar el servicio de trenes de pasajeros",
-      "link": "https://coloradosun.com/2026/10/07/medida-electoral-7a-explicada-impuesto-tren-colorado/",
-      "summary": "La medida aumentaría el impuesto sobre las ventas en aproximadamente 33 centavos por cada $100 en compras para ampliar la frecuencia de los viajes en tren de pasajeros entre Denver y Fort Collins y extender la ruta hasta Pueblo",
-      "publishedAt": "2026-10-07T22:28:21.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/260406-FRONT-RANGE-PASSENGER-RAILWAYS-TRAINS-NAMING-PRESS-CONFERENCE-COLORADO-CONNECTOR-COCO-GOV-JARED-POLIS-UNION-STATION-DOWNTOWN-DENVER-KEVINJBEATY-10-1.webp?fit=1024%2C683&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=504261",
+      "title": "Where Jeff Hurd and Dwayne Romero stand on the top issues in Colorado’s 3rd Congressional District race",
+      "link": "https://coloradosun.com/2026/10/08/jeff-hurd-dwayne-romero-colorado-third-district-issue-voter-guide/",
+      "summary": "Republican U.S. Rep. Jeff Hurd and Democrat Dwayne Romero are competing to represent a sprawling district that stretches from the Western Slope and mountain communities to southern Colorado",
+      "publishedAt": "2026-10-08T09:55:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/elex-2026-cd3.png?fit=1024%2C768&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
-      "id": "https://nautil.us/?p=1285598",
-      "title": "Creating Fake People is a Terrible Idea",
-      "link": "https://nautil.us/creating-fake-people-is-a-terrible-idea-1285598/",
-      "summary": "So why is a company pursuing digital avatars with such gusto? The post Creating Fake People is a Terrible Idea appeared first on Nautilus.",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2465241385.jpg?w=564",
+      "id": "https://nautil.us/?p=1285604",
+      "title": "How to Live to Be 194 Years Old",
+      "link": "https://nautil.us/how-to-live-to-be-194-years-old-1285604/",
+      "summary": "A tortoise’s genetic hacks for longevity The post How to Live to Be 194 Years Old appeared first on Nautilus.",
+      "publishedAt": "2026-10-07T19:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Jonathan-in-front-of-Plantation.-Credit-Joe-Hollins.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128200&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "Interstellar travel faces steep hurdles, but recent research is paving a new path to the stars",
-      "link": "https://www.thebrighterside.news/post/interstellar-travel-faces-steep-hurdles-but-recent-research-is-paving-a-new-path-to-the-stars/",
-      "summary": "Laser-sail experiments test a route to nearby stars, while research reveals major barriers to interstellar missions. The post Interstellar travel faces steep hurdles, but recent research is paving a new path to the stars appeared first on T…",
-      "publishedAt": "2026-10-07T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/space-travel.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128220&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "Cosmic ‘pearls’ emerge around the surviving star of an ancient supernova",
+      "link": "https://www.thebrighterside.news/post/cosmic-pearls-emerge-around-the-surviving-star-of-an-ancient-supernova/",
+      "summary": "Pa 30’s apparent streaks are chains of enormous gas knots, while its surviving star shows little sideways recoil from the explosion. The post Cosmic ‘pearls’ emerge around the surviving star of an ancient supernova appeared first on The Bri…",
+      "publishedAt": "2026-10-07T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/supernova-remnant-1.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
     },
     {
-      "id": "https://www.dwell.com/article/sothebys-international-minnetonka-lakehouse-mound-real-estate-542ef771",
-      "title": "On Lake Minnetonka, a $4.2M Home Delivers Year-Round Vacation Vibes",
-      "link": "https://www.dwell.com/article/sothebys-international-minnetonka-lakehouse-mound-real-estate-542ef771",
-      "summary": "Sweeping views, plenty of outdoor space, and a wine cellar make this the ultimate host’s setup.",
-      "publishedAt": "2026-10-06T21:34:57.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7508990422566350848/small.jpg",
+      "id": "https://www.science.org/content/article/neanderthals-were-skilled-woodworkers-first-its-kind-tool-trove-reveals",
+      "title": "Neanderthals were skilled woodworkers, first-of-its-kind tool trove reveals",
+      "link": "https://www.science.org/content/article/neanderthals-were-skilled-woodworkers-first-its-kind-tool-trove-reveals",
+      "summary": "Find in Spanish cave provides rare window into the domestic lives of our closest relatives",
+      "publishedAt": "2026-10-07T02:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
+      "category": "science"
+    },
+    {
+      "id": "https://www.dwell.com/article/sothebys-international-house-spa-retreat-fair-oaks-real-estate-2e5edfad",
+      "title": "A Santa Barbara–Inspired Sanctuary Seeks $7.5M in Fair Oaks",
+      "link": "https://www.dwell.com/article/sothebys-international-house-spa-retreat-fair-oaks-real-estate-2e5edfad",
+      "summary": "The compound doubles as a personal wellness retreat with a resort-style pool, cold plunge, hot tub, full-size tennis court, and private casita.",
+      "publishedAt": "2026-10-06T21:35:06.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7509001519349895168/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
     },
     {
-      "id": "https://www.science.org/content/article/exclusive-archaeology-megafirm-abruptly-shuts-down",
-      "title": "Exclusive: Archaeology megafirm abruptly shuts down",
-      "link": "https://www.science.org/content/article/exclusive-archaeology-megafirm-abruptly-shuts-down",
-      "summary": "Chronicle Heritage was largest U.S. cultural resources management company",
-      "publishedAt": "2026-10-06T05:35:00.000Z",
+      "id": "https://www.surfacemag.com/?p=212724",
+      "title": "McLaurin & Piercy Introduces the Kamal Wallpaper Collection",
+      "link": "https://www.surfacemag.com/articles/mclaurin-piercy-kamal-wallpaper-collection/",
+      "summary": "Courtesy of McLaurin & Piercy An ancient celestial navigation device, the kamal equipped seafarers as early as the late 9th century. This simple tool enabled adventure and inspired centuries of stories, many mythic in nature. For Los Angele…",
+      "publishedAt": "2026-10-06T09:59:00.000Z",
       "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
+      "sourceId": "surface",
+      "sourceName": "Surface",
+      "category": "design"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=466883",
+      "title": "Hawthorn Residence by Workroom – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/hawthorn-residence-by-workroom-the-local-project/",
+      "summary": "The post Hawthorn Residence by Workroom – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-06T04:04:18.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "https://www.themarginalian.org/?p=75244",
@@ -3391,37 +3435,15 @@
       "category": "local"
     },
     {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73147",
-      "title": "Thay’s Continuation",
-      "link": "https://www.lionsroar.com/thays-continuation/",
-      "summary": "Barry Boyce explores how the Plum Village community is carrying Thich Nhat Hanh’s wisdom into the future through collective leadership, living practice, and bold new forms of transmission. Marking the one hundredth anniversary of his birth,…",
-      "publishedAt": "2026-10-05T17:13:32.000Z",
-      "imageUrl": "https://www.lionsroar.com/wp-content/uploads/2026/09/love-in-action-retreat-2023-parallax-1024x576.jpg",
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73127",
+      "title": "Ride the Waves",
+      "link": "https://www.lionsroar.com/ride-the-waves-2/",
+      "summary": "Novice bodysurfer C. J. Bahnsen on what the ocean taught him about spacious awareness. The post Ride the Waves appeared first on Lion’s Roar.",
+      "publishedAt": "2026-10-05T17:13:33.000Z",
+      "imageUrl": null,
       "sourceId": "lions-roar",
       "sourceName": "Lion's Roar",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.surfacemag.com/?p=212537",
-      "title": "The Perspective and Process of Artist Asher Liftin",
-      "link": "https://www.surfacemag.com/articles/asher-liftin-125-newbury-gallery-recent-work/",
-      "summary": "From a summer residency at The Watermill Center to the autumn opening of \"Recent Work\" at Pace Gallery's 125 Newbury location, and a feature in Pedro Almodovar's 2026 film, \"Bitter Christmas\" Asher Liftin: Recent Work 395 Broadway, New York…",
-      "publishedAt": "2026-10-05T09:59:00.000Z",
-      "imageUrl": null,
-      "sourceId": "surface",
-      "sourceName": "Surface",
-      "category": "design"
-    },
-    {
-      "id": "CBMilAFBVV95cUxQTzJhR1Q1RERCVmY2dlB5NWVhSU11U0VFRXl0Q3p4dWFLd0FoQkw1bE5mRkNoM1ZDNFZ1VktIRW56TmpaYU9DazB1OVBvU3NHM2hXU1hhajMzVktRa2o5ZmxiVlJUNF9Id0ZHdVItNkRHNTBEU2ZDVEdYUThsYS1vQ1JlVExfUFVhWF9EQTFWTUZjR05O",
-      "title": "Boulder Valley announces preschool locations following school closure decision - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzJhR1Q1RERCVmY2dlB5NWVhSU11U0VFRXl0Q3p4dWFLd0FoQkw1bE5mRkNoM1ZDNFZ1VktIRW56TmpaYU9DazB1OVBvU3NHM2hXU1hhajMzVktRa2o5ZmxiVlJUNF9Id0ZHdVItNkRHNTBEU2ZDVEdYUThsYS1vQ1JlVExfUFVhWF9EQTFWTUZjR05O?oc=5",
-      "summary": "Boulder Valley announces preschool locations following school closure decision Daily Camera",
-      "publishedAt": "2026-10-05T06:07:13.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://boulderreportinglab.org/?p=127351",
@@ -3446,15 +3468,15 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=466663",
-      "title": "Park Slope Residences by Shapeless Studio – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/park-slope-residences-by-shapeless-studio-the-local-project/",
-      "summary": "The post Park Slope Residences by Shapeless Studio – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-02T05:55:18.000Z",
+      "id": "CBMiWkFVX3lxTFBNQW1LWElYSTNLVkoyT2loNVpkVy1lc2dQRkYyYXZYakhGRy1IT0NGVzlzREc3TzBqaHh3M0M0aHl5ZDZjaHFXZXFmQ1lGOHZRSmwwdTZVcUVqdw",
+      "title": "Sitemap - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNQW1LWElYSTNLVkoyT2loNVpkVy1lc2dQRkYyYXZYakhGRy1IT0NGVzlzREc3TzBqaHh3M0M0aHl5ZDZjaHFXZXFmQ1lGOHZRSmwwdTZVcUVqdw?oc=5",
+      "summary": "Sitemap Daily Camera",
+      "publishedAt": "2026-10-04T09:06:08.000Z",
       "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=85285",
@@ -3644,15 +3666,37 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50005527",
-      "title": "Beauty in DVD Menus",
-      "link": "https://vale.rocks/posts/dvd-menus",
-      "summary": "Article URL: https://vale.rocks/posts/dvd-menus Comments URL: https://news.ycombinator.com/item?id=50005527 Points: 154 # Comments: 103",
-      "publishedAt": "2026-10-08T13:22:01.000Z",
+      "id": "https://news.ycombinator.com/item?id=50006832",
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "link": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "summary": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea Comments URL: https://news.ycombinator.com/item?id=50006832 Points: 761 # Comments: 1331",
+      "publishedAt": "2026-10-08T15:15:00.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316485",
+      "title": "Newly-built fighter aircraft conducts maiden flight, mission verified performance of main systems",
+      "link": "https://interestingengineering.com/military/newly-built-fighter-aircraft-maiden-flight",
+      "summary": "The maiden flight of the first Gripen E fighter aircraft produced in Brazil has been...",
+      "publishedAt": "2026-10-08T14:58:21.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/SAAB-GRPEN.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://coloradosun.com/?p=504241",
+      "title": "Opinion: Colorado can protect critical lifelines before the next major flood",
+      "link": "https://coloradosun.com/2026/10/08/opinion-colorado-protecting-critical-lifelines-flooding/",
+      "summary": "Roads, bridges, utilities and communications systems belong at the center of flood planning",
+      "publishedAt": "2026-10-08T07:30:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/zelenok-and-Igel-sig.png?fit=1024%2C700&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
     },
     {
       "id": "CBMiyAFBVV95cUxNWnlwa1RJMTJZQTR5UDdUWVVjWTlHbVFnVlJ2WGFpNkIybjdHWXVCYVNSdjBaUlF5TGxkTGlZcjdpSFIwaGFLay1WaUFBLUVtNDlhRXlGNlZLLVdMT084aktRS0taa2JRLVZrWG8zRmt5YWcxZmlrcUk1dXpqSDJUXzJLdWg1TU5MMHRyYTdZYTlJSDZRejRfOVhLYmpwYXJjcEwtRVJfT19uT2NjMDE1ZHR0X0pIOTZ3eHBqeWM2TzhXd2FlVXY0bA",
@@ -3677,81 +3721,81 @@
       "category": "art"
     },
     {
-      "id": "https://coloradosun.com/?p=504280",
-      "title": "Enmienda 82: Los votantes de Colorado decidirán si incluyen el derecho al gas natural en la Constitución estatal",
-      "link": "https://coloradosun.com/2026/10/07/enmienda-82-explicada-colorado-gas-natural/",
-      "summary": "La medida fue redactada por activistas conservadores, quienes la presentan como un contrapeso a las leyes y políticas de Colorado destinadas a reducir el uso de gas natural en el estado como parte de su objetivo de disminuir las emisiones d…",
-      "publishedAt": "2026-10-07T22:19:03.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/gas-stove-3-scaled-1.jpg?fit=1024%2C576&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128172&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
-      "title": "From Schrödinger’s cat to LIGO: quantum physics turned strange ideas into useful technology",
-      "link": "https://www.thebrighterside.news/post/from-schrodingers-cat-to-ligo-quantum-physics-turned-strange-ideas-into-useful-technology/",
-      "summary": "Quantum mechanics powers lasers and precision measurements. A century-spanning perspective examines those successes and the questions ahead. The post From Schrödinger’s cat to LIGO: quantum physics turned strange ideas into useful technolog…",
-      "publishedAt": "2026-10-06T23:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/quantum-cat-main.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "https://nautil.us/?p=1285592",
-      "title": "From the Great Sphinx’s Raw Materials, a New Crocodile Species Surfaces",
-      "link": "https://nautil.us/from-the-great-sphinxs-raw-materials-a-new-crocodile-species-surfaces-1285592/",
-      "summary": "It from a bygone epoch when all sorts of crocs roamed the Mediterranean The post From the Great Sphinx’s Raw Materials, a New Crocodile Species Surfaces appeared first on Nautilus.",
-      "publishedAt": "2026-10-06T23:00:00.000Z",
-      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Herugavialis_cairensis.png?w=564",
+      "id": "https://nautil.us/?p=1285608",
+      "title": "Neanderthals Were Adept Woodworkers Too",
+      "link": "https://nautil.us/neanderthals-were-adept-woodworkers-too-1285608/",
+      "summary": "But most of their work has been lost The post Neanderthals Were Adept Woodworkers Too appeared first on Nautilus.",
+      "publishedAt": "2026-10-07T18:00:00.000Z",
+      "imageUrl": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Photo_11.jpg?w=564",
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
     },
     {
-      "id": "https://www.dwell.com/article/sothebys-international-resort-living-victoria-real-estate-c88c7881",
-      "title": "A $11M Estate Lists in One of Brighton’s Most Coveted Beachside Settings",
-      "link": "https://www.dwell.com/article/sothebys-international-resort-living-victoria-real-estate-c88c7881",
-      "summary": "A tennis court, Magna pool and spa, wine cellar, infrared sauna, and gym are just some of the perks inside this Melbourne home.",
-      "publishedAt": "2026-10-06T21:34:49.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7508983801633566720/small.jpg",
-      "sourceId": "dwell",
-      "sourceName": "Dwell",
-      "category": "design"
+      "id": "https://www.thebrighterside.news/api/preview?id=128211&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
+      "title": "Recycled plastic and moon dust become 3D-printed parts and structures for future lunar missions",
+      "link": "https://www.thebrighterside.news/post/recycled-plastic-and-moon-dust-become-3d-printed-parts-and-structures-for-future-lunar-missions/",
+      "summary": "Recycled plastic mixed with simulated lunar dust produced printable parts, with benefits and trade-offs that need further testing. The post Recycled plastic and moon dust become 3D-printed parts and structures for future lunar missions appe…",
+      "publishedAt": "2026-10-07T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Lunar-regolith-1.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
-      "id": "https://www.science.org/content/article/november-elections-may-bring-little-relief-scientists-beleaguered-trump",
-      "title": "November elections may bring little relief for scientists beleaguered by Trump",
-      "link": "https://www.science.org/content/article/november-elections-may-bring-little-relief-scientists-beleaguered-trump",
-      "summary": "If Democrats win one or both chambers of Congress, investigations are likely, but meaningful change may be elusive",
-      "publishedAt": "2026-10-06T04:30:00.000Z",
+      "id": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+      "title": "As AI triggers a tsunami of submissions, computer science conferences impose caps",
+      "link": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+      "summary": "New controls could limit papers by early-career researchers",
+      "publishedAt": "2026-10-07T01:40:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
     },
     {
-      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73411",
-      "title": "Finding Relief from Depression & Anxiety",
-      "link": "https://www.lionsroar.com/finding-relief-from-depression-anxiety/",
-      "summary": "Psychoanalyst and dharma teacher Pilar Jennings weaves Buddhist wisdom with contemporary psychotherapy to illuminate the mind’s capacity to heal. She reveals how meeting suffering directly can restore a sense of well-being. The post Finding…",
-      "publishedAt": "2026-10-05T17:13:32.000Z",
-      "imageUrl": "https://www.lionsroar.com/wp-content/uploads/2026/09/purple-lotus-alanshapiro-vertical-780x1024.jpg",
-      "sourceId": "lions-roar",
-      "sourceName": "Lion's Roar",
-      "category": "ideas"
+      "id": "https://www.dwell.com/article/sothebys-international-house-coastal-villa-armou-real-estate-657f0ad4",
+      "title": "This Elegant $1.7M Cyprus Villa Stretches to the Mediterranean Sea",
+      "link": "https://www.dwell.com/article/sothebys-international-house-coastal-villa-armou-real-estate-657f0ad4",
+      "summary": "Perched above the sea where Aphrodite supposedly rose from the waves, the home pairs ancient lore with sleek design.",
+      "publishedAt": "2026-10-06T21:35:01.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7508997046458396672/small.jpg",
+      "sourceId": "dwell",
+      "sourceName": "Dwell",
+      "category": "design"
     },
     {
-      "id": "https://www.surfacemag.com/?p=212617",
-      "title": "Hiroshi Sugimoto’s Redesigned Hirshhorn Sculpture Garden Reopens, and Other News.",
-      "link": "https://www.surfacemag.com/articles/hiroshi-sugimotos-redesigned-hirshhorn-sculpture-garden-reopens/",
-      "summary": "Plus, Dior Beverly Hills to showcase late French artist Louis Cane, and construction begins on Snohetta's Sweetbird North in the Miami Design District Courtesy of Hirshhorn Museum and Sculpture Garden Hiroshi Sugimoto’s redesigned Hirshhorn…",
-      "publishedAt": "2026-10-05T09:58:00.000Z",
+      "id": "https://www.surfacemag.com/?p=212686",
+      "title": "Tiffany Shlain Debuts “If These Walls Could Talk: Women of the Hotel Chelsea”",
+      "link": "https://www.surfacemag.com/articles/tiffany-shlain-debuts-if-these-walls-could-talk-women-of-the-hotel-chelsea/",
+      "summary": "On October 1, Tiffany Shlain added a new chapter to the Hotel Chelsea's storied artistic history. The artist, Emmy-nominated filmmaker, and bestselling author celebrated the debut of If \"These Walls Could Talk: Women of the Hotel Chelsea,\" …",
+      "publishedAt": "2026-10-06T09:56:00.000Z",
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=466978",
+      "title": "Orient Farmhouse by General Assembly – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/orient-farmhouse-by-general-assembly-the-local-project/",
+      "summary": "The post Orient Farmhouse by General Assembly – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-05T22:26:19.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://www.lionsroar.com/?post_type=lr-article&p=73138",
+      "title": "Too Much to Do, Too Little Time",
+      "link": "https://www.lionsroar.com/too-much-to-do-too-little-time/",
+      "summary": "Allyson Pimentel on how to take refuge when overwhelm takes over. The post Too Much to Do, Too Little Time appeared first on Lion’s Roar.",
+      "publishedAt": "2026-10-05T17:13:33.000Z",
+      "imageUrl": null,
+      "sourceId": "lions-roar",
+      "sourceName": "Lion's Roar",
+      "category": "ideas"
     },
     {
       "id": "https://www.themarginalian.org/?p=80431",
@@ -3776,11 +3820,11 @@
       "category": "local"
     },
     {
-      "id": "CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE",
-      "title": "CU Buffs defense gives Colorado a chance against Texas Tech - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE?oc=5",
-      "summary": "CU Buffs defense gives Colorado a chance against Texas Tech Daily Camera",
-      "publishedAt": "2026-10-04T22:11:57.000Z",
+      "id": "CBMigAFBVV95cUxQRkFwUHBHdUJYcjhtUHFSS3ZZODBrNldja2taSDRCcTRvbTdRTnB3SzlkTFdqVkJXNkRvQ3I4ZzVESEx2QXpoU25STjJYd2xGNTFKemROQ2xqMUFBbzUyQ1NTYlRPSWo0Z3ZHN19XYmNfdF9ybTQ4bXpDdHBqVGF1Yw",
+      "title": "Jah Jah Boyd, Paul Omodia and Justin Eaglin off Colorado’s roster - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRkFwUHBHdUJYcjhtUHFSS3ZZODBrNldja2taSDRCcTRvbTdRTnB3SzlkTFdqVkJXNkRvQ3I4ZzVESEx2QXpoU25STjJYd2xGNTFKemROQ2xqMUFBbzUyQ1NTYlRPSWo0Z3ZHN19XYmNfdF9ybTQ4bXpDdHBqVGF1Yw?oc=5",
+      "summary": "Jah Jah Boyd, Paul Omodia and Justin Eaglin off Colorado’s roster Daily Camera",
+      "publishedAt": "2026-10-04T07:29:37.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -3806,17 +3850,6 @@
       "imageUrl": null,
       "sourceId": "leibal",
       "sourceName": "Leibal",
-      "category": "design"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=466841",
-      "title": "Laneway House by Jason Gibney Design Workshop – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/laneway-house-by-jason-gibney-design-workshop-the-local-project/",
-      "summary": "The post Laneway House by Jason Gibney Design Workshop – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-02T05:53:07.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
       "category": "design"
     },
     {
@@ -3853,17 +3886,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMidEFVX3lxTE9MbXlfQ3R4TVZSSkoyOUhEanhqM2diSkl6REU5alJ1M0dIb1FTSUIyU3dNcnhmN2dIY0dIbEp2a2RpY0RkWlpwYXhBcDFtMldQVWE1c1NqU0FYMEkzX3ZiaE8temdyZzRBMmZZVmE3T0ZGQ2JM",
-      "title": "Val Mira by Andreas Gruber Architects - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MbXlfQ3R4TVZSSkoyOUhEanhqM2diSkl6REU5alJ1M0dIb1FTSUIyU3dNcnhmN2dIY0dIbEp2a2RpY0RkWlpwYXhBcDFtMldQVWE1c1NqU0FYMEkzX3ZiaE8temdyZzRBMmZZVmE3T0ZGQ2JM?oc=5",
-      "summary": "Val Mira by Andreas Gruber Architects Thisispaper",
-      "publishedAt": "2026-09-25T12:36:07.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://www.mindful.org/?p=669009",
       "title": "The Power of Beginner’s Mind",
       "link": "https://www.mindful.org/the-power-of-beginners-mind/",
@@ -3873,6 +3895,17 @@
       "sourceId": "mindful",
       "sourceName": "Mindful",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiaEFVX3lxTE5mRXdqOUh5Y2Z2d3VBcEwtVnhKaXYtbm94bFd2Z1kxcTkzYkpvQU1RTHhudkh6Nm9TVXA3TUJGT2pnU2N6TExCdmFLVEhjTFM1dVRXcHNmRncyclpQVlNMTVZlZHdtYlhQ",
+      "title": "Studio Barn by Worrell Yeung - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mRXdqOUh5Y2Z2d3VBcEwtVnhKaXYtbm94bFd2Z1kxcTkzYkpvQU1RTHhudkh6Nm9TVXA3TUJGT2pnU2N6TExCdmFLVEhjTFM1dVRXcHNmRncyclpQVlNMTVZlZHdtYlhQ?oc=5",
+      "summary": "Studio Barn by Worrell Yeung Thisispaper",
+      "publishedAt": "2026-09-23T07:40:14.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "https://greatergood.berkeley.edu/article/item/how_to_deal_with_the_grief_of_an_aging_body#When:12:35:00Z",
@@ -4007,11 +4040,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50005017",
-      "title": "Telnet BBS Guide",
-      "link": "https://www.telnetbbsguide.com/",
-      "summary": "Article URL: https://www.telnetbbsguide.com/ Comments URL: https://news.ycombinator.com/item?id=50005017 Points: 76 # Comments: 26",
-      "publishedAt": "2026-10-08T12:28:35.000Z",
+      "id": "https://news.ycombinator.com/item?id=50006012",
+      "title": "Orkut.com",
+      "link": "https://orkut.com/",
+      "summary": "Article URL: https://orkut.com/ Comments URL: https://news.ycombinator.com/item?id=50006012 Points: 122 # Comments: 81",
+      "publishedAt": "2026-10-08T14:09:53.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4040,12 +4073,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.dwell.com/article/sothebys-international-house-on-the-rock-harrison-real-estate-aee920ef",
-      "title": "Lake Coeur D’Alene’s Iconic \"House on a Rock\" Lists for $9.5M",
-      "link": "https://www.dwell.com/article/sothebys-international-house-on-the-rock-harrison-real-estate-aee920ef",
-      "summary": "The waterfront home comes with deeded acreage and ready-to-build renovation plans by Olson Kundig.",
-      "publishedAt": "2026-10-06T21:34:40.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7508965717995413504/small.jpg",
+      "id": "https://www.dwell.com/article/sothebys-international-minnetonka-lakehouse-mound-real-estate-542ef771",
+      "title": "On Lake Minnetonka, a $4.2M Home Delivers Year-Round Vacation Vibes",
+      "link": "https://www.dwell.com/article/sothebys-international-minnetonka-lakehouse-mound-real-estate-542ef771",
+      "summary": "Sweeping views, plenty of outdoor space, and a wine cellar make this the ultimate host’s setup.",
+      "publishedAt": "2026-10-06T21:34:57.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7508990422566350848/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -4062,11 +4095,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiWkFVX3lxTFBNQW1LWElYSTNLVkoyT2loNVpkVy1lc2dQRkYyYXZYakhGRy1IT0NGVzlzREc3TzBqaHh3M0M0aHl5ZDZjaHFXZXFmQ1lGOHZRSmwwdTZVcUVqdw",
-      "title": "Sitemap - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNQW1LWElYSTNLVkoyT2loNVpkVy1lc2dQRkYyYXZYakhGRy1IT0NGVzlzREc3TzBqaHh3M0M0aHl5ZDZjaHFXZXFmQ1lGOHZRSmwwdTZVcUVqdw?oc=5",
-      "summary": "Sitemap Daily Camera",
-      "publishedAt": "2026-10-04T09:06:08.000Z",
+      "id": "CBMikAFBVV95cUxPalpTZmJXanUybjljbUg5aVJVMEFRMm15bzFmLUNvUy16cXZwTFpmQTVIZTRtOXVtTHlMU3M4MmtDczdaV1NBa2NrZk91d2R1SEhzZ3gtazlhcUZfd3g1OEd5ZkF1R3Y3WlpUdDgtVFliWXpiZWxPRWIzOEI1Y0lBRjZhU2RnT2dCbmZGSkpjQUI",
+      "title": "Rooney: Quest for points turning futile in CU Buffs’ No-Go offense (column) - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalpTZmJXanUybjljbUg5aVJVMEFRMm15bzFmLUNvUy16cXZwTFpmQTVIZTRtOXVtTHlMU3M4MmtDczdaV1NBa2NrZk91d2R1SEhzZ3gtazlhcUZfd3g1OEd5ZkF1R3Y3WlpUdDgtVFliWXpiZWxPRWIzOEI1Y0lBRjZhU2RnT2dCbmZGSkpjQUI?oc=5",
+      "summary": "Rooney: Quest for points turning futile in CU Buffs’ No-Go offense (column) Daily Camera",
+      "publishedAt": "2026-10-04T06:00:12.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4106,17 +4139,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiaEFVX3lxTE5mRXdqOUh5Y2Z2d3VBcEwtVnhKaXYtbm94bFd2Z1kxcTkzYkpvQU1RTHhudkh6Nm9TVXA3TUJGT2pnU2N6TExCdmFLVEhjTFM1dVRXcHNmRncyclpQVlNMTVZlZHdtYlhQ",
-      "title": "Studio Barn by Worrell Yeung - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mRXdqOUh5Y2Z2d3VBcEwtVnhKaXYtbm94bFd2Z1kxcTkzYkpvQU1RTHhudkh6Nm9TVXA3TUJGT2pnU2N6TExCdmFLVEhjTFM1dVRXcHNmRncyclpQVlNMTVZlZHdtYlhQ?oc=5",
-      "summary": "Studio Barn by Worrell Yeung Thisispaper",
-      "publishedAt": "2026-09-23T07:40:14.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://greatergood.berkeley.edu/article/item/can_consciousness_exist_without_a_body#When:15:31:00Z",
       "title": "Can Consciousness Exist Without a Body?",
       "link": "https://greatergood.berkeley.edu/article/item/can_consciousness_exist_without_a_body",
@@ -4148,6 +4170,17 @@
       "sourceId": "philosophy-now",
       "sourceName": "Philosophy Now",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiX0FVX3lxTE1aaGM0U2FRMzZSb1VZbWcyTFdiNk12RXFyR2NFMVlWRkc3cmo0bkJWS2lQNHlIdzNtMmViX2pKeGNZRkhlV2ktcEJLcVMtSVJzeW9jLWtXc2pCTm9rRmtN",
+      "title": "Artists Atelier - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaGM0U2FRMzZSb1VZbWcyTFdiNk12RXFyR2NFMVlWRkc3cmo0bkJWS2lQNHlIdzNtMmViX2pKeGNZRkhlV2ktcEJLcVMtSVJzeW9jLWtXc2pCTm9rRmtN?oc=5",
+      "summary": "Artists Atelier Thisispaper",
+      "publishedAt": "2026-07-28T13:05:40.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "https://www.densediscovery.com/issues/399/",
@@ -4194,11 +4227,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50004790",
-      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-      "link": "https://quesma.com/blog/invisible-cities-one-shot/",
-      "summary": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=50004790 Points: 245 # Comments: 131",
-      "publishedAt": "2026-10-08T12:00:20.000Z",
+      "id": "https://news.ycombinator.com/item?id=50005527",
+      "title": "Beauty in DVD Menus",
+      "link": "https://vale.rocks/posts/dvd-menus",
+      "summary": "Article URL: https://vale.rocks/posts/dvd-menus Comments URL: https://news.ycombinator.com/item?id=50005527 Points: 227 # Comments: 141",
+      "publishedAt": "2026-10-08T13:22:01.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4227,12 +4260,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.dwell.com/article/sothebys-international-waterview-estate-big-bear-lake-real-estate-2b59a810",
-      "title": "You Might Recognize the Site of This $15M Big Bear Estate From the ’80s Classic \"WarGames\"",
-      "link": "https://www.dwell.com/article/sothebys-international-waterview-estate-big-bear-lake-real-estate-2b59a810",
-      "summary": "The storied setting has been reimagined as a sophisticated contemporary retreat while preserving its privacy and sense of place.",
-      "publishedAt": "2026-10-06T21:34:32.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7509004206264102912/small.jpg",
+      "id": "https://www.dwell.com/article/sothebys-international-resort-living-victoria-real-estate-c88c7881",
+      "title": "A $11M Estate Lists in One of Brighton’s Most Coveted Beachside Settings",
+      "link": "https://www.dwell.com/article/sothebys-international-resort-living-victoria-real-estate-c88c7881",
+      "summary": "A tennis court, Magna pool and spa, wine cellar, infrared sauna, and gym are just some of the perks inside this Melbourne home.",
+      "publishedAt": "2026-10-06T21:34:49.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7508983801633566720/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -4249,11 +4282,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMigAFBVV95cUxQRkFwUHBHdUJYcjhtUHFSS3ZZODBrNldja2taSDRCcTRvbTdRTnB3SzlkTFdqVkJXNkRvQ3I4ZzVESEx2QXpoU25STjJYd2xGNTFKemROQ2xqMUFBbzUyQ1NTYlRPSWo0Z3ZHN19XYmNfdF9ybTQ4bXpDdHBqVGF1Yw",
-      "title": "Jah Jah Boyd, Paul Omodia and Justin Eaglin off Colorado’s roster - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRkFwUHBHdUJYcjhtUHFSS3ZZODBrNldja2taSDRCcTRvbTdRTnB3SzlkTFdqVkJXNkRvQ3I4ZzVESEx2QXpoU25STjJYd2xGNTFKemROQ2xqMUFBbzUyQ1NTYlRPSWo0Z3ZHN19XYmNfdF9ybTQ4bXpDdHBqVGF1Yw?oc=5",
-      "summary": "Jah Jah Boyd, Paul Omodia and Justin Eaglin off Colorado’s roster Daily Camera",
-      "publishedAt": "2026-10-04T07:29:37.000Z",
+      "id": "CBMiiAFBVV95cUxOaW15bFY1ekdmRkVmMjg5Rnd3Q01QZmt4N3R4Wm4wQS11a2NRS0k5b1lYX1hHTnlDZzVBVkhMTXI5d1d4YWdDaURuY0JBa3NrZDZtTmFrRDRmLXJjTHFscVU1elFaNllJTXgyQzluc3cwY1RxR2ZCZFBnaks0OENvcHNtdFNZSlNV",
+      "title": "CU Buffs football: No. 12 Texas Tech in review - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW15bFY1ekdmRkVmMjg5Rnd3Q01QZmt4N3R4Wm4wQS11a2NRS0k5b1lYX1hHTnlDZzVBVkhMTXI5d1d4YWdDaURuY0JBa3NrZDZtTmFrRDRmLXJjTHFscVU1elFaNllJTXgyQzluc3cwY1RxR2ZCZFBnaks0OENvcHNtdFNZSlNV?oc=5",
+      "summary": "CU Buffs football: No. 12 Texas Tech in review Daily Camera",
+      "publishedAt": "2026-10-04T05:23:14.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4326,11 +4359,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiX0FVX3lxTE1aaGM0U2FRMzZSb1VZbWcyTFdiNk12RXFyR2NFMVlWRkc3cmo0bkJWS2lQNHlIdzNtMmViX2pKeGNZRkhlV2ktcEJLcVMtSVJzeW9jLWtXc2pCTm9rRmtN",
-      "title": "Artists Atelier - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaGM0U2FRMzZSb1VZbWcyTFdiNk12RXFyR2NFMVlWRkc3cmo0bkJWS2lQNHlIdzNtMmViX2pKeGNZRkhlV2ktcEJLcVMtSVJzeW9jLWtXc2pCTm9rRmtN?oc=5",
-      "summary": "Artists Atelier Thisispaper",
-      "publishedAt": "2026-07-28T13:05:40.000Z",
+      "id": "CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA",
+      "title": "Ford World Headquarters by Snøhetta - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA?oc=5",
+      "summary": "Ford World Headquarters by Snøhetta Thisispaper",
+      "publishedAt": "2026-07-27T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4381,11 +4414,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50002650",
-      "title": "OpenAI withdraws three mathematical results",
-      "link": "https://twitter.com/danintheory/status/2108065033070789090",
-      "summary": "https://github.com/openai/math/blob/main/history.md Comments URL: https://news.ycombinator.com/item?id=50002650 Points: 142 # Comments: 443",
-      "publishedAt": "2026-10-08T07:05:40.000Z",
+      "id": "https://news.ycombinator.com/item?id=50004790",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "link": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "summary": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=50004790 Points: 327 # Comments: 168",
+      "publishedAt": "2026-10-08T12:00:20.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4403,33 +4436,33 @@
       "category": "art"
     },
     {
-      "id": "CBMi3AFBVV95cUxPUExIcEx0V3FGVzNhaTFSU0VtbWx4dDhiTGtaRTBRMVBCc1BGWmQzdktZYUJ4a24xQWl1cll2NDU4UHdWTHAybTcyMHpUUWZ6bkxScHNmZlg4czdDQWJTMzZ5SVMycUxEbnd3TlFyTV9CTWptYV9pZjlhY1FzMm5Bd0c1alJvVFBkZHd6MnVjQ1ByeVlabVBwQnJ3a1NrZ3U2Unp5T1JHMmt3UFVvcEgySXBnMm91Q1g5dXpLYUg1QVlhYzczSVlnQXJjdVFDVjd2RGxLWl84bTNiWjlJ",
-      "title": "Tradiciones: Unsung Heroes Award Ceremony 2026 - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUExIcEx0V3FGVzNhaTFSU0VtbWx4dDhiTGtaRTBRMVBCc1BGWmQzdktZYUJ4a24xQWl1cll2NDU4UHdWTHAybTcyMHpUUWZ6bkxScHNmZlg4czdDQWJTMzZ5SVMycUxEbnd3TlFyTV9CTWptYV9pZjlhY1FzMm5Bd0c1alJvVFBkZHd6MnVjQ1ByeVlabVBwQnJ3a1NrZ3U2Unp5T1JHMmt3UFVvcEgySXBnMm91Q1g5dXpLYUg1QVlhYzczSVlnQXJjdVFDVjd2RGxLWl84bTNiWjlJ?oc=5",
-      "summary": "Tradiciones: Unsung Heroes Award Ceremony 2026 The Taos News",
-      "publishedAt": "2026-10-07T17:04:00.000Z",
+      "id": "CBMitwFBVV95cUxOM0F1bGRCVnlaUVMtNEdLaG0wSHcxU2dXZzBBeVQ5ZnEtNGR5cURkSkYxcGdDcEZFTDYwSHExVHFyVGVJNjhtUHVhTXNCRURYZy1lZlFqTTlJU1pqcDJCYl85Tk1VTS1XRkhyMF82SUFuNkt0X3RXOHluVTZpSjdKUkI4R0FXcUJpYmJKaG9KZTRPa1NYZW1UbjN2LVZaOUJIN2x5TlcwRUxQZldwSzBOODJwelRIbHc",
+      "title": "1791166845_Gavilan Aspen Grove.jpeg - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0F1bGRCVnlaUVMtNEdLaG0wSHcxU2dXZzBBeVQ5ZnEtNGR5cURkSkYxcGdDcEZFTDYwSHExVHFyVGVJNjhtUHVhTXNCRURYZy1lZlFqTTlJU1pqcDJCYl85Tk1VTS1XRkhyMF82SUFuNkt0X3RXOHluVTZpSjdKUkI4R0FXcUJpYmJKaG9KZTRPa1NYZW1UbjN2LVZaOUJIN2x5TlcwRUxQZldwSzBOODJwelRIbHc?oc=5",
+      "summary": "1791166845_Gavilan Aspen Grove.jpeg The Taos News",
+      "publishedAt": "2026-10-07T21:15:04.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
     },
     {
-      "id": "https://www.dwell.com/article/imagining-home-at-the-end-of-the-world-050abbbe",
-      "title": "Imagining Home at the End of the World",
-      "link": "https://www.dwell.com/article/imagining-home-at-the-end-of-the-world-050abbbe",
-      "summary": "Postapocalyptic media has long served as a reflection on what ails us. Right now, TV is particularly full of such series—all with varying visions of how we’ll live after global disaster.",
-      "publishedAt": "2026-10-06T18:07:48.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7511891379619229696/small.jpg",
+      "id": "https://www.dwell.com/article/sothebys-international-house-on-the-rock-harrison-real-estate-aee920ef",
+      "title": "Lake Coeur D’Alene’s Iconic \"House on a Rock\" Lists for $9.5M",
+      "link": "https://www.dwell.com/article/sothebys-international-house-on-the-rock-harrison-real-estate-aee920ef",
+      "summary": "The waterfront home comes with deeded acreage and ready-to-build renovation plans by Olson Kundig.",
+      "publishedAt": "2026-10-06T21:34:40.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7508965717995413504/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
     },
     {
-      "id": "CBMikAFBVV95cUxPalpTZmJXanUybjljbUg5aVJVMEFRMm15bzFmLUNvUy16cXZwTFpmQTVIZTRtOXVtTHlMU3M4MmtDczdaV1NBa2NrZk91d2R1SEhzZ3gtazlhcUZfd3g1OEd5ZkF1R3Y3WlpUdDgtVFliWXpiZWxPRWIzOEI1Y0lBRjZhU2RnT2dCbmZGSkpjQUI",
-      "title": "Rooney: Quest for points turning futile in CU Buffs’ No-Go offense (column) - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalpTZmJXanUybjljbUg5aVJVMEFRMm15bzFmLUNvUy16cXZwTFpmQTVIZTRtOXVtTHlMU3M4MmtDczdaV1NBa2NrZk91d2R1SEhzZ3gtazlhcUZfd3g1OEd5ZkF1R3Y3WlpUdDgtVFliWXpiZWxPRWIzOEI1Y0lBRjZhU2RnT2dCbmZGSkpjQUI?oc=5",
-      "summary": "Rooney: Quest for points turning futile in CU Buffs’ No-Go offense (column) Daily Camera",
-      "publishedAt": "2026-10-04T06:00:12.000Z",
+      "id": "CBMifkFVX3lxTE1fN0xnUjliYWlMTUp0Ym5wR0J3bnNCcXVBdHNMLUFDNkpsVXpGRmNOVnBJTjVhLTA4UWZ3XzJBdzh5ZUxuVFR0RFBEbUhlS1RwQ1BvNl8xdzQtYzZhbzY4QV9tY2J2QTRBN3NDWUhIY3J1aDRDb1RSdlZNOWxTZw",
+      "title": "CU turns it over four times in second half, Buffs fall to No. 12 Texas Tech - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fN0xnUjliYWlMTUp0Ym5wR0J3bnNCcXVBdHNMLUFDNkpsVXpGRmNOVnBJTjVhLTA4UWZ3XzJBdzh5ZUxuVFR0RFBEbUhlS1RwQ1BvNl8xdzQtYzZhbzY4QV9tY2J2QTRBN3NDWUhIY3J1aDRDb1RSdlZNOWxTZw?oc=5",
+      "summary": "CU turns it over four times in second half, Buffs fall to No. 12 Texas Tech Daily Camera",
+      "publishedAt": "2026-10-04T03:13:35.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4513,17 +4546,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA",
-      "title": "Ford World Headquarters by Snøhetta - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA?oc=5",
-      "summary": "Ford World Headquarters by Snøhetta Thisispaper",
-      "publishedAt": "2026-07-27T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://www.densediscovery.com/issues/397/",
       "title": "DD397 / Last drinks at the AI casino",
       "link": "https://www.densediscovery.com/issues/397/",
@@ -4532,6 +4554,17 @@
       "imageUrl": "https://www.densediscovery.com/img/screenshot/square-397.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
+      "category": "design"
+    },
+    {
+      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
+      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
+      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
+      "publishedAt": "2026-03-27T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -4568,11 +4601,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50002008",
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "link": "https://mathstodon.xyz/@tao/117395269325940185",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117395269325940185 Comments URL: https://news.ycombinator.com/item?id=50002008 Points: 539 # Comments: 538",
-      "publishedAt": "2026-10-08T05:14:14.000Z",
+      "id": "https://news.ycombinator.com/item?id=50004542",
+      "title": "Vanillin provides a sweet solution for chronic wound healing",
+      "link": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/",
+      "summary": "Article URL: https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/ Comments URL: https://news.ycombinator.com/item?id=50004542 Points: 24 # Comments: 2",
+      "publishedAt": "2026-10-08T11:30:08.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4590,37 +4623,26 @@
       "category": "art"
     },
     {
-      "id": "CBMioAFBVV95cUxPU19GNUEtU2NTdlZ1V2E4Zi1icXJUX0lTRGU3Unc1MTBZZHduMzJKWmtsbFhzbk96NXFSSmZsaGNhS25ndWZBRXFFbGRuUXB1eDdwZUc3UGZOb0tRLXNseEF1WTNVclZqbndfWDRobGJNVWtGQ1lYRVo1SVRudENXZmljaG9lck13OHBnSF9IWGdKRThRVGRlVEIyWlBHNXZ4",
-      "title": "1791214815_Fall Arts 4.JPG - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU19GNUEtU2NTdlZ1V2E4Zi1icXJUX0lTRGU3Unc1MTBZZHduMzJKWmtsbFhzbk96NXFSSmZsaGNhS25ndWZBRXFFbGRuUXB1eDdwZUc3UGZOb0tRLXNseEF1WTNVclZqbndfWDRobGJNVWtGQ1lYRVo1SVRudENXZmljaG9lck13OHBnSF9IWGdKRThRVGRlVEIyWlBHNXZ4?oc=5",
-      "summary": "1791214815_Fall Arts 4.JPG The Taos News",
-      "publishedAt": "2026-10-06T20:00:09.000Z",
+      "id": "CBMi3AFBVV95cUxPUExIcEx0V3FGVzNhaTFSU0VtbWx4dDhiTGtaRTBRMVBCc1BGWmQzdktZYUJ4a24xQWl1cll2NDU4UHdWTHAybTcyMHpUUWZ6bkxScHNmZlg4czdDQWJTMzZ5SVMycUxEbnd3TlFyTV9CTWptYV9pZjlhY1FzMm5Bd0c1alJvVFBkZHd6MnVjQ1ByeVlabVBwQnJ3a1NrZ3U2Unp5T1JHMmt3UFVvcEgySXBnMm91Q1g5dXpLYUg1QVlhYzczSVlnQXJjdVFDVjd2RGxLWl84bTNiWjlJ",
+      "title": "Tradiciones: Unsung Heroes Award Ceremony 2026 - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUExIcEx0V3FGVzNhaTFSU0VtbWx4dDhiTGtaRTBRMVBCc1BGWmQzdktZYUJ4a24xQWl1cll2NDU4UHdWTHAybTcyMHpUUWZ6bkxScHNmZlg4czdDQWJTMzZ5SVMycUxEbnd3TlFyTV9CTWptYV9pZjlhY1FzMm5Bd0c1alJvVFBkZHd6MnVjQ1ByeVlabVBwQnJ3a1NrZ3U2Unp5T1JHMmt3UFVvcEgySXBnMm91Q1g5dXpLYUg1QVlhYzczSVlnQXJjdVFDVjd2RGxLWl84bTNiWjlJ?oc=5",
+      "summary": "Tradiciones: Unsung Heroes Award Ceremony 2026 The Taos News",
+      "publishedAt": "2026-10-07T17:04:00.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
     },
     {
-      "id": "https://www.dwell.com/article/prefab-permanence-hennessey-architecture-method-homes-ee7b0480",
-      "title": "How a Bay Area Architect Stitched Together Prefab Boxes to Create a Bespoke Family Home",
-      "link": "https://www.dwell.com/article/prefab-permanence-hennessey-architecture-method-homes-ee7b0480",
-      "summary": "Hennessey Architecture’s dynamic, two-level arrangement started with modules from Method Homes.",
-      "publishedAt": "2026-10-06T17:32:25.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6818593201364905984/7506185388639666176/small.jpg",
+      "id": "https://www.dwell.com/article/sothebys-international-waterview-estate-big-bear-lake-real-estate-2b59a810",
+      "title": "You Might Recognize the Site of This $15M Big Bear Estate From the ’80s Classic \"WarGames\"",
+      "link": "https://www.dwell.com/article/sothebys-international-waterview-estate-big-bear-lake-real-estate-2b59a810",
+      "summary": "The storied setting has been reimagined as a sophisticated contemporary retreat while preserving its privacy and sense of place.",
+      "publishedAt": "2026-10-06T21:34:32.000Z",
+      "imageUrl": "https://images.dwell.com/photos/6308457958906204160/7509004206264102912/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "CBMiiAFBVV95cUxOaW15bFY1ekdmRkVmMjg5Rnd3Q01QZmt4N3R4Wm4wQS11a2NRS0k5b1lYX1hHTnlDZzVBVkhMTXI5d1d4YWdDaURuY0JBa3NrZDZtTmFrRDRmLXJjTHFscVU1elFaNllJTXgyQzluc3cwY1RxR2ZCZFBnaks0OENvcHNtdFNZSlNV",
-      "title": "CU Buffs football: No. 12 Texas Tech in review - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW15bFY1ekdmRkVmMjg5Rnd3Q01QZmt4N3R4Wm4wQS11a2NRS0k5b1lYX1hHTnlDZzVBVkhMTXI5d1d4YWdDaURuY0JBa3NrZDZtTmFrRDRmLXJjTHFscVU1elFaNllJTXgyQzluc3cwY1RxR2ZCZFBnaks0OENvcHNtdFNZSlNV?oc=5",
-      "summary": "CU Buffs football: No. 12 Texas Tech in review Daily Camera",
-      "publishedAt": "2026-10-04T05:23:14.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://www.themarginalian.org/?p=77272",
@@ -4632,6 +4654,17 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
+    },
+    {
+      "id": "CBMid0FVX3lxTE5ZbHFSSU9NampNdUs4SkVYT19JRGxIMUpsMlhHTWhhcmhZWWFFZ2tTQk9LVVk3eGhyVEpNdlRDSG5qX1Nkc3JnUnV5Q1ZWa25xaUtJSlE5UkMwQ1FSMjdjcnFxN1Z1Z3BNLVdRamFyVjJnSjJvd1RJ",
+      "title": "CU Buffs come home with something to prove against No. 12 Texas Tech - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZbHFSSU9NampNdUs4SkVYT19JRGxIMUpsMlhHTWhhcmhZWWFFZ2tTQk9LVVk3eGhyVEpNdlRDSG5qX1Nkc3JnUnV5Q1ZWa25xaUtJSlE5UkMwQ1FSMjdjcnFxN1Z1Z3BNLVdRamFyVjJnSjJvd1RJ?oc=5",
+      "summary": "CU Buffs come home with something to prove against No. 12 Texas Tech Daily Camera",
+      "publishedAt": "2026-10-02T23:31:58.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "CBMirgFBVV95cUxNeVd4MWZ3Z2xHbndzeHk3MEY2ZEJ3ZDctOWZubHJyRW84bDJlVHVUS211NVJIV1l6VmlfZ19WY2ZUWUItMXc4a3l3TURqQWdERnQ4NlNtN1VXMGM3djVqYWIxOWhnY0F6czBFelg0Z3RCbkVWTk1sNC13eGZwaHV0TTQzaHBXdHY3NGw3RUQ0U0N3anF1bW54SklDMm4tcXFLdy16OHNPaGRpWlZwRFE",
@@ -4664,39 +4697,6 @@
       "imageUrl": "https://images.aeonmedia.co/images/bed5ff0b-2b04-40df-933e-f482c2556bc5/sz-michael-kahn-a0gp_asy5vc-unsplash.jpg?top=125&amp;left=0&amp;cropWidth=2400&amp;cropHeight=1350&amp;width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "psyche",
       "sourceName": "Psyche",
-      "category": "ideas"
-    },
-    {
-      "id": "https://greatergood.berkeley.edu/article/item/can_community_programs_reduce_gun_violence#When:11:29:00Z",
-      "title": "Can Community Programs Reduce Gun Violence?",
-      "link": "https://greatergood.berkeley.edu/article/item/can_community_programs_reduce_gun_violence",
-      "summary": "A new study by researchers at UC Berkeley’s Center for Global Healthy Cities published in the Journal of the American Medical Association Network Open found that the California city of Richmond’s Office of Neighborhood Safety (ONS) was resp…",
-      "publishedAt": "2026-09-11T11:29:00.000Z",
-      "imageUrl": "https://greatergood.berkeley.edu/images/uploads/Peacemaker_Fellowship_Public_Health_Model.jpg",
-      "sourceId": "greater-good",
-      "sourceName": "Greater Good Magazine",
-      "category": "ideas"
-    },
-    {
-      "id": "https://minimalissimo.com/articles/passage",
-      "title": "Passage",
-      "link": "https://minimalissimo.com/articles/passage",
-      "summary": "Seppe van Heusden approaches lighting through the relationship between object, architecture, and the way we experience space. Passage is a clear expression of that approach: a modular lighting system in which a small number of carefully res…",
-      "publishedAt": "2026-09-05T18:03:45.000Z",
-      "imageUrl": "https://minimalissimo.com/api/media/file/passage-featured-1.png",
-      "sourceId": "minimalissimo",
-      "sourceName": "Minimalissimo",
-      "category": "design"
-    },
-    {
-      "id": "https://philosophynow.org/issues/175/Just_War_Theory",
-      "title": "Just War Theory",
-      "link": "https://philosophynow.org/issues/175/Just_War_Theory",
-      "summary": "Keith Tidman thinks the world’s bristling arsenals and proneness to wars makes it all the more urgent.",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "philosophy-now",
-      "sourceName": "Philosophy Now",
       "category": "ideas"
     }
   ]
