@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:24:42.813Z",
+  "generatedAt": "2026-10-09T09:27:14.325Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -126,8 +126,8 @@
       "name": "Daily Stoic",
       "siteUrl": "https://dailystoic.com",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "the-marginalian",
@@ -300,37 +300,81 @@
   ],
   "articles": [
     {
-      "id": "https://interestingengineering.com/?p=316612",
-      "title": "Green hydrogen process reaches 98% efficiency while producing valuable chemicals",
-      "link": "https://interestingengineering.com/innovation/green-hydrogen-process-higher-efficiency",
-      "summary": "A new electrochemical process developed by researchers at the Technion, Israel Institute of Technology, could...",
-      "publishedAt": "2026-10-09T00:57:55.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Electrolysis-.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "https://news.ycombinator.com/item?id=50017966",
+      "title": "South Africa's Navanethem 'Navi' Pillay Wins 2026 Nobel Peace Prize",
+      "link": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
+      "summary": "Article URL: https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize Comments URL: https://news.ycombinator.com/item?id=50017966 Points: 5 # Comments: 1",
+      "publishedAt": "2026-10-09T09:05:40.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
     },
     {
-      "id": "https://coloradosun.com/?p=504217",
-      "title": "Watch: The Colorado Sun hosts a conversation with Phil Weiser",
-      "link": "https://coloradosun.com/2026/10/08/watch-the-colorado-sun-hosts-a-conversation-with-phil-weiser/",
-      "summary": "Colorado Sun Elections Editor Jesse Paul will sit down with Attorney General Phil Weiser to discuss his campaign for Colorado governor.",
-      "publishedAt": "2026-10-09T00:15:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/07/lesley_dahlkemper_jp-2-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=504453",
+      "title": "Drew Litton: Clinging to their treasure",
+      "link": "https://coloradosun.com/2026/10/09/drew-litton-monforts-wont-sell-colorado-rockies/",
+      "summary": "Cartoonist Drew Litton channels Tolkien in processing the news that the Monforts don't plan to sell the Colorado Rockies.",
+      "publishedAt": "2026-10-09T08:15:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/10-9-26-Litton.jpg?fit=1024%2C698&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50014150",
-      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-      "link": "https://github.com/edrisranjbar/lifeos",
-      "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 19 # Comments: 3",
-      "publishedAt": "2026-10-09T00:02:19.000Z",
+      "id": "https://interestingengineering.com/?p=316702",
+      "title": "US Army’s cheap Blackbeard hypersonic missile gets its first ground launch glimpse",
+      "link": "https://interestingengineering.com/military/blackbeard-hypersonic-missile-ground-launcher-castelion",
+      "summary": "Defense startup Castelion has released what appears to be the first image of its low-cost...",
+      "publishedAt": "2026-10-09T07:52:00.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Blackbeard-hypersonic-missile.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "6ac7beb49fe1feb19568b1ac",
+      "title": "Watch Slayyyter Rock a Raccoon Pelt in “I Think He’s Got a Girl” Video",
+      "link": "https://pitchfork.com/story/slayyyter-i-think-hes-got-a-girl-video/",
+      "summary": "The next single from Wor$t Man in America comes with a video she directed herself",
+      "publishedAt": "2026-10-09T04:39:53.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac86d7d15e30255230c93f0/master/pass/unnamed%20(26).jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://boulderreportinglab.org/?p=127989",
+      "title": "Boulder offers $1.3 million loan to help San Lazaro residents buy their mobile home park. They still need $30 million.",
+      "link": "https://boulderreportinglab.org/2026/10/08/boulder-offers-1-3-million-loan-to-help-san-lazaro-residents-buy-their-mobile-home-park-they-still-need-30-million/",
+      "summary": "The loan would be forgiven if the mobile home park joins the city, but residents worry annexation could bring millions in new costs. They have until Dec. 8 to counter a $42.5 million offer from an anonymous buyer. The post Boulder offers $1…",
+      "publishedAt": "2026-10-09T04:19:13.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6374-scaled.jpeg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=467488",
+      "title": "Kindred House by Urban Habitats – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/kindred-house-by-urban-habitats-the-local-project/",
+      "summary": "The post Kindred House by Urban Habitats – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-09T04:01:30.000Z",
       "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=88101",
+      "title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
+      "link": "https://www.themarginalian.org/2026/10/08/david-byrne-sleeping-beauties/",
+      "summary": "Each time you look up at the night sky, you see only ancient signals — by the time a photon has reached your pupil, the star that emitted it may be long dead. The great wonder is that its light can traverse immense expanses of space and tim…",
+      "publishedAt": "2026-10-09T03:21:41.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/sleepingbeauties.jpg?fit=320%2C480&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=128327&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
@@ -355,15 +399,15 @@
       "category": "science"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=467395",
-      "title": "Casa de Ondas by SAOTA – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/casa-de-ondas-by-saota-the-local-project/",
-      "summary": "The post Casa de Ondas by SAOTA – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-08T21:57:07.000Z",
+      "id": "CBMigwFBVV95cUxQVzFUV1lfQllxazJIRXlKWW1ZNHJzNkRueXlvQjVVWFJXRTdkcW9zem43enpZMWpaTmkwMDZxaU94d2Z0aU5SOGNhUWJXbUdnWnBSTnVmazFSczBxV2NjNnJQTmpfam9jNS0wSlB2UnNoVFRfVndjUGhHZldzTklIY0F1cw",
+      "title": "Wildfire prompts road closures near Lyons - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVzFUV1lfQllxazJIRXlKWW1ZNHJzNkRueXlvQjVVWFJXRTdkcW9zem43enpZMWpaTmkwMDZxaU94d2Z0aU5SOGNhUWJXbUdnWnBSTnVmazFSczBxV2NjNnJQTmpfam9jNS0wSlB2UnNoVFRfVndjUGhHZldzTklIY0F1cw?oc=5",
+      "summary": "Wildfire prompts road closures near Lyons Daily Camera",
+      "publishedAt": "2026-10-08T21:25:32.000Z",
       "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.dwell.com/article/hanghar-casa-guadalupe-custom-designed-prefab-home-6fd17e2e",
@@ -386,17 +430,6 @@
       "sourceId": "lions-roar",
       "sourceName": "Lion's Roar",
       "category": "ideas"
-    },
-    {
-      "id": "6ac7c43135f78c577f76c0b3",
-      "title": "Loretta Lynn’s Van Lear Rose Is Returning to Streaming",
-      "link": "https://pitchfork.com/story/loretta-lynns-van-lear-rose-is-returning-to-streaming/",
-      "summary": "Third Man will reissue Lynn’s 2004 comeback album, which was mysteriously pulled from DSPs in 2021",
-      "publishedAt": "2026-10-08T17:21:59.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac7c686d1e096c849ba8c1b/master/pass/Loretta-Lynn-Jack-White.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "CBMioAFBVV95cUxPb09Zd1k0SXl4MzdsclpmaDNIQlducEc0Q2gzMVIxNE5aSko4ZW02eFJKSF9iVWtTa0E5M1d6TEdqMmFtOVpkTzFlR01BdHlIUTVMOGhiYnJrQXcxdWNsV0hqR1RiOVJRYmQ2bGE2WmoxU2FkdTFZM0JnQUgxRlVlaXNIVldFcnR2LVJGNVI5T3p0UVUtdWQ4emtUOWN2OGtu",
@@ -430,17 +463,6 @@
       "sourceId": "greater-good",
       "sourceName": "Greater Good Magazine",
       "category": "ideas"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=127920",
-      "title": "After 20 years of entertaining Boulder kids, Jeff & Paige have their own PBS show",
-      "link": "https://boulderreportinglab.org/2026/10/08/after-20-years-of-entertaining-boulder-kids-jeff-paige-have-their-own-pbs-show/",
-      "summary": "Rainbow Socks brings the duo’s music, science and love of nature to television, with Boulder County as its backdrop. The post After 20 years of entertaining Boulder kids, Jeff & Paige have their own PBS show appeared first on The Boulder Re…",
-      "publishedAt": "2026-10-08T14:01:41.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/RainbowSocks-165-scaled.jpg?fit=1024%2C684&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
     },
     {
       "id": "https://www.noemamag.com/does-claude-feel-the-whip",
@@ -518,28 +540,6 @@
       "sourceId": "psyche",
       "sourceName": "Psyche",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.brainpickings.org/?p=49975",
-      "title": "Vincent van Gogh on Fear, Taking Risks, and How Inspired Mistakes Propel Us Forward",
-      "link": "https://www.themarginalian.org/2026/10/07/van-gogh-fear-risk/",
-      "summary": "\"However meaningless and vain, however dead life appears, the man of faith, of energy, of warmth... steps in and does something.\"",
-      "publishedAt": "2026-10-08T03:34:48.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/everyours_vangoghletters.jpg?w=680&#038;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "CBMihgFBVV95cUxQYnN4bHJ2Smg3Yk5rWWI4TWxQRGZ0WHAwVDRqaTBmRFNTeExQb1JKTG8yOFlVanQ3b3FQSmk5OEJ1elBXZ1JFSGMxWmRzcXZPNEtsN2tqNWU4Vk5ZblM2UTk1cDltQmwwNXVGX0lybnMyalRMTXhIX2JoMUk4VzR0SWJhM0hsUQ",
-      "title": "CU Buffs’ road to a bowl game is narrowing by the week - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnN4bHJ2Smg3Yk5rWWI4TWxQRGZ0WHAwVDRqaTBmRFNTeExQb1JKTG8yOFlVanQ3b3FQSmk5OEJ1elBXZ1JFSGMxWmRzcXZPNEtsN2tqNWU4Vk5ZblM2UTk1cDltQmwwNXVGX0lybnMyalRMTXhIX2JoMUk4VzR0SWJhM0hsUQ?oc=5",
-      "summary": "CU Buffs’ road to a bowl game is narrowing by the week Daily Camera",
-      "publishedAt": "2026-10-08T00:01:35.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "CBMitwFBVV95cUxOdXNMbXFtWnhQc096YzdMOTRETVI2VWwzOVBiaHg3VEQ1Z0Z6UGVCQjFpN2trT3dFRTRaSUJxNGJuaEdoY25NZUFsc3pMTlJtNzlfYmVrU0pBbHk4TUktSzRySU8zVERjaVl6VHNraW92dHZ0M20xemR0RFlHUVZkZ0t6RFY1ek5oSEZCMHBLdVAwaDZYLWxodGhES3YtbXFSNWlRa3dwSGFxQ3pZcjJzeXJhOGtURnc",
@@ -674,37 +674,81 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316677",
-      "title": "Soft sensor recreates 3D shapes through bending and twisting despite fiber damage",
-      "link": "https://interestingengineering.com/innovation/soft-sensor-recreates-3d-shapes-bending-mit",
-      "summary": "MIT researchers have developed a soft sensor that recreates its own three-dimensional shape as it...",
-      "publishedAt": "2026-10-09T00:46:29.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T060530917-Picsart-AiImageEnhancer.jpg",
+      "id": "https://coloradosun.com/?p=504375",
+      "title": "Jim Morrissey: Hands in the cookie jar",
+      "link": "https://coloradosun.com/2026/10/09/jim-morrissey-hands-in-the-cookie-jar-victor-marx/",
+      "summary": "Cartoonist Jim Morrissey finds irony in GOP gubernatorial candidate Victor Marx's call for a fast amid troubles with improper campaign contributions.",
+      "publishedAt": "2026-10-09T08:10:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/10-9-26-Morrissey.png?fit=1024%2C706&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316716",
+      "title": "PhotoTat: Switchable tattoo ink lets you hide your body art at work, no laser needed",
+      "link": "https://interestingengineering.com/innovation/phototat-tattoo-inks-switch-on-off-uv-light",
+      "summary": "Engineers have designed a new line of multicolored tattoo inks that switch on and off...",
+      "publishedAt": "2026-10-09T07:46:07.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/invisible-tattoos.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50013931",
-      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-      "link": "https://svg-spark.vercel.app/",
-      "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 27 # Comments: 2",
-      "publishedAt": "2026-10-08T23:32:49.000Z",
+      "id": "https://news.ycombinator.com/item?id=50016974",
+      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+      "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+      "summary": "Article URL: https://opentelemetry.io/blog/2026/otel-native-by-design/ Comments URL: https://news.ycombinator.com/item?id=50016974 Points: 36 # Comments: 6",
+      "publishedAt": "2026-10-09T06:54:45.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=467367",
-      "title": "Venini’s bespoke lighting range – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/veninis-bespoke-lighting-range-the-local-project/",
-      "summary": "The post Venini’s bespoke lighting range – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-08T21:52:13.000Z",
+      "id": "6ac7f2a22a68ffce93febd41",
+      "title": "Troye Sivan Shares His “Gayest Music Video” for “FF”",
+      "link": "https://pitchfork.com/story/troye-sivan-shares-his-gayest-music-video-for-ff/",
+      "summary": "“Like this is GAY gay,” the Aussie pop star said of the clip, which accompanies the release of his new album She’s the Best",
+      "publishedAt": "2026-10-09T04:20:34.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac86b169fe1feb19568b3e6/master/pass/unnamed%20(6).png",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://boulderreportinglab.org/?p=127976",
+      "title": "Lafayette set to cut Flock cameras after residents push back over surveillance",
+      "link": "https://boulderreportinglab.org/2026/10/08/lafayette-set-to-cut-flock-cameras-after-residents-push-back-over-surveillance/",
+      "summary": "“People just want to make Flock go away,” one councilor said, as residents The post Lafayette set to cut Flock cameras after residents push back over surveillance appeared first on The Boulder Reporting Lab.",
+      "publishedAt": "2026-10-09T04:17:14.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6423-scaled.jpeg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=467395",
+      "title": "Casa de Ondas by SAOTA – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/casa-de-ondas-by-saota-the-local-project/",
+      "summary": "The post Casa de Ondas by SAOTA – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-08T21:57:07.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=77619",
+      "title": "Improvisation and the Quantum of Consciousness",
+      "link": "https://www.themarginalian.org/2026/10/08/improvisation/",
+      "summary": "Inside the brain's secret portal to remembering the future.",
+      "publishedAt": "2026-10-08T20:31:29.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/04/uncommonmeasure_nataliehodges.jpg?fit=320%2C503&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=128314&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
@@ -738,28 +782,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504400",
-      "title": "Victor Marx’s campaign spending is as unusual as the rest of his bid for Colorado governor",
-      "link": "https://coloradosun.com/2026/10/08/victor-marx-campaign-spending-includes-paying-inner-circle/",
-      "summary": "The Republican candidate for Colorado governor spent heavily on fundraising and security, often through people in his inner circle, according to a CPR News investigation",
-      "publishedAt": "2026-10-08T18:15:28.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/victor_marx_denver_jp-7-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "6ac6d3bb169ecf9833519ea6",
-      "title": "Watch Audrey Hobert Talk to a Redwood Tree in New “Phoebe” Video",
-      "link": "https://pitchfork.com/story/audrey-hobert-phoebe-video/",
-      "summary": "The Friends-inspired Who’s the Clown? track gets its own visual",
-      "publishedAt": "2026-10-08T17:15:07.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac7d03fe70174fa0df5021b/master/pass/Screenshot%202026-10-08%20at%201.13.35%E2%80%AFPM.png",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "CBMiqwFBVV95cUxOakEzZEtscHFhS1FpR1VIRDNfVmNLeDZEbmk2WUVGeHNIR1VydEdWWmhEMHpVR0JHZ3VfRFFRN1JycXVqSFRTbTQ4VWtsN0VqVGhaTGV5X2pSLWxrN3RxMXZ5dy1oOHgwYjNzd2ROQjFyeWctZlZDNTRGVjJMUEVOSEdFVGZITVU2TlM3TmV0MlprbEFtSTJJSVR3UUMzSEFkVWVwUURYbE9sZFU",
@@ -828,26 +850,15 @@
       "category": "design"
     },
     {
-      "id": "CBMihwFBVV95cUxQbFhULXpfdXM1UnFpZXFKdzBCc0xDUnZNRTNGNzlXd2p3SVI3cUNrOVIwaUtxTHRZQjZ4UjRRZHQwMUtJU1RjcDFGSUhLRzlrTlhhWmpIbGZoSDlNYVhKQXhUa3VZQXBtMTFYQTQ4X284WWJySlh6ak95Z0ozSk5EeHRLZDlkbnM",
-      "title": "Here’s how Boulder police are using drones, real-time camera feeds in the field - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFhULXpfdXM1UnFpZXFKdzBCc0xDUnZNRTNGNzlXd2p3SVI3cUNrOVIwaUtxTHRZQjZ4UjRRZHQwMUtJU1RjcDFGSUhLRzlrTlhhWmpIbGZoSDlNYVhKQXhUa3VZQXBtMTFYQTQ4X284WWJySlh6ak95Z0ozSk5EeHRLZDlkbnM?oc=5",
-      "summary": "Here’s how Boulder police are using drones, real-time camera feeds in the field Daily Camera",
-      "publishedAt": "2026-10-07T22:00:38.000Z",
+      "id": "CBMihgFBVV95cUxQYnN4bHJ2Smg3Yk5rWWI4TWxQRGZ0WHAwVDRqaTBmRFNTeExQb1JKTG8yOFlVanQ3b3FQSmk5OEJ1elBXZ1JFSGMxWmRzcXZPNEtsN2tqNWU4Vk5ZblM2UTk1cDltQmwwNXVGX0lybnMyalRMTXhIX2JoMUk4VzR0SWJhM0hsUQ",
+      "title": "CU Buffs’ road to a bowl game is narrowing by the week - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnN4bHJ2Smg3Yk5rWWI4TWxQRGZ0WHAwVDRqaTBmRFNTeExQb1JKTG8yOFlVanQ3b3FQSmk5OEJ1elBXZ1JFSGMxWmRzcXZPNEtsN2tqNWU4Vk5ZblM2UTk1cDltQmwwNXVGX0lybnMyalRMTXhIX2JoMUk4VzR0SWJhM0hsUQ?oc=5",
+      "summary": "CU Buffs’ road to a bowl game is narrowing by the week Daily Camera",
+      "publishedAt": "2026-10-08T00:01:35.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
-    },
-    {
-      "id": "https://www.brainpickings.org/?p=63084",
-      "title": "Walt Whitman, Shortly After His Paralytic Stroke, on What Makes Life Worth Living",
-      "link": "https://www.themarginalian.org/2026/10/07/walt-whitman-specimen-days-meaning-of-life/",
-      "summary": "\"Tone your wants and tastes low down enough, and make much of negatives, and of mere daylight and the skies.\"",
-      "publishedAt": "2026-10-07T21:51:47.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/11/whitman_specimendays.jpg?fit=312%2C500&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "CBMixAFBVV95cUxPWjFOb2ZfTGNTUGVjdWwycEtlWjg1TVJuVmhWd083VjVnLUlEZTdvV1M0T254Z3VuU2YyVWVKUjNnRF9rZ3FEVV81Q1pTdDM0RDVYdnNmcjB1bDRGSzFmLVk2WGZBWVVIcF9aazY1TTBPUGZrbkVOSEtSaTVhc1JCWjhHMUJfcjQ4Qi15dm1CUVVad19ubXg0aDlwNUFXeTVmYXg1Y1dRNzc1TkNabW1HOHoyNS1iYnN5VXZXa0J1dUN4X3Y1",
@@ -858,17 +869,6 @@
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=127889",
-      "title": "Skunk Canyon Fire reported in Boulder; firefighters establish line around blaze",
-      "link": "https://boulderreportinglab.org/2026/10/07/skunk-canyon-fire-reported-in-boulder-firefighters-establish-line-around-blaze/",
-      "summary": "The fire, initially reported at 0.1 acres, is now 100% contained, according to WildCAD. No trail closures were reported Wednesday morning. The post Skunk Canyon Fire reported in Boulder; firefighters establish line around blaze appeared fir…",
-      "publishedAt": "2026-10-07T16:02:58.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-09.46.56.png?fit=973%2C624&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
@@ -1048,37 +1048,70 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316665",
-      "title": "Sixth-gen bomber’s production: US firm breaks ground on B-21 Raider production facility",
-      "link": "https://interestingengineering.com/military/sixth-gen-bomber-production-facility",
-      "summary": "The United States is soon to get a new facility, which will support the B-21...",
-      "publishedAt": "2026-10-09T00:28:57.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/bomber-new.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "https://coloradosun.com/?p=504364",
+      "title": "“What’d I Miss?”: Living an “important” life",
+      "link": "https://coloradosun.com/2026/10/09/whatd-i-miss-gerry-conway-living-an-important-life/",
+      "summary": "In \"What'd I Miss?\" Ossie mourns the passing of multi-talented comics legend Gerry Conway, and wonders how he can measure up in his own life.",
+      "publishedAt": "2026-10-09T08:05:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/WIM-422-preview.png?fit=720%2C480&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50013610",
-      "title": "Bevy 0.20",
-      "link": "https://bevy.org/news/bevy-0-20/",
-      "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 29 # Comments: 2",
-      "publishedAt": "2026-10-08T22:57:50.000Z",
+      "id": "https://news.ycombinator.com/item?id=50016840",
+      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+      "link": "https://www.oldroll.io/",
+      "summary": "OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use. Comments URL: https://news.ycombinator.com/item?id=5…",
+      "publishedAt": "2026-10-09T06:40:14.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=467343",
-      "title": "Affordable Art Fair Returns to Sydney in November – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/affordable-art-fair-returns-to-sydney-in-november-the-local-project/",
-      "summary": "The post Affordable Art Fair Returns to Sydney in November – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-08T21:35:14.000Z",
+      "id": "6ac6fa7211ca618e834ac1bc",
+      "title": "Deafheaven Surprise Release New EP At Work in the Fields of the Bomb",
+      "link": "https://pitchfork.com/story/deafheaven-surprise-release-new-ep-at-work-in-the-fields-of-the-bomb/",
+      "summary": "Their first new music since 2025’s Lonely People with Power",
+      "publishedAt": "2026-10-09T04:11:14.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac803702efa2e01c94f9283/master/pass/Deafheaven%20-%20New%20Pub%202026%20-%20Liam%20Stewart.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316612",
+      "title": "Green hydrogen process reaches 98% efficiency while producing valuable chemicals",
+      "link": "https://interestingengineering.com/innovation/green-hydrogen-process-higher-efficiency",
+      "summary": "A new electrochemical process developed by researchers at the Technion, Israel Institute of Technology, could...",
+      "publishedAt": "2026-10-09T00:57:55.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Electrolysis-.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=467367",
+      "title": "Venini’s bespoke lighting range – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/veninis-bespoke-lighting-range-the-local-project/",
+      "summary": "The post Venini’s bespoke lighting range – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-08T21:52:13.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
+    },
+    {
+      "id": "https://www.brainpickings.org/?p=72148",
+      "title": "How to Remake Yourself When You Are Undone: Lincoln and the Gift of His Suicidal Depression",
+      "link": "https://www.themarginalian.org/2026/10/08/lincoln-melancholy-depression/",
+      "summary": "Life-affirming inspiration from a man who knew intimately “that intensity of thought, which will some times wear the sweetest idea thread-bare and turn it to the bitterness of death.”",
+      "publishedAt": "2026-10-08T19:56:59.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/12/lincolhnsmelancholy.jpg?fit=320%2C480&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://nautil.us/?p=1285647",
@@ -1103,28 +1136,6 @@
       "category": "general"
     },
     {
-      "id": "https://coloradosun.com/?p=504393",
-      "title": "Only eligible votes on Colorado passenger rail ballot question will be counted, Secretary of State says",
-      "link": "https://coloradosun.com/2026/10/08/colorado-counties-reconfigure-voting-systems-passenger-rail-ballot/",
-      "summary": "Adams, Arapahoe, Douglas and Weld County clerks are instructed to reconfigure their voting systems to discount about 800,000 ineligible votes on Ballot Issue 7A",
-      "publishedAt": "2026-10-08T17:44:11.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/Prop-7A-02.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "6ac7afded1e096c849ba8b58",
-      "title": "David Byrne and Daniel Pemberton Made a Song Using Weird Elon Musk Quotes",
-      "link": "https://pitchfork.com/story/david-byrne-and-daniel-pemberton-made-a-song-using-weird-elon-musk-quotes/",
-      "summary": "“Let Me Sell You a Dream” appears in Musk, a new documentary about the tech mogul directed by Alex Gibney",
-      "publishedAt": "2026-10-08T16:53:33.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac7c92ec3f6632564b71f2b/master/pass/Screenshot%202026-10-08%20at%2011.46.45%E2%80%AFAM.png",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "https://www.dwell.com/article/mahogany-house-fred-hollingsworth-frank-paxton-north-vancouver-midcentury-real-estate-48dbe076",
       "title": "In North Vancouver, a Never-Before-Seen Fred Hollingsworth Midcentury Just Listed for $1.8M",
       "link": "https://www.dwell.com/article/mahogany-house-fred-hollingsworth-frank-paxton-north-vancouver-midcentury-real-estate-48dbe076",
@@ -1144,6 +1155,17 @@
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
+      "category": "local"
+    },
+    {
+      "id": "https://boulderreportinglab.org/?p=127920",
+      "title": "After 20 years of entertaining Boulder kids, Jeff & Paige have their own PBS show",
+      "link": "https://boulderreportinglab.org/2026/10/08/after-20-years-of-entertaining-boulder-kids-jeff-paige-have-their-own-pbs-show/",
+      "summary": "Rainbow Socks brings the duo’s music, science and love of nature to television, with Boulder County as its backdrop. The post After 20 years of entertaining Boulder kids, Jeff & Paige have their own PBS show appeared first on The Boulder Re…",
+      "publishedAt": "2026-10-08T14:01:41.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/RainbowSocks-165-scaled.jpg?fit=1024%2C684&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
@@ -1180,11 +1202,11 @@
       "category": "science"
     },
     {
-      "id": "CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk",
-      "title": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk?oc=5",
-      "summary": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around Daily Camera",
-      "publishedAt": "2026-10-07T14:01:51.000Z",
+      "id": "CBMihwFBVV95cUxQbFhULXpfdXM1UnFpZXFKdzBCc0xDUnZNRTNGNzlXd2p3SVI3cUNrOVIwaUtxTHRZQjZ4UjRRZHQwMUtJU1RjcDFGSUhLRzlrTlhhWmpIbGZoSDlNYVhKQXhUa3VZQXBtMTFYQTQ4X284WWJySlh6ak95Z0ozSk5EeHRLZDlkbnM",
+      "title": "Here’s how Boulder police are using drones, real-time camera feeds in the field - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFhULXpfdXM1UnFpZXFKdzBCc0xDUnZNRTNGNzlXd2p3SVI3cUNrOVIwaUtxTHRZQjZ4UjRRZHQwMUtJU1RjcDFGSUhLRzlrTlhhWmpIbGZoSDlNYVhKQXhUa3VZQXBtMTFYQTQ4X284WWJySlh6ak95Z0ozSk5EeHRLZDlkbnM?oc=5",
+      "summary": "Here’s how Boulder police are using drones, real-time camera feeds in the field Daily Camera",
+      "publishedAt": "2026-10-07T22:00:38.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -1221,28 +1243,6 @@
       "imageUrl": "https://images.aeonmedia.co/images/2f69573e-df4e-43f1-91c5-1f6a587732cb/i-won_t-remain-alone-lanmdscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
-      "category": "ideas"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=127649",
-      "title": "Boulder 2026 Voter Guide: What to know before Election Day, Nov. 3",
-      "link": "https://boulderreportinglab.org/2026/10/07/boulder-2026-voter-guide-what-to-know-before-election-day-nov-3/",
-      "summary": "Boulder voters will choose a mayor and five city councilmembers on Nov. 3. Use this guide to compare candidates, understand local ballot measures and make a plan to vote. The post Boulder 2026 Voter Guide: What to know before Election Day, …",
-      "publishedAt": "2026-10-07T06:12:53.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2023/09/DSC09846copy-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=77780",
-      "title": "Why Are We Not Better Than We Are",
-      "link": "https://www.themarginalian.org/2026/10/07/jon-mooallem-serious-face-poetry/",
-      "summary": "\"...a stillness in which the germ of what is not yet palpable pauses and gathers to begin one more time.\"",
-      "publishedAt": "2026-10-07T05:18:53.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/08/seriousface_mooallem.jpg?fit=320%2C480&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
       "category": "ideas"
     },
     {
@@ -1422,37 +1422,59 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316663",
-      "title": "Smart EV battery design could extend lifespan over 20% by bypassing weak cells",
-      "link": "https://interestingengineering.com/energy/smart-ev-battery-bypasses-weak-cells",
-      "summary": "A new electric vehicle battery design could extend battery lifespan by more than 20 percent...",
-      "publishedAt": "2026-10-09T00:03:17.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2025/04/IE-Photo-25.jpg",
+      "id": "https://coloradosun.com/?p=504383",
+      "title": "Opinion: Allowing oil and gas leases on Roan Plateau could destroy one of Colorado’s most biodiverse landscapes",
+      "link": "https://coloradosun.com/2026/10/09/opinion-roan-plateau-blm-oil-leases-colorado/",
+      "summary": "BLM’s upcoming lease sale will test if federal agency is willing to honor local solutions and protect valuable public lands",
+      "publishedAt": "2026-10-09T07:30:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/freeman-sig.png?fit=1024%2C700&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50016489",
+      "title": "MXC - a sandboxed code execution system",
+      "link": "https://github.com/microsoft/mxc",
+      "summary": "Article URL: https://github.com/microsoft/mxc Comments URL: https://news.ycombinator.com/item?id=50016489 Points: 20 # Comments: 6",
+      "publishedAt": "2026-10-09T05:51:29.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "6ac6a6b53d647beb70177449",
+      "title": "Grimes Shares First Song From AI-Inspired Album Psy Opera",
+      "link": "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/",
+      "summary": "The album promises to cover everything the singer “witnessed as a woman of history during her hiatus from pop music”",
+      "publishedAt": "2026-10-09T04:08:07.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/master/pass/HUIQnffXYAEvL00.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316677",
+      "title": "Soft sensor recreates 3D shapes through bending and twisting despite fiber damage",
+      "link": "https://interestingengineering.com/innovation/soft-sensor-recreates-3d-shapes-bending-mit",
+      "summary": "MIT researchers have developed a soft sensor that recreates its own three-dimensional shape as it...",
+      "publishedAt": "2026-10-09T00:46:29.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T060530917-Picsart-AiImageEnhancer.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=467309",
-      "title": "Nera by Bastion Group – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/nera-by-bastion-group-the-local-project/",
-      "summary": "The post Nera by Bastion Group – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-08T21:20:52.000Z",
+      "id": "https://thelocalproject.com.au/?p=467343",
+      "title": "Affordable Art Fair Returns to Sydney in November – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/affordable-art-fair-returns-to-sydney-in-november-the-local-project/",
+      "summary": "The post Affordable Art Fair Returns to Sydney in November – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-08T21:35:14.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50011999",
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 76 # Comments: 10",
-      "publishedAt": "2026-10-08T20:46:25.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
     },
     {
       "id": "https://nautil.us/?p=1285640",
@@ -1485,28 +1507,6 @@
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
-      "category": "local"
-    },
-    {
-      "id": "6ac7b1f99fe1feb19568b173",
-      "title": "Björk Announces New Orchestral Live Album",
-      "link": "https://pitchfork.com/story/bjork-announces-new-orchestral-live-album/",
-      "summary": "Drawn from her 2021 performances adapting songs, primarily from Medúlla, for an ensemble including a 50-person choir",
-      "publishedAt": "2026-10-08T15:43:27.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac7b8273d647beb70177987/master/pass/bjork-live-album.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504292",
-      "title": "What to do in Colorado this week: A reworked Great American Beer Festival heads outdoors and sketch comedy returns to Denver",
-      "link": "https://coloradosun.com/2026/10/08/what-to-do-in-colorado-this-week-great-american-beer-fest-sketch-comedy/",
-      "summary": "Plus: A sensory-friendly \"Don Quixote\" by Colorado Ballet and a fall festival in Fort Collins",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/DSF-2026-photo-2-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
@@ -1543,6 +1543,17 @@
       "category": "design"
     },
     {
+      "id": "https://www.brainpickings.org/?p=49975",
+      "title": "Vincent van Gogh on Fear, Taking Risks, and How Inspired Mistakes Propel Us Forward",
+      "link": "https://www.themarginalian.org/2026/10/07/van-gogh-fear-risk/",
+      "summary": "\"However meaningless and vain, however dead life appears, the man of faith, of energy, of warmth... steps in and does something.\"",
+      "publishedAt": "2026-10-08T03:34:48.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/everyours_vangoghletters.jpg?w=680&#038;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell",
       "title": "Two teams map development of mammal embryos, cell by cell",
       "link": "https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell",
@@ -1554,11 +1565,22 @@
       "category": "science"
     },
     {
-      "id": "CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8",
-      "title": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8?oc=5",
-      "summary": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say Daily Camera",
-      "publishedAt": "2026-10-07T11:06:49.000Z",
+      "id": "https://boulderreportinglab.org/?p=127889",
+      "title": "Skunk Canyon Fire reported in Boulder; firefighters establish line around blaze",
+      "link": "https://boulderreportinglab.org/2026/10/07/skunk-canyon-fire-reported-in-boulder-firefighters-establish-line-around-blaze/",
+      "summary": "The fire, initially reported at 0.1 acres, is now 100% contained, according to WildCAD. No trail closures were reported Wednesday morning. The post Skunk Canyon Fire reported in Boulder; firefighters establish line around blaze appeared fir…",
+      "publishedAt": "2026-10-07T16:02:58.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-09.46.56.png?fit=973%2C624&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
+      "id": "CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk",
+      "title": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk?oc=5",
+      "summary": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around Daily Camera",
+      "publishedAt": "2026-10-07T14:01:51.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -1574,28 +1596,6 @@
       "sourceId": "leibal",
       "sourceName": "Leibal",
       "category": "design"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=127680",
-      "title": "Where Boulder candidates stand on the $400 million bond and every other local ballot measure",
-      "link": "https://boulderreportinglab.org/2026/10/06/where-boulder-candidates-stand-on-the-400-million-bond-and-every-other-local-ballot-measure/",
-      "summary": "BRL asked candidates for mayor and city council how they would vote on seven city and county ballot measures. Ten of the 16 who responded oppose the city's $400 million bond. The post Where Boulder candidates stand on the $400 million bond …",
-      "publishedAt": "2026-10-07T04:53:38.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6343-scaled.jpeg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=82182",
-      "title": "But We Had Music: Nick Cave Reads an Animated Poem about How to Be More Alive",
-      "link": "https://www.themarginalian.org/2026/10/06/but-we-had-music/",
-      "summary": "How, knowing that even the universe is dying, do we bear our lives? Most readily, through friendship, through connection, through co-creating the world we want to live in for the brief time we have together on this lonely, perfect planet. T…",
-      "publishedAt": "2026-10-07T03:11:51.000Z",
-      "imageUrl": null,
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "CBMi6AFBVV95cUxOZ2NkdmpsRVVaMmxlVHFZeEVYb3JzZi10bzZEVWtsTnpMQmtEcmMxbXJqcDhIcWxwTUNmY1RDajBwd0o2LUh5cWl1aVhGNFRCVjRZYnRiUHlMa2dlTmF4RUhob3YzMi1pNmJVR1hTMXpSQ3FiTEthd2hrTmVDWHBEUmQ1ci1lUlVKaUE2X0hiMmE3R044MU9ld3hkUE1oZFZLVjNwQlZiUGRCbjM1SW9NMzZuYjRVUkJGanJGMFFxSFktRGp5V2lfdURJN2lhUnJJbzhXaGRTSFh1Ui1SOUw5QzM5bXF1bTVz",
@@ -1796,26 +1796,59 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316583",
-      "title": "Next-gen missile-tracking ship soon to be built in US; boost defense power, battle superiority",
-      "link": "https://interestingengineering.com/military/next-gen-missile-tracking-ship",
-      "summary": "The United States is soon to get a new generation of missile-tracking ships. For this,...",
-      "publishedAt": "2026-10-09T00:00:26.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/missile-tracking-ship.jpg",
+      "id": "https://news.ycombinator.com/item?id=50016312",
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "link": "https://quake-srp.pages.dev/",
+      "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 151 # Comments: 122",
+      "publishedAt": "2026-10-09T05:22:58.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "6ac7a7323d647beb7017783a",
+      "title": "Live at Carnegie Hall",
+      "link": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/",
+      "summary": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking.",
+      "publishedAt": "2026-10-09T04:03:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6a8374d55eeaf65ef2de9c77/master/pass/Live%20at%20Carnegie%20Hall_1500X.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316665",
+      "title": "Sixth-gen bomber’s production: US firm breaks ground on B-21 Raider production facility",
+      "link": "https://interestingengineering.com/military/sixth-gen-bomber-production-facility",
+      "summary": "The United States is soon to get a new facility, which will support the B-21...",
+      "publishedAt": "2026-10-09T00:28:57.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/bomber-new.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50011928",
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-      "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 172 # Comments: 128",
-      "publishedAt": "2026-10-08T20:42:16.000Z",
+      "id": "https://coloradosun.com/?p=504217",
+      "title": "Watch: The Colorado Sun hosts a conversation with Phil Weiser",
+      "link": "https://coloradosun.com/2026/10/08/watch-the-colorado-sun-hosts-a-conversation-with-phil-weiser/",
+      "summary": "Colorado Sun Elections Editor Jesse Paul will sit down with Attorney General Phil Weiser to discuss his campaign for Colorado governor.",
+      "publishedAt": "2026-10-09T00:15:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/07/lesley_dahlkemper_jp-2-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=467309",
+      "title": "Nera by Bastion Group – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/nera-by-bastion-group-the-local-project/",
+      "summary": "The post Nera by Bastion Group – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-08T21:20:52.000Z",
       "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "https://nautil.us/?p=1285643",
@@ -1840,17 +1873,6 @@
       "category": "local"
     },
     {
-      "id": "6ac6ddd735f78c577f76bea3",
-      "title": "Turnstile Announce Free Show to Raise Funds for Palestine, Sudan, and Lebanon",
-      "link": "https://pitchfork.com/story/turnstile-announce-free-show-to-raise-funds-for-palestine-sudan-and-lebanon/",
-      "summary": "The Washington D.C. concert takes place on October 24 in collaboration with Human Concern International",
-      "publishedAt": "2026-10-08T14:12:17.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac6f9b42a68ffce93feba53/master/pass/GettyImages-2298384186.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "https://www.thebrighterside.news/api/preview?id=128293&secret=cM2XMtKpK3Lj&nonce=33324aca5d",
       "title": "Astronomers discover a ‘phoenix planet’ reborn from the ashes of a dead star",
       "link": "https://www.thebrighterside.news/post/astronomers-discover-a-phoenix-planet-reborn-from-the-ashes-of-a-dead-star/",
@@ -1873,17 +1895,6 @@
       "category": "ideas"
     },
     {
-      "id": "https://coloradosun.com/?p=504305",
-      "title": "A Vail mountaineer is vying to be the first American woman to scale the world’s tallest volcanoes",
-      "link": "https://coloradosun.com/2026/10/08/nicole-otake-7-volcanic-summits-mountaineer-vail/",
-      "summary": "Nicole Otake is on a quest to complete the 7 Volcanic Summits — and to help other women start climbing without paying too high a price.",
-      "publishedAt": "2026-10-08T10:20:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/IMG_0258-1.jpg?fit=1024%2C768&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
       "id": "https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960",
       "title": "Will the world end next month? Science said so, in 1960",
       "link": "https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960",
@@ -1893,6 +1904,17 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
+    },
+    {
+      "id": "https://www.brainpickings.org/?p=63084",
+      "title": "Walt Whitman, Shortly After His Paralytic Stroke, on What Makes Life Worth Living",
+      "link": "https://www.themarginalian.org/2026/10/07/walt-whitman-specimen-days-meaning-of-life/",
+      "summary": "\"Tone your wants and tastes low down enough, and make much of negatives, and of mere daylight and the skies.\"",
+      "publishedAt": "2026-10-07T21:51:47.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/11/whitman_specimendays.jpg?fit=312%2C500&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.dwell.com/article/cathedral-house-jak-architecture-bushfire-design-a56ccfab",
@@ -1906,15 +1928,15 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=467195",
-      "title": "Rustic Canyon by West Haddon Hall – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/rustic-canyon-by-west-haddon-hall-the-local-project/",
-      "summary": "The post Rustic Canyon by West Haddon Hall – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-07T21:25:19.000Z",
+      "id": "CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8",
+      "title": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8?oc=5",
+      "summary": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say Daily Camera",
+      "publishedAt": "2026-10-07T11:06:49.000Z",
       "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.surfacemag.com/?p=212842",
@@ -1928,44 +1950,22 @@
       "category": "design"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=127773",
-      "title": "What Boulder City Council candidates say they want to accomplish in their first year",
-      "link": "https://boulderreportinglab.org/2026/10/06/what-boulder-city-council-candidates-want-to-accomplish-in-their-first-year/",
-      "summary": "BRL asked mayoral and city council candidates to name one specific thing they want to accomplish in their first year. The post What Boulder City Council candidates say they want to accomplish in their first year appeared first on The Boulde…",
-      "publishedAt": "2026-10-07T04:53:13.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/Website-landing-2.jpg?fit=1024%2C952&amp;ssl=1",
+      "id": "https://boulderreportinglab.org/?p=127649",
+      "title": "Boulder 2026 Voter Guide: What to know before Election Day, Nov. 3",
+      "link": "https://boulderreportinglab.org/2026/10/07/boulder-2026-voter-guide-what-to-know-before-election-day-nov-3/",
+      "summary": "Boulder voters will choose a mayor and five city councilmembers on Nov. 3. Use this guide to compare candidates, understand local ballot measures and make a plan to vote. The post Boulder 2026 Voter Guide: What to know before Election Day, …",
+      "publishedAt": "2026-10-07T06:12:53.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2023/09/DSC09846copy-scaled.jpg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
-      "id": "CBMihgFBVV95cUxOQVY4cnhyNHNnSTVvbzhDb3FBSGZLTGZYVkdXVHRyanJBQ2xjay1vTU02cW5LSUpaQjJiMXRlVmhyMkxMOVhqeW1LMlZzZTV3VkM3bzktM0NDQVZhVnlvX3FZSkZjVXZOSlFSNTMwX21kSUhuUFVxMHVFNXF1R3M3LWJqSjNmUQ",
-      "title": "Residents should prepare to evacuate amid wildfire near Allenspark - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVY4cnhyNHNnSTVvbzhDb3FBSGZLTGZYVkdXVHRyanJBQ2xjay1vTU02cW5LSUpaQjJiMXRlVmhyMkxMOVhqeW1LMlZzZTV3VkM3bzktM0NDQVZhVnlvX3FZSkZjVXZOSlFSNTMwX21kSUhuUFVxMHVFNXF1R3M3LWJqSjNmUQ?oc=5",
-      "summary": "Residents should prepare to evacuate amid wildfire near Allenspark Daily Camera",
-      "publishedAt": "2026-10-06T21:50:45.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=88075",
-      "title": "A Constellation of Amazements: An Illustrated Love Letter to the Joy of Collecting Things",
-      "link": "https://www.themarginalian.org/2026/10/06/these-are-my-rocks/",
-      "summary": "We are hunter-gatherers with a capacity for amazement, wired to search for an organizing principle by which to contain the chaos of reality. We organize what we find into categories and hierarchies, hovering over which is one of the strange…",
-      "publishedAt": "2026-10-06T20:32:02.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/thesearemyrocks.jpg?fit=320%2C376&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "CBMi1wFBVV95cUxONWFzYTZIalJjTEZzeVF3enctTHFKUDlMOW9rM29BNTZzZVBwdm9sd3c0Y0plczZ0U2cwVFR1T1Njdm5YSU01a25BSzlpaGx1a3dEdDJQcmNsMVJtU3h5eFdNSHJkd2RDUy1SMFNPSkxySHRUdmhnbXl5TjhGUEZpbENvS1J0QUYtbXZMMzQtQmlkVHJMVDFoOWlsRUs4RmJXU0ZQUTdJcE02RG5oNnVlVHlDZEcxaVpLWDBIV0xqSlJqZDliZWdmcEpaWFdSNUZfYmpkX1U1Zw",
-      "title": "Inside a Fort Collins taco spot hidden in plain sight - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONWFzYTZIalJjTEZzeVF3enctTHFKUDlMOW9rM29BNTZzZVBwdm9sd3c0Y0plczZ0U2cwVFR1T1Njdm5YSU01a25BSzlpaGx1a3dEdDJQcmNsMVJtU3h5eFdNSHJkd2RDUy1SMFNPSkxySHRUdmhnbXl5TjhGUEZpbENvS1J0QUYtbXZMMzQtQmlkVHJMVDFoOWlsRUs4RmJXU0ZQUTdJcE02RG5oNnVlVHlDZEcxaVpLWDBIV0xqSlJqZDliZWdmcEpaWFdSNUZfYmpkX1U1Zw?oc=5",
-      "summary": "Inside a Fort Collins taco spot hidden in plain sight The Coloradoan",
-      "publishedAt": "2026-10-06T18:27:00.000Z",
+      "id": "CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw",
+      "title": "Where Colorado State's defense ranks in college football - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw?oc=5",
+      "summary": "Where Colorado State's defense ranks in college football The Coloradoan",
+      "publishedAt": "2026-10-06T17:05:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -2170,26 +2170,48 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316657",
-      "title": "Don’t bully the bot! Anthropic cracks down on users who repeatedly abuse Claude",
-      "link": "https://interestingengineering.com/ai-robotics/anthropic-claude-new-usage-policy-cruelty-crackdown",
-      "summary": "Anthropic will prohibit users from repeatedly abusing its Claude models without a meaningful purpose under...",
-      "publishedAt": "2026-10-08T23:28:58.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T044429.637.jpg",
+      "id": "6ac6257532058c9c5c6416d6",
+      "title": "creole culture",
+      "link": "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/",
+      "summary": "The third album in Richards’ trilogy dedicated to her hometown is a celebration of New Orleans’ dynamism: colorful, communal, triumphantly on the move.",
+      "publishedAt": "2026-10-09T04:02:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6a733ddef9a2e451bfdf19fe/master/pass/Dawn-Richard-Creole-Culture.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50015515",
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 131 # Comments: 111",
+      "publishedAt": "2026-10-09T03:08:05.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316663",
+      "title": "Smart EV battery design could extend lifespan over 20% by bypassing weak cells",
+      "link": "https://interestingengineering.com/energy/smart-ev-battery-bypasses-weak-cells",
+      "summary": "A new electric vehicle battery design could extend battery lifespan by more than 20 percent...",
+      "publishedAt": "2026-10-09T00:03:17.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2025/04/IE-Photo-25.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50010470",
-      "title": "The value of not getting to the point (2015)",
-      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "summary": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 126 # Comments: 40",
-      "publishedAt": "2026-10-08T19:04:56.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "id": "https://coloradosun.com/?p=504400",
+      "title": "Victor Marx’s campaign spending is as unusual as the rest of his bid for Colorado governor",
+      "link": "https://coloradosun.com/2026/10/08/victor-marx-campaign-spending-includes-paying-inner-circle/",
+      "summary": "The Republican candidate for Colorado governor spent heavily on fundraising and security, often through people in his inner circle, according to a CPR News investigation",
+      "publishedAt": "2026-10-08T18:15:28.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/victor_marx_denver_jp-7-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
     },
     {
       "id": "CBMi4AFBVV95cUxPZlc1NFdTOUp6cjhVQXkzTEVxQ3lFX1dIWXJTRWItUFh1ZHpDaGd0NERjYVFDQnBDcWFJY01FU1N6dkxHM0hPRTZ3LVhoUDNucXhGbHJib1pscm9mdDlubE1KR0p3SXlDcTFRLV9aU1FiWW5ULUxwVHNSSkFjQVhRdnkwUG1sbE05RExVUFRyTHR4TmhUZkppcGJrMzlnNUZ6OU1BaU9LUU5CRHo5bjlvRkZrdzJGbjJUZDEyYzk5aDZVcFJVeDdVRHZ5NVlobFQ1TlFyM1dwU3NSbG1qOXBpQw",
@@ -2201,17 +2223,6 @@
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
-    },
-    {
-      "id": "6ac79beb9fe1feb19568b013",
-      "title": "Grouper’s Liz Harris Shares 21-Minute Composition",
-      "link": "https://pitchfork.com/story/groupers-liz-harris-shares-21-minute-composition/",
-      "summary": "“Untitled (from Constellation)” is one of two short-film scores compiled on a new Kranky release",
-      "publishedAt": "2026-10-08T14:09:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac7a1a8c3f6632564b71dd1/master/pass/grouper-liz-harris-film-scores.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1285626",
@@ -2236,15 +2247,15 @@
       "category": "general"
     },
     {
-      "id": "https://coloradosun.com/?p=504296",
-      "title": "Nederland is seeking state funds, donations to complete purchase of Eldora Mountain Resort",
-      "link": "https://coloradosun.com/2026/10/08/nederland-eldora-ski-area-purchase-donations-bonds/",
-      "summary": "After nearly 2 years, Nederland officials say they need $20M in donations and possibly state grants to help it convince potential bond buyers to fund a $120M acquisition of the local ski area.",
-      "publishedAt": "2026-10-08T10:07:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/01/eldora-snow2-scaled.jpg?fit=1024%2C576&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
-      "category": "local"
+      "id": "https://thelocalproject.com.au/?p=467195",
+      "title": "Rustic Canyon by West Haddon Hall – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/rustic-canyon-by-west-haddon-hall-the-local-project/",
+      "summary": "The post Rustic Canyon by West Haddon Hall – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-07T21:25:19.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "https://www.dwell.com/article/laneway-studio-olaver-architecture-melbourne-australia-adu-b7c45826",
@@ -2280,25 +2291,36 @@
       "category": "design"
     },
     {
-      "id": "CBMif0FVX3lxTE9BU1lwemNsbFdhMmNzM1Z0a2piR0RjcFVic2padDZBSjdISFQ4V0F5RHJMcURSMXN0bWsxZ0F5TmU4dFRKVTdSOWZleVFJVThmcmZlRG9pbFRYd1BjS0JaMFVEM2piTEplRGtyVElELTEwc0JaTzBtdjgtQkU3QnM",
-      "title": "Boulder Public Library District plans cuts to 3 programs, scaling back of 3 services - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BU1lwemNsbFdhMmNzM1Z0a2piR0RjcFVic2padDZBSjdISFQ4V0F5RHJMcURSMXN0bWsxZ0F5TmU4dFRKVTdSOWZleVFJVThmcmZlRG9pbFRYd1BjS0JaMFVEM2piTEplRGtyVElELTEwc0JaTzBtdjgtQkU3QnM?oc=5",
-      "summary": "Boulder Public Library District plans cuts to 3 programs, scaling back of 3 services Daily Camera",
-      "publishedAt": "2026-10-06T20:08:33.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
+      "id": "https://www.themarginalian.org/?p=77780",
+      "title": "Why Are We Not Better Than We Are",
+      "link": "https://www.themarginalian.org/2026/10/07/jon-mooallem-serious-face-poetry/",
+      "summary": "\"...a stillness in which the germ of what is not yet palpable pauses and gathers to begin one more time.\"",
+      "publishedAt": "2026-10-07T05:18:53.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/08/seriousface_mooallem.jpg?fit=320%2C480&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://boulderreportinglab.org/?p=127680",
+      "title": "Where Boulder candidates stand on the $400 million bond and every other local ballot measure",
+      "link": "https://boulderreportinglab.org/2026/10/06/where-boulder-candidates-stand-on-the-400-million-bond-and-every-other-local-ballot-measure/",
+      "summary": "BRL asked candidates for mayor and city council how they would vote on seven city and county ballot measures. Ten of the 16 who responded oppose the city's $400 million bond. The post Where Boulder candidates stand on the $400 million bond …",
+      "publishedAt": "2026-10-07T04:53:38.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6343-scaled.jpeg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=127589",
-      "title": "Boulder Market Meals: Make locally grown acorn squash a meal with sausage, kale and Parmesan",
-      "link": "https://boulderreportinglab.org/2026/10/06/boulder-market-meals-make-locally-grown-acorn-squash-a-meal-with-sausage-kale-and-parmesan/",
-      "summary": "Local Italian sausage, onion, peppers, garlic and purple kale fill roasted acorn squash The post Boulder Market Meals: Make locally grown acorn squash a meal with sausage, kale and Parmesan appeared first on The Boulder Reporting Lab.",
-      "publishedAt": "2026-10-06T19:13:43.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/recipe-106-resized.jpg?fit=1024%2C685&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
+      "id": "CBMihgFBVV95cUxOQVY4cnhyNHNnSTVvbzhDb3FBSGZLTGZYVkdXVHRyanJBQ2xjay1vTU02cW5LSUpaQjJiMXRlVmhyMkxMOVhqeW1LMlZzZTV3VkM3bzktM0NDQVZhVnlvX3FZSkZjVXZOSlFSNTMwX21kSUhuUFVxMHVFNXF1R3M3LWJqSjNmUQ",
+      "title": "Residents should prepare to evacuate amid wildfire near Allenspark - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVY4cnhyNHNnSTVvbzhDb3FBSGZLTGZYVkdXVHRyanJBQ2xjay1vTU02cW5LSUpaQjJiMXRlVmhyMkxMOVhqeW1LMlZzZTV3VkM3bzktM0NDQVZhVnlvX3FZSkZjVXZOSlFSNTMwX21kSUhuUFVxMHVFNXF1R3M3LWJqSjNmUQ?oc=5",
+      "summary": "Residents should prepare to evacuate amid wildfire near Allenspark Daily Camera",
+      "publishedAt": "2026-10-06T21:50:45.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
       "category": "local"
     },
     {
@@ -2313,26 +2335,15 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw",
-      "title": "Where Colorado State's defense ranks in college football - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw?oc=5",
-      "summary": "Where Colorado State's defense ranks in college football The Coloradoan",
-      "publishedAt": "2026-10-06T17:05:00.000Z",
+      "id": "CBMi5gFBVV95cUxNeVU4QlIwNVV3b0M4ZzYyYS1LN2lyZjd4MVZtQzdjWlpwY0htdEtBd0pVdEswbzl1WktpWnV5QkxMOU5ybWhRT09HUW5vbjVYM2diWkdJa1NhQWRNbUxWdGtpZlo4YkpSbmJiejZTdHRYRmNkWUppZ0ZJYVlETlVhOGgweWllcVFwMVUtdW1HUzRpRm1IY2VaeDBWWkQxbXN5TTdqVHFHTWFaTy1qWkZMRHMyeXF0b2RCNDlaRUUweEZic2JHWU1jSTUzNmMzVXM0ZFk4NFZqYWt2azZFMDg0bmU1Yy0yZw",
+      "title": "Vote for Blue FCU's Fort Collins-area Football Player of Week (Week 6) - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeVU4QlIwNVV3b0M4ZzYyYS1LN2lyZjd4MVZtQzdjWlpwY0htdEtBd0pVdEswbzl1WktpWnV5QkxMOU5ybWhRT09HUW5vbjVYM2diWkdJa1NhQWRNbUxWdGtpZlo4YkpSbmJiejZTdHRYRmNkWUppZ0ZJYVlETlVhOGgweWllcVFwMVUtdW1HUzRpRm1IY2VaeDBWWkQxbXN5TTdqVHFHTWFaTy1qWkZMRHMyeXF0b2RCNDlaRUUweEZic2JHWU1jSTUzNmMzVXM0ZFk4NFZqYWt2azZFMDg0bmU1Yy0yZw?oc=5",
+      "summary": "Vote for Blue FCU's Fort Collins-area Football Player of Week (Week 6) The Coloradoan",
+      "publishedAt": "2026-10-06T16:57:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
-    },
-    {
-      "id": "http://www.brainpickings.org/?p=33823",
-      "title": "How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently",
-      "link": "https://www.themarginalian.org/2026/10/06/daniel-dennett-rapoport-rules-criticism/",
-      "summary": "\"Just how charitable are you supposed to be when criticizing the views of an opponent?\"",
-      "publishedAt": "2026-10-06T16:18:45.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/05/intuitionpumpsdennett.jpg?w=680&#038;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "https://leibal.com/?p=185021",
@@ -2343,17 +2354,6 @@
       "imageUrl": null,
       "sourceId": "leibal",
       "sourceName": "Leibal",
-      "category": "design"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=467002",
-      "title": "Henbest House by Jamie Bush + Co – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/henbest-house-by-jamie-bush-co-the-local-project/",
-      "summary": "The post Henbest House by Jamie Bush + Co – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-06T04:53:46.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
       "category": "design"
     },
     {
@@ -2544,26 +2544,48 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316648",
-      "title": "New protein-based membranes aim to separate lithium from sodium for battery production",
-      "link": "https://interestingengineering.com/energy/protein-membranes-lithium-extraction-uk",
-      "summary": "UK researchers are developing a new method to extract lithium for batteries using engineered proteins...",
-      "publishedAt": "2026-10-08T22:56:17.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T042439.094.jpg",
+      "id": "6ac7bd3035f78c577f76c06c",
+      "title": "Power Trip Return With First Songs Since Death of Riley Gale",
+      "link": "https://pitchfork.com/story/power-trip-return-with-first-songs-since-death-of-riley-gale/",
+      "summary": "“I think he would have been stoked to see it come to fruition,” says guitarist Blake Ibanez of “Precinct 3” and “Scavenger”",
+      "publishedAt": "2026-10-09T04:01:48.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac7bf75c3f6632564b71f24/master/pass/power-trip-new-songs.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50015236",
+      "title": "What should we tell our students?",
+      "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ Comments URL: https://news.ycombinator.com/item?id=50015236 Points: 110 # Comments: 124",
+      "publishedAt": "2026-10-09T02:27:45.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316583",
+      "title": "Next-gen missile-tracking ship soon to be built in US; boost defense power, battle superiority",
+      "link": "https://interestingengineering.com/military/next-gen-missile-tracking-ship",
+      "summary": "The United States is soon to get a new generation of missile-tracking ships. For this,...",
+      "publishedAt": "2026-10-09T00:00:26.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/missile-tracking-ship.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50009634",
-      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-      "link": "https://pocketty.app/",
-      "summary": "Hello~! pocketty is an SSH terminal for iPhone and iPad, made for herdr. herdr keeps your agent panes alive on your computer and knows the state of each one: working, needs you, or done. I made this in anger/desperation for the latter half …",
-      "publishedAt": "2026-10-08T18:11:52.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "id": "https://coloradosun.com/?p=504393",
+      "title": "Only eligible votes on Colorado passenger rail ballot question will be counted, Secretary of State says",
+      "link": "https://coloradosun.com/2026/10/08/colorado-counties-reconfigure-voting-systems-passenger-rail-ballot/",
+      "summary": "Adams, Arapahoe, Douglas and Weld County clerks are instructed to reconfigure their voting systems to discount about 800,000 ineligible votes on Ballot Issue 7A",
+      "publishedAt": "2026-10-08T17:44:11.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/Prop-7A-02.jpg?fit=1024%2C683&amp;ssl=1",
+      "sourceId": "colorado-sun",
+      "sourceName": "The Colorado Sun",
+      "category": "local"
     },
     {
       "id": "CBMivwFBVV95cUxQVDNUTDJCcm1qWVFNTnBDTTFqZ0REWGV6ZUpRemE3MGpBMnEzMG4yeHQ2UExpcGU4eWJYczItaGNjdWtFR3doRDFIRl81Q1MzVDNrNTlpeWtQNk5PaXB1TlV2UXNnVXJhYS1WNzhNZ29KSXFjR2FJVm4wVm4zQmtEMjhkeG9zS3pJR2kwcUhkcXhJYlo2cmt3VEczdWRST3l2aDRaUGJFeVJTY1Q0NXpubW1CTnppRUp4Nl9DMUR1QQ",
@@ -2574,28 +2596,6 @@
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
-      "category": "local"
-    },
-    {
-      "id": "6ac7993248f18a9866f521dd",
-      "title": "GTA VI Radio Stations to Be Hosted by Lana Del Rey, Bad Bunny, Robyn",
-      "link": "https://pitchfork.com/story/gta-vi-radio-station-hosts-bad-bunny-rainao-lana-del-rey-robyn/",
-      "summary": "Also: RaiNao along with Lana Del Rey's husband",
-      "publishedAt": "2026-10-08T14:05:05.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac79f01f81a1bb3dacdb3b0/master/pass/Lana-Del-Rey-Bad-Bunny-Robyn.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504298",
-      "title": "New website is helping campers score Colorado’s most elusive campsites",
-      "link": "https://coloradosun.com/2026/10/08/new-websites-helps-campers-score-top-campsites-in-colorado/",
-      "summary": "With sites often selling out in hours, months in advance, Campsite Ranger gives campers an edge .",
-      "publishedAt": "2026-10-08T10:01:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/02_Chris-hiking-with-Sloane_south-Boulder_May-2025.jpg?fit=1024%2C771&amp;ssl=1",
-      "sourceId": "colorado-sun",
-      "sourceName": "The Colorado Sun",
       "category": "local"
     },
     {
@@ -2654,22 +2654,33 @@
       "category": "science"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=127647",
-      "title": "Boulder County wildfire triggers evacuation warnings from Allenspark to Hall Ranch",
-      "link": "https://boulderreportinglab.org/2026/10/06/boulder-county-wildfire-triggers-evacuation-warnings-from-allenspark-to-hall-ranch/",
-      "summary": "The roughly 6-acre Dry Creek Fire is now 85% contained. Evacuation warnings were lifted Tuesday, but crews will continue working throughout the week. The post Boulder County wildfire triggers evacuation warnings from Allenspark to Hall Ranc…",
-      "publishedAt": "2026-10-06T19:01:15.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-10.52.44.png?fit=936%2C588&amp;ssl=1",
+      "id": "https://boulderreportinglab.org/?p=127773",
+      "title": "What Boulder City Council candidates say they want to accomplish in their first year",
+      "link": "https://boulderreportinglab.org/2026/10/06/what-boulder-city-council-candidates-want-to-accomplish-in-their-first-year/",
+      "summary": "BRL asked mayoral and city council candidates to name one specific thing they want to accomplish in their first year. The post What Boulder City Council candidates say they want to accomplish in their first year appeared first on The Boulde…",
+      "publishedAt": "2026-10-07T04:53:13.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/Website-landing-2.jpg?fit=1024%2C952&amp;ssl=1",
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
-      "id": "CBMioAFBVV95cUxQQkVmbmdBLU1lcFl5QjVxTzZlUXR6dG9HWERja3NuVW1fS3FSbUR2b1Jyd2tPQWtHdHVHdXJKcy1IOTBwRzg1RG5ERkNoN2xrOWtmeUpXVnJ1ZGpuenpoWFBOelFoeUpycXcwX19TRXAtdlloN0I1UXRqcnpQNlNnbGFiS3UxYm03OGRMNU13WF9yTU9hdUxvOFRJNkd6cDJv",
-      "title": "Boulder Valley, St, Vrain Valley students named National Merit semifinalists - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkVmbmdBLU1lcFl5QjVxTzZlUXR6dG9HWERja3NuVW1fS3FSbUR2b1Jyd2tPQWtHdHVHdXJKcy1IOTBwRzg1RG5ERkNoN2xrOWtmeUpXVnJ1ZGpuenpoWFBOelFoeUpycXcwX19TRXAtdlloN0I1UXRqcnpQNlNnbGFiS3UxYm03OGRMNU13WF9yTU9hdUxvOFRJNkd6cDJv?oc=5",
-      "summary": "Boulder Valley, St, Vrain Valley students named National Merit semifinalists Daily Camera",
-      "publishedAt": "2026-10-06T11:32:36.000Z",
+      "id": "https://www.themarginalian.org/?p=82182",
+      "title": "But We Had Music: Nick Cave Reads an Animated Poem about How to Be More Alive",
+      "link": "https://www.themarginalian.org/2026/10/06/but-we-had-music/",
+      "summary": "How, knowing that even the universe is dying, do we bear our lives? Most readily, through friendship, through connection, through co-creating the world we want to live in for the brief time we have together on this lonely, perfect planet. T…",
+      "publishedAt": "2026-10-07T03:11:51.000Z",
+      "imageUrl": null,
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMif0FVX3lxTE9BU1lwemNsbFdhMmNzM1Z0a2piR0RjcFVic2padDZBSjdISFQ4V0F5RHJMcURSMXN0bWsxZ0F5TmU4dFRKVTdSOWZleVFJVThmcmZlRG9pbFRYd1BjS0JaMFVEM2piTEplRGtyVElELTEwc0JaTzBtdjgtQkU3QnM",
+      "title": "Boulder Public Library District plans cuts to 3 programs, scaling back of 3 services - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BU1lwemNsbFdhMmNzM1Z0a2piR0RjcFVic2padDZBSjdISFQ4V0F5RHJMcURSMXN0bWsxZ0F5TmU4dFRKVTdSOWZleVFJVThmcmZlRG9pbFRYd1BjS0JaMFVEM2piTEplRGtyVElELTEwc0JaTzBtdjgtQkU3QnM?oc=5",
+      "summary": "Boulder Public Library District plans cuts to 3 programs, scaling back of 3 services Daily Camera",
+      "publishedAt": "2026-10-06T20:08:33.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -2687,26 +2698,15 @@
       "category": "local"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=466945",
-      "title": "Campbell House by Nüüd Studio – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/campbell-house-by-nuud-studio-the-local-project/",
-      "summary": "The post Campbell House by Nüüd Studio – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-06T04:39:28.000Z",
+      "id": "https://thelocalproject.com.au/?p=467002",
+      "title": "Henbest House by Jamie Bush + Co – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/henbest-house-by-jamie-bush-co-the-local-project/",
+      "summary": "The post Henbest House by Jamie Bush + Co – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-06T04:53:46.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "http://www.brainpickings.org/?p=38890",
-      "title": "Loneliness, Resilience, and the Right Choice: Poet Diane Ackerman on What She Learned While Working at a Suicide Prevention Hotline",
-      "link": "https://www.themarginalian.org/2026/10/05/diane-ackerman-a-slender-thread/",
-      "summary": "\"So often loneliness comes from being out of touch with parts of oneself.\"",
-      "publishedAt": "2026-10-06T03:53:52.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/aslenderthread_ackerman.jpg?w=680&#038;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "https://www.lionsroar.com/?post_type=lr-article&p=73107",
@@ -2918,26 +2918,37 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316622",
-      "title": "US Marines add new amphibious recovery fleet to keep combat vehicles moving in battle",
-      "link": "https://interestingengineering.com/military/bae-systems-amphibious-recovery-vehicle",
-      "summary": "BAE Systems has won a $230.1 million contract from the U.S. Marine Corps to produce...",
-      "publishedAt": "2026-10-08T21:43:05.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T005358.359.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "6ac63d9bb0ad0781c113c7f8",
+      "title": "Mud",
+      "link": "https://pitchfork.com/reviews/albums/remi-wolf-mud/",
+      "summary": "The pop singer’s dynamic but uneven third record provides a portrait of semi-reformed adulthood, powered mostly by her sheer charisma and impressive voice.",
+      "publishedAt": "2026-10-09T04:01:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6a846e7bf8d0edf80c0400c1/master/pass/MUD-cover.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50009295",
-      "title": "Theranos.world",
-      "link": "https://www.theranos.world/",
-      "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 293 # Comments: 118",
-      "publishedAt": "2026-10-08T17:51:49.000Z",
+      "id": "https://news.ycombinator.com/item?id=50015074",
+      "title": "Reducing undefined behavior in the C language",
+      "link": "https://lwn.net/Articles/1095811/",
+      "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 112 # Comments: 97",
+      "publishedAt": "2026-10-09T02:02:53.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316657",
+      "title": "Don’t bully the bot! Anthropic cracks down on users who repeatedly abuse Claude",
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-claude-new-usage-policy-cruelty-crackdown",
+      "summary": "Anthropic will prohibit users from repeatedly abusing its Claude models without a meaningful purpose under...",
+      "publishedAt": "2026-10-08T23:28:58.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T044429.637.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "CBMivAFBVV95cUxNY3FIclItTFk1OUxIMmRXZUMzVktTb2xxc1Q1Y2pQN3JBSFVfdmpYWVk0VXJKdEF1bExYOFlxbG5MSHQwa0RfTm5FWXpzcVlma0xhcVdxWVhvbDQzVWRyS0JPeHl5VW9EczlIcm1UV2pmRDdCaWtpdXYzZDFtNVNaSXE2cnd0elBiVXdBalRXU3p1bDkxeWltMXh0NGV6Zi1KZmFCdnNWTGM1cUU4dF9Ea0tQd2lHeGduQklGOQ",
@@ -2951,23 +2962,12 @@
       "category": "local"
     },
     {
-      "id": "6ac65668a92c652861f374f7",
-      "title": "Just Another Day in the Bronx With ksuuvi",
-      "link": "https://pitchfork.com/story/just-another-day-in-the-bronx-with-ksuuvi/",
-      "summary": "Alphonse Pierre’s Off the Dome column covers songs, mixtapes, albums, scenes, snippets, movies, Meek Mill tweets, fashion trends—and anything else that catches his attention. This week, Alphonse runs around Harlem and the Bronx with ksuuvi,…",
-      "publishedAt": "2026-10-08T13:39:28.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac6571ed5bb76d4a72daa5d/master/pass/P4K26_OffTheDome_Ksuuvi_2x1.gif",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504349",
-      "title": "Colorado should buy part of San Luis Valley ranch at the center of a long-running land battle, report says",
-      "link": "https://coloradosun.com/2026/10/08/san-luis-valley-land-battle-salazar-report/",
-      "summary": "Gov. Jared Polis appointed former US Sen. Ken Salazar to come up with a solution to the battle over Cielo Vista Ranch in Costilla County",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/JMc-Culebra-Peak-14047-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=504292",
+      "title": "What to do in Colorado this week: A reworked Great American Beer Festival heads outdoors and sketch comedy returns to Denver",
+      "link": "https://coloradosun.com/2026/10/08/what-to-do-in-colorado-this-week-great-american-beer-fest-sketch-comedy/",
+      "summary": "Plus: A sensory-friendly \"Don Quixote\" by Colorado Ballet and a fall festival in Fort Collins",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/DSF-2026-photo-2-scaled.jpg?fit=1024%2C683&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
@@ -3028,37 +3028,48 @@
       "category": "science"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=466929",
-      "title": "Clarksville Residence by Michael Hsu Office of Architecture – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/clarksville-residence-by-michael-hsu-office-of-architecture-the-local-project/",
-      "summary": "The post Clarksville Residence by Michael Hsu Office of Architecture – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-06T04:22:34.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "id": "https://www.themarginalian.org/?p=88075",
+      "title": "A Constellation of Amazements: An Illustrated Love Letter to the Joy of Collecting Things",
+      "link": "https://www.themarginalian.org/2026/10/06/these-are-my-rocks/",
+      "summary": "We are hunter-gatherers with a capacity for amazement, wired to search for an organizing principle by which to contain the chaos of reality. We organize what we find into categories and hierarchies, hovering over which is one of the strange…",
+      "publishedAt": "2026-10-06T20:32:02.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/thesearemyrocks.jpg?fit=320%2C376&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=127574",
-      "title": "Boulder’s climate lawsuit reaches Supreme Court, with cases nationwide at stake",
-      "link": "https://boulderreportinglab.org/2026/10/05/boulders-climate-lawsuit-reaches-supreme-court-with-cases-nationwide-at-stake/",
-      "summary": "Justices questioned both sides over whether Boulder can seek climate damages under Colorado law, as local officials and residents rallied behind the eight-year case. The post Boulder’s climate lawsuit reaches Supreme Court, with cases natio…",
-      "publishedAt": "2026-10-06T04:00:58.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/ExxonBoulder2-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "id": "https://boulderreportinglab.org/?p=127589",
+      "title": "Boulder Market Meals: Make locally grown acorn squash a meal with sausage, kale and Parmesan",
+      "link": "https://boulderreportinglab.org/2026/10/06/boulder-market-meals-make-locally-grown-acorn-squash-a-meal-with-sausage-kale-and-parmesan/",
+      "summary": "Local Italian sausage, onion, peppers, garlic and purple kale fill roasted acorn squash The post Boulder Market Meals: Make locally grown acorn squash a meal with sausage, kale and Parmesan appeared first on The Boulder Reporting Lab.",
+      "publishedAt": "2026-10-06T19:13:43.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/recipe-106-resized.jpg?fit=1024%2C685&amp;ssl=1",
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
     },
     {
-      "id": "https://www.themarginalian.org/?p=79146",
-      "title": "David Bowie on Creativity and His Advice to Artists",
-      "link": "https://www.themarginalian.org/2026/10/05/david-bowie-creativity-advice/",
-      "summary": "\"It's terribly dangerous for an artist to fulfill other people's expectations\"",
-      "publishedAt": "2026-10-06T01:38:49.000Z",
+      "id": "CBMioAFBVV95cUxQQkVmbmdBLU1lcFl5QjVxTzZlUXR6dG9HWERja3NuVW1fS3FSbUR2b1Jyd2tPQWtHdHVHdXJKcy1IOTBwRzg1RG5ERkNoN2xrOWtmeUpXVnJ1ZGpuenpoWFBOelFoeUpycXcwX19TRXAtdlloN0I1UXRqcnpQNlNnbGFiS3UxYm03OGRMNU13WF9yTU9hdUxvOFRJNkd6cDJv",
+      "title": "Boulder Valley, St, Vrain Valley students named National Merit semifinalists - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkVmbmdBLU1lcFl5QjVxTzZlUXR6dG9HWERja3NuVW1fS3FSbUR2b1Jyd2tPQWtHdHVHdXJKcy1IOTBwRzg1RG5ERkNoN2xrOWtmeUpXVnJ1ZGpuenpoWFBOelFoeUpycXcwX19TRXAtdlloN0I1UXRqcnpQNlNnbGFiS3UxYm03OGRMNU13WF9yTU9hdUxvOFRJNkd6cDJv?oc=5",
+      "summary": "Boulder Valley, St, Vrain Valley students named National Merit semifinalists Daily Camera",
+      "publishedAt": "2026-10-06T11:32:36.000Z",
       "imageUrl": null,
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "https://thelocalproject.com.au/?p=466945",
+      "title": "Campbell House by Nüüd Studio – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/campbell-house-by-nuud-studio-the-local-project/",
+      "summary": "The post Campbell House by Nüüd Studio – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-06T04:39:28.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "CBMi2wFBVV95cUxNUU12cWJTOXR3c1E4aUlFc19BTWI0Mi1SS2I0NzhsRXFjc2hQeHNSQUJlbUlUYW9KY2lkWFR3elN3bFgwTkxTTXhfRUpCVENmdjZoSURMV1RVTnIwM1hIcE9ZSGdXcXNaZnd4bm5BNHdHYzFTRXdYLWFnWTk2S3paMlNiX0doUjlKT29qaUc4UTQxNVFyWmc5dFdFc2pSNlljVFk3bXp1UEJpMTAxaW5iblVRdmt6RFUyYmhod3FETDhHR2J3bkFlT01qTW1wZksybXFvNDlaYjlWVjg",
@@ -3092,17 +3103,6 @@
       "sourceId": "leibal",
       "sourceName": "Leibal",
       "category": "design"
-    },
-    {
-      "id": "CBMilAFBVV95cUxQTzJhR1Q1RERCVmY2dlB5NWVhSU11U0VFRXl0Q3p4dWFLd0FoQkw1bE5mRkNoM1ZDNFZ1VktIRW56TmpaYU9DazB1OVBvU3NHM2hXU1hhajMzVktRa2o5ZmxiVlJUNF9Id0ZHdVItNkRHNTBEU2ZDVEdYUThsYS1vQ1JlVExfUFVhWF9EQTFWTUZjR05O",
-      "title": "Boulder Valley announces preschool locations following school closure decision - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzJhR1Q1RERCVmY2dlB5NWVhSU11U0VFRXl0Q3p4dWFLd0FoQkw1bE5mRkNoM1ZDNFZ1VktIRW56TmpaYU9DazB1OVBvU3NHM2hXU1hhajMzVktRa2o5ZmxiVlJUNF9Id0ZHdVItNkRHNTBEU2ZDVEdYUThsYS1vQ1JlVExfUFVhWF9EQTFWTUZjR05O?oc=5",
-      "summary": "Boulder Valley announces preschool locations following school closure decision Daily Camera",
-      "publishedAt": "2026-10-05T06:07:13.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "urn:id:9098",
@@ -3292,26 +3292,37 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316615",
-      "title": "World’s first drone to reach the stratosphere climbs 34,245 feet for weather data",
-      "link": "https://interestingengineering.com/innovation/weather-drone-34245-feet-strato-meteomatics",
-      "summary": "Swiss weather technology company Meteomatics has unveiled a multicopter drone that it says reached an...",
-      "publishedAt": "2026-10-08T21:28:02.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/image.jpeg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "6ac514dad50ecf316829f488",
+      "title": "Cancel Me (I’m Tired)",
+      "link": "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/",
+      "summary": "The London band wastes a great title on a second album of garish agit-rave punk that’s larded with references and desperately short on ideas.",
+      "publishedAt": "2026-10-09T04:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac5144f9c284e2dc1737eb7/master/pass/Fat%20Dog%20-%20Cancel%20Me%20(I%E2%80%99m%20Tired)%20album%20art.png",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50009066",
-      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-      "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "summary": "Article URL: https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/ Comments URL: https://news.ycombinator.com/item?id=50009066 Points: 16 # Comments: 0",
-      "publishedAt": "2026-10-08T17:39:26.000Z",
+      "id": "https://news.ycombinator.com/item?id=50013902",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "link": "https://karagila.org/2026/openai-pp/",
+      "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 114 # Comments: 161",
+      "publishedAt": "2026-10-08T23:29:43.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316648",
+      "title": "New protein-based membranes aim to separate lithium from sodium for battery production",
+      "link": "https://interestingengineering.com/energy/protein-membranes-lithium-extraction-uk",
+      "summary": "UK researchers are developing a new method to extract lithium for batteries using engineered proteins...",
+      "publishedAt": "2026-10-08T22:56:17.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T042439.094.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "CBMitgFBVV95cUxQUjhuWVhYTVRKMHlpYmo3ZWtrQkNhYVRaNkhRRmFseW92NU1URzZGLVRzaFo5T1ZBS3NNMkNIdy01TUJNN2taZjNGamtPYWo5Nno3cXhBWEowQlZuZ1dWX3BRWVpnYjhsejZkWTQ0WVdJcE1vMWxJVE1QNkdQbW45YzRsN1RMRDNaZElZVzNScEFYT05KSXJoRGZRMGdoRWFJME9iYU8xSndQMEgwYmxjNzQ2VVJsdw",
@@ -3325,23 +3336,12 @@
       "category": "local"
     },
     {
-      "id": "6ac6bdf62a68ffce93feb8da",
-      "title": "Andrew Savage Launches New Band Iconic Fugues With “2025 Dream/2025 Blues”",
-      "link": "https://pitchfork.com/story/andrew-savage-launches-new-band-iconic-fugues-with-2025-dream-2025-blues/",
-      "summary": "“I think it’s just amazing the way a fun guitar solo can draw a bit of sun out from behind the clouds”",
-      "publishedAt": "2026-10-08T11:24:29.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac6c0949a9f48b131590dab/master/pass/GettyImages-1378527761.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://coloradosun.com/?p=504183",
-      "title": "A robot entered a Denver comedy club. (This isn’t a joke.)",
-      "link": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
-      "summary": "What happens when a robot friend faces death? At a Denver improv performance, humans and robots talked it out, maybe for the first time",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/Portraits-BW_Dental_ORR-01.jpg?fit=1024%2C683&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=504305",
+      "title": "A Vail mountaineer is vying to be the first American woman to scale the world’s tallest volcanoes",
+      "link": "https://coloradosun.com/2026/10/08/nicole-otake-7-volcanic-summits-mountaineer-vail/",
+      "summary": "Nicole Otake is on a quest to complete the 7 Volcanic Summits — and to help other women start climbing without paying too high a price.",
+      "publishedAt": "2026-10-08T10:20:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/IMG_0258-1.jpg?fit=1024%2C768&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
@@ -3391,6 +3391,28 @@
       "category": "design"
     },
     {
+      "id": "https://boulderreportinglab.org/?p=127647",
+      "title": "Boulder County wildfire triggers evacuation warnings from Allenspark to Hall Ranch",
+      "link": "https://boulderreportinglab.org/2026/10/06/boulder-county-wildfire-triggers-evacuation-warnings-from-allenspark-to-hall-ranch/",
+      "summary": "The roughly 6-acre Dry Creek Fire is now 85% contained. Evacuation warnings were lifted Tuesday, but crews will continue working throughout the week. The post Boulder County wildfire triggers evacuation warnings from Allenspark to Hall Ranc…",
+      "publishedAt": "2026-10-06T19:01:15.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-10.52.44.png?fit=936%2C588&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
+      "id": "http://www.brainpickings.org/?p=33823",
+      "title": "How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently",
+      "link": "https://www.themarginalian.org/2026/10/06/daniel-dennett-rapoport-rules-criticism/",
+      "summary": "\"Just how charitable are you supposed to be when criticizing the views of an opponent?\"",
+      "publishedAt": "2026-10-06T16:18:45.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/05/intuitionpumpsdennett.jpg?w=680&#038;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.surfacemag.com/?p=212724",
       "title": "McLaurin & Piercy Introduces the Kamal Wallpaper Collection",
       "link": "https://www.surfacemag.com/articles/mclaurin-piercy-kamal-wallpaper-collection/",
@@ -3402,26 +3424,15 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=466883",
-      "title": "Hawthorn Residence by Workroom – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/hawthorn-residence-by-workroom-the-local-project/",
-      "summary": "The post Hawthorn Residence by Workroom – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-06T04:04:18.000Z",
+      "id": "https://thelocalproject.com.au/?p=466929",
+      "title": "Clarksville Residence by Michael Hsu Office of Architecture – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/clarksville-residence-by-michael-hsu-office-of-architecture-the-local-project/",
+      "summary": "The post Clarksville Residence by Michael Hsu Office of Architecture – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-06T04:22:34.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=75244",
-      "title": "Nietzsche on Walking and Creativity",
-      "link": "https://www.themarginalian.org/2026/10/05/nietzsche-walking/",
-      "summary": "\"Our first questions about the value of a book, of a human being, or a musical composition are: Can they walk? Even more, can they dance?\"",
-      "publishedAt": "2026-10-05T21:34:20.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/12/aphilosophyofwalking.jpg?fit=320%2C479&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "CBMizwFBVV95cUxPOFk4Z2c5ZXAyTDF4NHdGUkQtSW5xeC10dVg3YjltVjZOLTVCM3NRQlJMM0xKbTkzNjVwZWp4TnBQcV9KS2VkeWd5dUdYbGNPbGJJUGVrbGtWVFdYTWFoQmVEVEhtZG5NSzZKRkc1N2c2Vi10NE05Zk5jbXoxY0pBWmJySzUtRUl3Y0dDY3NfSDR1X3pKNFpnQVl6dUtyVGJVbF84SWxULVc2UUk0djBQV1BoLUIwNXdNdC1iaDBBZEJkYlp0N1ptYl93OGtGUEU",
@@ -3446,22 +3457,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://boulderreportinglab.org/?p=127351",
-      "title": "Think you can balance Boulder’s budget? Try closing the city’s $6.3 million gap.",
-      "link": "https://boulderreportinglab.org/2026/10/04/think-you-can-balance-boulders-budget-try-closing-the-citys-6-3-million-gap/",
-      "summary": "Use our interactive budget tool to decide where you would cut spending, raise or lower taxes and fees, and see whether you can make the numbers work. The post Think you can balance Boulder’s budget? Try closing the city’s $6.3 million gap. …",
-      "publishedAt": "2026-10-05T05:02:23.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/LS8I4432-scaled.jpeg?fit=1024%2C683&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
-    },
-    {
-      "id": "CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE",
-      "title": "CU Buffs defense gives Colorado a chance against Texas Tech - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE?oc=5",
-      "summary": "CU Buffs defense gives Colorado a chance against Texas Tech Daily Camera",
-      "publishedAt": "2026-10-04T22:11:57.000Z",
+      "id": "CBMilAFBVV95cUxQTzJhR1Q1RERCVmY2dlB5NWVhSU11U0VFRXl0Q3p4dWFLd0FoQkw1bE5mRkNoM1ZDNFZ1VktIRW56TmpaYU9DazB1OVBvU3NHM2hXU1hhajMzVktRa2o5ZmxiVlJUNF9Id0ZHdVItNkRHNTBEU2ZDVEdYUThsYS1vQ1JlVExfUFVhWF9EQTFWTUZjR05O",
+      "title": "Boulder Valley announces preschool locations following school closure decision - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzJhR1Q1RERCVmY2dlB5NWVhSU11U0VFRXl0Q3p4dWFLd0FoQkw1bE5mRkNoM1ZDNFZ1VktIRW56TmpaYU9DazB1OVBvU3NHM2hXU1hhajMzVktRa2o5ZmxiVlJUNF9Id0ZHdVItNkRHNTBEU2ZDVEdYUThsYS1vQ1JlVExfUFVhWF9EQTFWTUZjR05O?oc=5",
+      "summary": "Boulder Valley announces preschool locations following school closure decision Daily Camera",
+      "publishedAt": "2026-10-05T06:07:13.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -3666,26 +3666,37 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=316639",
-      "title": "‘Modern-day Thomas Edison’ Elon Musk receives National Medal of Science from Trump",
-      "link": "https://interestingengineering.com/culture/elon-musk-donald-trump-science-medal",
-      "summary": "President Donald Trump awarded Elon Musk the National Medal of Science on Thursday, praising the...",
-      "publishedAt": "2026-10-08T20:56:50.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T021926.540.jpg",
+      "id": "https://news.ycombinator.com/item?id=50013610",
+      "title": "Bevy 0.20",
+      "link": "https://bevy.org/news/bevy-0-20/",
+      "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 159 # Comments: 31",
+      "publishedAt": "2026-10-08T22:57:50.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=316622",
+      "title": "US Marines add new amphibious recovery fleet to keep combat vehicles moving in battle",
+      "link": "https://interestingengineering.com/military/bae-systems-amphibious-recovery-vehicle",
+      "summary": "BAE Systems has won a $230.1 million contract from the U.S. Marine Corps to produce...",
+      "publishedAt": "2026-10-08T21:43:05.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-09T005358.359.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50008427",
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "link": "https://cactuscompute.com/blog/whistle",
-      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 566 # Comments: 126",
-      "publishedAt": "2026-10-08T16:59:39.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
+      "id": "6ac7c43135f78c577f76c0b3",
+      "title": "Loretta Lynn’s Van Lear Rose Is Returning to Streaming",
+      "link": "https://pitchfork.com/story/loretta-lynns-van-lear-rose-is-returning-to-streaming/",
+      "summary": "Third Man will reissue Lynn’s 2004 comeback album, which was mysteriously pulled from DSPs in 2021",
+      "publishedAt": "2026-10-08T17:21:59.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac7c686d1e096c849ba8c1b/master/pass/Loretta-Lynn-Jack-White.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMizgFBVV95cUxNRDN0Q2xvV3lWVGZ6N1d6bWNjSVdCM0dDaGFSMGJBdTRlUUpyOEphZHN6QnpwT1hoeU1ZR3Q4dW5OUE1tXzRsaFVPZkdLaWNvUGR4Y1AxRHJfdlpLU01xODVGZ3htLW1GUnJYVkVNMGNGb3BYNVkybWRzSmlFYmlwa1FuWWEwX2dlN1o5eVNPWGxIZTk5RW9sTldRYkg5V2xNVERUdl8zOHlKYWtoT19MZVd0T2RvYk53a1VRSWFlOUtiRGF3M3VUUi1FX1Fxdw",
@@ -3699,26 +3710,15 @@
       "category": "local"
     },
     {
-      "id": "https://coloradosun.com/?p=504261",
-      "title": "Where Jeff Hurd and Dwayne Romero stand on the top issues in Colorado’s 3rd Congressional District race",
-      "link": "https://coloradosun.com/2026/10/08/jeff-hurd-dwayne-romero-colorado-third-district-issue-voter-guide/",
-      "summary": "Republican U.S. Rep. Jeff Hurd and Democrat Dwayne Romero are competing to represent a sprawling district that stretches from the Western Slope and mountain communities to southern Colorado",
-      "publishedAt": "2026-10-08T09:55:00.000Z",
-      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/elex-2026-cd3.png?fit=1024%2C768&amp;ssl=1",
+      "id": "https://coloradosun.com/?p=504296",
+      "title": "Nederland is seeking state funds, donations to complete purchase of Eldora Mountain Resort",
+      "link": "https://coloradosun.com/2026/10/08/nederland-eldora-ski-area-purchase-donations-bonds/",
+      "summary": "After nearly 2 years, Nederland officials say they need $20M in donations and possibly state grants to help it convince potential bond buyers to fund a $120M acquisition of the local ski area.",
+      "publishedAt": "2026-10-08T10:07:00.000Z",
+      "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/01/eldora-snow2-scaled.jpg?fit=1024%2C576&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "6ac6641e57d07363842bd460",
-      "title": "Linda’s Head",
-      "link": "https://pitchfork.com/reviews/albums/helen-lindas-head/",
-      "summary": "Over a decade since its debut, the shoegaze trio fronted by Grouper’s Liz Harris returns for a brisk new album with its eyes trained on the sky.",
-      "publishedAt": "2026-10-08T04:03:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6a720fc6315db0fbba4a3f47/master/pass/Helen-Lindas-Head.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://nautil.us/?p=1285608",
@@ -3776,15 +3776,37 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=466978",
-      "title": "Orient Farmhouse by General Assembly – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/orient-farmhouse-by-general-assembly-the-local-project/",
-      "summary": "The post Orient Farmhouse by General Assembly – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-10-05T22:26:19.000Z",
+      "id": "https://thelocalproject.com.au/?p=466883",
+      "title": "Hawthorn Residence by Workroom – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/hawthorn-residence-by-workroom-the-local-project/",
+      "summary": "The post Hawthorn Residence by Workroom – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-10-06T04:04:18.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
+    },
+    {
+      "id": "https://boulderreportinglab.org/?p=127574",
+      "title": "Boulder’s climate lawsuit reaches Supreme Court, with cases nationwide at stake",
+      "link": "https://boulderreportinglab.org/2026/10/05/boulders-climate-lawsuit-reaches-supreme-court-with-cases-nationwide-at-stake/",
+      "summary": "Justices questioned both sides over whether Boulder can seek climate damages under Colorado law, as local officials and residents rallied behind the eight-year case. The post Boulder’s climate lawsuit reaches Supreme Court, with cases natio…",
+      "publishedAt": "2026-10-06T04:00:58.000Z",
+      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/ExxonBoulder2-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "sourceId": "boulder-reporting-lab",
+      "sourceName": "Boulder Reporting Lab",
+      "category": "local"
+    },
+    {
+      "id": "http://www.brainpickings.org/?p=38890",
+      "title": "Loneliness, Resilience, and the Right Choice: Poet Diane Ackerman on What She Learned While Working at a Suicide Prevention Hotline",
+      "link": "https://www.themarginalian.org/2026/10/05/diane-ackerman-a-slender-thread/",
+      "summary": "\"So often loneliness comes from being out of touch with parts of oneself.\"",
+      "publishedAt": "2026-10-06T03:53:52.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/aslenderthread_ackerman.jpg?w=680&#038;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.lionsroar.com/?post_type=lr-article&p=73138",
@@ -3809,33 +3831,11 @@
       "category": "local"
     },
     {
-      "id": "https://www.themarginalian.org/?p=80431",
-      "title": "Mister Rogers on the Most Important Mindset for a Parent",
-      "link": "https://www.themarginalian.org/2026/10/05/mister-rogers-parenting/",
-      "summary": "\"It’s part of being human to fall short of that total acceptance and ultimate understanding — and often far short.\"",
-      "publishedAt": "2026-10-05T05:30:12.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/06/dearmisterogers.jpg?fit=320%2C456&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "https://boulderreportinglab.org/?p=127346",
-      "title": "The strange story of the man who tried to build a utopian ‘Wall Street’ in the mountains above Boulder",
-      "link": "https://boulderreportinglab.org/2026/10/04/the-strange-story-of-the-man-who-tried-to-build-a-utopian-wall-street-in-the-mountains-above-boulder/",
-      "summary": "In 1897, Charles W. Caryl set out to transform a small Fourmile Canyon mining community into a model city. His grand plans collapsed, but remnants of his Wallstreet venture remain today. The post The strange story of the man who tried to bu…",
-      "publishedAt": "2026-10-05T05:01:40.000Z",
-      "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/1.-Wallstreet1-copy-scaled.jpg?fit=1024%2C731&amp;ssl=1",
-      "sourceId": "boulder-reporting-lab",
-      "sourceName": "Boulder Reporting Lab",
-      "category": "local"
-    },
-    {
-      "id": "CBMiWkFVX3lxTFBNQW1LWElYSTNLVkoyT2loNVpkVy1lc2dQRkYyYXZYakhGRy1IT0NGVzlzREc3TzBqaHh3M0M0aHl5ZDZjaHFXZXFmQ1lGOHZRSmwwdTZVcUVqdw",
-      "title": "Sitemap - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNQW1LWElYSTNLVkoyT2loNVpkVy1lc2dQRkYyYXZYakhGRy1IT0NGVzlzREc3TzBqaHh3M0M0aHl5ZDZjaHFXZXFmQ1lGOHZRSmwwdTZVcUVqdw?oc=5",
-      "summary": "Sitemap Daily Camera",
-      "publishedAt": "2026-10-04T09:06:08.000Z",
+      "id": "CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE",
+      "title": "CU Buffs defense gives Colorado a chance against Texas Tech - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE?oc=5",
+      "summary": "CU Buffs defense gives Colorado a chance against Texas Tech Daily Camera",
+      "publishedAt": "2026-10-04T22:11:57.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -3884,17 +3884,6 @@
       "sourceId": "tricycle",
       "sourceName": "Tricycle: The Buddhist Review",
       "category": "ideas"
-    },
-    {
-      "id": "CBMidEFVX3lxTE9MbXlfQ3R4TVZSSkoyOUhEanhqM2diSkl6REU5alJ1M0dIb1FTSUIyU3dNcnhmN2dIY0dIbEp2a2RpY0RkWlpwYXhBcDFtMldQVWE1c1NqU0FYMEkzX3ZiaE8temdyZzRBMmZZVmE3T0ZGQ2JM",
-      "title": "Val Mira by Andreas Gruber Architects - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MbXlfQ3R4TVZSSkoyOUhEanhqM2diSkl6REU5alJ1M0dIb1FTSUIyU3dNcnhmN2dIY0dIbEp2a2RpY0RkWlpwYXhBcDFtMldQVWE1c1NqU0FYMEkzX3ZiaE8temdyZzRBMmZZVmE3T0ZGQ2JM?oc=5",
-      "summary": "Val Mira by Andreas Gruber Architects Thisispaper",
-      "publishedAt": "2026-09-25T12:36:07.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
     },
     {
       "id": "https://www.mindful.org/?p=669009",
@@ -3961,6 +3950,17 @@
       "sourceId": "philosophy-now",
       "sourceName": "Philosophy Now",
       "category": "ideas"
+    },
+    {
+      "id": "CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA",
+      "title": "Ford World Headquarters by Snøhetta - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA?oc=5",
+      "summary": "Ford World Headquarters by Snøhetta Thisispaper",
+      "publishedAt": "2026-07-27T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "CBMiWEFVX3lxTE1wLUVsMnJlWEYyNlNrdHZBTm1iSnFDbmo5MW5IWG9YZERFN2xTTFR3dnVWdVNIQ0IxWW81dmRzNXBjX3VKQXBxNURoeWgtZmFBdHM1NUR5TmY",
@@ -4040,15 +4040,26 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50008047",
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-      "link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "summary": "Article URL: http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html Comments URL: https://news.ycombinator.com/item?id=50008047 Points: 115 # Comments: 20",
-      "publishedAt": "2026-10-08T16:37:24.000Z",
+      "id": "https://news.ycombinator.com/item?id=50011999",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 123 # Comments: 18",
+      "publishedAt": "2026-10-08T20:46:25.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6ac6d3bb169ecf9833519ea6",
+      "title": "Watch Audrey Hobert Talk to a Redwood Tree in New “Phoebe” Video",
+      "link": "https://pitchfork.com/story/audrey-hobert-phoebe-video/",
+      "summary": "The Friends-inspired Who’s the Clown? track gets its own visual",
+      "publishedAt": "2026-10-08T17:15:07.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac7d03fe70174fa0df5021b/master/pass/Screenshot%202026-10-08%20at%201.13.35%E2%80%AFPM.png",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMiyAFBVV95cUxNWnlwa1RJMTJZQTR5UDdUWVVjWTlHbVFnVlJ2WGFpNkIybjdHWXVCYVNSdjBaUlF5TGxkTGlZcjdpSFIwaGFLay1WaUFBLUVtNDlhRXlGNlZLLVdMT084aktRS0taa2JRLVZrWG8zRmt5YWcxZmlrcUk1dXpqSDJUXzJLdWg1TU5MMHRyYTdZYTlJSDZRejRfOVhLYmpwYXJjcEwtRVJfT19uT2NjMDE1ZHR0X0pIOTZ3eHBqeWM2TzhXd2FlVXY0bA",
@@ -4062,17 +4073,6 @@
       "category": "local"
     },
     {
-      "id": "6ac51d68a92c652861f37109",
-      "title": "BULLDOZER!!",
-      "link": "https://pitchfork.com/reviews/albums/mnek-bulldozer/",
-      "summary": "On their second album, the London-based producer and songwriter offers bold, hook-heavy club pop, but their lyrics about self-love and queer identity often land like platitudes.",
-      "publishedAt": "2026-10-08T04:02:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac51d09adf451e6bf74f1df/master/pass/MNEK-BULLDOZER!!.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "https://www.dwell.com/article/sothebys-international-minnetonka-lakehouse-mound-real-estate-542ef771",
       "title": "On Lake Minnetonka, a $4.2M Home Delivers Year-Round Vacation Vibes",
       "link": "https://www.dwell.com/article/sothebys-international-minnetonka-lakehouse-mound-real-estate-542ef771",
@@ -4084,22 +4084,22 @@
       "category": "design"
     },
     {
-      "id": "https://www.brainpickings.org/?p=53919",
-      "title": "The Importance of Being Scared: Polish Nobel Laureate Wisława Szymborska on Fairy Tales and the Necessity of Fear",
-      "link": "https://www.themarginalian.org/2026/10/05/wislawa-szymborska-fairy-tales-fear/",
-      "summary": "\"Andersen had the courage to write stories with unhappy endings. He didn’t believe that you should try to be good because it pays ... but because evil stems from intellectual and emotional stuntedness and is the one form of poverty that sho…",
-      "publishedAt": "2026-10-05T05:10:56.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/01/wislawaszymborska_nonrequiredreading1.jpg?fit=320%2C495&amp;ssl=1",
+      "id": "https://www.themarginalian.org/?p=79146",
+      "title": "David Bowie on Creativity and His Advice to Artists",
+      "link": "https://www.themarginalian.org/2026/10/05/david-bowie-creativity-advice/",
+      "summary": "\"It's terribly dangerous for an artist to fulfill other people's expectations\"",
+      "publishedAt": "2026-10-06T01:38:49.000Z",
+      "imageUrl": null,
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
     },
     {
-      "id": "CBMigAFBVV95cUxQRkFwUHBHdUJYcjhtUHFSS3ZZODBrNldja2taSDRCcTRvbTdRTnB3SzlkTFdqVkJXNkRvQ3I4ZzVESEx2QXpoU25STjJYd2xGNTFKemROQ2xqMUFBbzUyQ1NTYlRPSWo0Z3ZHN19XYmNfdF9ybTQ4bXpDdHBqVGF1Yw",
-      "title": "Jah Jah Boyd, Paul Omodia and Justin Eaglin off Colorado’s roster - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRkFwUHBHdUJYcjhtUHFSS3ZZODBrNldja2taSDRCcTRvbTdRTnB3SzlkTFdqVkJXNkRvQ3I4ZzVESEx2QXpoU25STjJYd2xGNTFKemROQ2xqMUFBbzUyQ1NTYlRPSWo0Z3ZHN19XYmNfdF9ybTQ4bXpDdHBqVGF1Yw?oc=5",
-      "summary": "Jah Jah Boyd, Paul Omodia and Justin Eaglin off Colorado’s roster Daily Camera",
-      "publishedAt": "2026-10-04T07:29:37.000Z",
+      "id": "CBMiWkFVX3lxTFBNQW1LWElYSTNLVkoyT2loNVpkVy1lc2dQRkYyYXZYakhGRy1IT0NGVzlzREc3TzBqaHh3M0M0aHl5ZDZjaHFXZXFmQ1lGOHZRSmwwdTZVcUVqdw",
+      "title": "Sitemap - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNQW1LWElYSTNLVkoyT2loNVpkVy1lc2dQRkYyYXZYakhGRy1IT0NGVzlzREc3TzBqaHh3M0M0aHl5ZDZjaHFXZXFmQ1lGOHZRSmwwdTZVcUVqdw?oc=5",
+      "summary": "Sitemap Daily Camera",
+      "publishedAt": "2026-10-04T09:06:08.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4137,17 +4137,6 @@
       "sourceId": "psyche",
       "sourceName": "Psyche",
       "category": "ideas"
-    },
-    {
-      "id": "CBMiaEFVX3lxTE5mRXdqOUh5Y2Z2d3VBcEwtVnhKaXYtbm94bFd2Z1kxcTkzYkpvQU1RTHhudkh6Nm9TVXA3TUJGT2pnU2N6TExCdmFLVEhjTFM1dVRXcHNmRncyclpQVlNMTVZlZHdtYlhQ",
-      "title": "Studio Barn by Worrell Yeung - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mRXdqOUh5Y2Z2d3VBcEwtVnhKaXYtbm94bFd2Z1kxcTkzYkpvQU1RTHhudkh6Nm9TVXA3TUJGT2pnU2N6TExCdmFLVEhjTFM1dVRXcHNmRncyclpQVlNMTVZlZHdtYlhQ?oc=5",
-      "summary": "Studio Barn by Worrell Yeung Thisispaper",
-      "publishedAt": "2026-09-23T07:40:14.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
     },
     {
       "id": "https://greatergood.berkeley.edu/article/item/how_to_deal_with_the_grief_of_an_aging_body#When:12:35:00Z",
@@ -4194,6 +4183,17 @@
       "category": "design"
     },
     {
+      "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
+      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
+      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi Thisispaper",
+      "publishedAt": "2026-04-17T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "CBMiZEFVX3lxTE9CZTYzTXJ3RGl3SENHeFRpMXkzTC15Tnd6Tl9hZmtVUFJ0bm9OWnJHTG9aS1hmejliX21lbFlNT3NlcDNReXNjcWtUdHdaOG9keHhabnd6MHNvMHZ6N3ZZT24yNjM",
       "title": "Principals: Dan Rasmussen - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CZTYzTXJ3RGl3SENHeFRpMXkzTC15Tnd6Tl9hZmtVUFJ0bm9OWnJHTG9aS1hmejliX21lbFlNT3NlcDNReXNjcWtUdHdaOG9keHhabnd6MHNvMHZ6N3ZZT24yNjM?oc=5",
@@ -4227,15 +4227,26 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50007993",
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "link": "https://opper.ai/jevman-benchmark/",
-      "summary": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there. We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast …",
-      "publishedAt": "2026-10-08T16:34:13.000Z",
+      "id": "https://news.ycombinator.com/item?id=50011928",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 294 # Comments: 188",
+      "publishedAt": "2026-10-08T20:42:16.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "6ac7afded1e096c849ba8b58",
+      "title": "David Byrne and Daniel Pemberton Made a Song Using Weird Elon Musk Quotes",
+      "link": "https://pitchfork.com/story/david-byrne-and-daniel-pemberton-made-a-song-using-weird-elon-musk-quotes/",
+      "summary": "“Let Me Sell You a Dream” appears in Musk, a new documentary about the tech mogul directed by Alex Gibney",
+      "publishedAt": "2026-10-08T16:53:33.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac7c92ec3f6632564b71f2b/master/pass/Screenshot%202026-10-08%20at%2011.46.45%E2%80%AFAM.png",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "CBMixwFBVV95cUxPSFJfWWIwcFJMQ2lWTnd6MkliRm1ZNWdrRGVobHpwZnptTzRud1FTSV9VaVdRV0ZmcnB6cmFaalJJVGF5dnd5NHNNUFBBc3RNdjVPV0puRE5RNjlZSVVBeEs0Zm5fSkY1WDFSSk03WnRnenZTVk5xUWkwUUxackxQNVF6bi1wWjdsM3B5S1ZQVG54cnpWUkFQUmdvZ0pVT3ZLNUVRVm9HejhRSkswS1NmUlpYbzZCaWZTdnZ5TzY1LXFUdHN0UTZN",
@@ -4249,17 +4260,6 @@
       "category": "local"
     },
     {
-      "id": "6ac54238adf451e6bf74f370",
-      "title": "c",
-      "link": "https://pitchfork.com/reviews/albums/lucy-bedroque-c/",
-      "summary": "Like a cross between a fashionable rave and a final boss battle, the 20 year old’s latest album is both their sleekest and most overclocked, made more for mosh pits than headphone reveries.",
-      "publishedAt": "2026-10-08T04:01:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac541a55f04feffaad28ecc/master/pass/Lucy%20Bedroque%20-%20c.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "https://www.dwell.com/article/sothebys-international-resort-living-victoria-real-estate-c88c7881",
       "title": "A $11M Estate Lists in One of Brighton’s Most Coveted Beachside Settings",
       "link": "https://www.dwell.com/article/sothebys-international-resort-living-victoria-real-estate-c88c7881",
@@ -4271,22 +4271,22 @@
       "category": "design"
     },
     {
-      "id": "https://www.themarginalian.org/?p=88065",
-      "title": "Dostoyevsky on What Makes a Good Person",
-      "link": "https://www.themarginalian.org/2026/10/04/dostoyevsy-good-person/",
-      "summary": "We know good people when we encounter them, when they fall upon our lives like a sunbeam, like a song. But we don’t always know what makes them good. It has, of course, a lot to do with kindness. It has to do with their capacity to give, an…",
-      "publishedAt": "2026-10-04T16:24:52.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2019/12/dostoevskyletters_meyer.jpg?fit=320%2C482&amp;ssl=1",
+      "id": "https://www.themarginalian.org/?p=75244",
+      "title": "Nietzsche on Walking and Creativity",
+      "link": "https://www.themarginalian.org/2026/10/05/nietzsche-walking/",
+      "summary": "\"Our first questions about the value of a book, of a human being, or a musical composition are: Can they walk? Even more, can they dance?\"",
+      "publishedAt": "2026-10-05T21:34:20.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/12/aphilosophyofwalking.jpg?fit=320%2C479&amp;ssl=1",
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
     },
     {
-      "id": "CBMikAFBVV95cUxPalpTZmJXanUybjljbUg5aVJVMEFRMm15bzFmLUNvUy16cXZwTFpmQTVIZTRtOXVtTHlMU3M4MmtDczdaV1NBa2NrZk91d2R1SEhzZ3gtazlhcUZfd3g1OEd5ZkF1R3Y3WlpUdDgtVFliWXpiZWxPRWIzOEI1Y0lBRjZhU2RnT2dCbmZGSkpjQUI",
-      "title": "Rooney: Quest for points turning futile in CU Buffs’ No-Go offense (column) - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalpTZmJXanUybjljbUg5aVJVMEFRMm15bzFmLUNvUy16cXZwTFpmQTVIZTRtOXVtTHlMU3M4MmtDczdaV1NBa2NrZk91d2R1SEhzZ3gtazlhcUZfd3g1OEd5ZkF1R3Y3WlpUdDgtVFliWXpiZWxPRWIzOEI1Y0lBRjZhU2RnT2dCbmZGSkpjQUI?oc=5",
-      "summary": "Rooney: Quest for points turning futile in CU Buffs’ No-Go offense (column) Daily Camera",
-      "publishedAt": "2026-10-04T06:00:12.000Z",
+      "id": "CBMigAFBVV95cUxQRkFwUHBHdUJYcjhtUHFSS3ZZODBrNldja2taSDRCcTRvbTdRTnB3SzlkTFdqVkJXNkRvQ3I4ZzVESEx2QXpoU25STjJYd2xGNTFKemROQ2xqMUFBbzUyQ1NTYlRPSWo0Z3ZHN19XYmNfdF9ybTQ4bXpDdHBqVGF1Yw",
+      "title": "Jah Jah Boyd, Paul Omodia and Justin Eaglin off Colorado’s roster - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRkFwUHBHdUJYcjhtUHFSS3ZZODBrNldja2taSDRCcTRvbTdRTnB3SzlkTFdqVkJXNkRvQ3I4ZzVESEx2QXpoU25STjJYd2xGNTFKemROQ2xqMUFBbzUyQ1NTYlRPSWo0Z3ZHN19XYmNfdF9ybTQ4bXpDdHBqVGF1Yw?oc=5",
+      "summary": "Jah Jah Boyd, Paul Omodia and Justin Eaglin off Colorado’s roster Daily Camera",
+      "publishedAt": "2026-10-04T07:29:37.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4359,17 +4359,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA",
-      "title": "Ford World Headquarters by Snøhetta - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA?oc=5",
-      "summary": "Ford World Headquarters by Snøhetta Thisispaper",
-      "publishedAt": "2026-07-27T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://www.densediscovery.com/issues/398/",
       "title": "DD398 / Cold turkey on the outrage machine",
       "link": "https://www.densediscovery.com/issues/398/",
@@ -4378,6 +4367,17 @@
       "imageUrl": "https://www.densediscovery.com/img/screenshot/square-398.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
+      "category": "design"
+    },
+    {
+      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
+      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
+      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
+      "publishedAt": "2026-03-27T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -4414,23 +4414,23 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50007764",
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "link": "https://openrouter.ai/stepfun/step-5-preview",
-      "summary": "Article URL: https://openrouter.ai/stepfun/step-5-preview Comments URL: https://news.ycombinator.com/item?id=50007764 Points: 103 # Comments: 24",
-      "publishedAt": "2026-10-08T16:20:20.000Z",
+      "id": "https://news.ycombinator.com/item?id=50010470",
+      "title": "The value of not getting to the point (2015)",
+      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "summary": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 162 # Comments: 55",
+      "publishedAt": "2026-10-08T19:04:56.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "6ac63f03780f7688f3bf437d",
-      "title": "Bread & Butter",
-      "link": "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/",
-      "summary": "The New York rapper carves out a middle ground between belligerence and introspection on his latest record, expressing gratitude for the little things in life without sacrificing his slick wordplay.",
-      "publishedAt": "2026-10-08T04:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac63e6a57d07363842bd3b1/master/pass/Your%20Old%20Droog-Bread%20&%20Butter.jpg",
+      "id": "6ac7b1f99fe1feb19568b173",
+      "title": "Björk Announces New Orchestral Live Album",
+      "link": "https://pitchfork.com/story/bjork-announces-new-orchestral-live-album/",
+      "summary": "Drawn from her 2021 performances adapting songs, primarily from Medúlla, for an ensemble including a 50-person choir",
+      "publishedAt": "2026-10-08T15:43:27.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac7b8273d647beb70177987/master/pass/bjork-live-album.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4458,11 +4458,22 @@
       "category": "design"
     },
     {
-      "id": "CBMiiAFBVV95cUxOaW15bFY1ekdmRkVmMjg5Rnd3Q01QZmt4N3R4Wm4wQS11a2NRS0k5b1lYX1hHTnlDZzVBVkhMTXI5d1d4YWdDaURuY0JBa3NrZDZtTmFrRDRmLXJjTHFscVU1elFaNllJTXgyQzluc3cwY1RxR2ZCZFBnaks0OENvcHNtdFNZSlNV",
-      "title": "CU Buffs football: No. 12 Texas Tech in review - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW15bFY1ekdmRkVmMjg5Rnd3Q01QZmt4N3R4Wm4wQS11a2NRS0k5b1lYX1hHTnlDZzVBVkhMTXI5d1d4YWdDaURuY0JBa3NrZDZtTmFrRDRmLXJjTHFscVU1elFaNllJTXgyQzluc3cwY1RxR2ZCZFBnaks0OENvcHNtdFNZSlNV?oc=5",
-      "summary": "CU Buffs football: No. 12 Texas Tech in review Daily Camera",
-      "publishedAt": "2026-10-04T05:08:52.000Z",
+      "id": "https://www.themarginalian.org/?p=80431",
+      "title": "Mister Rogers on the Most Important Mindset for a Parent",
+      "link": "https://www.themarginalian.org/2026/10/05/mister-rogers-parenting/",
+      "summary": "\"It’s part of being human to fall short of that total acceptance and ultimate understanding — and often far short.\"",
+      "publishedAt": "2026-10-05T05:30:12.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/06/dearmisterogers.jpg?fit=320%2C456&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMikAFBVV95cUxPalpTZmJXanUybjljbUg5aVJVMEFRMm15bzFmLUNvUy16cXZwTFpmQTVIZTRtOXVtTHlMU3M4MmtDczdaV1NBa2NrZk91d2R1SEhzZ3gtazlhcUZfd3g1OEd5ZkF1R3Y3WlpUdDgtVFliWXpiZWxPRWIzOEI1Y0lBRjZhU2RnT2dCbmZGSkpjQUI",
+      "title": "Rooney: Quest for points turning futile in CU Buffs’ No-Go offense (column) - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalpTZmJXanUybjljbUg5aVJVMEFRMm15bzFmLUNvUy16cXZwTFpmQTVIZTRtOXVtTHlMU3M4MmtDczdaV1NBa2NrZk91d2R1SEhzZ3gtazlhcUZfd3g1OEd5ZkF1R3Y3WlpUdDgtVFliWXpiZWxPRWIzOEI1Y0lBRjZhU2RnT2dCbmZGSkpjQUI?oc=5",
+      "summary": "Rooney: Quest for points turning futile in CU Buffs’ No-Go offense (column) Daily Camera",
+      "publishedAt": "2026-10-04T06:00:12.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4478,17 +4489,6 @@
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=78731",
-      "title": "Against Brute Force: D.H. Lawrence on the Superpower of Vulnerability",
-      "link": "https://www.themarginalian.org/2026/10/03/d-h-lawrence-brute-force/",
-      "summary": "\"Brute force crushes many plants. Yet the plants rise again. The Pyramids will not last a moment compared with the daisy.\"",
-      "publishedAt": "2026-10-03T20:42:57.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/10/sketchesofetruscanplaces_dhlawrence.jpg?fit=320%2C494&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "urn:id:9138",
@@ -4557,17 +4557,6 @@
       "category": "design"
     },
     {
-      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
-      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
-      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
-      "publishedAt": "2026-03-27T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiX0FVX3lxTE1FUlMybVYxdzRWVUJWUkY4Um1DTWdvV2N5eEFVQzREWkVnR2FVZkNWQ1pqSmd4M2RrcG1Wdm4tTHh2WTRnUWd4azFmVWtnd09qSndYQnY1QzZUZUJsbnh3",
       "title": "The Stations to Come - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUlMybVYxdzRWVUJWUkY4Um1DTWdvV2N5eEFVQzREWkVnR2FVZkNWQ1pqSmd4M2RrcG1Wdm4tTHh2WTRnUWd4azFmVWtnd09qSndYQnY1QzZUZUJsbnh3?oc=5",
@@ -4577,6 +4566,17 @@
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg",
+      "title": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg?oc=5",
+      "summary": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP Thisispaper",
+      "publishedAt": "2025-06-17T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw",
@@ -4601,33 +4601,33 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50006012",
-      "title": "Orkut.com",
-      "link": "https://orkut.com/",
-      "summary": "Article URL: https://orkut.com/ Comments URL: https://news.ycombinator.com/item?id=50006012 Points: 148 # Comments: 105",
-      "publishedAt": "2026-10-08T14:09:53.000Z",
+      "id": "https://news.ycombinator.com/item?id=50009295",
+      "title": "Theranos.world",
+      "link": "https://www.theranos.world/",
+      "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 436 # Comments: 154",
+      "publishedAt": "2026-10-08T17:51:49.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "6ac6c2d111ca618e834abf51",
-      "title": "The War on Drugs’ Robbie Bennett Sets Two New Solo Albums",
-      "link": "https://pitchfork.com/story/the-war-on-drugs-robbie-bennett-sets-two-new-solo-albums/",
-      "summary": "The keyboardist has shared one song each from Steloken and Circulation",
-      "publishedAt": "2026-10-07T22:35:31.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6ac6c50e5f04feffaad29966/master/pass/unnamed%20(25).jpg",
+      "id": "6ac6ddd735f78c577f76bea3",
+      "title": "Turnstile Announce Free Show to Raise Funds for Palestine, Sudan, and Lebanon",
+      "link": "https://pitchfork.com/story/turnstile-announce-free-show-to-raise-funds-for-palestine-sudan-and-lebanon/",
+      "summary": "The Washington D.C. concert takes place on October 24 in collaboration with Human Concern International",
+      "publishedAt": "2026-10-08T14:12:17.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6ac6f9b42a68ffce93feba53/master/pass/GettyImages-2298384186.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
     },
     {
-      "id": "CBMitwFBVV95cUxOM0F1bGRCVnlaUVMtNEdLaG0wSHcxU2dXZzBBeVQ5ZnEtNGR5cURkSkYxcGdDcEZFTDYwSHExVHFyVGVJNjhtUHVhTXNCRURYZy1lZlFqTTlJU1pqcDJCYl85Tk1VTS1XRkhyMF82SUFuNkt0X3RXOHluVTZpSjdKUkI4R0FXcUJpYmJKaG9KZTRPa1NYZW1UbjN2LVZaOUJIN2x5TlcwRUxQZldwSzBOODJwelRIbHc",
-      "title": "1791166845_Gavilan Aspen Grove.jpeg - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0F1bGRCVnlaUVMtNEdLaG0wSHcxU2dXZzBBeVQ5ZnEtNGR5cURkSkYxcGdDcEZFTDYwSHExVHFyVGVJNjhtUHVhTXNCRURYZy1lZlFqTTlJU1pqcDJCYl85Tk1VTS1XRkhyMF82SUFuNkt0X3RXOHluVTZpSjdKUkI4R0FXcUJpYmJKaG9KZTRPa1NYZW1UbjN2LVZaOUJIN2x5TlcwRUxQZldwSzBOODJwelRIbHc?oc=5",
-      "summary": "1791166845_Gavilan Aspen Grove.jpeg The Taos News",
-      "publishedAt": "2026-10-07T21:15:04.000Z",
+      "id": "CBMi3AFBVV95cUxPUExIcEx0V3FGVzNhaTFSU0VtbWx4dDhiTGtaRTBRMVBCc1BGWmQzdktZYUJ4a24xQWl1cll2NDU4UHdWTHAybTcyMHpUUWZ6bkxScHNmZlg4czdDQWJTMzZ5SVMycUxEbnd3TlFyTV9CTWptYV9pZjlhY1FzMm5Bd0c1alJvVFBkZHd6MnVjQ1ByeVlabVBwQnJ3a1NrZ3U2Unp5T1JHMmt3UFVvcEgySXBnMm91Q1g5dXpLYUg1QVlhYzczSVlnQXJjdVFDVjd2RGxLWl84bTNiWjlJ",
+      "title": "Tradiciones: Unsung Heroes Award Ceremony 2026 - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUExIcEx0V3FGVzNhaTFSU0VtbWx4dDhiTGtaRTBRMVBCc1BGWmQzdktZYUJ4a24xQWl1cll2NDU4UHdWTHAybTcyMHpUUWZ6bkxScHNmZlg4czdDQWJTMzZ5SVMycUxEbnd3TlFyTV9CTWptYV9pZjlhY1FzMm5Bd0c1alJvVFBkZHd6MnVjQ1ByeVlabVBwQnJ3a1NrZ3U2Unp5T1JHMmt3UFVvcEgySXBnMm91Q1g5dXpLYUg1QVlhYzczSVlnQXJjdVFDVjd2RGxLWl84bTNiWjlJ?oc=5",
+      "summary": "Tradiciones: Unsung Heroes Award Ceremony 2026 The Taos News",
+      "publishedAt": "2026-10-07T17:04:00.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -4645,11 +4645,22 @@
       "category": "design"
     },
     {
-      "id": "CBMifkFVX3lxTE1fN0xnUjliYWlMTUp0Ym5wR0J3bnNCcXVBdHNMLUFDNkpsVXpGRmNOVnBJTjVhLTA4UWZ3XzJBdzh5ZUxuVFR0RFBEbUhlS1RwQ1BvNl8xdzQtYzZhbzY4QV9tY2J2QTRBN3NDWUhIY3J1aDRDb1RSdlZNOWxTZw",
-      "title": "CU turns it over four times in second half, Buffs fall to No. 12 Texas Tech - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fN0xnUjliYWlMTUp0Ym5wR0J3bnNCcXVBdHNMLUFDNkpsVXpGRmNOVnBJTjVhLTA4UWZ3XzJBdzh5ZUxuVFR0RFBEbUhlS1RwQ1BvNl8xdzQtYzZhbzY4QV9tY2J2QTRBN3NDWUhIY3J1aDRDb1RSdlZNOWxTZw?oc=5",
-      "summary": "CU turns it over four times in second half, Buffs fall to No. 12 Texas Tech Daily Camera",
-      "publishedAt": "2026-10-04T03:13:35.000Z",
+      "id": "https://www.brainpickings.org/?p=53919",
+      "title": "The Importance of Being Scared: Polish Nobel Laureate Wisława Szymborska on Fairy Tales and the Necessity of Fear",
+      "link": "https://www.themarginalian.org/2026/10/05/wislawa-szymborska-fairy-tales-fear/",
+      "summary": "\"Andersen had the courage to write stories with unhappy endings. He didn’t believe that you should try to be good because it pays ... but because evil stems from intellectual and emotional stuntedness and is the one form of poverty that sho…",
+      "publishedAt": "2026-10-05T05:10:56.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/01/wislawaszymborska_nonrequiredreading1.jpg?fit=320%2C495&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "CBMiiAFBVV95cUxOaW15bFY1ekdmRkVmMjg5Rnd3Q01QZmt4N3R4Wm4wQS11a2NRS0k5b1lYX1hHTnlDZzVBVkhMTXI5d1d4YWdDaURuY0JBa3NrZDZtTmFrRDRmLXJjTHFscVU1elFaNllJTXgyQzluc3cwY1RxR2ZCZFBnaks0OENvcHNtdFNZSlNV",
+      "title": "CU Buffs football: No. 12 Texas Tech in review - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW15bFY1ekdmRkVmMjg5Rnd3Q01QZmt4N3R4Wm4wQS11a2NRS0k5b1lYX1hHTnlDZzVBVkhMTXI5d1d4YWdDaURuY0JBa3NrZDZtTmFrRDRmLXJjTHFscVU1elFaNllJTXgyQzluc3cwY1RxR2ZCZFBnaks0OENvcHNtdFNZSlNV?oc=5",
+      "summary": "CU Buffs football: No. 12 Texas Tech in review Daily Camera",
+      "publishedAt": "2026-10-04T05:08:52.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4665,17 +4676,6 @@
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=77272",
-      "title": "The Dandelion and the Meaning of Life: G.K. Chesterton on How to Live in Wonder",
-      "link": "https://www.themarginalian.org/2026/10/03/g-k-chesterton-dandelion/",
-      "summary": "Recovering the \"forgotten blaze or burst of astonishment at our own existence\" alive in the back of our modernity-deadened minds.",
-      "publishedAt": "2026-10-03T04:29:16.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/06/gkchesterton_autobiography.jpg?fit=320%2C495&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "urn:id:9126",
