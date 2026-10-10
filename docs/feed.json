@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T18:46:32.445Z",
+  "generatedAt": "2026-10-10T22:13:56.815Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -238,8 +238,8 @@
       "name": "Surface",
       "siteUrl": "https://www.surfacemag.com",
       "category": "design",
-      "status": "error",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "dwell",
@@ -300,37 +300,37 @@
   ],
   "articles": [
     {
-      "id": "https://interestingengineering.com/?p=317150",
-      "title": "Anthropic accuses Chinese AI firms of secretly using Claude to train their AI models",
-      "link": "https://interestingengineering.com/ai-robotics/anthropic-accuses-chinese-ai-firms",
-      "summary": "U.S. artificial intelligence company Anthropic has accused Chinese AI developers of “engaging in aggressive, malicious,...",
-      "publishedAt": "2026-10-10T18:36:40.000Z",
-      "imageUrl": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50035602",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "link": "https://jobs.ashbyhq.com/workweave",
-      "summary": "Article URL: https://jobs.ashbyhq.com/workweave Comments URL: https://news.ycombinator.com/item?id=50035602 Points: 0 # Comments: 0",
-      "publishedAt": "2026-10-10T18:16:19.000Z",
+      "id": "https://news.ycombinator.com/item?id=50037299",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/ Comments URL: https://news.ycombinator.com/item?id=50037299 Points: 9 # Comments: 4",
+      "publishedAt": "2026-10-10T21:19:42.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128449&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "Spanish rock shelter preserves rare evidence of Neanderthal woodworking",
-      "link": "https://www.thebrighterside.news/post/spanish-rock-shelter-preserves-rare-evidence-of-neanderthal-woodworking/",
-      "summary": "A Spanish rock shelter preserves rare evidence of Neanderthal woodworking, from spears to possible household objects. The post Spanish rock shelter preserves rare evidence of Neanderthal woodworking appeared first on The Brighter Side of Ne…",
-      "publishedAt": "2026-10-10T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/neanderthal-wood-1.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=125033&secret=cM2XMtKpK3Lj&nonce=4a19f28423",
+      "title": "Ant baits can drastically change colony behavior before ants die",
+      "link": "https://www.thebrighterside.news/post/ant-baits-can-drastically-change-colony-behavior-before-ants-die/",
+      "summary": "UC Riverside researchers found ant baits can make Argentine ants roam or cluster before they die. The post Ant baits can drastically change colony behavior before ants die appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-10-10T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/ants.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=317022",
+      "title": "New system that generates power, charges drones, and offers launch space can transform warfare",
+      "link": "https://interestingengineering.com/military/system-generates-power-charges-drones",
+      "summary": "A new system has been introduced and it integrates renewable energy, autonomous robotics and unmanned...",
+      "publishedAt": "2026-10-10T19:55:37.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/drone-system-.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "6aca4751ce53696947dd8bf9",
@@ -674,34 +674,34 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=317119",
-      "title": "US Marines test Advanced Precision Kill Weapon System precision strikes on AH-1Z Viper",
-      "link": "https://interestingengineering.com/military/us-marines-validate-ah-1z-precision-weapon",
-      "summary": "An AH-1Z Viper delivered the Advanced Precision Kill Weapon System (APKWS) during a May 12...",
-      "publishedAt": "2026-10-10T18:30:09.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/US-Marine-Corps-4.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50035550",
-      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-      "summary": "Article URL: https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50035550 Points: 6 # Comments: 0",
-      "publishedAt": "2026-10-10T18:10:54.000Z",
+      "id": "https://news.ycombinator.com/item?id=50037183",
+      "title": "Why We Still Cannot Read Etruscan",
+      "link": "https://veiledantiquity.com/posts/etruscan-language-lost/",
+      "summary": "Article URL: https://veiledantiquity.com/posts/etruscan-language-lost/ Comments URL: https://news.ycombinator.com/item?id=50037183 Points: 5 # Comments: 2",
+      "publishedAt": "2026-10-10T21:07:07.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128437&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "JWST traces the most distant known fast radio burst to a strange dwarf galaxy",
-      "link": "https://www.thebrighterside.news/post/jwst-traces-the-most-distant-known-fast-radio-burst-to-a-strange-dwarf-galaxy/",
-      "summary": "FRB 20240304B came from a young dwarf galaxy about 3 billion years after the Big Bang, Webb observations reveal. The post JWST traces the most distant known fast radio burst to a strange dwarf galaxy appeared first on The Brighter Side of N…",
-      "publishedAt": "2026-10-10T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/FRB-main.png?auto=webp",
+      "id": "https://interestingengineering.com/?p=317150",
+      "title": "Anthropic accuses Chinese AI firms of secretly using Claude to train models",
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-accuses-chinese-ai-firms",
+      "summary": "U.S. artificial intelligence company Anthropic has accused Chinese AI developers of “engaging in aggressive, malicious,...",
+      "publishedAt": "2026-10-10T18:36:52.000Z",
+      "imageUrl": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128449&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "Spanish rock shelter preserves rare evidence of Neanderthal woodworking",
+      "link": "https://www.thebrighterside.news/post/spanish-rock-shelter-preserves-rare-evidence-of-neanderthal-woodworking/",
+      "summary": "A Spanish rock shelter preserves rare evidence of Neanderthal woodworking, from spears to possible household objects. The post Spanish rock shelter preserves rare evidence of Neanderthal woodworking appeared first on The Brighter Side of Ne…",
+      "publishedAt": "2026-10-10T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/neanderthal-wood-1.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -1048,34 +1048,34 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=317181",
-      "title": "This tattoo ink changes colour with light and can make designs nearly vanish",
-      "link": "https://interestingengineering.com/culture/scientists-create-tattoos-vanish-in-seconds",
-      "summary": "A tattoo is supposed to last a lifetime, but what if you could make it...",
-      "publishedAt": "2026-10-10T18:16:22.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/on-and-off-tattoo.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50034363",
-      "title": "AI Is Throwing a Roadside Picnic",
-      "link": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-      "summary": "Article URL: https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic Comments URL: https://news.ycombinator.com/item?id=50034363 Points: 33 # Comments: 35",
-      "publishedAt": "2026-10-10T16:19:23.000Z",
+      "id": "https://news.ycombinator.com/item?id=50036864",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "link": "https://housing.over.pizza/",
+      "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 28 # Comments: 3",
+      "publishedAt": "2026-10-10T20:31:50.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128423&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "Earth’s magnetic field took 70,000 years to complete an ancient reversal",
-      "link": "https://www.thebrighterside.news/post/earths-magnetic-field-took-70000-years-to-complete-an-ancient-reversal/",
-      "summary": "Two Eocene magnetic reversals lasted about 18,000 and 70,000 years, according to a detailed North Atlantic sediment record. The post Earth’s magnetic field took 70,000 years to complete an ancient reversal appeared first on The Brighter Sid…",
-      "publishedAt": "2026-10-10T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Earth-field-main.png?auto=webp",
+      "id": "https://interestingengineering.com/?p=317119",
+      "title": "US Marines validate AH-1Z precision weapon delivery to streamline fleet training",
+      "link": "https://interestingengineering.com/military/us-marines-validate-ah-1z-precision-weapon",
+      "summary": "An AH-1Z Viper delivered the Advanced Precision Kill Weapon System (APKWS) during a May 12...",
+      "publishedAt": "2026-10-10T18:30:19.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/US-Marine-Corps-4.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128437&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "JWST traces the most distant known fast radio burst to a strange dwarf galaxy",
+      "link": "https://www.thebrighterside.news/post/jwst-traces-the-most-distant-known-fast-radio-burst-to-a-strange-dwarf-galaxy/",
+      "summary": "FRB 20240304B came from a young dwarf galaxy about 3 billion years after the Big Bang, Webb observations reveal. The post JWST traces the most distant known fast radio burst to a strange dwarf galaxy appeared first on The Brighter Side of N…",
+      "publishedAt": "2026-10-10T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/FRB-main.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -1422,34 +1422,34 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=317096",
-      "title": "Watch: Two-armed robot throws, catches, and hits balls like a baseball champ",
-      "link": "https://interestingengineering.com/ai-robotics/athenazero-two-armed-robot-throws-catches-balls",
-      "summary": "A new two-armed robot developed by the Robotics and AI Institute (RAI) has demonstrated its...",
-      "publishedAt": "2026-10-10T17:36:25.000Z",
-      "imageUrl": "https://www.youtube.com/embed/eIa9fKkxXAo",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50034081",
-      "title": "Knuth Reward Check",
-      "link": "https://www.thomas-huehn.com/knuth-reward-check",
-      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 57 # Comments: 21",
-      "publishedAt": "2026-10-10T15:47:01.000Z",
+      "id": "https://news.ycombinator.com/item?id=50036571",
+      "title": "50MB operating system can resurrect your old PC",
+      "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+      "summary": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/ Comments URL: https://news.ycombinator.com/item?id=50036571 Points: 18 # Comments: 3",
+      "publishedAt": "2026-10-10T19:59:24.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128413&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "Scientists calculate how much information exists in the observable universe",
-      "link": "https://www.thebrighterside.news/post/scientists-calculate-how-much-information-exists-in-the-observable-universe/",
-      "summary": "A particle-based calculation uses information theory to estimate cosmic bits, without proving information is a new state of matter. The post Scientists calculate how much information exists in the observable universe appeared first on The B…",
-      "publishedAt": "2026-10-10T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/data-universe.png?auto=webp",
+      "id": "https://interestingengineering.com/?p=317181",
+      "title": "This tattoo ink changes colour with light and can make designs nearly vanish",
+      "link": "https://interestingengineering.com/culture/scientists-create-tattoos-vanish-in-seconds",
+      "summary": "A tattoo is supposed to last a lifetime, but what if you could make it...",
+      "publishedAt": "2026-10-10T18:16:22.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/on-and-off-tattoo.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128423&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "Earth’s magnetic field took 70,000 years to complete an ancient reversal",
+      "link": "https://www.thebrighterside.news/post/earths-magnetic-field-took-70000-years-to-complete-an-ancient-reversal/",
+      "summary": "Two Eocene magnetic reversals lasted about 18,000 and 70,000 years, according to a detailed North Atlantic sediment record. The post Earth’s magnetic field took 70,000 years to complete an ancient reversal appeared first on The Brighter Sid…",
+      "publishedAt": "2026-10-10T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Earth-field-main.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -1796,34 +1796,34 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=317114",
-      "title": "Arizona’s massive new solar project will supply 90% of its output to Tesla",
-      "link": "https://interestingengineering.com/energy/arizonas-massive-new-solar-project-will-supply-90-of-its-output-to-tesla",
-      "summary": "ContourGlobal has announced a 509-megawatt solar power plant with a massive battery storage system as...",
-      "publishedAt": "2026-10-10T17:16:08.000Z",
-      "imageUrl": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50033721",
-      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-      "summary": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical Comments URL: https://news.ycombinator.com/item?id=50033721 Points: 59 # Comments: 15",
-      "publishedAt": "2026-10-10T15:10:24.000Z",
+      "id": "https://news.ycombinator.com/item?id=50036119",
+      "title": "Takeshi's Castle",
+      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 63 # Comments: 23",
+      "publishedAt": "2026-10-10T19:12:55.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128400&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "Why big dogs die younger: DNA study points to changes around jumping genes",
-      "link": "https://www.thebrighterside.news/post/why-big-dogs-die-younger-dna-study-points-to-changes-around-jumping-genes/",
-      "summary": "Larger dogs show stronger age-related DNA changes around LINE1 elements, but their role in shortening lifespan remains unproven. The post Why big dogs die younger: DNA study points to changes around jumping genes appeared first on The Brigh…",
-      "publishedAt": "2026-10-09T23:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/dogs.png?auto=webp",
+      "id": "https://interestingengineering.com/?p=317096",
+      "title": "Watch: Two-armed robot throws, catches, and hits balls like a baseball champ",
+      "link": "https://interestingengineering.com/ai-robotics/athenazero-two-armed-robot-throws-catches-balls",
+      "summary": "A new two-armed robot developed by the Robotics and AI Institute (RAI) has demonstrated its...",
+      "publishedAt": "2026-10-10T17:36:25.000Z",
+      "imageUrl": "https://www.youtube.com/embed/eIa9fKkxXAo",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128413&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "Scientists calculate how much information exists in the observable universe",
+      "link": "https://www.thebrighterside.news/post/scientists-calculate-how-much-information-exists-in-the-observable-universe/",
+      "summary": "A particle-based calculation uses information theory to estimate cosmic bits, without proving information is a new state of matter. The post Scientists calculate how much information exists in the observable universe appeared first on The B…",
+      "publishedAt": "2026-10-10T11:51:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/data-universe.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -2170,26 +2170,37 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50033678",
-      "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
-      "link": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
-      "summary": "Article URL: https://wsj.com/tech/ai/tom-brown-athropic-669005ad Comments URL: https://news.ycombinator.com/item?id=50033678 Points: 77 # Comments: 17",
-      "publishedAt": "2026-10-10T15:04:38.000Z",
+      "id": "https://news.ycombinator.com/item?id=50035886",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 86 # Comments: 51",
+      "publishedAt": "2026-10-10T18:48:35.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=317179",
-      "title": "World’s oldest land animal, 194-year-old Jonathan, carries secret to long life in his DNA",
-      "link": "https://interestingengineering.com/culture/jonathan-tortoise-194-genome-longevity-clues",
-      "summary": "Scientists have sequenced the genome of Jonathan, an Aldabra giant tortoise with an estimated age...",
-      "publishedAt": "2026-10-10T14:57:18.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Jonathan_the-tortoise.jpg",
+      "id": "https://interestingengineering.com/?p=317114",
+      "title": "Arizona’s massive new solar project will supply 90% of its output to Tesla",
+      "link": "https://interestingengineering.com/energy/arizonas-massive-new-solar-project-will-supply-90-of-its-output-to-tesla",
+      "summary": "ContourGlobal has announced a 509-megawatt solar power plant with a massive battery storage system as...",
+      "publishedAt": "2026-10-10T17:16:08.000Z",
+      "imageUrl": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128400&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "Why big dogs die younger: DNA study points to changes around jumping genes",
+      "link": "https://www.thebrighterside.news/post/why-big-dogs-die-younger-dna-study-points-to-changes-around-jumping-genes/",
+      "summary": "Larger dogs show stronger age-related DNA changes around LINE1 elements, but their role in shortening lifespan remains unproven. The post Why big dogs die younger: DNA study points to changes around jumping genes appeared first on The Brigh…",
+      "publishedAt": "2026-10-09T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/dogs.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "https://coloradosun.com/?p=504552",
@@ -2201,17 +2212,6 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128383&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "Jonathan the 194-year-old tortoise offers new clues to extreme human longevity",
-      "link": "https://www.thebrighterside.news/post/jonathan-the-194-year-old-tortoise-offers-new-clues-to-extreme-human-longevity/",
-      "summary": "A study of Jonathan's genome and epigenome finds preserved regulation in key cellular pathways, with important limits. The post Jonathan the 194-year-old tortoise offers new clues to extreme human longevity appeared first on The Brighter Si…",
-      "publishedAt": "2026-10-09T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/giant-tortoise-3-scaled.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
     },
     {
       "id": "6ac9325e50cb91d83098a4c8",
@@ -2412,17 +2412,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiYkFVX3lxTFBfY254SVRrMU9FZ3lTdkdwdUtoYWRLcjZfdTFDakVMMUFtMHFnY2hqbXRpR1pCTjZXWVJSSDFUTXQ4bDkwdHNNdkZzVlZoaXhUWmpfc0NERDFObENoTFNMZFVn",
-      "title": "Via Seneria by Dario Wohler - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfY254SVRrMU9FZ3lTdkdwdUtoYWRLcjZfdTFDakVMMUFtMHFnY2hqbXRpR1pCTjZXWVJSSDFUTXQ4bDkwdHNNdkZzVlZoaXhUWmpfc0NERDFObENoTFNMZFVn?oc=5",
-      "summary": "Via Seneria by Dario Wohler Thisispaper",
-      "publishedAt": "2026-09-30T14:08:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://www.noemamag.com/noemas-ai-reading-list",
       "title": "Noema’s AI Reading List",
       "link": "https://www.noemamag.com/noemas-ai-reading-list",
@@ -2467,6 +2456,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA",
+      "title": "Ford World Headquarters by Snøhetta - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA?oc=5",
+      "summary": "Ford World Headquarters by Snøhetta Thisispaper",
+      "publishedAt": "2026-07-27T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "CBMiWkFVX3lxTE5CQUp6VzRMd09pLWJIUE5aemZwTklDUWFSdFdLajBtb21pZ0lkVlNDWFpTOVhQeHdyVkxocWNHaEFOUE5kLTg0d1YtZ0tCUDdlYV8wZFYyZDEwUQ",
       "title": "A Private Matter - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CQUp6VzRMd09pLWJIUE5aemZwTklDUWFSdFdLajBtb21pZ0lkVlNDWFpTOVhQeHdyVkxocWNHaEFOUE5kLTg0d1YtZ0tCUDdlYV8wZFYyZDEwUQ?oc=5",
@@ -2500,11 +2500,11 @@
       "category": "design"
     },
     {
-      "id": "CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw",
-      "title": "The Bus Ticket Theory of Genius - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQnJrdzhZOUV4STZhcmlUSXVwY3QtWWQxWUZ0dU1LZzc1dWd0VW9fMlRxSkpuaGljYVYydWJ0N0pCWWlsSFZ6cC1TUWtfaVNEMGpfUVRSWE9zX0phRk5TTGVsdHhXZzVuRHZCWnJoVUJjVldSV2xoYVc4bw?oc=5",
-      "summary": "The Bus Ticket Theory of Genius Read Something Great",
-      "publishedAt": "2023-10-25T09:42:32.000Z",
+      "id": "CBMif0FVX3lxTE5BT1JvUnRMNXlsS0FZM24zZXkwQzQwWkJVU1pMWmNMc3lGZWxqMFk5ZFM2YnF4Wkx4OEVrUmVHemlHRUtmMF82d0t3ZGlibnR1WXpFZjVxWGlmM3A0MUxZS2NCaHp0bUY0ZWFqRFVqX2hQd0hfMHNENDBaM093YXM",
+      "title": "Getting Lucky and Finding your Fox - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BT1JvUnRMNXlsS0FZM24zZXkwQzQwWkJVU1pMWmNMc3lGZWxqMFk5ZFM2YnF4Wkx4OEVrUmVHemlHRUtmMF82d0t3ZGlibnR1WXpFZjVxWGlmM3A0MUxZS2NCaHp0bUY0ZWFqRFVqX2hQd0hfMHNENDBaM093YXM?oc=5",
+      "summary": "Getting Lucky and Finding your Fox Read Something Great",
+      "publishedAt": "2023-08-01T01:33:32.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -2544,23 +2544,23 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50033638",
-      "title": "FDA may allow some toxic chemicals to be added to food without safety review",
-      "link": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis Comments URL: https://news.ycombinator.com/item?id=50033638 Points: 75 # Comments: 40",
-      "publishedAt": "2026-10-10T15:00:36.000Z",
+      "id": "https://news.ycombinator.com/item?id=50035530",
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 89 # Comments: 28",
+      "publishedAt": "2026-10-10T18:08:49.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=317040",
-      "title": "Scientists achieve 13-qubit genuine entanglement without destroying their photons",
-      "link": "https://interestingengineering.com/science/linking-qubits-without-destroying-photons",
-      "summary": "Quantum computers may one day tackle problems that overwhelm conventional machines, but getting enough quantum...",
-      "publishedAt": "2026-10-10T13:27:30.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/linking-13-qubits.jpg",
+      "id": "https://interestingengineering.com/?p=317179",
+      "title": "World’s oldest land animal, 194-year-old Jonathan, carries secret to long life in his DNA",
+      "link": "https://interestingengineering.com/culture/jonathan-tortoise-194-genome-longevity-clues",
+      "summary": "Scientists have sequenced the genome of Jonathan, an Aldabra giant tortoise with an estimated age...",
+      "publishedAt": "2026-10-10T14:57:18.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Jonathan_the-tortoise.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -2577,12 +2577,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128372&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "Mosasaur tails reveal which ancient ocean predators were built for surprise attacks",
-      "link": "https://www.thebrighterside.news/post/mosasaur-tails-reveal-which-ancient-ocean-predators-were-built-for-surprise-attacks/",
-      "summary": "A Rutgers-led study links mosasaur tail anatomy to sudden lunges, suggesting distinct ambush and pursuit strategies. The post Mosasaur tails reveal which ancient ocean predators were built for surprise attacks appeared first on The Brighter…",
-      "publishedAt": "2026-10-09T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Sea-Predator-Main-scaled.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128383&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "Jonathan the 194-year-old tortoise offers new clues to extreme human longevity",
+      "link": "https://www.thebrighterside.news/post/jonathan-the-194-year-old-tortoise-offers-new-clues-to-extreme-human-longevity/",
+      "summary": "A study of Jonathan's genome and epigenome finds preserved regulation in key cellular pathways, with important limits. The post Jonathan the 194-year-old tortoise offers new clues to extreme human longevity appeared first on The Brighter Si…",
+      "publishedAt": "2026-10-09T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/giant-tortoise-3-scaled.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -2775,17 +2775,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiZEFVX3lxTFBBbkhIdWgxbnBCRHBqR3AtU0xSeWZqY2tKcU50ekd5UTFDalA1ZnNaRFRCUzIzRlJzeDlRbmdDZFhvY3lRcE4ta2Q2Nk9Hakd3RG52RG5VbXdwcVkwNTZjc2Z3SEc",
-      "title": "L Hermit House II by Common Wonder - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBbkhIdWgxbnBCRHBqR3AtU0xSeWZqY2tKcU50ekd5UTFDalA1ZnNaRFRCUzIzRlJzeDlRbmdDZFhvY3lRcE4ta2Q2Nk9Hakd3RG52RG5VbXdwcVkwNTZjc2Z3SEc?oc=5",
-      "summary": "L Hermit House II by Common Wonder Thisispaper",
-      "publishedAt": "2026-09-29T18:04:25.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://greatergood.berkeley.edu/article/item/who_do_we_become_when_we_talk_to_chatbots#When:13:22:00Z",
       "title": "Who Do We Become When We Talk to Chatbots?",
       "link": "https://greatergood.berkeley.edu/article/item/who_do_we_become_when_we_talk_to_chatbots",
@@ -2852,6 +2841,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
+      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
+      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi Thisispaper",
+      "publishedAt": "2026-04-17T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
       "id": "CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r",
       "title": "Sensual Minimalist Apartment by Bordo Design - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r?oc=5",
@@ -2874,11 +2874,11 @@
       "category": "design"
     },
     {
-      "id": "CBMif0FVX3lxTE5BT1JvUnRMNXlsS0FZM24zZXkwQzQwWkJVU1pMWmNMc3lGZWxqMFk5ZFM2YnF4Wkx4OEVrUmVHemlHRUtmMF82d0t3ZGlibnR1WXpFZjVxWGlmM3A0MUxZS2NCaHp0bUY0ZWFqRFVqX2hQd0hfMHNENDBaM093YXM",
-      "title": "Getting Lucky and Finding your Fox - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BT1JvUnRMNXlsS0FZM24zZXkwQzQwWkJVU1pMWmNMc3lGZWxqMFk5ZFM2YnF4Wkx4OEVrUmVHemlHRUtmMF82d0t3ZGlibnR1WXpFZjVxWGlmM3A0MUxZS2NCaHp0bUY0ZWFqRFVqX2hQd0hfMHNENDBaM093YXM?oc=5",
-      "summary": "Getting Lucky and Finding your Fox Read Something Great",
-      "publishedAt": "2023-08-01T01:33:32.000Z",
+      "id": "CBMib0FVX3lxTE1XaDBTcGUzeGRrS21UWGxQdUZqQkpkQUhCV0pueHVyS2VnUktkbE8zOGQxajRwYmYydnFPZmNRR3FMNXppcjJZZDFzOGZaRFJrS3doYmlxeE1YVDNXUWhJci04d0lHVUJCUmJRczdjTQ",
+      "title": "General and Surprising - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XaDBTcGUzeGRrS21UWGxQdUZqQkpkQUhCV0pueHVyS2VnUktkbE8zOGQxajRwYmYydnFPZmNRR3FMNXppcjJZZDFzOGZaRFJrS3doYmlxeE1YVDNXUWhJci04d0lHVUJCUmJRczdjTQ?oc=5",
+      "summary": "General and Surprising Read Something Great",
+      "publishedAt": "2023-07-14T15:20:50.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -2918,23 +2918,23 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50033407",
-      "title": "Bitwarden Dual License Model",
-      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 229 # Comments: 171",
-      "publishedAt": "2026-10-10T14:32:50.000Z",
+      "id": "https://news.ycombinator.com/item?id=50034081",
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 113 # Comments: 44",
+      "publishedAt": "2026-10-10T15:47:01.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=317115",
-      "title": "US firm aims to speed 390 MW nuclear reactor deployment with phased build plan",
-      "link": "https://interestingengineering.com/energy/us-firm-nuclear-reactor-deployment",
-      "summary": "Terrestrial Energy has submitted its Thermal and Electric Facility (TEF) Topical Report to the US...",
-      "publishedAt": "2026-10-10T13:00:24.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IMSR.jpg",
+      "id": "https://interestingengineering.com/?p=317040",
+      "title": "Scientists achieve 13-qubit genuine entanglement without destroying their photons",
+      "link": "https://interestingengineering.com/science/linking-qubits-without-destroying-photons",
+      "summary": "Quantum computers may one day tackle problems that overwhelm conventional machines, but getting enough quantum...",
+      "publishedAt": "2026-10-10T13:27:30.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/linking-13-qubits.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -2951,12 +2951,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128360&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "NASA’s James Webb telescope reveals the dusty aftermath of 21 planet-shattering collisions",
-      "link": "https://www.thebrighterside.news/post/nasas-james-webb-telescope-reveals-the-dusty-aftermath-of-21-planet-shattering-collisions/",
-      "summary": "Dust around other stars offers clues to collisions involving planetary embryos and the disruption of established systems. The post NASA’s James Webb telescope reveals the dusty aftermath of 21 planet-shattering collisions appeared first on …",
-      "publishedAt": "2026-10-09T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/collision.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128372&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "Mosasaur tails reveal which ancient ocean predators were built for surprise attacks",
+      "link": "https://www.thebrighterside.news/post/mosasaur-tails-reveal-which-ancient-ocean-predators-were-built-for-surprise-attacks/",
+      "summary": "A Rutgers-led study links mosasaur tail anatomy to sudden lunges, suggesting distinct ambush and pursuit strategies. The post Mosasaur tails reveal which ancient ocean predators were built for surprise attacks appeared first on The Brighter…",
+      "publishedAt": "2026-10-09T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Sea-Predator-Main-scaled.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -3204,17 +3204,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA",
-      "title": "Ford World Headquarters by Snøhetta - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA?oc=5",
-      "summary": "Ford World Headquarters by Snøhetta Thisispaper",
-      "publishedAt": "2026-07-27T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiTkFVX3lxTFBsaFVEbS04SlFWclR6UENGdGF0ZnNfTDY1MXpxYVRIQ1hISDBfYkNSN21aSk9FZlVFVGw1Q1N5RDRMenNoZ0hSUzFhVF8yQQ",
       "title": "Alex Kittoe: Wandering America - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsaFVEbS04SlFWclR6UENGdGF0ZnNfTDY1MXpxYVRIQ1hISDBfYkNSN21aSk9FZlVFVGw1Q1N5RDRMenNoZ0hSUzFhVF8yQQ?oc=5",
@@ -3224,6 +3213,17 @@
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
+      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
+      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
+      "publishedAt": "2026-03-27T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91",
@@ -3248,11 +3248,11 @@
       "category": "design"
     },
     {
-      "id": "CBMib0FVX3lxTE1XaDBTcGUzeGRrS21UWGxQdUZqQkpkQUhCV0pueHVyS2VnUktkbE8zOGQxajRwYmYydnFPZmNRR3FMNXppcjJZZDFzOGZaRFJrS3doYmlxeE1YVDNXUWhJci04d0lHVUJCUmJRczdjTQ",
-      "title": "General and Surprising - Read Something Great",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XaDBTcGUzeGRrS21UWGxQdUZqQkpkQUhCV0pueHVyS2VnUktkbE8zOGQxajRwYmYydnFPZmNRR3FMNXppcjJZZDFzOGZaRFJrS3doYmlxeE1YVDNXUWhJci04d0lHVUJCUmJRczdjTQ?oc=5",
-      "summary": "General and Surprising Read Something Great",
-      "publishedAt": "2023-07-14T15:20:50.000Z",
+      "id": "CBMidEFVX3lxTE9pV1RiMnBJejJBV01GX18yeHhjZEVOcUlTcXRaRzhXbWZGU3kwalBzT3FNbldsa2dZVE5HMF9ROU5RWDlsZ1hSVkcyNzlqYjU2SGlUOGVqLWxqTnI4Nkl5Ul9NdVBwZ2xpekE0d2J6MzlycS1X",
+      "title": "The Finality of Everything - Read Something Great",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pV1RiMnBJejJBV01GX18yeHhjZEVOcUlTcXRaRzhXbWZGU3kwalBzT3FNbldsa2dZVE5HMF9ROU5RWDlsZ1hSVkcyNzlqYjU2SGlUOGVqLWxqTnI4Nkl5Ul9NdVBwZ2xpekE0d2J6MzlycS1X?oc=5",
+      "summary": "The Finality of Everything Read Something Great",
+      "publishedAt": "2023-06-19T15:12:40.000Z",
       "imageUrl": null,
       "sourceId": "read-something-great",
       "sourceName": "Read Something Great",
@@ -3292,23 +3292,23 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50032758",
-      "title": "I would like the value of my home to rise, while my property taxes fall",
-      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-      "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ Comments URL: https://news.ycombinator.com/item?id=50032758 Points: 124 # Comments: 264",
-      "publishedAt": "2026-10-10T13:29:03.000Z",
+      "id": "https://news.ycombinator.com/item?id=50033407",
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 313 # Comments: 233",
+      "publishedAt": "2026-10-10T14:32:50.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=317058",
-      "title": "Vision-based waste-sorting robot identifies high-value recyclables in real time",
-      "link": "https://interestingengineering.com/ai-robotics/autonomous-waste-sorting-robot",
-      "summary": "Scotland-based Danu Robotics has just received $5 million in seed funding for its novel waste...",
-      "publishedAt": "2026-10-10T12:50:55.000Z",
-      "imageUrl": "https://www.youtube.com/embed/MQyjttE1YXw",
+      "id": "https://interestingengineering.com/?p=317115",
+      "title": "US firm aims to speed 390 MW nuclear reactor deployment with phased build plan",
+      "link": "https://interestingengineering.com/energy/us-firm-nuclear-reactor-deployment",
+      "summary": "Terrestrial Energy has submitted its Thermal and Electric Facility (TEF) Topical Report to the US...",
+      "publishedAt": "2026-10-10T13:00:24.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IMSR.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -3325,12 +3325,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128352&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "Five-dimensional black holes offer a possible explanation for dark matter and neutrinos",
-      "link": "https://www.thebrighterside.news/post/five-dimensional-black-holes-offer-a-possible-explanation-for-dark-matter-and-neutrinos/",
-      "summary": "Hypothetical primordial black holes could behave differently in a universe with an extra spatial dimension, new calculations suggest. The post Five-dimensional black holes offer a possible explanation for dark matter and neutrinos appeared …",
-      "publishedAt": "2026-10-09T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/black-holes.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128360&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "NASA’s James Webb telescope reveals the dusty aftermath of 21 planet-shattering collisions",
+      "link": "https://www.thebrighterside.news/post/nasas-james-webb-telescope-reveals-the-dusty-aftermath-of-21-planet-shattering-collisions/",
+      "summary": "Dust around other stars offers clues to collisions involving planetary embryos and the disruption of established systems. The post NASA’s James Webb telescope reveals the dusty aftermath of 21 planet-shattering collisions appeared first on …",
+      "publishedAt": "2026-10-09T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/collision.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -3392,9 +3392,9 @@
     },
     {
       "id": "CBMifkFVX3lxTFB3U0dVektsV3JCUjhLQUs2azRldFF0WjhVRDh3bnA4RmpHSV9PbEM3RXBtb080Mmd0NlhWaElnQmlnQ0l4SnNka3VYWDRmYndqVThLenhSMTdPUGxLQ1RQRWJqVlhJSE8wTXh3NU9QUVFUUE4yLUc1Y19vNEplUQ",
-      "title": "For the CU Buffs, the long way has become the only way - Boulder Daily Camera",
+      "title": "For the CU Buffs, the long way has become the only way - Daily Camera",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3U0dVektsV3JCUjhLQUs2azRldFF0WjhVRDh3bnA4RmpHSV9PbEM3RXBtb080Mmd0NlhWaElnQmlnQ0l4SnNka3VYWDRmYndqVThLenhSMTdPUGxLQ1RQRWJqVlhJSE8wTXh3NU9QUVFUUE4yLUc1Y19vNEplUQ?oc=5",
-      "summary": "For the CU Buffs, the long way has become the only way Boulder Daily Camera",
+      "summary": "For the CU Buffs, the long way has become the only way Daily Camera",
       "publishedAt": "2026-10-07T17:02:16.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
@@ -3424,6 +3424,17 @@
       "category": "ideas"
     },
     {
+      "id": "CBMi6AFBVV95cUxOZ2NkdmpsRVVaMmxlVHFZeEVYb3JzZi10bzZEVWtsTnpMQmtEcmMxbXJqcDhIcWxwTUNmY1RDajBwd0o2LUh5cWl1aVhGNFRCVjRZYnRiUHlMa2dlTmF4RUhob3YzMi1pNmJVR1hTMXpSQ3FiTEthd2hrTmVDWHBEUmQ1ci1lUlVKaUE2X0hiMmE3R044MU9ld3hkUE1oZFZLVjNwQlZiUGRCbjM1SW9NMzZuYjRVUkJGanJGMFFxSFktRGp5V2lfdURJN2lhUnJJbzhXaGRTSFh1Ui1SOUw5QzM5bXF1bTVz",
+      "title": "Colorado election: Q&A with SOS candidate Celeste Landry - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2NkdmpsRVVaMmxlVHFZeEVYb3JzZi10bzZEVWtsTnpMQmtEcmMxbXJqcDhIcWxwTUNmY1RDajBwd0o2LUh5cWl1aVhGNFRCVjRZYnRiUHlMa2dlTmF4RUhob3YzMi1pNmJVR1hTMXpSQ3FiTEthd2hrTmVDWHBEUmQ1ci1lUlVKaUE2X0hiMmE3R044MU9ld3hkUE1oZFZLVjNwQlZiUGRCbjM1SW9NMzZuYjRVUkJGanJGMFFxSFktRGp5V2lfdURJN2lhUnJJbzhXaGRTSFh1Ui1SOUw5QzM5bXF1bTVz?oc=5",
+      "summary": "Colorado election: Q&A with SOS candidate Celeste Landry The Coloradoan",
+      "publishedAt": "2026-10-06T20:39:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
+    },
+    {
       "id": "https://boulderreportinglab.org/?p=127647",
       "title": "Boulder County wildfire triggers evacuation warnings from Allenspark to Hall Ranch",
       "link": "https://boulderreportinglab.org/2026/10/06/boulder-county-wildfire-triggers-evacuation-warnings-from-allenspark-to-hall-ranch/",
@@ -3432,17 +3443,6 @@
       "imageUrl": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-10.52.44.png?fit=936%2C588&amp;ssl=1",
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
-      "category": "local"
-    },
-    {
-      "id": "CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw",
-      "title": "Where Colorado State's defense ranks in college football - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw?oc=5",
-      "summary": "Where Colorado State's defense ranks in college football The Coloradoan",
-      "publishedAt": "2026-10-06T17:05:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -3589,11 +3589,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
-      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
-      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi Thisispaper",
-      "publishedAt": "2026-04-17T07:00:00.000Z",
+      "id": "CBMiY0FVX3lxTE5Ud3o4cERPZElwdzM4dFlJSnpoRkJjVDdOdzlDZm5TSXZRQUhFcDR2MDF0ZW9LMGRQT3NDT0FWTVF0LVZpaGJFQ3lJUGI4MmZnOW9mdXJFUUs5dUNGbjZmbGtrVQ",
+      "title": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ud3o4cERPZElwdzM4dFlJSnpoRkJjVDdOdzlDZm5TSXZRQUhFcDR2MDF0ZW9LMGRQT3NDT0FWTVF0LVZpaGJFQ3lJUGI4MmZnOW9mdXJFUUs5dUNGbjZmbGtrVQ?oc=5",
+      "summary": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez Thisispaper",
+      "publishedAt": "2026-01-21T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -3666,34 +3666,34 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=317046",
-      "title": "Autonomous heavy cargo drones airlift 143-pound loads to North Sea wind turbines",
-      "link": "https://interestingengineering.com/ai-robotics/cargo-drones-airlift-to-wind-turbines",
-      "summary": "Ørsted reports that it has completed a new trial of a large cargo delivery drone...",
-      "publishedAt": "2026-10-10T12:48:34.000Z",
-      "imageUrl": "https://www.youtube.com/embed/0OdsnsdirzA",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50031653",
-      "title": "Apple/macOS silently removed from official Unix registry",
-      "link": "https://www.opengroup.org//openbrand/register/",
-      "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 165 # Comments: 165",
-      "publishedAt": "2026-10-10T10:57:31.000Z",
+      "id": "https://news.ycombinator.com/item?id=50033357",
+      "title": "Unikernels were hard. key word: were",
+      "link": "https://ghuntley.com/unikernels/",
+      "summary": "Article URL: https://ghuntley.com/unikernels/ Comments URL: https://news.ycombinator.com/item?id=50033357 Points: 54 # Comments: 23",
+      "publishedAt": "2026-10-10T14:27:09.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128342&secret=cM2XMtKpK3Lj&nonce=43da747c22",
-      "title": "Ancient DNA suggests humans reached America far earlier than previously thought",
-      "link": "https://www.thebrighterside.news/post/ancient-dna-suggests-humans-reached-america-far-earlier-than-previously-thought/",
-      "summary": "Genetic evidence points to early migration into the Americas, but missing genomes leave the first arrivals uncertain. The post Ancient DNA suggests humans reached America far earlier than previously thought appeared first on The Brighter Si…",
-      "publishedAt": "2026-10-09T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/ancient-dna-main.png?auto=webp",
+      "id": "https://interestingengineering.com/?p=317058",
+      "title": "Vision-based waste-sorting robot identifies high-value recyclables in real time",
+      "link": "https://interestingengineering.com/ai-robotics/autonomous-waste-sorting-robot",
+      "summary": "Scotland-based Danu Robotics has just received $5 million in seed funding for its novel waste...",
+      "publishedAt": "2026-10-10T12:50:55.000Z",
+      "imageUrl": "https://www.youtube.com/embed/MQyjttE1YXw",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128352&secret=cM2XMtKpK3Lj&nonce=43da747c22",
+      "title": "Five-dimensional black holes offer a possible explanation for dark matter and neutrinos",
+      "link": "https://www.thebrighterside.news/post/five-dimensional-black-holes-offer-a-possible-explanation-for-dark-matter-and-neutrinos/",
+      "summary": "Hypothetical primordial black holes could behave differently in a universe with an extra spatial dimension, new calculations suggest. The post Five-dimensional black holes offer a possible explanation for dark matter and neutrinos appeared …",
+      "publishedAt": "2026-10-09T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/black-holes.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -3754,11 +3754,11 @@
       "category": "design"
     },
     {
-      "id": "CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8",
-      "title": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8?oc=5",
-      "summary": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say Boulder Daily Camera",
-      "publishedAt": "2026-10-07T11:06:49.000Z",
+      "id": "CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk",
+      "title": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VSXFWMW9id3BFOG9WMWhWMHp4YzE0dUF2TTRjc0dldlVpR3IyeEtfOXRiTGdhS3lqVFJEYWdvVGpZMGhLQ2tLdE1mekNrVWNPenZPNHZiWmxxc2NjbEdGNldVZnpZckhhRkItREltN3RkbDBGSWp5czlHcG9PUVk?oc=5",
+      "summary": "Sundance passes go on sale next week. Here’s Boulder’s guide to getting in — and getting around Daily Camera",
+      "publishedAt": "2026-10-07T14:01:51.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -3798,11 +3798,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMi5gFBVV95cUxNeVU4QlIwNVV3b0M4ZzYyYS1LN2lyZjd4MVZtQzdjWlpwY0htdEtBd0pVdEswbzl1WktpWnV5QkxMOU5ybWhRT09HUW5vbjVYM2diWkdJa1NhQWRNbUxWdGtpZlo4YkpSbmJiejZTdHRYRmNkWUppZ0ZJYVlETlVhOGgweWllcVFwMVUtdW1HUzRpRm1IY2VaeDBWWkQxbXN5TTdqVHFHTWFaTy1qWkZMRHMyeXF0b2RCNDlaRUUweEZic2JHWU1jSTUzNmMzVXM0ZFk4NFZqYWt2azZFMDg0bmU1Yy0yZw",
-      "title": "Vote for Blue FCU's Fort Collins-area Football Player of Week (Week 6) - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeVU4QlIwNVV3b0M4ZzYyYS1LN2lyZjd4MVZtQzdjWlpwY0htdEtBd0pVdEswbzl1WktpWnV5QkxMOU5ybWhRT09HUW5vbjVYM2diWkdJa1NhQWRNbUxWdGtpZlo4YkpSbmJiejZTdHRYRmNkWUppZ0ZJYVlETlVhOGgweWllcVFwMVUtdW1HUzRpRm1IY2VaeDBWWkQxbXN5TTdqVHFHTWFaTy1qWkZMRHMyeXF0b2RCNDlaRUUweEZic2JHWU1jSTUzNmMzVXM0ZFk4NFZqYWt2azZFMDg0bmU1Yy0yZw?oc=5",
-      "summary": "Vote for Blue FCU's Fort Collins-area Football Player of Week (Week 6) The Coloradoan",
-      "publishedAt": "2026-10-06T16:57:00.000Z",
+      "id": "CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw",
+      "title": "Where Colorado State's defense ranks in college football - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3RUbVB1VGRzaHNUSVVHRmt3aDM5VHB1dzRSMWJNVmJ6VVhRNmRFRTBaR0V2VFdKcWFHZU5XNmlBbnNQSVNfaHQzcFhFZkctNUZyZFduYnJLcFJXMDFGeWpSaHZrbHd5SFlQZ1puTllXMVVreHlKRkprVE5adk0zQUNtQU11bTZwUWI2b2U0bXJtZVM1X3gwT0M0ZWFsNTVKbEJBOUtxdHVMRVJqVVFmV0NfRUh4MEJacnRHOS1TWk1Wdw?oc=5",
+      "summary": "Where Colorado State's defense ranks in college football The Coloradoan",
+      "publishedAt": "2026-10-06T17:05:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -3952,17 +3952,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
-      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
-      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
-      "publishedAt": "2026-03-27T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiWEFVX3lxTE1wLUVsMnJlWEYyNlNrdHZBTm1iSnFDbmo5MW5IWG9YZERFN2xTTFR3dnVWdVNIQ0IxWW81dmRzNXBjX3VKQXBxNURoeWgtZmFBdHM1NUR5TmY",
       "title": "The Silicon Man - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wLUVsMnJlWEYyNlNrdHZBTm1iSnFDbmo5MW5IWG9YZERFN2xTTFR3dnVWdVNIQ0IxWW81dmRzNXBjX3VKQXBxNURoeWgtZmFBdHM1NUR5TmY?oc=5",
@@ -3972,6 +3961,17 @@
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg",
+      "title": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg?oc=5",
+      "summary": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP Thisispaper",
+      "publishedAt": "2025-06-17T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3",
@@ -4029,11 +4029,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50031614",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "link": "https://github.com/rociiu/talorys",
-      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 170 # Comments: 91",
-      "publishedAt": "2026-10-10T10:52:09.000Z",
+      "id": "https://news.ycombinator.com/item?id=50032758",
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ Comments URL: https://news.ycombinator.com/item?id=50032758 Points: 179 # Comments: 430",
+      "publishedAt": "2026-10-10T13:29:03.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4073,14 +4073,25 @@
       "category": "design"
     },
     {
-      "id": "CBMihgFBVV95cUxOQVY4cnhyNHNnSTVvbzhDb3FBSGZLTGZYVkdXVHRyanJBQ2xjay1vTU02cW5LSUpaQjJiMXRlVmhyMkxMOVhqeW1LMlZzZTV3VkM3bzktM0NDQVZhVnlvX3FZSkZjVXZOSlFSNTMwX21kSUhuUFVxMHVFNXF1R3M3LWJqSjNmUQ",
-      "title": "Residents should prepare to evacuate amid wildfire near Allenspark - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVY4cnhyNHNnSTVvbzhDb3FBSGZLTGZYVkdXVHRyanJBQ2xjay1vTU02cW5LSUpaQjJiMXRlVmhyMkxMOVhqeW1LMlZzZTV3VkM3bzktM0NDQVZhVnlvX3FZSkZjVXZOSlFSNTMwX21kSUhuUFVxMHVFNXF1R3M3LWJqSjNmUQ?oc=5",
-      "summary": "Residents should prepare to evacuate amid wildfire near Allenspark Daily Camera",
-      "publishedAt": "2026-10-06T21:50:45.000Z",
+      "id": "CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8",
+      "title": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZX216R2ZLd1RyVEQ3eVhKUE9RLWU1VThVcjYtSE1EVmJMU3Ffa0JiTzJGTlRId0ZRU1pYZ1VNN1BkamJHbUV6U2xhSjYxQV9xeEpqRVNQQmE2S0JYVFNmaXdnaHVnaktBUjB1UU1COWxqNFBRRGZjZFJTaFZFYm8?oc=5",
+      "summary": "CU made its OpenAI deal without Boulder faculty input. Now students, staff want a say Boulder Daily Camera",
+      "publishedAt": "2026-10-07T11:06:49.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
+      "id": "CBMi5gFBVV95cUxNeVU4QlIwNVV3b0M4ZzYyYS1LN2lyZjd4MVZtQzdjWlpwY0htdEtBd0pVdEswbzl1WktpWnV5QkxMOU5ybWhRT09HUW5vbjVYM2diWkdJa1NhQWRNbUxWdGtpZlo4YkpSbmJiejZTdHRYRmNkWUppZ0ZJYVlETlVhOGgweWllcVFwMVUtdW1HUzRpRm1IY2VaeDBWWkQxbXN5TTdqVHFHTWFaTy1qWkZMRHMyeXF0b2RCNDlaRUUweEZic2JHWU1jSTUzNmMzVXM0ZFk4NFZqYWt2azZFMDg0bmU1Yy0yZw",
+      "title": "Vote for Blue FCU's Fort Collins-area Football Player of Week (Week 6) - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeVU4QlIwNVV3b0M4ZzYyYS1LN2lyZjd4MVZtQzdjWlpwY0htdEtBd0pVdEswbzl1WktpWnV5QkxMOU5ybWhRT09HUW5vbjVYM2diWkdJa1NhQWRNbUxWdGtpZlo4YkpSbmJiejZTdHRYRmNkWUppZ0ZJYVlETlVhOGgweWllcVFwMVUtdW1HUzRpRm1IY2VaeDBWWkQxbXN5TTdqVHFHTWFaTy1qWkZMRHMyeXF0b2RCNDlaRUUweEZic2JHWU1jSTUzNmMzVXM0ZFk4NFZqYWt2azZFMDg0bmU1Yy0yZw?oc=5",
+      "summary": "Vote for Blue FCU's Fort Collins-area Football Player of Week (Week 6) The Coloradoan",
+      "publishedAt": "2026-10-06T16:57:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -4093,17 +4104,6 @@
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
-    },
-    {
-      "id": "CBMi2wFBVV95cUxNUU12cWJTOXR3c1E4aUlFc19BTWI0Mi1SS2I0NzhsRXFjc2hQeHNSQUJlbUlUYW9KY2lkWFR3elN3bFgwTkxTTXhfRUpCVENmdjZoSURMV1RVTnIwM1hIcE9ZSGdXcXNaZnd4bm5BNHdHYzFTRXdYLWFnWTk2S3paMlNiX0doUjlKT29qaUc4UTQxNVFyWmc5dFdFc2pSNlljVFk3bXp1UEJpMTAxaW5iblVRdmt6RFUyYmhod3FETDhHR2J3bkFlT01qTW1wZksybXFvNDlaYjlWVjg",
-      "title": "Referee suspended for incident involving Trey McBride, per report - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUU12cWJTOXR3c1E4aUlFc19BTWI0Mi1SS2I0NzhsRXFjc2hQeHNSQUJlbUlUYW9KY2lkWFR3elN3bFgwTkxTTXhfRUpCVENmdjZoSURMV1RVTnIwM1hIcE9ZSGdXcXNaZnd4bm5BNHdHYzFTRXdYLWFnWTk2S3paMlNiX0doUjlKT29qaUc4UTQxNVFyWmc5dFdFc2pSNlljVFk3bXp1UEJpMTAxaW5iblVRdmt6RFUyYmhod3FETDhHR2J3bkFlT01qTW1wZksybXFvNDlaYjlWVjg?oc=5",
-      "summary": "Referee suspended for incident involving Trey McBride, per report The Coloradoan",
-      "publishedAt": "2026-10-05T20:52:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
     },
     {
       "id": "urn:id:9045",
@@ -4183,17 +4183,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg",
-      "title": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUV9ZVUU5eXhoQl8zYlR3dWNGczZUOUplSjlOT1JJNmhVaXU2aERXWXp2cFowNERabHA1VFZmY3NfRHdRa2NvdDVfSTRMUDlSVHE1QjRhZWZfelZxUHN4WE0zOE1iNE5maFFwM0dTdm0xRUVoTkwwbnE4RW1UZnQzanhpTnphcmlxNzVUNg?oc=5",
-      "summary": "Sayama Lakeside Cemetery Community Hall by Hiroshi Nakamura & NAP Thisispaper",
-      "publishedAt": "2025-06-17T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg",
       "title": "Pantheone Audio - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg?oc=5",
@@ -4202,6 +4191,17 @@
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ",
+      "title": "Art Biotop Water Garden by Junya Ishigami - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ?oc=5",
+      "summary": "Art Biotop Water Garden by Junya Ishigami Thisispaper",
+      "publishedAt": "2025-03-10T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -4216,11 +4216,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50031269",
-      "title": "`123456' password used in Danish CPR data breach",
-      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 335 # Comments: 178",
-      "publishedAt": "2026-10-10T09:51:49.000Z",
+      "id": "https://news.ycombinator.com/item?id=50031653",
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 220 # Comments: 196",
+      "publishedAt": "2026-10-10T10:57:31.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4260,11 +4260,11 @@
       "category": "design"
     },
     {
-      "id": "CBMif0FVX3lxTE9BU1lwemNsbFdhMmNzM1Z0a2piR0RjcFVic2padDZBSjdISFQ4V0F5RHJMcURSMXN0bWsxZ0F5TmU4dFRKVTdSOWZleVFJVThmcmZlRG9pbFRYd1BjS0JaMFVEM2piTEplRGtyVElELTEwc0JaTzBtdjgtQkU3QnM",
-      "title": "Boulder Public Library District plans cuts to 3 programs, scaling back of 3 services - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BU1lwemNsbFdhMmNzM1Z0a2piR0RjcFVic2padDZBSjdISFQ4V0F5RHJMcURSMXN0bWsxZ0F5TmU4dFRKVTdSOWZleVFJVThmcmZlRG9pbFRYd1BjS0JaMFVEM2piTEplRGtyVElELTEwc0JaTzBtdjgtQkU3QnM?oc=5",
-      "summary": "Boulder Public Library District plans cuts to 3 programs, scaling back of 3 services Boulder Daily Camera",
-      "publishedAt": "2026-10-06T20:08:33.000Z",
+      "id": "CBMihgFBVV95cUxOQVY4cnhyNHNnSTVvbzhDb3FBSGZLTGZYVkdXVHRyanJBQ2xjay1vTU02cW5LSUpaQjJiMXRlVmhyMkxMOVhqeW1LMlZzZTV3VkM3bzktM0NDQVZhVnlvX3FZSkZjVXZOSlFSNTMwX21kSUhuUFVxMHVFNXF1R3M3LWJqSjNmUQ",
+      "title": "Residents should prepare to evacuate amid wildfire near Allenspark - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVY4cnhyNHNnSTVvbzhDb3FBSGZLTGZYVkdXVHRyanJBQ2xjay1vTU02cW5LSUpaQjJiMXRlVmhyMkxMOVhqeW1LMlZzZTV3VkM3bzktM0NDQVZhVnlvX3FZSkZjVXZOSlFSNTMwX21kSUhuUFVxMHVFNXF1R3M3LWJqSjNmUQ?oc=5",
+      "summary": "Residents should prepare to evacuate amid wildfire near Allenspark Daily Camera",
+      "publishedAt": "2026-10-06T21:50:45.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4282,11 +4282,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMizwFBVV95cUxPOFk4Z2c5ZXAyTDF4NHdGUkQtSW5xeC10dVg3YjltVjZOLTVCM3NRQlJMM0xKbTkzNjVwZWp4TnBQcV9KS2VkeWd5dUdYbGNPbGJJUGVrbGtWVFdYTWFoQmVEVEhtZG5NSzZKRkc1N2c2Vi10NE05Zk5jbXoxY0pBWmJySzUtRUl3Y0dDY3NfSDR1X3pKNFpnQVl6dUtyVGJVbF84SWxULVc2UUk0djBQV1BoLUIwNXdNdC1iaDBBZEJkYlp0N1ptYl93OGtGUEU",
-      "title": "NFL investigating ref appearing to curse at Trey McBride - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFk4Z2c5ZXAyTDF4NHdGUkQtSW5xeC10dVg3YjltVjZOLTVCM3NRQlJMM0xKbTkzNjVwZWp4TnBQcV9KS2VkeWd5dUdYbGNPbGJJUGVrbGtWVFdYTWFoQmVEVEhtZG5NSzZKRkc1N2c2Vi10NE05Zk5jbXoxY0pBWmJySzUtRUl3Y0dDY3NfSDR1X3pKNFpnQVl6dUtyVGJVbF84SWxULVc2UUk0djBQV1BoLUIwNXdNdC1iaDBBZEJkYlp0N1ptYl93OGtGUEU?oc=5",
-      "summary": "NFL investigating ref appearing to curse at Trey McBride The Coloradoan",
-      "publishedAt": "2026-10-05T20:39:00.000Z",
+      "id": "CBMi2wFBVV95cUxNUU12cWJTOXR3c1E4aUlFc19BTWI0Mi1SS2I0NzhsRXFjc2hQeHNSQUJlbUlUYW9KY2lkWFR3elN3bFgwTkxTTXhfRUpCVENmdjZoSURMV1RVTnIwM1hIcE9ZSGdXcXNaZnd4bm5BNHdHYzFTRXdYLWFnWTk2S3paMlNiX0doUjlKT29qaUc4UTQxNVFyWmc5dFdFc2pSNlljVFk3bXp1UEJpMTAxaW5iblVRdmt6RFUyYmhod3FETDhHR2J3bkFlT01qTW1wZksybXFvNDlaYjlWVjg",
+      "title": "Referee suspended for incident involving Trey McBride, per report - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUU12cWJTOXR3c1E4aUlFc19BTWI0Mi1SS2I0NzhsRXFjc2hQeHNSQUJlbUlUYW9KY2lkWFR3elN3bFgwTkxTTXhfRUpCVENmdjZoSURMV1RVTnIwM1hIcE9ZSGdXcXNaZnd4bm5BNHdHYzFTRXdYLWFnWTk2S3paMlNiX0doUjlKT29qaUc4UTQxNVFyWmc5dFdFc2pSNlljVFk3bXp1UEJpMTAxaW5iblVRdmt6RFUyYmhod3FETDhHR2J3bkFlT01qTW1wZksybXFvNDlaYjlWVjg?oc=5",
+      "summary": "Referee suspended for incident involving Trey McBride, per report The Coloradoan",
+      "publishedAt": "2026-10-05T20:52:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -4370,17 +4370,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ",
-      "title": "Art Biotop Water Garden by Junya Ishigami - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ?oc=5",
-      "summary": "Art Biotop Water Garden by Junya Ishigami Thisispaper",
-      "publishedAt": "2025-03-10T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU",
       "title": "PNY in Reims, France by Rudy Guénaire - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU?oc=5",
@@ -4389,6 +4378,17 @@
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMihwFBVV95cUxQZjJGSEpaeFU4VjNFd0pad1hvS3FBOVVmVS1FdmNuQkliTzZReE1jMTlKa0hEdEREdWtsWVVfdGZSazFEZUJpRElKTl9jUEsycTN0N3VaMkQ2TlRrQTI1eVFna0xMNEdNeDVPbEw5QVVCMjIzWk91bUhoYnRIX1FNbmNabVhwUDQ",
+      "title": "Metempsychosis: The Passion of Pneumatics by Ivana Bašić at Schinkel Pavillon - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjJGSEpaeFU4VjNFd0pad1hvS3FBOVVmVS1FdmNuQkliTzZReE1jMTlKa0hEdEREdWtsWVVfdGZSazFEZUJpRElKTl9jUEsycTN0N3VaMkQ2TlRrQTI1eVFna0xMNEdNeDVPbEw5QVVCMjIzWk91bUhoYnRIX1FNbmNabVhwUDQ?oc=5",
+      "summary": "Metempsychosis: The Passion of Pneumatics by Ivana Bašić at Schinkel Pavillon Thisispaper",
+      "publishedAt": "2024-07-15T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -4403,11 +4403,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50029123",
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 342 # Comments: 171",
-      "publishedAt": "2026-10-10T03:02:47.000Z",
+      "id": "https://news.ycombinator.com/item?id=50031614",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 220 # Comments: 112",
+      "publishedAt": "2026-10-10T10:52:09.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4447,11 +4447,11 @@
       "category": "design"
     },
     {
-      "id": "CBMinwFBVV95cUxQbkNaZzNwbm1Jem5DemlYSmRQU0ozbzRnc0hEeGxnaXlCakxnejc4WU5BYVN3VWRib2JKZmFBTHRxbEgwR0p1QVpxdlQwRU1JWjdVSjlfV1J1c0IyUjhCLXRvaFVtYm1ZelBjMF95M19FNGdmU0NNUW9oSmxQb2k2NFAzZWpjb2Q2M0FCMHZtYW00d1hLTkJZS25lZEVCVWs",
-      "title": "Messaging matters as Tad Boyle implores CU Buffs for improved defense, rebounding - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkNaZzNwbm1Jem5DemlYSmRQU0ozbzRnc0hEeGxnaXlCakxnejc4WU5BYVN3VWRib2JKZmFBTHRxbEgwR0p1QVpxdlQwRU1JWjdVSjlfV1J1c0IyUjhCLXRvaFVtYm1ZelBjMF95M19FNGdmU0NNUW9oSmxQb2k2NFAzZWpjb2Q2M0FCMHZtYW00d1hLTkJZS25lZEVCVWs?oc=5",
-      "summary": "Messaging matters as Tad Boyle implores CU Buffs for improved defense, rebounding Boulder Daily Camera",
-      "publishedAt": "2026-10-06T20:04:12.000Z",
+      "id": "CBMif0FVX3lxTE9BU1lwemNsbFdhMmNzM1Z0a2piR0RjcFVic2padDZBSjdISFQ4V0F5RHJMcURSMXN0bWsxZ0F5TmU4dFRKVTdSOWZleVFJVThmcmZlRG9pbFRYd1BjS0JaMFVEM2piTEplRGtyVElELTEwc0JaTzBtdjgtQkU3QnM",
+      "title": "Boulder Public Library District plans cuts to 3 programs, scaling back of 3 services - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BU1lwemNsbFdhMmNzM1Z0a2piR0RjcFVic2padDZBSjdISFQ4V0F5RHJMcURSMXN0bWsxZ0F5TmU4dFRKVTdSOWZleVFJVThmcmZlRG9pbFRYd1BjS0JaMFVEM2piTEplRGtyVElELTEwc0JaTzBtdjgtQkU3QnM?oc=5",
+      "summary": "Boulder Public Library District plans cuts to 3 programs, scaling back of 3 services Boulder Daily Camera",
+      "publishedAt": "2026-10-06T20:08:33.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4469,11 +4469,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMizgFBVV95cUxNeTZGLVRwanJJNzF5azE3SjJsTVhYRnhmLVE5TVRTRzB3bXRTNGZhREJIUlhkOGxBS3gwR0l1VVIzR0c4YkFCNzFMMGN3QnpUSUdxelNWQWlYUUs5aWVyUWczWnUyUlZ4VXpiVG1Kc0VNYU5RejlDVzFqY25tZ2xkM1huVHN3RTBDS000UHA1TFlwSGhvLUdjbGlhQlc1bWFQRTRpRThFUVNON0l6V3J0SEQ0aE9Ja2JhOXdsaGU4OTF0Tl9QWHFBT0JnQ09oUQ",
-      "title": "Colorado State announces program record crowd for homecoming game - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeTZGLVRwanJJNzF5azE3SjJsTVhYRnhmLVE5TVRTRzB3bXRTNGZhREJIUlhkOGxBS3gwR0l1VVIzR0c4YkFCNzFMMGN3QnpUSUdxelNWQWlYUUs5aWVyUWczWnUyUlZ4VXpiVG1Kc0VNYU5RejlDVzFqY25tZ2xkM1huVHN3RTBDS000UHA1TFlwSGhvLUdjbGlhQlc1bWFQRTRpRThFUVNON0l6V3J0SEQ0aE9Ja2JhOXdsaGU4OTF0Tl9QWHFBT0JnQ09oUQ?oc=5",
-      "summary": "Colorado State announces program record crowd for homecoming game The Coloradoan",
-      "publishedAt": "2026-10-04T13:35:00.000Z",
+      "id": "CBMizwFBVV95cUxPOFk4Z2c5ZXAyTDF4NHdGUkQtSW5xeC10dVg3YjltVjZOLTVCM3NRQlJMM0xKbTkzNjVwZWp4TnBQcV9KS2VkeWd5dUdYbGNPbGJJUGVrbGtWVFdYTWFoQmVEVEhtZG5NSzZKRkc1N2c2Vi10NE05Zk5jbXoxY0pBWmJySzUtRUl3Y0dDY3NfSDR1X3pKNFpnQVl6dUtyVGJVbF84SWxULVc2UUk0djBQV1BoLUIwNXdNdC1iaDBBZEJkYlp0N1ptYl93OGtGUEU",
+      "title": "NFL investigating ref appearing to curse at Trey McBride - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFk4Z2c5ZXAyTDF4NHdGUkQtSW5xeC10dVg3YjltVjZOLTVCM3NRQlJMM0xKbTkzNjVwZWp4TnBQcV9KS2VkeWd5dUdYbGNPbGJJUGVrbGtWVFdYTWFoQmVEVEhtZG5NSzZKRkc1N2c2Vi10NE05Zk5jbXoxY0pBWmJySzUtRUl3Y0dDY3NfSDR1X3pKNFpnQVl6dUtyVGJVbF84SWxULVc2UUk0djBQV1BoLUIwNXdNdC1iaDBBZEJkYlp0N1ptYl93OGtGUEU?oc=5",
+      "summary": "NFL investigating ref appearing to curse at Trey McBride The Coloradoan",
+      "publishedAt": "2026-10-05T20:39:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -4568,11 +4568,11 @@
       "category": "design"
     },
     {
-      "id": "CBMihwFBVV95cUxQZjJGSEpaeFU4VjNFd0pad1hvS3FBOVVmVS1FdmNuQkliTzZReE1jMTlKa0hEdEREdWtsWVVfdGZSazFEZUJpRElKTl9jUEsycTN0N3VaMkQ2TlRrQTI1eVFna0xMNEdNeDVPbEw5QVVCMjIzWk91bUhoYnRIX1FNbmNabVhwUDQ",
-      "title": "Metempsychosis: The Passion of Pneumatics by Ivana Bašić at Schinkel Pavillon - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjJGSEpaeFU4VjNFd0pad1hvS3FBOVVmVS1FdmNuQkliTzZReE1jMTlKa0hEdEREdWtsWVVfdGZSazFEZUJpRElKTl9jUEsycTN0N3VaMkQ2TlRrQTI1eVFna0xMNEdNeDVPbEw5QVVCMjIzWk91bUhoYnRIX1FNbmNabVhwUDQ?oc=5",
-      "summary": "Metempsychosis: The Passion of Pneumatics by Ivana Bašić at Schinkel Pavillon Thisispaper",
-      "publishedAt": "2024-07-15T07:00:00.000Z",
+      "id": "CBMidEFVX3lxTE1KcUQxZzZfb243NnVVM2xzc2d2ZlZJSmQza01wVUdaa3pWbVJmZFJ4T2xKdUZZbDVYanVUSnZnTXRxWFNGa09fNC1HLWNPd1NQMldrZGVDdDBRWU5jSjFrdUVMUDhTWTFiX3JTM3BRdGI4WURY",
+      "title": "Lee Ufan Museum by Tadao Ando captured by Dan Preston - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KcUQxZzZfb243NnVVM2xzc2d2ZlZJSmQza01wVUdaa3pWbVJmZFJ4T2xKdUZZbDVYanVUSnZnTXRxWFNGa09fNC1HLWNPd1NQMldrZGVDdDBRWU5jSjFrdUVMUDhTWTFiX3JTM3BRdGI4WURY?oc=5",
+      "summary": "Lee Ufan Museum by Tadao Ando captured by Dan Preston Thisispaper",
+      "publishedAt": "2023-03-08T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4590,11 +4590,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50028275",
-      "title": "REA Reverse – Engineer Anything",
-      "link": "https://rea.tools/",
-      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 615 # Comments: 267",
-      "publishedAt": "2026-10-10T00:37:07.000Z",
+      "id": "https://news.ycombinator.com/item?id=50031269",
+      "title": "`123456' password used in Danish CPR data breach",
+      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 367 # Comments: 190",
+      "publishedAt": "2026-10-10T09:51:49.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4634,6 +4634,17 @@
       "category": "design"
     },
     {
+      "id": "CBMinwFBVV95cUxQbkNaZzNwbm1Jem5DemlYSmRQU0ozbzRnc0hEeGxnaXlCakxnejc4WU5BYVN3VWRib2JKZmFBTHRxbEgwR0p1QVpxdlQwRU1JWjdVSjlfV1J1c0IyUjhCLXRvaFVtYm1ZelBjMF95M19FNGdmU0NNUW9oSmxQb2k2NFAzZWpjb2Q2M0FCMHZtYW00d1hLTkJZS25lZEVCVWs",
+      "title": "Messaging matters as Tad Boyle implores CU Buffs for improved defense, rebounding - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkNaZzNwbm1Jem5DemlYSmRQU0ozbzRnc0hEeGxnaXlCakxnejc4WU5BYVN3VWRib2JKZmFBTHRxbEgwR0p1QVpxdlQwRU1JWjdVSjlfV1J1c0IyUjhCLXRvaFVtYm1ZelBjMF95M19FNGdmU0NNUW9oSmxQb2k2NFAzZWpjb2Q2M0FCMHZtYW00d1hLTkJZS25lZEVCVWs?oc=5",
+      "summary": "Messaging matters as Tad Boyle implores CU Buffs for improved defense, rebounding Boulder Daily Camera",
+      "publishedAt": "2026-10-06T20:04:12.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://www.themarginalian.org/?p=75244",
       "title": "Nietzsche on Walking and Creativity",
       "link": "https://www.themarginalian.org/2026/10/05/nietzsche-walking/",
@@ -4645,22 +4656,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE",
-      "title": "CU Buffs defense gives Colorado a chance against Texas Tech - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94bDVIMmdlQU5FV1VBTmdSeTZMMGNYaGE5eUhZbUVkLXVPRWd1OWFHNl96NHBtV0N1cF9KRzhueFdRTnBSSmZtY1BDM1YxejdRREd5U2EyMHg2TjBPaU5KT01IVjNaV0wzUWNTQy0tUkxfSUVtNkE?oc=5",
-      "summary": "CU Buffs defense gives Colorado a chance against Texas Tech Boulder Daily Camera",
-      "publishedAt": "2026-10-04T22:11:57.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "CBMixAFBVV95cUxQaDdJVVFiU2g2cXlwZWFfUjFkSDhtY0ZzTkRsaUE1TEFRdkxQT1c0bnpwS2h3MVBaN295VWQ0dnRYZ2RYbDhsblpIWmRfVXhFYy13WlRBSDVQU050TGJIcWNqNzJtVWFJdzc1Sk5vdDJtQ2JqQ2l0MVNLNUxiaXY5ZngwTjJHLWhqc1E2TklHdi14TW5tcEx2Q3hGREVuWDRVczlVV1RZWjZhR1NodVNNSm5ublRCcTZNNkQtR2FQTkVtajR5",
-      "title": "What Jim Mora said about change at defensive coordinator - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaDdJVVFiU2g2cXlwZWFfUjFkSDhtY0ZzTkRsaUE1TEFRdkxQT1c0bnpwS2h3MVBaN295VWQ0dnRYZ2RYbDhsblpIWmRfVXhFYy13WlRBSDVQU050TGJIcWNqNzJtVWFJdzc1Sk5vdDJtQ2JqQ2l0MVNLNUxiaXY5ZngwTjJHLWhqc1E2TklHdi14TW5tcEx2Q3hGREVuWDRVczlVV1RZWjZhR1NodVNNSm5ublRCcTZNNkQtR2FQTkVtajR5?oc=5",
-      "summary": "What Jim Mora said about change at defensive coordinator The Coloradoan",
-      "publishedAt": "2026-10-04T03:36:00.000Z",
+      "id": "CBMi4wFBVV95cUxQRkxZR1I1T0piOUh2c0U4c1VnQ2RERjduSXhzOG9HUFJhalRWb25JZ1hyd0czSWxKQ0FFaGxSd2M1VHhFTFdFUmN2bjlmcjF6SzNTckRpMDFUSlg0WDdFU25LbURvY0hOYXh6WWd1V3hxelNtUWdtaUpTNlZtSDM5SjdfMmNaV21mc0loWFUzWGY0Y3hFbjNxb1Jwb0pVUGtzQjBTdHNlY2tnX0hxMGQ2WFZSOEdyb0MtQWp3TGdCT0FUSFZiS091R3dpaTF2azZxRHBtcjYycGVWMS1VV0FGNG5UVQ",
+      "title": "Colorado election: Q&A with Colorado AG candidate Jena Griswold - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRkxZR1I1T0piOUh2c0U4c1VnQ2RERjduSXhzOG9HUFJhalRWb25JZ1hyd0czSWxKQ0FFaGxSd2M1VHhFTFdFUmN2bjlmcjF6SzNTckRpMDFUSlg0WDdFU25LbURvY0hOYXh6WWd1V3hxelNtUWdtaUpTNlZtSDM5SjdfMmNaV21mc0loWFUzWGY0Y3hFbjNxb1Jwb0pVUGtzQjBTdHNlY2tnX0hxMGQ2WFZSOEdyb0MtQWp3TGdCT0FUSFZiS091R3dpaTF2azZxRHBtcjYycGVWMS1VV0FGNG5UVQ?oc=5",
+      "summary": "Colorado election: Q&A with Colorado AG candidate Jena Griswold The Coloradoan",
+      "publishedAt": "2026-10-05T20:26:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
