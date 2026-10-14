@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:16:08.810Z",
+  "generatedAt": "2026-10-14T15:54:37.325Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -14,8 +14,8 @@
       "name": "Noema Magazine",
       "siteUrl": "https://www.noemamag.com",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "philosophy-now",
@@ -70,8 +70,8 @@
       "name": "Leibal",
       "siteUrl": "https://leibal.com",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "minimalissimo",
@@ -102,8 +102,8 @@
       "name": "Tricycle: The Buddhist Review",
       "siteUrl": "https://tricycle.org",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "aeon",
@@ -118,187 +118,220 @@
       "name": "Nautilus",
       "siteUrl": "https://nautil.us",
       "category": "science",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "daily-stoic",
       "name": "Daily Stoic",
       "siteUrl": "https://dailystoic.com",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "the-marginalian",
       "name": "The Marginalian",
       "siteUrl": "https://www.themarginalian.org",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "colorado-sun",
       "name": "The Colorado Sun",
       "siteUrl": "https://coloradosun.com",
       "category": "local",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "boulder-reporting-lab",
       "name": "Boulder Reporting Lab",
       "siteUrl": "https://boulderreportinglab.org",
       "category": "local",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "brighter-side",
       "name": "The Brighter Side of News",
       "siteUrl": "https://www.thebrighterside.news",
       "category": "general",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "space-com",
       "name": "Space.com",
       "siteUrl": "https://www.space.com",
       "category": "science",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "fukt-magazine",
       "name": "FUKT Magazine",
       "siteUrl": "https://www.fuktmagazine.com",
       "category": "art",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "assemble-papers",
       "name": "Assemble Papers",
       "siteUrl": "https://assemblepapers.com.au",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "typewolf",
       "name": "Typewolf",
       "siteUrl": "https://www.typewolf.com",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "the-local-project",
       "name": "The Local Project",
       "siteUrl": "https://thelocalproject.com.au",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "daily-camera",
       "name": "Daily Camera",
       "siteUrl": "https://www.dailycamera.com",
       "category": "local",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "coloradoan",
       "name": "Fort Collins Coloradoan",
       "siteUrl": "https://www.coloradoan.com",
       "category": "local",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "taos-news",
       "name": "Taos News",
       "siteUrl": "https://www.taosnews.com",
       "category": "local",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "arena-magazine",
       "name": "Arena Magazine",
       "siteUrl": "https://arenamag.com",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "surface",
       "name": "Surface",
       "siteUrl": "https://www.surfacemag.com",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "dwell",
       "name": "Dwell",
       "siteUrl": "https://www.dwell.com",
       "category": "design",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "pitchfork",
       "name": "Pitchfork",
       "siteUrl": "https://pitchfork.com",
       "category": "art",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "lions-roar",
       "name": "Lion's Roar",
       "siteUrl": "https://www.lionsroar.com",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "mindful",
       "name": "Mindful",
       "siteUrl": "https://www.mindful.org",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "greater-good",
       "name": "Greater Good Magazine",
       "siteUrl": "https://greatergood.berkeley.edu",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "psyche",
       "name": "Psyche",
       "siteUrl": "https://psyche.co",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "headspace",
       "name": "Headspace",
       "siteUrl": "https://www.headspace.com/articles",
       "category": "ideas",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     }
   ],
   "articles": [
+    {
+      "id": "https://news.ycombinator.com/item?id=50089052",
+      "title": "Why are all these data companies buying internal data?",
+      "link": "https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd",
+      "summary": "Article URL: https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd Comments URL: https://news.ycombinator.com/item?id=50089052 Points: 15 # Comments: 5",
+      "publishedAt": "2026-10-14T15:23:31.000Z",
+      "imageUrl": null,
+      "sourceId": "hacker-news",
+      "sourceName": "Hacker News",
+      "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=318209",
+      "title": "Cold-proof alloys: Scientists find new class of metal that resist cracking at minus 423°F",
+      "link": "https://interestingengineering.com/science/niobium-titanium-alloys-resist-extreme-cold-twinning-nature",
+      "summary": "A pair of experimental alloys has stayed tough at 20 kelvin, or minus 423 degrees...",
+      "publishedAt": "2026-10-14T15:10:00.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/ISIS-Neutron-and-Muon-source.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants",
+      "title": "Can predictive tools tell us who really needs antidepressants?",
+      "link": "https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants",
+      "summary": "Amid a U.S. push for “deprescribing,” researchers are finding new ways to match patients to their optimal treatment",
+      "publishedAt": "2026-10-14T10:35:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
+      "category": "science"
+    },
     {
       "id": "https://leibal.com/?p=185319",
       "title": "Cairngorm Cottage",
@@ -311,17 +344,6 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50085332",
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "link": "https://book.humanexperiences.io/",
-      "summary": "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to g…",
-      "publishedAt": "2026-10-14T10:29:56.000Z",
-      "imageUrl": null,
-      "sourceId": "hacker-news",
-      "sourceName": "Hacker News",
-      "category": "tech"
-    },
-    {
       "id": "https://coloradosun.com/?p=505023",
       "title": "Millions in untraceable conservative money is flooding into Colorado to oppose tax-related ballot measures",
       "link": "https://coloradosun.com/2026/10/14/dark-money-colorado-election-2026-ballot-measures/",
@@ -331,17 +353,6 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318111",
-      "title": "Humanoid robot learns to duck, step over objects, and avoid obstacles with new system",
-      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-learns-to-duck-step-over-objects",
-      "summary": "Galbot introduced PASSAGE, a research framework that helps humanoid robots navigate cluttered environments by adapting...",
-      "publishedAt": "2026-10-14T10:20:43.000Z",
-      "imageUrl": "https://www.youtube.com/embed/D9Br0hD6jUw",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "urn:id:8690",
@@ -419,17 +430,6 @@
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
-    },
-    {
-      "id": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
-      "title": "Simons Observatory takes a closer look at the infant universe",
-      "link": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
-      "summary": "New facility in Chile will hunt for signs of cosmic inflation while using the microwave background to discover galaxy clusters",
-      "publishedAt": "2026-10-14T05:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
     },
     {
       "id": "6ace84c806c4ac8cd755533a",
@@ -685,15 +685,26 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50085306",
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "summary": "Article URL: https://blog.lorenzano.eu/pulsar-at-esug-2026/ Comments URL: https://news.ycombinator.com/item?id=50085306 Points: 5 # Comments: 0",
-      "publishedAt": "2026-10-14T10:26:53.000Z",
+      "id": "https://news.ycombinator.com/item?id=50088935",
+      "title": "Passkeys Are Not a Trap",
+      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "summary": "Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/ Comments URL: https://news.ycombinator.com/item?id=50088935 Points: 109 # Comments: 92",
+      "publishedAt": "2026-10-14T15:15:45.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=318188",
+      "title": "New electric car battery concept promises lighter packs with improved driving range",
+      "link": "https://interestingengineering.com/energy/prologium-rimac-next-gen-ev-battery",
+      "summary": "Jointly anchoring the battery electric-vehicle (BEV) industry, ProLogium, a Taiwan-based energy innovation company, together with...",
+      "publishedAt": "2026-10-14T14:19:37.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/EV-Solid-State-Battery.jpeg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "https://coloradosun.com/?p=505037",
@@ -705,17 +716,6 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318129",
-      "title": "Nearly 12,000 new viruses found in Pacific Ocean region targeted for deep-sea mining",
-      "link": "https://interestingengineering.com/science/scientists-identify-thousands-of-new-viral-species",
-      "summary": "A new study has uncovered vast, previously unknown viral diversity in the Clarion-Clipperton Zone (CCFZ),...",
-      "publishedAt": "2026-10-14T10:04:39.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-37.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "urn:id:9163",
@@ -738,6 +738,17 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
+    },
+    {
+      "id": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
+      "title": "World’s newest observatory will peer into the infant universe",
+      "link": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
+      "summary": "The Simons Observatory in Chile will will hunt for galaxy clusters and signs of cosmic inflation",
+      "publishedAt": "2026-10-14T05:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
+      "category": "science"
     },
     {
       "id": "https://boulderreportinglab.org/?p=128323",
@@ -881,17 +892,6 @@
       "sourceId": "aeon",
       "sourceName": "Aeon",
       "category": "ideas"
-    },
-    {
-      "id": "https://www.science.org/content/article/women-academics-feeling-devalued-can-be-fatal-career-blow",
-      "title": "For women academics, feeling devalued can be a fatal career blow",
-      "link": "https://www.science.org/content/article/women-academics-feeling-devalued-can-be-fatal-career-blow",
-      "summary": "Thousands shared their stories for a new study of faculty attrition",
-      "publishedAt": "2026-10-13T08:30:00.000Z",
-      "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
     },
     {
       "id": "https://philosophynow.org/issues/176/News_October_November_2026",
@@ -1070,15 +1070,26 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50085302",
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "link": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "summary": "Article URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers Comments URL: https://news.ycombinator.com/item?id=50085302 Points: 5 # Comments: 0",
-      "publishedAt": "2026-10-14T10:26:24.000Z",
+      "id": "https://news.ycombinator.com/item?id=50088643",
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "summary": "Article URL: https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation Comments URL: https://news.ycombinator.com/item?id=50088643 Points: 8 # Comments: 0",
+      "publishedAt": "2026-10-14T14:55:19.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=318193",
+      "title": "How orbiting mini organs could help humans live longer on Earth and in space",
+      "link": "https://interestingengineering.com/space/mini-organs-could-help-humans-live-longer",
+      "summary": "Spaceflight does strange, rapid things to the human body. Six months in orbit can age...",
+      "publishedAt": "2026-10-14T13:45:01.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-38.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "https://coloradosun.com/?p=504987",
@@ -1101,17 +1112,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318154",
-      "title": "US Army and Navy labs push TRICON Arctic shelters from minus 15 to minus 65 degrees",
-      "link": "https://interestingengineering.com/military/army-navy-labs-tricon-arctic-shelter-minus-65-degrees",
-      "summary": "U.S. Army and Navy engineers have pushed a deployable shelter system built around Triple Container,...",
-      "publishedAt": "2026-10-14T09:01:33.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/cold-hardening-testing.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "6ace35b32fc802a2451263e0",
@@ -1235,11 +1235,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
-      "title": "This year’s ‘super’ El Niño could wreak ecological havoc worldwide",
-      "link": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
-      "summary": "Ecologists are mobilizing to save threatened species and track ecosystems’ responses to record heat",
-      "publishedAt": "2026-10-13T05:17:24.000Z",
+      "id": "https://www.science.org/content/article/women-academics-feeling-devalued-can-be-fatal-career-blow",
+      "title": "For women academics, feeling devalued can be a fatal career blow",
+      "link": "https://www.science.org/content/article/women-academics-feeling-devalued-can-be-fatal-career-blow",
+      "summary": "Thousands shared their stories for a new study of faculty attrition",
+      "publishedAt": "2026-10-13T08:30:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
@@ -1455,15 +1455,26 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50085296",
-      "title": "I let an AI run my startup for a week",
-      "link": "https://daily.tinyprojects.dev/221",
-      "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 29 # Comments: 17",
-      "publishedAt": "2026-10-14T10:25:48.000Z",
+      "id": "https://news.ycombinator.com/item?id=50088430",
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 59 # Comments: 44",
+      "publishedAt": "2026-10-14T14:38:55.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=318246",
+      "title": "New floating nuclear power project secures 4.95% enriched uranium fuel for testing",
+      "link": "https://interestingengineering.com/energy/bluecore-energy-enriched-uranium-floating-nuclear-power",
+      "summary": "Bluecore Energy has purchased low-enriched uranium for its first nuclear energy system, as per an...",
+      "publishedAt": "2026-10-14T13:40:08.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Bluecore-Uranium.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "https://coloradosun.com/?p=505045",
@@ -1486,17 +1497,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318124",
-      "title": "Battery-free smart glasses use blinks and jaw movement to sense pulse and chewing",
-      "link": "https://interestingengineering.com/innovation/blink-powered-glasses-glassteng-facial-energy-harvesting",
-      "summary": "Everyday eyeglasses could one day track heart activity, jaw clenching and eating habits without a...",
-      "publishedAt": "2026-10-14T06:58:59.000Z",
-      "imageUrl": "https://www.youtube.com/embed/NvrESrgnz2s",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "6ace7f6d782c63944fc9d400",
@@ -1576,11 +1576,11 @@
       "category": "local"
     },
     {
-      "id": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
-      "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
-      "link": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
-      "summary": "Huge OpenAI release contains “exciting” progress on a puzzle about prime numbers",
-      "publishedAt": "2026-10-13T04:00:00.000Z",
+      "id": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
+      "title": "This year’s ‘super’ El Niño could wreak ecological havoc worldwide",
+      "link": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
+      "summary": "Ecologists are mobilizing to save threatened species and track ecosystems’ responses to record heat",
+      "publishedAt": "2026-10-13T05:15:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
@@ -1840,11 +1840,22 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50085259",
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "summary": "Article URL: https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren Comments URL: https://news.ycombinator.com/item?id=50085259 Point…",
-      "publishedAt": "2026-10-14T10:21:13.000Z",
+      "id": "https://interestingengineering.com/?p=318212",
+      "title": "Georgia Tech’s Nexus AI supercomputer can now be accessed by all US scientists",
+      "link": "https://interestingengineering.com/innovation/new-nexus-supercomputer-georgia-tech",
+      "summary": "The computing prowess of Nexus, the newest AI supercomputer installed at the Coda Data Center...",
+      "publishedAt": "2026-10-14T13:40:03.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-design-2026-10-14T184252.673.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50087044",
+      "title": "Eric Binnion has died",
+      "link": "https://ma.tt/2026/10/rip-eric/",
+      "summary": "Article URL: https://ma.tt/2026/10/rip-eric/ Comments URL: https://news.ycombinator.com/item?id=50087044 Points: 64 # Comments: 29",
+      "publishedAt": "2026-10-14T12:58:32.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -1860,17 +1871,6 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318101",
-      "title": "Oxygen-based chipmaking method controls 2D crystal growth with over 99% success",
-      "link": "https://interestingengineering.com/innovation/oxygen-based-chipmaking-method-2d-crystal-growth",
-      "summary": "Researchers in South Korea have developed a semiconductor manufacturing technique that controls where individual crystals...",
-      "publishedAt": "2026-10-13T23:59:40.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Photonic-wafer-ayar-labs.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "CBMitgFBVV95cUxOejNRdlpDOTJHM2hIQWEtZWJYZ2lWMWNqalhsV05CYVFjN3pTanBjTkUxMG0wMVpwQjhxSnFia0gxbjNIWGlXLUNmQWJZTWJXVmg5cUhfaUd6ZGNCZ2ZzSVhwaDBULXpIWlpZaC11WVNuSVcwVGZ4V2NjZFlPNnRIN1pFRkU3NWVHU2xRMmNPaHR1RGhyOVBOWDdlNzJOR1F1WDFNQU1BR2FnakdYS3JwYWItZGEydw",
@@ -1950,10 +1950,10 @@
       "category": "design"
     },
     {
-      "id": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
-      "title": "OpenAI just changed math forever. Exactly how, no one yet knows",
-      "link": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
-      "summary": "Dump of 722 AI-generated papers has mathematicians wondering: Has their field been decimated or invigorated?",
+      "id": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+      "link": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "summary": "Huge OpenAI release contains “exciting” progress on a puzzle about prime numbers",
       "publishedAt": "2026-10-13T04:00:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
@@ -2225,11 +2225,22 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50084969",
-      "title": "Ask HN: What is the current trajectory of a senior engineer?",
-      "link": "https://news.ycombinator.com/item?id=50084969",
-      "summary": "Been recently thinking about this more and more: When the need for a human in the design loop ceases? Given that LLMs are RL'd to the max with everything that can be given a wrong/right answer (code/maths), what currently is stopping Anthro…",
-      "publishedAt": "2026-10-14T09:54:23.000Z",
+      "id": "https://interestingengineering.com/?p=318182",
+      "title": "US explores nuclear-powered ships and floating reactors in new agreement",
+      "link": "https://interestingengineering.com/transportation/us-abs-nuclear-powered-ships-floating-reactors",
+      "summary": "The U.S. Department of Energy (DOE) and the American Bureau of Shipping (ABS) have signed...",
+      "publishedAt": "2026-10-14T13:38:10.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-HD-Hyundai.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50086484",
+      "title": "The Aaronson Oracle",
+      "link": "https://aaronsonoracle.com/",
+      "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 35 # Comments: 32",
+      "publishedAt": "2026-10-14T12:16:35.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -2245,17 +2256,6 @@
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
       "category": "local"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318097",
-      "title": "Tiny chip stores memories in flowing water without conventional electronics",
-      "link": "https://interestingengineering.com/innovation/microfluidic-chip-stores-memories-in-flowing-water",
-      "summary": "Yale researchers have found a way to make flowing fluids remember what happened before, using...",
-      "publishedAt": "2026-10-13T23:53:03.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-14T045318.488.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "CBMiqwFBVV95cUxNb0xSRmJ0cUxPd285RkttUVFqWnhMWEIxTFhkRWZ0YVdsTkl1a2ZNckNXV21kMXkwblJOWDlfOURScGpxZEJjWVd1RWtFZHdCc3Atb05vLU13UWF1bURPdUNxSDAxTDgtZTZDZi1yM1laZENsaEE1VlpkLXppRUlXdXVkaEplNmVVRXhnci1zUm5ONlgxSUk2ZG5yZGlhT0NlRzZUeFpXX3VxY1E",
@@ -2324,11 +2324,11 @@
       "category": "design"
     },
     {
-      "id": "https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science",
-      "title": "Trump takes credit for a new ‘golden age’ of U.S. science",
-      "link": "https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science",
-      "summary": "Industry heavyweights receive first national science medals awarded by the president",
-      "publishedAt": "2026-10-13T03:25:00.000Z",
+      "id": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
+      "title": "OpenAI just changed math forever. Exactly how, no one yet knows",
+      "link": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
+      "summary": "Dump of 722 AI-generated papers has mathematicians wondering: Has their field been decimated or invigorated?",
+      "publishedAt": "2026-10-13T04:00:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
@@ -2544,11 +2544,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiakFVX3lxTE9QSmljcjNtc09rdGZmRWgzZWFTWWE5Y3ZFRVBuQWtoS29NbzZnZDNFSjAwelpRUWd3RGxla1ljQ2ZKM0RlV3VNWEpxUEFNTUxCdmhLWGVXLVNzNTBpYkhfTGk4RUNvY0JtSlE",
-      "title": "Plaza del Sauce by BU arquitectura - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QSmljcjNtc09rdGZmRWgzZWFTWWE5Y3ZFRVBuQWtoS29NbzZnZDNFSjAwelpRUWd3RGxla1ljQ2ZKM0RlV3VNWEpxUEFNTUxCdmhLWGVXLVNzNTBpYkhfTGk4RUNvY0JtSlE?oc=5",
-      "summary": "Plaza del Sauce by BU arquitectura New Norm Magazine",
-      "publishedAt": "2025-12-15T15:15:23.000Z",
+      "id": "CBMidEFVX3lxTE9jM180YzZSSEdQelBBQXhHY21yQTRJZ3l2ZUVaY0UyZmRrZHI2UEU0U281MTNGeGNuZDVNNkRxQ25DSnpMeTdUY3RCWHk1V19OM19nTkJKMm9Za1ZsTVhSZWd6RGdSMG11WXp2VlJfcnp6ejVF",
+      "title": "A Home Between Journeys by Intheory Design - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jM180YzZSSEdQelBBQXhHY21yQTRJZ3l2ZUVaY0UyZmRrZHI2UEU0U281MTNGeGNuZDVNNkRxQ25DSnpMeTdUY3RCWHk1V19OM19nTkJKMm9Za1ZsTVhSZWd6RGdSMG11WXp2VlJfcnp6ejVF?oc=5",
+      "summary": "A Home Between Journeys by Intheory Design New Norm Magazine",
+      "publishedAt": "2025-12-02T06:31:45.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -2610,26 +2610,26 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50084838",
-      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
-      "link": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
-      "summary": "Article URL: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/ Comments URL: https://news.ycombinator.com/item?id=50084838 Points: 6 # Comments: 0",
-      "publishedAt": "2026-10-14T09:37:24.000Z",
+      "id": "https://interestingengineering.com/?p=318150",
+      "title": "China proposes new submarine tank that could operate underwater for up to two hours",
+      "link": "https://interestingengineering.com/military/china-submarine-tank-underwater",
+      "summary": "Chinese researchers have proposed four types of modular combat equipment designed to switch configurations for...",
+      "publishedAt": "2026-10-14T13:35:47.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-Photo-79.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50086165",
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "link": "https://github.com/timescale/pg_vectorsearch",
+      "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 102 # Comments: 33",
+      "publishedAt": "2026-10-14T11:47:53.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318092",
-      "title": "Researchers turn a glowing failure into a 3D monolithic trap for quantum simulation",
-      "link": "https://interestingengineering.com/science/3d-monolithic-trap-quantum-simulations",
-      "summary": "Simulating complex quantum systems can overwhelm even powerful supercomputers. Researchers at Rice University have developed...",
-      "publishedAt": "2026-10-13T23:26:55.000Z",
-      "imageUrl": "https://www.youtube.com/embed/FT32vJruG8w",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "https://coloradosun.com/?p=505019",
@@ -2698,11 +2698,11 @@
       "category": "design"
     },
     {
-      "id": "https://www.science.org/content/article/russian-ornithologist-sentenced-prison-anticorruption-donation",
-      "title": "Russian ornithologist sentenced to prison for anticorruption donation",
-      "link": "https://www.science.org/content/article/russian-ornithologist-sentenced-prison-anticorruption-donation",
-      "summary": "Sofya Rozenfeld, an expert on Arctic waterfowl, paid the equivalent of just $27 to a proscribed organization founded by former opposition leader",
-      "publishedAt": "2026-10-13T01:25:00.000Z",
+      "id": "https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science",
+      "title": "Trump takes credit for a new ‘golden age’ of U.S. science",
+      "link": "https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science",
+      "summary": "Industry heavyweights receive first national science medals awarded by the president",
+      "publishedAt": "2026-10-13T03:25:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
@@ -2929,11 +2929,11 @@
       "category": "design"
     },
     {
-      "id": "CBMidEFVX3lxTE9jM180YzZSSEdQelBBQXhHY21yQTRJZ3l2ZUVaY0UyZmRrZHI2UEU0U281MTNGeGNuZDVNNkRxQ25DSnpMeTdUY3RCWHk1V19OM19nTkJKMm9Za1ZsTVhSZWd6RGdSMG11WXp2VlJfcnp6ejVF",
-      "title": "A Home Between Journeys by Intheory Design - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jM180YzZSSEdQelBBQXhHY21yQTRJZ3l2ZUVaY0UyZmRrZHI2UEU0U281MTNGeGNuZDVNNkRxQ25DSnpMeTdUY3RCWHk1V19OM19nTkJKMm9Za1ZsTVhSZWd6RGdSMG11WXp2VlJfcnp6ejVF?oc=5",
-      "summary": "A Home Between Journeys by Intheory Design New Norm Magazine",
-      "publishedAt": "2025-12-02T06:31:45.000Z",
+      "id": "CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r",
+      "title": "Sensual Minimalist Apartment by Bordo Design - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r?oc=5",
+      "summary": "Sensual Minimalist Apartment by Bordo Design New Norm Magazine",
+      "publishedAt": "2025-10-17T11:08:49.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -2995,26 +2995,26 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50084757",
-      "title": "Amazon pushes up prices across the Internet",
-      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "summary": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 8 # Comments: 1",
-      "publishedAt": "2026-10-14T09:28:17.000Z",
+      "id": "https://interestingengineering.com/?p=318152",
+      "title": "Tesla batteries help Texas energy site double storage capacity to 300 megawatts",
+      "link": "https://interestingengineering.com/energy/texas-battery-site-reaches-300-mw",
+      "summary": "Nightpeak Energy has brought a second battery storage project near Houston into commercial operation, doubling...",
+      "publishedAt": "2026-10-14T13:23:19.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Bocanova-Power-2-project.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50085323",
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 84 # Comments: 51",
+      "publishedAt": "2026-10-14T10:28:26.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318086",
-      "title": "Avatar comes to life: Honda’s new robot mirrors human movements to work remotely",
-      "link": "https://interestingengineering.com/ai-robotics/honda-avatar-robot-demonstration",
-      "summary": "Honda has demonstrated a robotic hand designed to tackle tasks requiring human-like precision and strength....",
-      "publishedAt": "2026-10-13T22:04:36.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-14T032620.608.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "CBMiuwFBVV95cUxPY0RJZzFQREtWdHVsMGNWWWFGYVNRYmZlYnZ5QjRjb2NBTHgwb3FxXzBYbDhpd2J5V25lZTRfVHBEWTRLcXdfbjRFUGxJeDB5UkIyamFkTUpsa2p2WlN1R01idmZTNUZXZ2s3bTRnSmxWWWl6RXlKTmtWS083Z0ZUV3hPdmpVRERJTEljTTIwZ2s0S09jWUVidTg4WlJtMjNkQWxHa0Jla3FvdlgyX1hMZUNtRmh1Ym5qUlVj",
@@ -3061,6 +3061,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.science.org/content/article/russian-ornithologist-sentenced-prison-anticorruption-donation",
+      "title": "Russian ornithologist sentenced to prison for anticorruption donation",
+      "link": "https://www.science.org/content/article/russian-ornithologist-sentenced-prison-anticorruption-donation",
+      "summary": "Sofya Rozenfeld, an expert on Arctic waterfowl, paid the equivalent of just $27 to a proscribed organization founded by former opposition leader",
+      "publishedAt": "2026-10-13T01:25:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
+      "category": "science"
+    },
+    {
       "id": "https://philosophynow.org/issues/176/What_is_Metaphysics",
       "title": "What is Metaphysics?",
       "link": "https://philosophynow.org/issues/176/What_is_Metaphysics",
@@ -3103,17 +3114,6 @@
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
-    },
-    {
-      "id": "https://www.science.org/content/article/honey-bees-inject-venom-two-stroke-stinger",
-      "title": "Honey bees inject venom with a two-stroke stinger",
-      "link": "https://www.science.org/content/article/honey-bees-inject-venom-two-stroke-stinger",
-      "summary": "Unlike other poisonous animals, bees use a strange set of pistons to pump toxin",
-      "publishedAt": "2026-10-12T03:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
     },
     {
       "id": "CBMipwFBVV95cUxQQ0lKU3BVelc2Vi1GaDhSVjY5Y1V4eHByeDRJdjhCckN6M0t1LVloS0xKcFRGajNtS19DNy1MSEFUYjNYSU9qTWp6NTVMQnBwLWFZa3dLZHhNQWZCTkNlU0VsZHVNMUxORHdpWk1QQUh6aGkzcWRIUmdQTEZ4bmlxRFh6ano3V0hyOTdfTHpLMEFFbThXTDVZcE5WRFNlLWt1cy03SWxWOA",
@@ -3314,11 +3314,11 @@
       "category": "design"
     },
     {
-      "id": "CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r",
-      "title": "Sensual Minimalist Apartment by Bordo Design - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r?oc=5",
-      "summary": "Sensual Minimalist Apartment by Bordo Design New Norm Magazine",
-      "publishedAt": "2025-10-17T11:08:49.000Z",
+      "id": "CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91",
+      "title": "G Residence by Atelier01 (A01) - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91?oc=5",
+      "summary": "G Residence by Atelier01 (A01) New Norm Magazine",
+      "publishedAt": "2025-07-29T21:18:52.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -3380,26 +3380,26 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50084416",
-      "title": "What agents mean for Rust (and vice versa)",
-      "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-      "summary": "Article URL: https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/ Comments URL: https://news.ycombinator.com/item?id=50084416 Points: 18 # Comments: 14",
-      "publishedAt": "2026-10-14T08:49:06.000Z",
+      "id": "https://interestingengineering.com/?p=318112",
+      "title": "Thinner platinum coating could cut metal use in hydrogen equipment by 88%",
+      "link": "https://interestingengineering.com/innovation/new-coating-for-hydrogen-production-equipment",
+      "summary": "Researchers at Austria’s TU Wien have found that a much thinner platinum coating could protect...",
+      "publishedAt": "2026-10-14T13:11:50.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/hydrogen-electrolysis.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50085306",
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "summary": "Article URL: https://blog.lorenzano.eu/pulsar-at-esug-2026/ Comments URL: https://news.ycombinator.com/item?id=50085306 Points: 58 # Comments: 9",
+      "publishedAt": "2026-10-14T10:26:53.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318073",
-      "title": "OpenAI says its own models helped identify employee arrested over hidden office bug",
-      "link": "https://interestingengineering.com/ai-robotics/openai-fbi-arrest-hidden-recording-device",
-      "summary": "OpenAI said Tuesday that the FBI arrested one of its employees after the company used...",
-      "publishedAt": "2026-10-13T21:19:06.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-Photo-48.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "CBMiowFBVV95cUxQVmdHMWpvMWdGZl9sdEZlcGFCTVJQaVZrc1BfYzBFY2ctNjAxbnAtWWs3S0dsWERzV29RUUxOV3Q1ekZtVVdsQ2RYclZrNVJtMkl1c2pITDVJOTlRa1Fha0lTWTk2WW5sR2sxWDhONTN2V29mN1dwWnhDTFNzZ0dVSk9hYXowWm5hRVQ1SWJFMjNQUmJDaU90d3BDeUY2OC1XN1Nn",
@@ -3490,11 +3490,11 @@
       "category": "local"
     },
     {
-      "id": "https://www.science.org/content/article/did-ai-or-human-write-paper-new-detector-decides-examining-its-ideas",
-      "title": "Did an AI or a human write that paper? New detector decides by examining its ideas",
-      "link": "https://www.science.org/content/article/did-ai-or-human-write-paper-new-detector-decides-examining-its-ideas",
-      "summary": "Algorithm looks for clues about a paper’s origin that text-based detectors miss",
-      "publishedAt": "2026-10-12T02:05:00.000Z",
+      "id": "https://www.science.org/content/article/honey-bees-inject-venom-two-stroke-stinger",
+      "title": "Honey bees inject venom with a two-stroke stinger",
+      "link": "https://www.science.org/content/article/honey-bees-inject-venom-two-stroke-stinger",
+      "summary": "Unlike other poisonous animals, bees use a strange set of pistons to pump toxin",
+      "publishedAt": "2026-10-12T03:00:00.000Z",
       "imageUrl": null,
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
@@ -3699,11 +3699,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91",
-      "title": "G Residence by Atelier01 (A01) - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXQ2tFRzEzWHo3YS12RWVpa3pvcWlvdWtGcy01OGREV2dYRjJNVVB1T1BoZm9FWVRLRDRUM0FaMmZVRXFWU3ozM0pIRk5zeHZuVVRWRnZHR3BMbW91?oc=5",
-      "summary": "G Residence by Atelier01 (A01) New Norm Magazine",
-      "publishedAt": "2025-07-29T21:18:52.000Z",
+      "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
+      "title": "FOX Home by Yara Lysiuk - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE?oc=5",
+      "summary": "FOX Home by Yara Lysiuk New Norm Magazine",
+      "publishedAt": "2025-05-27T02:21:54.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -3765,26 +3765,15 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50084240",
-      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-      "link": "https://typeof.net/Iosevka/",
-      "summary": "Article URL: https://typeof.net/Iosevka/ Comments URL: https://news.ycombinator.com/item?id=50084240 Points: 147 # Comments: 54",
-      "publishedAt": "2026-10-14T08:27:59.000Z",
+      "id": "https://news.ycombinator.com/item?id=50085302",
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "link": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+      "summary": "Article URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers Comments URL: https://news.ycombinator.com/item?id=50085302 Points: 22 # Comments: 4",
+      "publishedAt": "2026-10-14T10:26:24.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=318057",
-      "title": "Gemini 4 Argon cuts quantum computing costs 100-fold, advances fusion and robotics",
-      "link": "https://interestingengineering.com/ai-robotics/google-gemini-4-argon-quantum-fusion-robotics",
-      "summary": "Google has unveiled Gemini 4 Argon, a new model that it says reduced the resource...",
-      "publishedAt": "2026-10-13T21:13:54.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-14T024312.183.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "6ace5450ddf36974aa1dad6a",
@@ -3864,6 +3853,17 @@
       "category": "general"
     },
     {
+      "id": "https://www.science.org/content/article/did-ai-or-human-write-paper-new-detector-decides-examining-its-ideas",
+      "title": "Did an AI or a human write that paper? New detector decides by examining its ideas",
+      "link": "https://www.science.org/content/article/did-ai-or-human-write-paper-new-detector-decides-examining-its-ideas",
+      "summary": "Algorithm looks for clues about a paper’s origin that text-based detectors miss",
+      "publishedAt": "2026-10-12T02:05:00.000Z",
+      "imageUrl": null,
+      "sourceId": "science-aaas",
+      "sourceName": "Science | AAAS",
+      "category": "science"
+    },
+    {
       "id": "CBMinAFBVV95cUxPZlp1bzFrR1ZHQ1RabUJSUEpRS1N2VnF5T3J1QkNqcEtHaUZ0aTU2NGxsX3JDNjdUam5wR3BNZ2o4bEozOWlEaTFlVnJrNHpKbm5oRlFLQ19GcllHb01BN3dEdVBDRzViclB3VUo3dlNVUlF1YzRENndUamR2TGZkQjZsT2ZPZERSam81b0VJMGNfRW1wV2ZHajB2OGs",
       "title": "These Colorado hikes are among the most grueling in the world - The Coloradoan",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlp1bzFrR1ZHQ1RabUJSUEpRS1N2VnF5T3J1QkNqcEtHaUZ0aTU2NGxsX3JDNjdUam5wR3BNZ2o4bEozOWlEaTFlVnJrNHpKbm5oRlFLQ19GcllHb01BN3dEdVBDRzViclB3VUo3dlNVUlF1YzRENndUamR2TGZkQjZsT2ZPZERSam81b0VJMGNfRW1wV2ZHajB2OGs?oc=5",
@@ -3906,17 +3906,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://www.science.org/content/article/u-s-crop-genome-sequencing-gets-180-million-boost",
-      "title": "U.S. crop genome sequencing gets $180 million boost",
-      "link": "https://www.science.org/content/article/u-s-crop-genome-sequencing-gets-180-million-boost",
-      "summary": "Department of Agriculture will expand effort to describe genetics of seed banks",
-      "publishedAt": "2026-10-09T03:43:00.000Z",
-      "imageUrl": null,
-      "sourceId": "science-aaas",
-      "sourceName": "Science | AAAS",
-      "category": "science"
     },
     {
       "id": "https://www.themarginalian.org/?p=88101",
@@ -4084,11 +4073,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
-      "title": "FOX Home by Yara Lysiuk - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE?oc=5",
-      "summary": "FOX Home by Yara Lysiuk New Norm Magazine",
-      "publishedAt": "2025-05-27T02:21:54.000Z",
+      "id": "CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3",
+      "title": "Rootdown | BEAMS - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3?oc=5",
+      "summary": "Rootdown | BEAMS New Norm Magazine",
+      "publishedAt": "2025-05-27T02:03:31.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -4139,11 +4128,11 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50083130",
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "link": "https://github.com/android/ndk/issues/2260",
-      "summary": "Article URL: https://github.com/android/ndk/issues/2260 Comments URL: https://news.ycombinator.com/item?id=50083130 Points: 288 # Comments: 130",
-      "publishedAt": "2026-10-14T06:18:01.000Z",
+      "id": "https://news.ycombinator.com/item?id=50085022",
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "link": "https://museumofages.org/w/vinci",
+      "summary": "Hello HN, I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise. The entran…",
+      "publishedAt": "2026-10-14T10:00:24.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4315,11 +4304,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3",
-      "title": "Rootdown | BEAMS - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZzFjOGx4UGRMQmpJVmxVbnB0U3VZZ0dUbmE0Q3pRd1JkQnhwNkprZFF6NjlpWU1tTUpuajhtbGZiWmx2aV9JQ3JqQ0JPVHVja0R3?oc=5",
-      "summary": "Rootdown | BEAMS New Norm Magazine",
-      "publishedAt": "2025-05-27T02:03:31.000Z",
+      "id": "CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg",
+      "title": "Pantheone Audio - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg?oc=5",
+      "summary": "Pantheone Audio New Norm Magazine",
+      "publishedAt": "2025-04-10T07:30:22.000Z",
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
@@ -4337,11 +4326,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50083028",
-      "title": "Why is every rationalist blog post way too long?",
-      "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-      "summary": "Article URL: https://alexwennerberg.com/blog/2026-10-13-long.html Comments URL: https://news.ycombinator.com/item?id=50083028 Points: 26 # Comments: 20",
-      "publishedAt": "2026-10-14T06:02:16.000Z",
+      "id": "https://news.ycombinator.com/item?id=50084838",
+      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+      "link": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+      "summary": "Article URL: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/ Comments URL: https://news.ycombinator.com/item?id=50084838 Points: 98 # Comments: 100",
+      "publishedAt": "2026-10-14T09:37:24.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4502,17 +4491,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg",
-      "title": "Pantheone Audio - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg?oc=5",
-      "summary": "Pantheone Audio New Norm Magazine",
-      "publishedAt": "2025-04-10T07:30:22.000Z",
-      "imageUrl": null,
-      "sourceId": "new-norm",
-      "sourceName": "New Norm",
-      "category": "design"
-    },
-    {
       "id": "CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ",
       "title": "Art Biotop Water Garden by Junya Ishigami - Thisispaper",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZnFVbXdmZTZwMXo0MHRaamFsNXg2Um5MbDdienJMSkRUSnRWSUwwUFJMZzhhWUl6bXpiaGppMUxHY2lSdDJQVGc1VzlxVWFfT2NnMVpxQ0loVm1HTGJqeG1KQU1BY2NNMGFYbTVDY0FZSHlzS3FidQ?oc=5",
@@ -4521,6 +4499,17 @@
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
+      "category": "design"
+    },
+    {
+      "id": "CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU",
+      "title": "PNY in Reims, France by Rudy Guénaire - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tYk5ZU0JzYTFob2tNOUxVazZEX0YxYnJMblpUT1RodTRqSE9aTnl5dTZmUVEwdVVkQmhVNzk5Wnh2YkhZUUVLM0NnUkQ0V1VPM0NDQVFvM0pBNEtqYWlQVUptQ1J1MFU?oc=5",
+      "summary": "PNY in Reims, France by Rudy Guénaire New Norm Magazine",
+      "publishedAt": "2025-02-07T15:07:15.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
       "category": "design"
     },
     {
@@ -4535,11 +4524,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50082470",
-      "title": "Felix Rieseberg Homepage",
-      "link": "https://felixrieseberg.com/",
-      "summary": "Article URL: https://felixrieseberg.com/ Comments URL: https://news.ycombinator.com/item?id=50082470 Points: 200 # Comments: 79",
-      "publishedAt": "2026-10-14T04:42:33.000Z",
+      "id": "https://news.ycombinator.com/item?id=50084757",
+      "title": "Amazon pushes up prices across the Internet",
+      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "summary": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 382 # Comments: 378",
+      "publishedAt": "2026-10-14T09:28:17.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4698,6 +4687,17 @@
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw",
+      "title": "Noodle In Transit by Office AIO - New Norm Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HVG56dk5iSHhxbWtsZXo5aGRUcmR1RDhNbHprS0JPdEhEdnEwN3pJb1lid0Y3a1lrSGpDUnRlSV85NVMtaHBzcGE1UE1sZmFPeUVpR2ptcmYtZkFXZ0xWM1VremMxZw?oc=5",
+      "summary": "Noodle In Transit by Office AIO New Norm Magazine",
+      "publishedAt": "2024-12-30T13:42:20.000Z",
+      "imageUrl": null,
+      "sourceId": "new-norm",
+      "sourceName": "New Norm",
+      "category": "design"
     }
   ]
 }
