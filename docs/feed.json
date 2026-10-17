@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T21:35:55.040Z",
+  "generatedAt": "2026-10-17T23:45:21.437Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -62,8 +62,8 @@
       "name": "Hacker News",
       "siteUrl": "https://news.ycombinator.com",
       "category": "tech",
-      "status": "ok",
-      "error": null
+      "status": "error",
+      "error": "fetch failed"
     },
     {
       "id": "leibal",
@@ -300,15 +300,48 @@
   ],
   "articles": [
     {
-      "id": "https://interestingengineering.com/?p=319477",
-      "title": "Just in time for Halloween: ‘Zombie’ star that may be the first green star",
-      "link": "https://interestingengineering.com/space/first-green-star-white-dwarf-zombie",
-      "summary": "Astronomers say a dead star about 326 light-years away, one that has been taking in...",
-      "publishedAt": "2026-10-17T20:47:28.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/green-star.jpg",
+      "id": "https://www.thebrighterside.news/api/preview?id=128941&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
+      "title": "Laser light reveals the hidden quantum properties of crystals",
+      "link": "https://www.thebrighterside.news/post/laser-light-reveals-the-hidden-quantum-properties-of-crystals/",
+      "summary": "An ultrafast optical experiment measures a hidden electronic property that helps shape how crystals respond to light. The post Laser light reveals the hidden quantum properties of crystals appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-10-17T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/laser-crystal.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
+      "id": "https://www.mindful.org/?p=669321",
+      "title": "Attention Is Our Original and Shared Vocation",
+      "link": "https://www.mindful.org/attention-is-our-original-and-shared-vocation-mary-oliver/",
+      "summary": "A reflection on the late poet Mary Oliver, and what her work modeled for us and asks of us now. The post Attention Is Our Original and Shared Vocation appeared first on Mindful.",
+      "publishedAt": "2026-10-17T22:39:43.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=319470",
+      "title": "Finetuning composition of microscopic layers in electronics could boost devices’ performance",
+      "link": "https://interestingengineering.com/innovation/finetuning-composition-boost-electronics-performance",
+      "summary": "Researchers have found that finetuning composition of microscopic layers could yield major performance improvements in...",
+      "publishedAt": "2026-10-17T22:02:55.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/electronic-microscopic-layer.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=88151",
+      "title": "The Map to the Route of Your Life",
+      "link": "https://www.themarginalian.org/2026/10/17/benedetti-ruta/",
+      "summary": "No one will map for you the path by which you must cross the wilderness of your own life — not your parents or your teachers, not your heroes or your lovers, not the self-help books or Shakespeare’s sonnets. Some may give you signposts, som…",
+      "publishedAt": "2026-10-17T21:37:38.000Z",
+      "imageUrl": null,
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50134617",
@@ -320,28 +353,6 @@
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=118872&secret=cM2XMtKpK3Lj&nonce=40ec634c41",
-      "title": "New molecular camera could revolutionize bladder cancer screening",
-      "link": "https://www.thebrighterside.news/post/new-molecular-camera-could-revolutionize-bladder-cancer-screening/",
-      "summary": "MIT researchers created a nanosensor catheter that detects bladder cancer biomarkers far earlier than current tests. The post New molecular camera could revolutionize bladder cancer screening appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-10-17T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/05/ca-1-scaled.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=88151",
-      "title": "The Map to the Route of Your Life",
-      "link": "https://www.themarginalian.org/2026/10/17/benedetti-ruta/",
-      "summary": "No one will map for you the path by which you must cross the wilderness of your own life — not your parents or your teachers, not your heroes or your lovers, not the self-help books or Shakespeare’s sonnets. Some may give you signposts, som…",
-      "publishedAt": "2026-10-17T17:42:38.000Z",
-      "imageUrl": null,
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "CBMiwgFBVV95cUxNaHRoYXJEQWJlLUQ3OFo4S0VoTTFSYkpEbV9iYXhEVDVSN1pJWG14eFh5eWVFRkRkMkdkMm1JX2QtQnB3Uk9FdEROdThqTGE1YnVjcEpsRnRuWTN1NGRNcFpQdmg0T2RuQjB3bEt5cG95QXNJTUl5dHRWZnhmVDFkSF9RY3o0akNyWVhGNUZzMDZoSVZPVjhXLWhqSVYzYTdjaWt2ZFR5V2xQMmtWalNaVlRCWnA3dmJnY2VCVWVic0xnUQ",
@@ -399,6 +410,17 @@
       "category": "design"
     },
     {
+      "id": "CBMimwFBVV95cUxQa0Z6RGFnbS1Xc2ZtWFd3MFdvVUVUaUpwblprbkxaUXd6Q3pOWTQ3b0pDYW4tSjBIQXR2SlFJdkNCMXlGN1gzNEJhTlQwZzJqSTJLdzRNblpYU0t0N251TENpQlJkUjNoRktCT3BaNENwRUxhUm4xTjBBX1h0QTJVblNYR3ZBd1JCZElPVkE0U3NRQnlkYk1VTDg1TQ",
+      "title": "World Singing Day and other Boulder events for Saturday - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa0Z6RGFnbS1Xc2ZtWFd3MFdvVUVUaUpwblprbkxaUXd6Q3pOWTQ3b0pDYW4tSjBIQXR2SlFJdkNCMXlGN1gzNEJhTlQwZzJqSTJLdzRNblpYU0t0N251TENpQlJkUjNoRktCT3BaNENwRUxhUm4xTjBBX1h0QTJVblNYR3ZBd1JCZElPVkE0U3NRQnlkYk1VTDg1TQ?oc=5",
+      "summary": "World Singing Day and other Boulder events for Saturday Boulder Daily Camera",
+      "publishedAt": "2026-10-17T10:32:50.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "https://tricycle.org/?p=85482",
       "title": "The New Vehicle",
       "link": "https://tricycle.org/article/ambedkarite-buddhism-edelglass/",
@@ -430,17 +452,6 @@
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
-    },
-    {
-      "id": "CBMiiAFBVV95cUxNTWxOXzZvbk5VSkV1eE9ZNnJyZHVNTXFkUy00OFJzQ3RLN3hrZlVwZzh4WXJjNXpCdUZzZ2hLS21MZnhGQjYtVTY4ZEVHSHRrWG95S0puZjNybzkwSXRiUEpqcXBjMVh2MTg1VUNLMlhmV1dlM2taZDNHS18zR0FRcjAwa2pOdkFx",
-      "title": "Does Boulder have a cheaper option for a new public safety building? - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWxOXzZvbk5VSkV1eE9ZNnJyZHVNTXFkUy00OFJzQ3RLN3hrZlVwZzh4WXJjNXpCdUZzZ2hLS21MZnhGQjYtVTY4ZEVHSHRrWG95S0puZjNybzkwSXRiUEpqcXBjMVh2MTg1VUNLMlhmV1dlM2taZDNHS18zR0FRcjAwa2pOdkFx?oc=5",
-      "summary": "Does Boulder have a cheaper option for a new public safety building? Daily Camera",
-      "publishedAt": "2026-10-16T22:51:20.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "CBMixAFBVV95cUxPM05RRE41b2xLZ1NmM0FCdldWVzc4aUJpMmxib245QjdSQXBhQjlSZlBVVzhVNlpvRURiU1dSTzZPUzhuT2p2TVlKeTMzYllfUU1XcTdzT01ScVNmWWlxZjFTWkI2bHBWM241dDlYYnF6VWo4MlNab3E2X0JHbl9IcEpOUDQwdnYyN0dZdkVHRkdWUkl4MzlKRlkyTXRYdTNJb0hEcnR0WVJvQVM2eC1lUmxYTXlocGNsQk1wdExBbnRNZlY3",
@@ -540,17 +551,6 @@
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
-    },
-    {
-      "id": "https://www.mindful.org/?p=669237",
-      "title": "My Journey to Mindfulness",
-      "link": "https://www.mindful.org/my-journey-to-mindfulness/",
-      "summary": "October’s Teacher of the Month is a new voice to Mindful: musician Thaddaeus Washington. As a Toledo-based artist and founder of MIND Music, Thadd sees music as medicine and offers his original compositions as meditative practices. The post…",
-      "publishedAt": "2026-10-16T03:33:00.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
     },
     {
       "id": "https://thelocalproject.com.au/?p=468430",
@@ -685,15 +685,37 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=319472",
-      "title": "Taiwan plans AI-powered satellite analysis to spot Chinese ships, missile activity",
-      "link": "https://interestingengineering.com/military/taiwan-ai-chinese-military-activity",
-      "summary": "Taiwan is developing a $1.45 million AI system designed to identify Chinese military ships, aircraft...",
-      "publishedAt": "2026-10-17T20:36:25.000Z",
-      "imageUrl": "https://www.youtube.com/embed/msK9_dSTJ2A",
+      "id": "https://www.brainpickings.org/?p=70040",
+      "title": "Bloom: A Touching Animated Short Film about Depression and What It Takes to Recover the Light of Being",
+      "link": "https://www.themarginalian.org/2026/10/17/bloom-depression/",
+      "summary": "How the warm rays of hope and healing enter the dark inner chamber of leaden loneliness through the unexpected cracks of kindness.",
+      "publishedAt": "2026-10-17T21:30:20.000Z",
+      "imageUrl": null,
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=319477",
+      "title": "Just in time for Halloween: ‘Zombie’ star that may be the first green star",
+      "link": "https://interestingengineering.com/space/first-green-star-white-dwarf-zombie",
+      "summary": "Astronomers say a dead star about 326 light-years away, one that has been taking in...",
+      "publishedAt": "2026-10-17T20:47:28.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/green-star.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=118872&secret=cM2XMtKpK3Lj&nonce=40ec634c41",
+      "title": "New molecular camera could revolutionize bladder cancer screening",
+      "link": "https://www.thebrighterside.news/post/new-molecular-camera-could-revolutionize-bladder-cancer-screening/",
+      "summary": "MIT researchers created a nanosensor catheter that detects bladder cancer biomarkers far earlier than current tests. The post New molecular camera could revolutionize bladder cancer screening appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-10-17T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/05/ca-1-scaled.jpg?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50133830",
@@ -705,28 +727,6 @@
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
-    },
-    {
-      "id": "https://www.brainpickings.org/?p=69698",
-      "title": "The Single Most Effective Remedy for Despair: Advice from T.H. White’s Merlyn",
-      "link": "https://www.themarginalian.org/2026/10/17/t-h-white-once-and-future-king-merlyn/",
-      "summary": "\"Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting.\"",
-      "publishedAt": "2026-10-17T17:39:25.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/TheOnceAndFutureKing_white.jpg?fit=320%2C516&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128930&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
-      "title": "Your cat may be doing more for your emotional well-being than you realize",
-      "link": "https://www.thebrighterside.news/post/your-cat-may-be-doing-more-for-your-emotional-well-being-than-you-realize/",
-      "summary": "Cats and owners showed linked hormone patterns, while closer everyday proximity was associated with greater vigor and activity. The post Your cat may be doing more for your emotional well-being than you realize appeared first on The Brighte…",
-      "publishedAt": "2026-10-17T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/cat-main.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
     },
     {
       "id": "CBMi1AFBVV95cUxNd1RZZU5NeFJLMmJkYlZTY2lydjFPMkNqZElWWml1akZOM2w2Y1B3dENPUS1sZHdKOGtjUmkyQmk4b0tkRUpXTlRWX3c4SFR4NDh3Zk9tcU8yVFhBeWpYeU1LQzRnNjVFSlZmLW50Mml2TnZaa0pVS3RONFpYTTFtZEZDNk9NOWFqeEFSalZnWmR5NVYzWUJ5bzBSR3h2OVdLSl9kbWU4SE5QU2V0Q1MyeXQyNWJXWXQ0clF4NENDZzVFRmRJWlkyNkkzTEo2R1BjTXFFRw",
@@ -773,6 +773,17 @@
       "category": "local"
     },
     {
+      "id": "CBMiiAFBVV95cUxNTWxOXzZvbk5VSkV1eE9ZNnJyZHVNTXFkUy00OFJzQ3RLN3hrZlVwZzh4WXJjNXpCdUZzZ2hLS21MZnhGQjYtVTY4ZEVHSHRrWG95S0puZjNybzkwSXRiUEpqcXBjMVh2MTg1VUNLMlhmV1dlM2taZDNHS18zR0FRcjAwa2pOdkFx",
+      "title": "Does Boulder have a cheaper option for a new public safety building? - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWxOXzZvbk5VSkV1eE9ZNnJyZHVNTXFkUy00OFJzQ3RLN3hrZlVwZzh4WXJjNXpCdUZzZ2hLS21MZnhGQjYtVTY4ZEVHSHRrWG95S0puZjNybzkwSXRiUEpqcXBjMVh2MTg1VUNLMlhmV1dlM2taZDNHS18zR0FRcjAwa2pOdkFx?oc=5",
+      "summary": "Does Boulder have a cheaper option for a new public safety building? Daily Camera",
+      "publishedAt": "2026-10-16T22:51:20.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
+    },
+    {
       "id": "6ad288fac0b3f01fb418b108",
       "title": "“Lies” [ft. Lana Del Rey]",
       "link": "https://pitchfork.com/reviews/track/zach-bryan-lana-del-rey-lies/",
@@ -782,17 +793,6 @@
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
-    },
-    {
-      "id": "CBMiekFVX3lxTFBaVUlwblRUcXo3M1lpNGZfLVBhSFRNY1c0cFJrb3ItS2RGa2xRR0R0THlHYUN6aGhacXlWX096VU9OSDJabFl4aHdvWDJETjhJWU53TnNEcFlhaWNzQWpYRU9nUnpkY211RGs0bjNnZTVNUklmSTBETTN3",
-      "title": "CU Buffs must survive Utah’s quick starts before fixing their finishes - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaVUlwblRUcXo3M1lpNGZfLVBhSFRNY1c0cFJrb3ItS2RGa2xRR0R0THlHYUN6aGhacXlWX096VU9OSDJabFl4aHdvWDJETjhJWU53TnNEcFlhaWNzQWpYRU9nUnpkY211RGs0bjNnZTVNUklmSTBETTN3?oc=5",
-      "summary": "CU Buffs must survive Utah’s quick starts before fixing their finishes Daily Camera",
-      "publishedAt": "2026-10-16T19:32:28.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://www.dwell.com/article/art-deco-house-renovation-hop-architects-utrecht-the-netherlands-6beb9a39",
@@ -883,11 +883,11 @@
       "category": "science"
     },
     {
-      "id": "https://www.mindful.org/?p=669251",
-      "title": "Why Can’t We Rest Anymore?",
-      "link": "https://www.mindful.org/why-cant-we-rest-anymore/",
-      "summary": "We have more technological assistance with daily tasks, more self-care, and more sedentary hours than any previous generation. So why are we still so exhausted? And what do we actually need to help us feel restored? The post Why Can’t We Re…",
-      "publishedAt": "2026-10-15T23:17:27.000Z",
+      "id": "https://www.mindful.org/?p=669237",
+      "title": "My Journey to Mindfulness",
+      "link": "https://www.mindful.org/my-journey-to-mindfulness/",
+      "summary": "October’s Teacher of the Month is a new voice to Mindful: musician Thaddaeus Washington. As a Toledo-based artist and founder of MIND Music, Thadd sees music as medicine and offers his original compositions as meditative practices. The post…",
+      "publishedAt": "2026-10-16T03:33:00.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -1070,12 +1070,12 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=319333",
-      "title": "US humanoid robot Digit 5 targets 20-hour workdays with 9-minute charging",
-      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays",
-      "summary": "Agility Robotics’ next humanoid robot is designed to spend more of the day moving goods...",
-      "publishedAt": "2026-10-17T20:18:48.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Agility-robotics-5.jpg",
+      "id": "https://interestingengineering.com/?p=319472",
+      "title": "Taiwan plans AI-powered satellite analysis to spot Chinese ships, missile activity",
+      "link": "https://interestingengineering.com/military/taiwan-ai-chinese-military-activity",
+      "summary": "Taiwan is developing a $1.45 million AI system designed to identify Chinese military ships, aircraft...",
+      "publishedAt": "2026-10-17T20:36:25.000Z",
+      "imageUrl": "https://www.youtube.com/embed/msK9_dSTJ2A",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -1092,12 +1092,23 @@
       "category": "tech"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128953&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
-      "title": "A white dwarf’s unusual atmosphere gives it a ghostly green glow",
-      "link": "https://www.thebrighterside.news/post/a-white-dwarfs-unusual-atmosphere-gives-it-a-ghostly-green-glow/",
-      "summary": "A white dwarf enriched with planetary debris would appear green, revealing how dense stellar atmospheres alter color. The post A white dwarf’s unusual atmosphere gives it a ghostly green glow appeared first on The Brighter Side of News.",
-      "publishedAt": "2026-10-17T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Screenshot-2026-10-16-164823-scaled.png?auto=webp",
+      "id": "https://www.brainpickings.org/?p=69698",
+      "title": "The Single Most Effective Remedy for Despair: Advice from T.H. White’s Merlyn",
+      "link": "https://www.themarginalian.org/2026/10/17/t-h-white-once-and-future-king-merlyn/",
+      "summary": "\"Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting.\"",
+      "publishedAt": "2026-10-17T17:39:25.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/TheOnceAndFutureKing_white.jpg?fit=320%2C516&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.thebrighterside.news/api/preview?id=128930&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
+      "title": "Your cat may be doing more for your emotional well-being than you realize",
+      "link": "https://www.thebrighterside.news/post/your-cat-may-be-doing-more-for-your-emotional-well-being-than-you-realize/",
+      "summary": "Cats and owners showed linked hormone patterns, while closer everyday proximity was associated with greater vigor and activity. The post Your cat may be doing more for your emotional well-being than you realize appeared first on The Brighte…",
+      "publishedAt": "2026-10-17T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/cat-main.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -1136,17 +1147,6 @@
       "category": "local"
     },
     {
-      "id": "http://www.brainpickings.org/?p=38804",
-      "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
-      "link": "https://www.themarginalian.org/2026/10/16/dostoyevsky-dream/",
-      "summary": "\"And it is so simple... You will instantly find how to live.\"",
-      "publishedAt": "2026-10-16T22:39:03.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/dostoyvesky_awritersdiary.jpg?w=680&#038;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
       "id": "https://nautil.us/?p=1285865",
       "title": "Workers Who Fear AI May be More Prone to Slacking Off",
       "link": "https://nautil.us/workers-who-fear-ai-may-be-more-prone-to-slacking-off-1285865/",
@@ -1156,6 +1156,17 @@
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
+    },
+    {
+      "id": "CBMiekFVX3lxTFBaVUlwblRUcXo3M1lpNGZfLVBhSFRNY1c0cFJrb3ItS2RGa2xRR0R0THlHYUN6aGhacXlWX096VU9OSDJabFl4aHdvWDJETjhJWU53TnNEcFlhaWNzQWpYRU9nUnpkY211RGs0bjNnZTVNUklmSTBETTN3",
+      "title": "CU Buffs must survive Utah’s quick starts before fixing their finishes - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaVUlwblRUcXo3M1lpNGZfLVBhSFRNY1c0cFJrb3ItS2RGa2xRR0R0THlHYUN6aGhacXlWX096VU9OSDJabFl4aHdvWDJETjhJWU53TnNEcFlhaWNzQWpYRU9nUnpkY211RGs0bjNnZTVNUklmSTBETTN3?oc=5",
+      "summary": "CU Buffs must survive Utah’s quick starts before fixing their finishes Boulder Daily Camera",
+      "publishedAt": "2026-10-16T19:32:28.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "6ad253be3a8d6ac39206bb8e",
@@ -1224,6 +1235,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.mindful.org/?p=669251",
+      "title": "Why Can’t We Rest Anymore?",
+      "link": "https://www.mindful.org/why-cant-we-rest-anymore/",
+      "summary": "We have more technological assistance with daily tasks, more self-care, and more sedentary hours than any previous generation. So why are we still so exhausted? And what do we actually need to help us feel restored? The post Why Can’t We Re…",
+      "publishedAt": "2026-10-15T23:17:27.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
       "id": "https://thelocalproject.com.au/?p=468374",
       "title": "Brunswick Heads House by Tanev Muir Architects – The Local Project",
       "link": "https://thelocalproject.com.au/articles/brunswick-heads-house-by-tanev-muir-architects-the-local-project/",
@@ -1233,17 +1255,6 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "CBMic0FVX3lxTE1wZWw4TVlNTmw0ZTNYazdscHV4MmNsNWltWUhIOC1PZ3NOSklMOVN0MHRJRUNldjZ4dHlDZGVWRDMyeDJIbXAwYk1BaEd0LWRFSGhFWmVuY1M5bUlGaGFXSXdfS1ItUlE0aXFwWGdZb1RoSWs",
-      "title": "Here’s where Boulder mayoral candidates stand on three top issues - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wZWw4TVlNTmw0ZTNYazdscHV4MmNsNWltWUhIOC1PZ3NOSklMOVN0MHRJRUNldjZ4dHlDZGVWRDMyeDJIbXAwYk1BaEd0LWRFSGhFWmVuY1M5bUlGaGFXSXdfS1ItUlE0aXFwWGdZb1RoSWs?oc=5",
-      "summary": "Here’s where Boulder mayoral candidates stand on three top issues Boulder Daily Camera",
-      "publishedAt": "2026-10-15T14:58:20.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://tricycle.org/?p=85456",
@@ -1288,17 +1299,6 @@
       "sourceId": "science-aaas",
       "sourceName": "Science | AAAS",
       "category": "science"
-    },
-    {
-      "id": "https://www.mindful.org/?p=669221",
-      "title": "The Power of the Pause: A Simple Way to Begin Your Practice of Not Reacting",
-      "link": "https://www.mindful.org/the-power-of-the-pause-a-simple-way-to-begin-your-practice-of-not-reacting/",
-      "summary": "One of the core principles of mindfulness is learning the practice of not reacting to everything that's going on inside and around us. But where do we begin? The post The Power of the Pause: A Simple Way to Begin Your Practice of Not Reacti…",
-      "publishedAt": "2026-10-14T19:16:19.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
     },
     {
       "id": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
@@ -1455,12 +1455,12 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=319269",
-      "title": "8,000-mile-tested autonomy system set to be deployed in multiple ground vehicle platforms",
-      "link": "https://interestingengineering.com/military/autonomy-tech-deployed-in-vehicle-platforms",
-      "summary": "A Rhode Island-based company has debuted a new robotic control package for the autonomy deployment...",
-      "publishedAt": "2026-10-17T19:19:33.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/military-vehicle-integration-.jpg",
+      "id": "https://interestingengineering.com/?p=319333",
+      "title": "US humanoid robot Digit 5 targets 20-hour workdays with 9-minute charging",
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays",
+      "summary": "Agility Robotics’ next humanoid robot is designed to spend more of the day moving goods...",
+      "publishedAt": "2026-10-17T20:18:48.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Agility-robotics-5.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -1477,6 +1477,17 @@
       "category": "tech"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=128953&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
+      "title": "A white dwarf’s unusual atmosphere gives it a ghostly green glow",
+      "link": "https://www.thebrighterside.news/post/a-white-dwarfs-unusual-atmosphere-gives-it-a-ghostly-green-glow/",
+      "summary": "A white dwarf enriched with planetary debris would appear green, revealing how dense stellar atmospheres alter color. The post A white dwarf’s unusual atmosphere gives it a ghostly green glow appeared first on The Brighter Side of News.",
+      "publishedAt": "2026-10-17T14:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/Screenshot-2026-10-16-164823-scaled.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "WTUBZppp3ZWEzm3fSbJE8A",
       "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
       "link": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
@@ -1486,17 +1497,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128964&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
-      "title": "100-year-old museum fossil identified as Europe’s first known megaraptoran dinosaur",
-      "link": "https://www.thebrighterside.news/post/100-year-old-museum-fossil-identified-as-europes-first-known-megaraptoran-dinosaur/",
-      "summary": "An Isle of Wight skull fragment identifies a new predator and adds Europe to the known range of megaraptoran dinosaurs. The post 100-year-old museum fossil identified as Europe’s first known megaraptoran dinosaur appeared first on The Brigh…",
-      "publishedAt": "2026-10-17T11:51:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/dinosaur-1.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
     },
     {
       "id": "https://coloradosun.com/?p=505420",
@@ -1510,12 +1510,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.themarginalian.org/?p=82021",
-      "title": "The Other Significant Others: Living and Loving Outside the Confines of Conventional Friendship and Compulsory Coupledom",
-      "link": "https://www.themarginalian.org/2026/10/16/the-other-significant-others/",
-      "summary": "\"While we weaken friendships by expecting too little of them, we undermine romantic relationships by expecting too much of them.\"",
-      "publishedAt": "2026-10-16T19:30:40.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/02/theothersignificantothers.jpg?fit=320%2C494&amp;ssl=1",
+      "id": "http://www.brainpickings.org/?p=38804",
+      "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
+      "link": "https://www.themarginalian.org/2026/10/16/dostoyevsky-dream/",
+      "summary": "\"And it is so simple... You will instantly find how to live.\"",
+      "publishedAt": "2026-10-16T22:39:03.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/dostoyvesky_awritersdiary.jpg?w=680&#038;ssl=1",
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
@@ -1563,6 +1563,17 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
+    },
+    {
+      "id": "CBMimwFBVV95cUxQdndkZWVlcWNneVFGYjlLdmVGbjN6c2FNNXFYM3otWlRQM3NUeHFEZTJieDFKckt2ck5fOUpTOEhmbkpPanJuaDQyQndMcnYwbVVzNlcwZFJLN0ZDaHpQaXhfLXZNeU5oLWNuQWtzQmFLSFlQUk5GTTEtZW9wakdHRXQ4cGdVX2lUQmJyekdUY3NGX2htWTVoNUtsRQ",
+      "title": "Preserve the Boulder County Extension’s 50+ year Master Gardener Program (Opinion) - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndkZWVlcWNneVFGYjlLdmVGbjN6c2FNNXFYM3otWlRQM3NUeHFEZTJieDFKckt2ck5fOUpTOEhmbkpPanJuaDQyQndMcnYwbVVzNlcwZFJLN0ZDaHpQaXhfLXZNeU5oLWNuQWtzQmFLSFlQUk5GTTEtZW9wakdHRXQ4cGdVX2lUQmJyekdUY3NGX2htWTVoNUtsRQ?oc=5",
+      "summary": "Preserve the Boulder County Extension’s 50+ year Master Gardener Program (Opinion) Boulder Daily Camera",
+      "publishedAt": "2026-10-16T10:01:43.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.surfacemag.com/?p=213301",
@@ -1620,22 +1631,11 @@
       "category": "design"
     },
     {
-      "id": "CBMifEFVX3lxTE1JNTkxYWtweUFOQ3FET3JqVXdZZzhtdUVyTVVvNUtMQVhXTDV5NGVFRnBtZ19ac2tGT0lwV2puVnBsQ2N2VjROSi10ZW1NU0JIOW9jb2FNVjlKMktmSmVUbUx3UFUwRWpjRFdzTnozaVlrUWhFbE8yTWl6TDM",
-      "title": "CU Buffs OC Brennan Marion pushes back as the offense looks to break out - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JNTkxYWtweUFOQ3FET3JqVXdZZzhtdUVyTVVvNUtMQVhXTDV5NGVFRnBtZ19ac2tGT0lwV2puVnBsQ2N2VjROSi10ZW1NU0JIOW9jb2FNVjlKMktmSmVUbUx3UFUwRWpjRFdzTnozaVlrUWhFbE8yTWl6TDM?oc=5",
-      "summary": "CU Buffs OC Brennan Marion pushes back as the offense looks to break out Daily Camera",
-      "publishedAt": "2026-10-15T02:32:57.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
-      "id": "https://www.mindful.org/?p=669207",
-      "title": "Jörg Sprave: A Guided Forest Bathing Meditation",
-      "link": "https://www.mindful.org/jorg-sprave-a-guided-forest-bathing-meditation/",
-      "summary": "Teacher and founder of Treeming.org Jörg Sprave leads a guided meditation to introduce listeners to the ancient practice of shinrin-yoku (forest bathing). The post Jörg Sprave: A Guided Forest Bathing Meditation appeared first on Mindful.",
-      "publishedAt": "2026-10-14T14:27:10.000Z",
+      "id": "https://www.mindful.org/?p=669221",
+      "title": "The Power of the Pause: A Simple Way to Begin Your Practice of Not Reacting",
+      "link": "https://www.mindful.org/the-power-of-the-pause-a-simple-way-to-begin-your-practice-of-not-reacting/",
+      "summary": "One of the core principles of mindfulness is learning the practice of not reacting to everything that's going on inside and around us. But where do we begin? The post The Power of the Pause: A Simple Way to Begin Your Practice of Not Reacti…",
+      "publishedAt": "2026-10-14T19:16:19.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -1840,12 +1840,12 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=319464",
-      "title": "Drowned 5,000-year-old forests off Mozambique now shelter reef fish, no coral needed",
-      "link": "https://interestingengineering.com/culture/ancient-peat-reefs-mozambique-submerged-forests-marine-life",
-      "summary": "Forests that stood on Mozambique’s coast thousands of years ago now lie beneath shallow seas,...",
-      "publishedAt": "2026-10-17T18:11:43.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/ancient-forest.jpg",
+      "id": "https://interestingengineering.com/?p=319269",
+      "title": "8,000-mile-tested autonomy system set to be deployed in multiple ground vehicle platforms",
+      "link": "https://interestingengineering.com/military/autonomy-tech-deployed-in-vehicle-platforms",
+      "summary": "A Rhode Island-based company has debuted a new robotic control package for the autonomy deployment...",
+      "publishedAt": "2026-10-17T19:19:33.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/military-vehicle-integration-.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -1862,6 +1862,17 @@
       "category": "tech"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=128964&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
+      "title": "100-year-old museum fossil identified as Europe’s first known megaraptoran dinosaur",
+      "link": "https://www.thebrighterside.news/post/100-year-old-museum-fossil-identified-as-europes-first-known-megaraptoran-dinosaur/",
+      "summary": "An Isle of Wight skull fragment identifies a new predator and adds Europe to the known range of megaraptoran dinosaurs. The post 100-year-old museum fossil identified as Europe’s first known megaraptoran dinosaur appeared first on The Brigh…",
+      "publishedAt": "2026-10-17T11:51:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/dinosaur-1.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "XsjTKTpDWg574stWDPAUDh",
       "title": "The Orionid meteor shower peaks next week! Here's what to expect",
       "link": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
@@ -1871,17 +1882,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128907&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
-      "title": "Harvard study finds a single gene extended median lifespan by 14%",
-      "link": "https://www.thebrighterside.news/post/harvard-study-finds-a-single-gene-extended-median-lifespan-by-14/",
-      "summary": "A gene involved in RNA processing improved aging-related cell features and extended median lifespan in a small mouse experiment. The post Harvard study finds a single gene extended median lifespan by 14% appeared first on The Brighter Side …",
-      "publishedAt": "2026-10-17T08:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/skin-cells.png?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
     },
     {
       "id": "https://coloradosun.com/?p=505407",
@@ -1895,12 +1895,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.themarginalian.org/?p=77766",
-      "title": "Bruce Springsteen on Surviving Depression and His Strategy for Living Through the Visitations of the Darkness",
-      "link": "https://www.themarginalian.org/2026/10/16/bruce-springsteen-depression/",
-      "summary": "\"If you can acknowledge it and you can relax with it a little bit, very often it shortens its duration.\"",
-      "publishedAt": "2026-10-16T19:21:16.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/07/brucespringsteen_borntorun.jpg?fit=320%2C468&amp;ssl=1",
+      "id": "https://www.themarginalian.org/?p=82021",
+      "title": "The Other Significant Others: Living and Loving Outside the Confines of Conventional Friendship and Compulsory Coupledom",
+      "link": "https://www.themarginalian.org/2026/10/16/the-other-significant-others/",
+      "summary": "\"While we weaken friendships by expecting too little of them, we undermine romantic relationships by expecting too much of them.\"",
+      "publishedAt": "2026-10-16T19:30:40.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/02/theothersignificantothers.jpg?fit=320%2C494&amp;ssl=1",
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
@@ -1937,6 +1937,17 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
+    },
+    {
+      "id": "CBMihgFBVV95cUxNNllUanpmSkVlZzRvNTVGcUdpMy1HTFlfWFdFYUFQQmVld1JwN085UWR2Q2NHRFc3d2ZreWJuSU9PQl9HX21hTkRsN3o5a2s5NTZyX3ZWYnVVZXYweXhSdUp1TlRXUVF2Z3I0TXdjQzc4YUdoYkYwMHduRVlUN3E3dkg2blgyQQ",
+      "title": "What problem is Amendment 84 addressing?; Boulder vacancy tax; a stake in CD 4 race (Letters) - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNllUanpmSkVlZzRvNTVGcUdpMy1HTFlfWFdFYUFQQmVld1JwN085UWR2Q2NHRFc3d2ZreWJuSU9PQl9HX21hTkRsN3o5a2s5NTZyX3ZWYnVVZXYweXhSdUp1TlRXUVF2Z3I0TXdjQzc4YUdoYkYwMHduRVlUN3E3dkg2blgyQQ?oc=5",
+      "summary": "What problem is Amendment 84 addressing?; Boulder vacancy tax; a stake in CD 4 race (Letters) Boulder Daily Camera",
+      "publishedAt": "2026-10-16T10:00:31.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://thelocalproject.com.au/?p=467221",
@@ -2005,6 +2016,17 @@
       "category": "design"
     },
     {
+      "id": "https://www.mindful.org/?p=669207",
+      "title": "Jörg Sprave: A Guided Forest Bathing Meditation",
+      "link": "https://www.mindful.org/jorg-sprave-a-guided-forest-bathing-meditation/",
+      "summary": "Teacher and founder of Treeming.org Jörg Sprave leads a guided meditation to introduce listeners to the ancient practice of shinrin-yoku (forest bathing). The post Jörg Sprave: A Guided Forest Bathing Meditation appeared first on Mindful.",
+      "publishedAt": "2026-10-14T14:27:10.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants",
       "title": "Can predictive tools tell us who will really benefit from antidepressants?",
       "link": "https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants",
@@ -2016,17 +2038,6 @@
       "category": "science"
     },
     {
-      "id": "CBMiqgFBVV95cUxPOGVPVklNUUt1bTNWc2lCbUJscG5WS3FxUzRPSS0wSFpfLU15SjNQQmRvUWtRZ09RX0kwQkZsdTRER2VTcXlJSVVrT2pjTEJzblFmNTFPVW1mMVowbVBuNmF1UWJ3Q0RxMk4xLVFoQXNycERONkdYTENOX18wNmlwSERPWU85UUFBRzdDSHF0ejdxdU1sWGY2NV9VemU1MUdfeElMTUQ4SnF6dw",
-      "title": "Propositions 134 and 135 seek to solve problems that don’t exist (Opinion) - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGVPVklNUUt1bTNWc2lCbUJscG5WS3FxUzRPSS0wSFpfLU15SjNQQmRvUWtRZ09RX0kwQkZsdTRER2VTcXlJSVVrT2pjTEJzblFmNTFPVW1mMVowbVBuNmF1UWJ3Q0RxMk4xLVFoQXNycERONkdYTENOX18wNmlwSERPWU85UUFBRzdDSHF0ejdxdU1sWGY2NV9VemU1MUdfeElMTUQ4SnF6dw?oc=5",
-      "summary": "Propositions 134 and 135 seek to solve problems that don’t exist (Opinion) Boulder Daily Camera",
-      "publishedAt": "2026-10-14T10:02:03.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
       "id": "urn:id:9163",
       "title": "How to handle jealous feelings",
       "link": "https://psyche.co/guides/how-to-handle-jealous-feelings",
@@ -2035,17 +2046,6 @@
       "imageUrl": "https://images.aeonmedia.co/images/8c7eec14-3b88-4e21-b215-a27e9c322806/v2-edvard_munch_-_jealousy_-_google_art_project.jpg?top=108&amp;left=0&amp;cropWidth=2080&amp;cropHeight=1170&amp;width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "psyche",
       "sourceName": "Psyche",
-      "category": "ideas"
-    },
-    {
-      "id": "https://www.mindful.org/?p=669212",
-      "title": "Garden Meditation: A Simple Outdoor Practice for Presence and Awe",
-      "link": "https://www.mindful.org/garden-meditation-a-simple-outdoor-practice-for-presence-and-awe/",
-      "summary": "Garden meditation is a simple way to turn time outdoors into a mindfulness practice—no garden required. Here's how to start, even from a balcony or park bench. The post Garden Meditation: A Simple Outdoor Practice for Presence and Awe appea…",
-      "publishedAt": "2026-10-13T23:02:46.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -2126,11 +2126,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMib0FVX3lxTE9KWXNKb01oekJySWM4cGg0NHYxbXE5Y0ZEZVkxaGxuSV9vbmtHRkVVU2lFMWRnZmsxUmNpTmFieF9HR3l6bkdiWWhXeDhQelZNU3VtXzgyNHZ3ZHNaZ2QwN0hFMVBudGF4aVprX2pyTQ",
-      "title": "Hampstead House by Twelve Forty One - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KWXNKb01oekJySWM4cGg0NHYxbXE5Y0ZEZVkxaGxuSV9vbmtHRkVVU2lFMWRnZmsxUmNpTmFieF9HR3l6bkdiWWhXeDhQelZNU3VtXzgyNHZ3ZHNaZ2QwN0hFMVBudGF4aVprX2pyTQ?oc=5",
-      "summary": "Hampstead House by Twelve Forty One Thisispaper",
-      "publishedAt": "2026-10-06T15:32:30.000Z",
+      "id": "CBMiX0FVX3lxTE05WXRjNTEteG1ub0cwaVQzWDdsYUl6YVE3S3NlZlNRNVVLOG9LcnF5QjhMWmIwU29UUTV4MFlIR0VPZzhKckFBeEtlazZfbnNmTktkeWw5TGZOZWZLY1pj",
+      "title": "House Thermia by RAUM - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05WXRjNTEteG1ub0cwaVQzWDdsYUl6YVE3S3NlZlNRNVVLOG9LcnF5QjhMWmIwU29UUTV4MFlIR0VPZzhKckFBeEtlazZfbnNmTktkeWw5TGZOZWZLY1pj?oc=5",
+      "summary": "House Thermia by RAUM Thisispaper",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -2225,6 +2225,17 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=319464",
+      "title": "Drowned 5,000-year-old forests off Mozambique now shelter reef fish, no coral needed",
+      "link": "https://interestingengineering.com/culture/ancient-peat-reefs-mozambique-submerged-forests-marine-life",
+      "summary": "Forests that stood on Mozambique’s coast thousands of years ago now lie beneath shallow seas,...",
+      "publishedAt": "2026-10-17T18:11:43.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/ancient-forest.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50133150",
       "title": "I Became a Citizen of Japan",
       "link": "https://www.derekwessman.com/blog-1/natural",
@@ -2236,15 +2247,15 @@
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=319343",
-      "title": "Even sharks produce stress hormone, new research overturns 60-year-old study",
-      "link": "https://interestingengineering.com/science/scientists-discover-cortisol-in-shark-blood",
-      "summary": "A recent study has challenged a long-held understanding that sharks do not produce cortisol, challenging...",
-      "publishedAt": "2026-10-17T17:31:18.000Z",
-      "imageUrl": "https://www.youtube.com/embed/NIjJ00HYCcM",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "https://www.thebrighterside.news/api/preview?id=128907&secret=cM2XMtKpK3Lj&nonce=432ccc201d",
+      "title": "Harvard study finds a single gene extended median lifespan by 14%",
+      "link": "https://www.thebrighterside.news/post/harvard-study-finds-a-single-gene-extended-median-lifespan-by-14/",
+      "summary": "A gene involved in RNA processing improved aging-related cell features and extended median lifespan in a small mouse experiment. The post Harvard study finds a single gene extended median lifespan by 14% appeared first on The Brighter Side …",
+      "publishedAt": "2026-10-17T08:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/skin-cells.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
     },
     {
       "id": "https://coloradosun.com/?p=505526",
@@ -2258,17 +2269,6 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128848&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
-      "title": "New large-sized telescope array in Spain ushers in a new era in exploring the extreme universe",
-      "link": "https://www.thebrighterside.news/post/new-large-sized-telescope-array-in-spain-ushers-in-a-new-era-in-exploring-the-extreme-universe/",
-      "summary": "CTAO’s four Large-Sized Telescopes mark construction completion, with commissioning ahead and distant explosions among their targets. The post New large-sized telescope array in Spain ushers in a new era in exploring the extreme universe ap…",
-      "publishedAt": "2026-10-16T23:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/CTAO.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
-    },
-    {
       "id": "vsYmwPpPkidT4RDYEvgfJJ",
       "title": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space",
       "link": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space",
@@ -2278,6 +2278,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=77766",
+      "title": "Bruce Springsteen on Surviving Depression and His Strategy for Living Through the Visitations of the Darkness",
+      "link": "https://www.themarginalian.org/2026/10/16/bruce-springsteen-depression/",
+      "summary": "\"If you can acknowledge it and you can relax with it a little bit, very often it shortens its duration.\"",
+      "publishedAt": "2026-10-16T19:21:16.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/07/brucespringsteen_borntorun.jpg?fit=320%2C468&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://nautil.us/?p=1285851",
@@ -2300,17 +2311,6 @@
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=80714",
-      "title": "How to Hold Your Helplessness: Nobel Laureate Bertrand Russell’s Salve for the Anxiety of Overwhelm",
-      "link": "https://www.themarginalian.org/2026/10/15/new-hopes-for-a-changing-world-russell/",
-      "summary": "\"A way of life cannot be successful so long as it is a mere intellectual conviction. It must be deeply felt, deeply believed, dominant even in dreams.\"",
-      "publishedAt": "2026-10-15T23:39:10.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/08/newhopesforachangingworld_TheMarginalian.jpg?fit=320%2C499&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "CBMizwFBVV95cUxPMVhnZl9vVUxPQkhpX3NzUkJlT3cweGtXcThwMTJpSHRHQkxMWEFaZm11MEJPU1dvZ242Rjh5eTl2eXd6anRrMDFCUmFOSEc4SW4yUFR3dnVHNHVaUmgwdlhyVC1yR0ZfZ2JveUFhYVU4TkplNmtnR1JobWd1RHRzVGJPb29LS1Z2T3ozSmlEYzdHR2lKN3ZQTUl1TlpnaWdfakZVTkVkM2N5Um5iTHRGS3hhUVFWZUZUX0hreldDb1E4WTcwRDRDRGdZakYwTW8",
@@ -2344,6 +2344,17 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
+    },
+    {
+      "id": "CBMic0FVX3lxTE1wZWw4TVlNTmw0ZTNYazdscHV4MmNsNWltWUhIOC1PZ3NOSklMOVN0MHRJRUNldjZ4dHlDZGVWRDMyeDJIbXAwYk1BaEd0LWRFSGhFWmVuY1M5bUlGaGFXSXdfS1ItUlE0aXFwWGdZb1RoSWs",
+      "title": "Here’s where Boulder mayoral candidates stand on three top issues - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wZWw4TVlNTmw0ZTNYazdscHV4MmNsNWltWUhIOC1PZ3NOSklMOVN0MHRJRUNldjZ4dHlDZGVWRDMyeDJIbXAwYk1BaEd0LWRFSGhFWmVuY1M5bUlGaGFXSXdfS1ItUlE0aXFwWGdZb1RoSWs?oc=5",
+      "summary": "Here’s where Boulder mayoral candidates stand on three top issues Boulder Daily Camera",
+      "publishedAt": "2026-10-15T14:58:20.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.surfacemag.com/?p=213243",
@@ -2401,15 +2412,15 @@
       "category": "local"
     },
     {
-      "id": "CBMiW0FVX3lxTE1rRjRnQVZIdXdXVGZLeGVValRra3dOOHF3M0h5SXFrWFgtclpKWG1ObGM2ZXRLTTBuTlBlRGNTejdFZjZwbzEwNnAwYUFxYU1NY2xYMDVnSmpwZGs",
-      "title": "Sitemap - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rRjRnQVZIdXdXVGZLeGVValRra3dOOHF3M0h5SXFrWFgtclpKWG1ObGM2ZXRLTTBuTlBlRGNTejdFZjZwbzEwNnAwYUFxYU1NY2xYMDVnSmpwZGs?oc=5",
-      "summary": "Sitemap Boulder Daily Camera",
-      "publishedAt": "2026-10-14T00:07:30.000Z",
+      "id": "https://www.mindful.org/?p=669212",
+      "title": "Garden Meditation: A Simple Outdoor Practice for Presence and Awe",
+      "link": "https://www.mindful.org/garden-meditation-a-simple-outdoor-practice-for-presence-and-awe/",
+      "summary": "Garden meditation is a simple way to turn time outdoors into a mindfulness practice—no garden required. Here's how to start, even from a balcony or park bench. The post Garden Meditation: A Simple Outdoor Practice for Presence and Awe appea…",
+      "publishedAt": "2026-10-13T23:02:46.000Z",
       "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
     },
     {
       "id": "urn:id:9018",
@@ -2431,17 +2442,6 @@
       "imageUrl": null,
       "sourceId": "philosophy-now",
       "sourceName": "Philosophy Now",
-      "category": "ideas"
-    },
-    {
-      "id": "https://www.mindful.org/?p=636478",
-      "title": "Increase Your Agency By Responding, Instead of Reacting",
-      "link": "https://www.mindful.org/increase-your-agency-by-responding-instead-of-reacting/",
-      "summary": "Ever wonder why your emails tend to be better when you wait a little before replying? Choosing to take a pause before we act may sound simple, but it yields powerful results. Longtime mindfulness teacher and author Andrew Safer shares a few…",
-      "publishedAt": "2026-10-12T16:49:00.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -2511,11 +2511,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiX0FVX3lxTE05WXRjNTEteG1ub0cwaVQzWDdsYUl6YVE3S3NlZlNRNVVLOG9LcnF5QjhMWmIwU29UUTV4MFlIR0VPZzhKckFBeEtlazZfbnNmTktkeWw5TGZOZWZLY1pj",
-      "title": "House Thermia by RAUM - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05WXRjNTEteG1ub0cwaVQzWDdsYUl6YVE3S3NlZlNRNVVLOG9LcnF5QjhMWmIwU29UUTV4MFlIR0VPZzhKckFBeEtlazZfbnNmTktkeWw5TGZOZWZLY1pj?oc=5",
-      "summary": "House Thermia by RAUM Thisispaper",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "id": "CBMiV0FVX3lxTE9Hb0RQa0VkdURMZFlVUlUwMDZXVy1WTkZUOFZPTnUxdmJuNE9MaktZMEMzMU1zOWs1aW9qMEIwT192TUp6TW83UTY5RkRjTzY3YU8xSFlYbw",
+      "title": "The New Farmhouse - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hb0RQa0VkdURMZFlVUlUwMDZXVy1WTkZUOFZPTnUxdmJuNE9MaktZMEMzMU1zOWs1aW9qMEIwT192TUp6TW83UTY5RkRjTzY3YU8xSFlYbw?oc=5",
+      "summary": "The New Farmhouse Thisispaper",
+      "publishedAt": "2026-10-01T18:07:37.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -2610,12 +2610,12 @@
       "category": "design"
     },
     {
-      "id": "https://interestingengineering.com/?p=319383",
-      "title": "Scientists map 2,000 Martian soil types to find best ground for future crops",
-      "link": "https://interestingengineering.com/space/martian-soil-type-future-greenhouse-farming",
-      "summary": "To grow food on Mars, scientists first need to have an in-depth understanding of the...",
-      "publishedAt": "2026-10-17T17:16:54.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Martian-soil-types.jpg",
+      "id": "https://interestingengineering.com/?p=319343",
+      "title": "Even sharks produce stress hormone, new research overturns 60-year-old study",
+      "link": "https://interestingengineering.com/science/scientists-discover-cortisol-in-shark-blood",
+      "summary": "A recent study has challenged a long-held understanding that sharks do not produce cortisol, challenging...",
+      "publishedAt": "2026-10-17T17:31:18.000Z",
+      "imageUrl": "https://www.youtube.com/embed/NIjJ00HYCcM",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -2643,12 +2643,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128890&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
-      "title": "Scientists discover oxygen trapped deep inside Earth’s magma, possibly explaining the rise of early life",
-      "link": "https://www.thebrighterside.news/post/scientists-discover-oxygen-trapped-deep-inside-earths-magma-possibly-explaining-the-rise-of-early-life/",
-      "summary": "Oxygen-rich laboratory melts retained extra oxygen under pressure, revealing a possible transport mechanism within Earth. The post Scientists discover oxygen trapped deep inside Earth’s magma, possibly explaining the rise of early life appe…",
-      "publishedAt": "2026-10-16T20:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/magma-oxygen.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128848&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
+      "title": "New large-sized telescope array in Spain ushers in a new era in exploring the extreme universe",
+      "link": "https://www.thebrighterside.news/post/new-large-sized-telescope-array-in-spain-ushers-in-a-new-era-in-exploring-the-extreme-universe/",
+      "summary": "CTAO’s four Large-Sized Telescopes mark construction completion, with commissioning ahead and distant explosions among their targets. The post New large-sized telescope array in Spain ushers in a new era in exploring the extreme universe ap…",
+      "publishedAt": "2026-10-16T23:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/CTAO.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -2685,6 +2685,17 @@
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=80714",
+      "title": "How to Hold Your Helplessness: Nobel Laureate Bertrand Russell’s Salve for the Anxiety of Overwhelm",
+      "link": "https://www.themarginalian.org/2026/10/15/new-hopes-for-a-changing-world-russell/",
+      "summary": "\"A way of life cannot be successful so long as it is a mere intellectual conviction. It must be deeply felt, deeply believed, dominant even in dreams.\"",
+      "publishedAt": "2026-10-15T23:39:10.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/08/newhopesforachangingworld_TheMarginalian.jpg?fit=320%2C499&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "CBMizAFBVV95cUxOSzE1ZmdSbm5MamM2dnZaeG9QcDk1Rzc5cHJUWGg3bVVvQ21TWXNsQXpxNDlLS0hfRko1TzdGM0xOaDBkekZVbGttZjBmcUx0OGMwNVRSRUJvRXBaV2hFYmVuQ3FPbEFNbks4YlR0MTZaYklJR0Vla19TbUJZLXBSUlNPa2hfT2tjcmVud1daemJpY1RYUnc3cC1lUFI4Sm9rWHdxX3BTSGRoRS1BRnNsOThCd3ZjbE5TYWVCbzB3eEF5YjBiWmxWMTJKdTk",
@@ -2731,15 +2742,15 @@
       "category": "design"
     },
     {
-      "id": "https://www.themarginalian.org/?p=86060",
-      "title": "How Not to Waste Your Life",
-      "link": "https://www.themarginalian.org/2026/10/15/hawthorne-life/",
-      "summary": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of plane…",
-      "publishedAt": "2026-10-15T06:32:44.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/10/hawthorne_notebooks.jpg?fit=320%2C480&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
+      "id": "CBMifEFVX3lxTE1JNTkxYWtweUFOQ3FET3JqVXdZZzhtdUVyTVVvNUtMQVhXTDV5NGVFRnBtZ19ac2tGT0lwV2puVnBsQ2N2VjROSi10ZW1NU0JIOW9jb2FNVjlKMktmSmVUbUx3UFUwRWpjRFdzTnozaVlrUWhFbE8yTWl6TDM",
+      "title": "CU Buffs OC Brennan Marion pushes back as the offense looks to break out - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JNTkxYWtweUFOQ3FET3JqVXdZZzhtdUVyTVVvNUtMQVhXTDV5NGVFRnBtZ19ac2tGT0lwV2puVnBsQ2N2VjROSi10ZW1NU0JIOW9jb2FNVjlKMktmSmVUbUx3UFUwRWpjRFdzTnozaVlrUWhFbE8yTWl6TDM?oc=5",
+      "summary": "CU Buffs OC Brennan Marion pushes back as the offense looks to break out Daily Camera",
+      "publishedAt": "2026-10-15T02:32:57.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://leibal.com/?p=185319",
@@ -2786,17 +2797,6 @@
       "category": "local"
     },
     {
-      "id": "CBMihAFBVV95cUxOVFFkLWZMdGNVT2JYbXhlQ3dHa1J6aXFYbDZSSkRfN3VNMXpkbVFYdHBOOXdiN1dIUnREdU1uQkpIeERoZFZtX3IwVmxUdkpiY184UFhFTzQ4Nk5jc3NaNVVoQi1aa3NJOTNpRExsbzZUei1ZcFZqSVhGWGE0THRNVG5qWXQ",
-      "title": "Man who died with 3-year-old in Boulder-area plane crash flew for 3 hours - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFFkLWZMdGNVT2JYbXhlQ3dHa1J6aXFYbDZSSkRfN3VNMXpkbVFYdHBOOXdiN1dIUnREdU1uQkpIeERoZFZtX3IwVmxUdkpiY184UFhFTzQ4Nk5jc3NaNVVoQi1aa3NJOTNpRExsbzZUei1ZcFZqSVhGWGE0THRNVG5qWXQ?oc=5",
-      "summary": "Man who died with 3-year-old in Boulder-area plane crash flew for 3 hours Boulder Daily Camera",
-      "publishedAt": "2026-10-13T20:19:47.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
       "id": "https://philosophynow.org/issues/176/The_Nature_of_Reality",
       "title": "The Nature of Reality",
       "link": "https://philosophynow.org/issues/176/The_Nature_of_Reality",
@@ -2805,6 +2805,17 @@
       "imageUrl": null,
       "sourceId": "philosophy-now",
       "sourceName": "Philosophy Now",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=636478",
+      "title": "Increase Your Agency By Responding, Instead of Reacting",
+      "link": "https://www.mindful.org/increase-your-agency-by-responding-instead-of-reacting/",
+      "summary": "Ever wonder why your emails tend to be better when you wait a little before replying? Choosing to take a pause before we act may sound simple, but it yields powerful results. Longtime mindfulness teacher and author Andrew Safer shares a few…",
+      "publishedAt": "2026-10-12T16:49:00.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -2841,17 +2852,6 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=669096",
-      "title": "When the Mind Won’t Slow Down, Let the Forest Set the Pace",
-      "link": "https://www.mindful.org/when-the-mind-wont-slow-down-let-the-forest-bathing-set-the-pace/",
-      "summary": "What the Japanese practice of shinrin-yoku (\"forest bathing\") can teach us about attention, emotional well-being, and finding moments of quiet in a world that rarely stops. The post When the Mind Won’t Slow Down, Let the Forest Set the Pace…",
-      "publishedAt": "2026-10-09T14:14:39.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
-    },
-    {
       "id": "https://greatergood.berkeley.edu/article/item/for_how_long_do_you_need_to_meditate#When:14:59:00Z",
       "title": "For How Long Do You Need to Meditate?",
       "link": "https://greatergood.berkeley.edu/article/item/for_how_long_do_you_need_to_meditate",
@@ -2885,17 +2885,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMiV0FVX3lxTE9Hb0RQa0VkdURMZFlVUlUwMDZXVy1WTkZUOFZPTnUxdmJuNE9MaktZMEMzMU1zOWs1aW9qMEIwT192TUp6TW83UTY5RkRjTzY3YU8xSFlYbw",
-      "title": "The New Farmhouse - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hb0RQa0VkdURMZFlVUlUwMDZXVy1WTkZUOFZPTnUxdmJuNE9MaktZMEMzMU1zOWs1aW9qMEIwT192TUp6TW83UTY5RkRjTzY3YU8xSFlYbw?oc=5",
-      "summary": "The New Farmhouse Thisispaper",
-      "publishedAt": "2026-10-01T18:07:37.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://minimalissimo.com/articles/xiaomi-mi-precision-cordless-screwdriver",
       "title": "Xiaomi Mi precision cordless screwdriver",
       "link": "https://minimalissimo.com/articles/xiaomi-mi-precision-cordless-screwdriver",
@@ -2904,6 +2893,17 @@
       "imageUrl": "https://minimalissimo.com/api/media/file/xiaomi-mi-precision-cordless-screwdriver-featured-v20260929.jpg",
       "sourceId": "minimalissimo",
       "sourceName": "Minimalissimo",
+      "category": "design"
+    },
+    {
+      "id": "CBMiekFVX3lxTE4zMWM4bWlwTFBhTGpIcHBDLTFoUjFvN09XZW0zTUtFclp0dHl6TGVKU0F0VnBwRU0tdVB0anlwXzBzYW9FcVk0MURhSDJzcXNEUk1xLXhTWDhDNThYOC1iOERtRkpiTUFtX1JvSFh0Y1dQQWJUcU1FNmRn",
+      "title": "PRM39 by Ana Victoria Pérez-Gil | Saúl Figueroa - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zMWM4bWlwTFBhTGpIcHBDLTFoUjFvN09XZW0zTUtFclp0dHl6TGVKU0F0VnBwRU0tdVB0anlwXzBzYW9FcVk0MURhSDJzcXNEUk1xLXhTWDhDNThYOC1iOERtRkpiTUFtX1JvSFh0Y1dQQWJUcU1FNmRn?oc=5",
+      "summary": "PRM39 by Ana Victoria Pérez-Gil | Saúl Figueroa Thisispaper",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -2995,6 +2995,17 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=319383",
+      "title": "Scientists map 2,000 Martian soil types to find best ground for future crops",
+      "link": "https://interestingengineering.com/space/martian-soil-type-future-greenhouse-farming",
+      "summary": "To grow food on Mars, scientists first need to have an in-depth understanding of the...",
+      "publishedAt": "2026-10-17T17:16:54.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Martian-soil-types.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50132870",
       "title": "Gold is now the top U.S. export",
       "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
@@ -3004,17 +3015,6 @@
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=319320",
-      "title": "The “mirror-image” gene: Scientists explain why snail shells coil left or right",
-      "link": "https://interestingengineering.com/science/the-mirror-image-gene-scientists-explain-why-snail-shells-coil-left-or-right",
-      "summary": "A small genetic difference can turn a snail into the mirror image of another. Now,...",
-      "publishedAt": "2026-10-17T16:56:04.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Reversal-Genes.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "https://coloradosun.com/?p=505475",
@@ -3028,12 +3028,12 @@
       "category": "local"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128867&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
-      "title": "Silicon spin qubits reach 99.99% fidelity bringing larger quantum processors into reach",
-      "link": "https://www.thebrighterside.news/post/silicon-spin-qubits-reach-99-99-fidelity-bringing-larger-quantum-processors-into-reach/",
-      "summary": "A five-qubit silicon experiment tackles microwave interference, helping quantum processors work accurately in parallel. The post Silicon spin qubits reach 99.99% fidelity bringing larger quantum processors into reach appeared first on The B…",
-      "publishedAt": "2026-10-16T18:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/quantum-processor.png?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128890&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
+      "title": "Scientists discover oxygen trapped deep inside Earth’s magma, possibly explaining the rise of early life",
+      "link": "https://www.thebrighterside.news/post/scientists-discover-oxygen-trapped-deep-inside-earths-magma-possibly-explaining-the-rise-of-early-life/",
+      "summary": "Oxygen-rich laboratory melts retained extra oxygen under pressure, revealing a possible transport mechanism within Earth. The post Scientists discover oxygen trapped deep inside Earth’s magma, possibly explaining the rise of early life appe…",
+      "publishedAt": "2026-10-16T20:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/magma-oxygen.png?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -3094,6 +3094,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.themarginalian.org/?p=86060",
+      "title": "How Not to Waste Your Life",
+      "link": "https://www.themarginalian.org/2026/10/15/hawthorne-life/",
+      "summary": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of plane…",
+      "publishedAt": "2026-10-15T06:32:44.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/10/hawthorne_notebooks.jpg?fit=320%2C480&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.dwell.com/article/casa-mako-atelier-vago-italian-country-home-renovation-tilework-e25e64a3",
       "title": "Eleven Types of Tile Lay the Groundwork for a Home Renovation in the Tuscan Countryside",
       "link": "https://www.dwell.com/article/casa-mako-atelier-vago-italian-country-home-renovation-tilework-e25e64a3",
@@ -3105,15 +3116,15 @@
       "category": "design"
     },
     {
-      "id": "https://www.themarginalian.org/?p=80095",
-      "title": "An Introvert’s Field Guide to Friendship: Thoreau on the Challenges and Rewards of Candid Connection",
-      "link": "https://www.themarginalian.org/2026/10/14/thoreau-friendship/",
-      "summary": "\"We only need to be as true to others as we are to ourselves that there may be ground enough for friendship.\"",
-      "publishedAt": "2026-10-14T20:14:11.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/06/thoreaujournal.jpg?w=680&#038;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
+      "id": "CBMiqgFBVV95cUxPOGVPVklNUUt1bTNWc2lCbUJscG5WS3FxUzRPSS0wSFpfLU15SjNQQmRvUWtRZ09RX0kwQkZsdTRER2VTcXlJSVVrT2pjTEJzblFmNTFPVW1mMVowbVBuNmF1UWJ3Q0RxMk4xLVFoQXNycERONkdYTENOX18wNmlwSERPWU85UUFBRzdDSHF0ejdxdU1sWGY2NV9VemU1MUdfeElMTUQ4SnF6dw",
+      "title": "Propositions 134 and 135 seek to solve problems that don’t exist (Opinion) - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGVPVklNUUt1bTNWc2lCbUJscG5WS3FxUzRPSS0wSFpfLU15SjNQQmRvUWtRZ09RX0kwQkZsdTRER2VTcXlJSVVrT2pjTEJzblFmNTFPVW1mMVowbVBuNmF1UWJ3Q0RxMk4xLVFoQXNycERONkdYTENOX18wNmlwSERPWU85UUFBRzdDSHF0ejdxdU1sWGY2NV9VemU1MUdfeElMTUQ4SnF6dw?oc=5",
+      "summary": "Propositions 134 and 135 seek to solve problems that don’t exist (Opinion) Boulder Daily Camera",
+      "publishedAt": "2026-10-14T10:02:03.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.surfacemag.com/?p=213183",
@@ -3136,17 +3147,6 @@
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
-    },
-    {
-      "id": "CBMilwFBVV95cUxOM2ZxaElrNUtCRFVhOGY1SUw4MFhMekNCR3owWkxEWV9ldGRBdDYxQjNMcV9LN2ZVUF9sQ25aWnVXZEgxcXZuZWJSbl9DVEdUei03NFIxSjdJbV9Ya3o5eGU4NHdTbkZENVE1Tnc4N3piZ1g5aVN3a1htZTRqTXpwU1FKczZXNm9PZ2ZRZW0xd0RuNGJBeFJr",
-      "title": "Starting QB Isaac Wilson to lead the CU Buffs against former team, The Utes - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2ZxaElrNUtCRFVhOGY1SUw4MFhMekNCR3owWkxEWV9ldGRBdDYxQjNMcV9LN2ZVUF9sQ25aWnVXZEgxcXZuZWJSbl9DVEdUei03NFIxSjdJbV9Ya3o5eGU4NHdTbkZENVE1Tnc4N3piZ1g5aVN3a1htZTRqTXpwU1FKczZXNm9PZ2ZRZW0xd0RuNGJBeFJr?oc=5",
-      "summary": "Starting QB Isaac Wilson to lead the CU Buffs against former team, The Utes Boulder Daily Camera",
-      "publishedAt": "2026-10-13T19:50:03.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://leibal.com/?p=185376",
@@ -3193,6 +3193,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.mindful.org/?p=669096",
+      "title": "When the Mind Won’t Slow Down, Let the Forest Set the Pace",
+      "link": "https://www.mindful.org/when-the-mind-wont-slow-down-let-the-forest-bathing-set-the-pace/",
+      "summary": "What the Japanese practice of shinrin-yoku (\"forest bathing\") can teach us about attention, emotional well-being, and finding moments of quiet in a world that rarely stops. The post When the Mind Won’t Slow Down, Let the Forest Set the Pace…",
+      "publishedAt": "2026-10-09T14:14:39.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
       "id": "urn:id:9181",
       "title": "How to ignite your creativity",
       "link": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things",
@@ -3223,17 +3234,6 @@
       "imageUrl": "https://images.aeonmedia.co/images/41d8761c-df4f-4ee0-a580-d6bd64594340/essay-un-ward.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
-      "category": "ideas"
-    },
-    {
-      "id": "https://www.mindful.org/?p=669099",
-      "title": "Belonging Begins in the Body",
-      "link": "https://www.mindful.org/belonging-begins-in-the-body/",
-      "summary": "Jay Pitter, author of the book Black Public Joy, offers placemaking concepts and practices for cultivating a healthy sense of connection with ourselves and the outside world. The post Belonging Begins in the Body appeared first on Mindful.",
-      "publishedAt": "2026-10-07T00:50:57.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -3281,17 +3281,6 @@
       "category": "design"
     },
     {
-      "id": "CBMiekFVX3lxTE4zMWM4bWlwTFBhTGpIcHBDLTFoUjFvN09XZW0zTUtFclp0dHl6TGVKU0F0VnBwRU0tdVB0anlwXzBzYW9FcVk0MURhSDJzcXNEUk1xLXhTWDhDNThYOC1iOERtRkpiTUFtX1JvSFh0Y1dQQWJUcU1FNmRn",
-      "title": "PRM39 by Ana Victoria Pérez-Gil | Saúl Figueroa - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zMWM4bWlwTFBhTGpIcHBDLTFoUjFvN09XZW0zTUtFclp0dHl6TGVKU0F0VnBwRU0tdVB0anlwXzBzYW9FcVk0MURhSDJzcXNEUk1xLXhTWDhDNThYOC1iOERtRkpiTUFtX1JvSFh0Y1dQQWJUcU1FNmRn?oc=5",
-      "summary": "PRM39 by Ana Victoria Pérez-Gil | Saúl Figueroa Thisispaper",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://www.densediscovery.com/issues/403/",
       "title": "DD403 / In praise of ‘it depends’",
       "link": "https://www.densediscovery.com/issues/403/",
@@ -3300,6 +3289,17 @@
       "imageUrl": "https://www.densediscovery.com/img/screenshot/square-403.jpg",
       "sourceId": "dense-discovery",
       "sourceName": "Dense Discovery",
+      "category": "design"
+    },
+    {
+      "id": "CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA",
+      "title": "Ford World Headquarters by Snøhetta - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA?oc=5",
+      "summary": "Ford World Headquarters by Snøhetta Thisispaper",
+      "publishedAt": "2026-07-27T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -3391,12 +3391,12 @@
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=319311",
-      "title": "Tiny alloy halves precious metal use in green hydrogen production, stays stable at 140°F",
-      "link": "https://interestingengineering.com/innovation/researchers-develop-nanometer-catalyst",
-      "summary": "Producing green hydrogen could require fewer precious metals with a new catalyst developed by researchers...",
-      "publishedAt": "2026-10-17T16:55:53.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/researcher_lab_1920x1080.jpg",
+      "id": "https://interestingengineering.com/?p=319320",
+      "title": "The “mirror-image” gene: Scientists explain why snail shells coil left or right",
+      "link": "https://interestingengineering.com/science/the-mirror-image-gene-scientists-explain-why-snail-shells-coil-left-or-right",
+      "summary": "A small genetic difference can turn a snail into the mirror image of another. Now,...",
+      "publishedAt": "2026-10-17T16:56:04.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Reversal-Genes.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -3413,6 +3413,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.thebrighterside.news/api/preview?id=128867&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
+      "title": "Silicon spin qubits reach 99.99% fidelity bringing larger quantum processors into reach",
+      "link": "https://www.thebrighterside.news/post/silicon-spin-qubits-reach-99-99-fidelity-bringing-larger-quantum-processors-into-reach/",
+      "summary": "A five-qubit silicon experiment tackles microwave interference, helping quantum processors work accurately in parallel. The post Silicon spin qubits reach 99.99% fidelity bringing larger quantum processors into reach appeared first on The B…",
+      "publishedAt": "2026-10-16T18:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/quantum-processor.png?auto=webp",
+      "sourceId": "brighter-side",
+      "sourceName": "The Brighter Side of News",
+      "category": "general"
+    },
+    {
       "id": "KMiFj6geEgkSPSHMnGX9jj",
       "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
       "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
@@ -3422,17 +3433,6 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
-    },
-    {
-      "id": "https://www.thebrighterside.news/api/preview?id=128857&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
-      "title": "JWST finds hidden structure in a hot exoplanet’s atmosphere 1,300 light-years away",
-      "link": "https://www.thebrighterside.news/post/jwst-finds-hidden-structure-in-a-hot-exoplanets-atmosphere-1300-light-years-away/",
-      "summary": "Transmission strings reveal temperature differences around WASP-17b’s atmosphere, adding detail beyond an average planetary spectrum. The post JWST finds hidden structure in a hot exoplanet’s atmosphere 1,300 light-years away appeared first…",
-      "publishedAt": "2026-10-16T16:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/exoplanet-hot-1-scaled.jpg?auto=webp",
-      "sourceId": "brighter-side",
-      "sourceName": "The Brighter Side of News",
-      "category": "general"
     },
     {
       "id": "6ad0fb2755d07c15782a2709",
@@ -3479,6 +3479,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.themarginalian.org/?p=80095",
+      "title": "An Introvert’s Field Guide to Friendship: Thoreau on the Challenges and Rewards of Candid Connection",
+      "link": "https://www.themarginalian.org/2026/10/14/thoreau-friendship/",
+      "summary": "\"We only need to be as true to others as we are to ourselves that there may be ground enough for friendship.\"",
+      "publishedAt": "2026-10-14T20:14:11.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/06/thoreaujournal.jpg?w=680&#038;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.dwell.com/article/midcentury-home-kermit-darrow-santa-cruz-california-real-estate-0c45d3e6",
       "title": "After Being Owned by One Family for 64 Years, This Santa Cruz Midcentury Asks $3M",
       "link": "https://www.dwell.com/article/midcentury-home-kermit-darrow-santa-cruz-california-real-estate-0c45d3e6",
@@ -3501,15 +3512,15 @@
       "category": "design"
     },
     {
-      "id": "https://www.themarginalian.org/?p=88128",
-      "title": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies",
-      "link": "https://www.themarginalian.org/2026/10/13/carissa-veliz-prophecy/",
-      "summary": "This is our paradox: We know that uncertainty is the substrate of the universe, is the crucible of creativity, is the path to truth, and yet we spend our lives searching for certainty. The word auspicious derives from the Latin auspex — one…",
-      "publishedAt": "2026-10-14T03:59:54.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/veliz_prophecy.jpg?fit=320%2C486&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
+      "id": "CBMiW0FVX3lxTE1rRjRnQVZIdXdXVGZLeGVValRra3dOOHF3M0h5SXFrWFgtclpKWG1ObGM2ZXRLTTBuTlBlRGNTejdFZjZwbzEwNnAwYUFxYU1NY2xYMDVnSmpwZGs",
+      "title": "Sitemap - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rRjRnQVZIdXdXVGZLeGVValRra3dOOHF3M0h5SXFrWFgtclpKWG1ObGM2ZXRLTTBuTlBlRGNTejdFZjZwbzEwNnAwYUFxYU1NY2xYMDVnSmpwZGs?oc=5",
+      "summary": "Sitemap Boulder Daily Camera",
+      "publishedAt": "2026-10-14T00:07:30.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://thelocalproject.com.au/?p=468033",
@@ -3556,17 +3567,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMijwFBVV95cUxNVE1DbGh0MmJpcEtBOV9MblhUVkprY2JOdWhXSndzeE14LTFsdXhndW1jR3M0c2pEU1NINTRsRmJhQ3RYX090cWNmVW1oTVB1bUNCdkNEVlI3WERJTWVpWlhIdU1vemxYeVpncE9maFhNdHJ0UUM3d2M2MTEzelZDXzFCQnFBZnVmc3R2SnRJSQ",
-      "title": "Boulder offers San Lazaro residents $1.3 million loan, but requires annexation - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVE1DbGh0MmJpcEtBOV9MblhUVkprY2JOdWhXSndzeE14LTFsdXhndW1jR3M0c2pEU1NINTRsRmJhQ3RYX090cWNmVW1oTVB1bUNCdkNEVlI3WERJTWVpWlhIdU1vemxYeVpncE9maFhNdHJ0UUM3d2M2MTEzelZDXzFCQnFBZnVmc3R2SnRJSQ?oc=5",
-      "summary": "Boulder offers San Lazaro residents $1.3 million loan, but requires annexation Daily Camera",
-      "publishedAt": "2026-10-12T20:28:12.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
-    },
-    {
       "id": "https://boulderreportinglab.org/?p=128120",
       "title": "Boulder Valley school closure plan in limbo as judge weighs open meetings lawsuit",
       "link": "https://boulderreportinglab.org/2026/10/11/boulder-valley-school-closure-plan-in-limbo-as-judge-weighs-open-meetings-lawsuit/",
@@ -3611,11 +3611,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=650303",
-      "title": "Caverly Morgan: A Meditation for Unconditional Love When You’re Struggling",
-      "link": "https://www.mindful.org/a-meditation-for-unconditional-love-when-youre-struggling/",
-      "summary": "In this guided meditation, Caverly Morgan invites us to move beyond “positive thinking” in difficult moments and instead tap into a deep well of unconditional love for ourselves The post Caverly Morgan: A Meditation for Unconditional Love W…",
-      "publishedAt": "2026-10-06T22:31:57.000Z",
+      "id": "https://www.mindful.org/?p=669099",
+      "title": "Belonging Begins in the Body",
+      "link": "https://www.mindful.org/belonging-begins-in-the-body/",
+      "summary": "Jay Pitter, author of the book Black Public Joy, offers placemaking concepts and practices for cultivating a healthy sense of connection with ourselves and the outside world. The post Belonging Begins in the Body appeared first on Mindful.",
+      "publishedAt": "2026-10-07T00:50:57.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -3677,17 +3677,6 @@
       "category": "design"
     },
     {
-      "id": "CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA",
-      "title": "Ford World Headquarters by Snøhetta - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRGppMzNCejVkeWVHaF84MHY5cW5YdllLd1ZNaEhsR00tbEEtLVMzamp0a0hnMmZ6X3ZBNGxENURpMU5Tci1pSzBDdjduNmRPaVNuSGdyMVp5TlZrOXRBTE5VOWUxWm9nS1dhdA?oc=5",
-      "summary": "Ford World Headquarters by Snøhetta Thisispaper",
-      "publishedAt": "2026-07-27T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiWkFVX3lxTE5nZFZSSWRCdHpBZUJyTExIcDlaQmFWVWdxd0U0WG5PN0x2S1U4QkIxbENuN1hoWmtnRllKeVQyVGJLS3Bzb2RwN0NLSzN1S0tLUjczQ0VGdzlfUQ",
       "title": "Treasure Hunting - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZFZSSWRCdHpBZUJyTExIcDlaQmFWVWdxd0U0WG5PN0x2S1U4QkIxbENuN1hoWmtnRllKeVQyVGJLS3Bzb2RwN0NLSzN1S0tLUjczQ0VGdzlfUQ?oc=5",
@@ -3697,6 +3686,17 @@
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiYEFVX3lxTE9DWHZoUWFha2dLRzVUN0Q3RGRMUUdFTktWeHR4X3FTUzk0VElILWM3dnVtRno5Q1dPXzVZX3pNTkh0MllDNURNNjBNS2NrYW1NWS1GTjBJTzh4b3o0QmxRdA",
+      "title": "Casas da Quinta de Cima - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DWHZoUWFha2dLRzVUN0Q3RGRMUUdFTktWeHR4X3FTUzk0VElILWM3dnVtRno5Q1dPXzVZX3pNTkh0MllDNURNNjBNS2NrYW1NWS1GTjBJTzh4b3o0QmxRdA?oc=5",
+      "summary": "Casas da Quinta de Cima Thisispaper",
+      "publishedAt": "2026-05-28T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "CBMid0FVX3lxTFBjUTdtcXVjVzNHOXF0RXdtRk9HLVptX2FVQ0JZUkxoc2NJREFpU1Npc2xPbmtHOENNRVlSVktJMW1aX29icXZ4Y2dYeU15WGYxOTFZVXV0anJGVVk5YmhRNDVXRkJDc0xyb05BdWlwdjZfM3Z4M29r",
@@ -3754,6 +3754,17 @@
       "category": "design"
     },
     {
+      "id": "https://interestingengineering.com/?p=319311",
+      "title": "Tiny alloy halves precious metal use in green hydrogen production, stays stable at 140°F",
+      "link": "https://interestingengineering.com/innovation/researchers-develop-nanometer-catalyst",
+      "summary": "Producing green hydrogen could require fewer precious metals with a new catalyst developed by researchers...",
+      "publishedAt": "2026-10-17T16:55:53.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/researcher_lab_1920x1080.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50132193",
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "link": "https://pele.run/",
@@ -3763,17 +3774,6 @@
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
-    },
-    {
-      "id": "https://interestingengineering.com/?p=319293",
-      "title": "Historic First: US Air Force’s F-22 pilot directs autonomous Fury drone from cockpit",
-      "link": "https://interestingengineering.com/military/f-22-pilot-controls-fq-44-fury-fighter-drone",
-      "summary": "A US Air Force F-22 Raptor pilot directed an uncrewed YFQ-44A Fury aircraft in flight...",
-      "publishedAt": "2026-10-17T15:51:19.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-F-22-and-Fury-1.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
     },
     {
       "id": "https://coloradosun.com/?p=505460",
@@ -3798,12 +3798,12 @@
       "category": "science"
     },
     {
-      "id": "https://www.thebrighterside.news/api/preview?id=128839&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
-      "title": "The Odyssey: Ancient graves in southern Italy reveal how Greek heroes and goods crossed cultures",
-      "link": "https://www.thebrighterside.news/post/the-odyssey-ancient-graves-in-southern-italy-reveal-how-greek-heroes-and-goods-crossed-cultures/",
-      "summary": "Excavations at Francavilla Marittima reveal how local communities used Greek goods and traditions across centuries of change. The post The Odyssey: Ancient graves in southern Italy reveal how Greek heroes and goods crossed cultures appeared…",
-      "publishedAt": "2026-10-16T14:07:00.000Z",
-      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/homer-1.jpg?auto=webp",
+      "id": "https://www.thebrighterside.news/api/preview?id=128857&secret=cM2XMtKpK3Lj&nonce=7d97ac9de2",
+      "title": "JWST finds hidden structure in a hot exoplanet’s atmosphere 1,300 light-years away",
+      "link": "https://www.thebrighterside.news/post/jwst-finds-hidden-structure-in-a-hot-exoplanets-atmosphere-1300-light-years-away/",
+      "summary": "Transmission strings reveal temperature differences around WASP-17b’s atmosphere, adding detail beyond an average planetary spectrum. The post JWST finds hidden structure in a hot exoplanet’s atmosphere 1,300 light-years away appeared first…",
+      "publishedAt": "2026-10-16T16:07:00.000Z",
+      "imageUrl": "https://www.thebrighterside.news/uploads/2026/10/exoplanet-hot-1-scaled.jpg?auto=webp",
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
@@ -3858,7 +3858,7 @@
       "link": "https://www.dwell.com/article/rental-revamp-isabelle-elsliger-garant-mason-st-peter-topanga-kitchen-cabinets-a8b736bb",
       "summary": "A designer and architect’s only regret in refacing the cabinets of their family’s 1928 home is that they didn’t do it sooner.",
       "publishedAt": "2026-10-14T15:37:17.000Z",
-      "imageUrl": "https://images.dwell.com/photos/6063391372700811264/7516249747787653120/small.jpg",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/dwell-ugc/photos/6063391372700811264/7516249747787653120/small.jpg",
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
@@ -3875,6 +3875,17 @@
       "category": "design"
     },
     {
+      "id": "https://www.themarginalian.org/?p=88128",
+      "title": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies",
+      "link": "https://www.themarginalian.org/2026/10/13/carissa-veliz-prophecy/",
+      "summary": "This is our paradox: We know that uncertainty is the substrate of the universe, is the crucible of creativity, is the path to truth, and yet we spend our lives searching for certainty. The word auspicious derives from the Latin auspex — one…",
+      "publishedAt": "2026-10-14T03:59:54.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/veliz_prophecy.jpg?fit=320%2C486&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://thelocalproject.com.au/?p=467994",
       "title": "Great White by Sam Cooper and Studio A.C – The Local Project",
       "link": "https://thelocalproject.com.au/articles/great-white-by-sam-cooper-and-studio-a-c-the-local-project/",
@@ -3886,15 +3897,15 @@
       "category": "design"
     },
     {
-      "id": "https://www.brainpickings.org/?p=54094",
-      "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
-      "link": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
-      "summary": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts ta…",
-      "publishedAt": "2026-10-13T20:58:26.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/05/enigmasofchance.jpg?fit=320%2C489&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
+      "id": "CBMihAFBVV95cUxOVFFkLWZMdGNVT2JYbXhlQ3dHa1J6aXFYbDZSSkRfN3VNMXpkbVFYdHBOOXdiN1dIUnREdU1uQkpIeERoZFZtX3IwVmxUdkpiY184UFhFTzQ4Nk5jc3NaNVVoQi1aa3NJOTNpRExsbzZUei1ZcFZqSVhGWGE0THRNVG5qWXQ",
+      "title": "Man who died with 3-year-old in Boulder-area plane crash flew for 3 hours - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFFkLWZMdGNVT2JYbXhlQ3dHa1J6aXFYbDZSSkRfN3VNMXpkbVFYdHBOOXdiN1dIUnREdU1uQkpIeERoZFZtX3IwVmxUdkpiY184UFhFTzQ4Nk5jc3NaNVVoQi1aa3NJOTNpRExsbzZUei1ZcFZqSVhGWGE0THRNVG5qWXQ?oc=5",
+      "summary": "Man who died with 3-year-old in Boulder-area plane crash flew for 3 hours Boulder Daily Camera",
+      "publishedAt": "2026-10-13T20:19:47.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
@@ -3928,17 +3939,6 @@
       "sourceId": "leibal",
       "sourceName": "Leibal",
       "category": "design"
-    },
-    {
-      "id": "CBMigAFBVV95cUxQQjN0VUdXOWxjTnZYUUU4SXFBNUZYMHp4YnV3eWpFWUR1UF9Pbkd1Ynl2SU1HQ2JYTW5JZXNTM1hDb3JvVEJxQlkyeUptZlNpQ1JDTXFYWUlwMW9XcWZyb1BxbmNTYzM4V3dZMjNYTVJVZTFpdUczd0oyNERZZkk1MQ",
-      "title": "Your Boulder ballot has two feel-good taxes that will deliver nothing (Opinion) - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjN0VUdXOWxjTnZYUUU4SXFBNUZYMHp4YnV3eWpFWUR1UF9Pbkd1Ynl2SU1HQ2JYTW5JZXNTM1hDb3JvVEJxQlkyeUptZlNpQ1JDTXFYWUlwMW9XcWZyb1BxbmNTYzM4V3dZMjNYTVJVZTFpdUczd0oyNERZZkk1MQ?oc=5",
-      "summary": "Your Boulder ballot has two feel-good taxes that will deliver nothing (Opinion) Boulder Daily Camera",
-      "publishedAt": "2026-10-12T10:20:45.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "https://boulderreportinglab.org/?p=128071",
@@ -3985,6 +3985,17 @@
       "category": "ideas"
     },
     {
+      "id": "https://www.mindful.org/?p=650303",
+      "title": "Caverly Morgan: A Meditation for Unconditional Love When You’re Struggling",
+      "link": "https://www.mindful.org/a-meditation-for-unconditional-love-when-youre-struggling/",
+      "summary": "In this guided meditation, Caverly Morgan invites us to move beyond “positive thinking” in difficult moments and instead tap into a deep well of unconditional love for ourselves The post Caverly Morgan: A Meditation for Unconditional Love W…",
+      "publishedAt": "2026-10-06T22:31:57.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.lionsroar.com/?post_type=lr-article&p=73138",
       "title": "Too Much to Do, Too Little Time",
       "link": "https://www.lionsroar.com/too-much-to-do-too-little-time/",
@@ -3993,17 +4004,6 @@
       "imageUrl": null,
       "sourceId": "lions-roar",
       "sourceName": "Lion's Roar",
-      "category": "ideas"
-    },
-    {
-      "id": "https://www.mindful.org/?p=33784",
-      "title": "Why Is Nature So Good for Your Mental Health?",
-      "link": "https://www.mindful.org/why-is-nature-so-good-for-your-mental-health/",
-      "summary": "Jill Suttie unpacks a study that looks at the experience of awe, and how this unique emotional experience might be connected to why nature makes us happier and healthier. The post Why Is Nature So Good for Your Mental Health? appeared first…",
-      "publishedAt": "2026-10-05T15:59:23.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -4051,11 +4051,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiYEFVX3lxTE9DWHZoUWFha2dLRzVUN0Q3RGRMUUdFTktWeHR4X3FTUzk0VElILWM3dnVtRno5Q1dPXzVZX3pNTkh0MllDNURNNjBNS2NrYW1NWS1GTjBJTzh4b3o0QmxRdA",
-      "title": "Casas da Quinta de Cima - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DWHZoUWFha2dLRzVUN0Q3RGRMUUdFTktWeHR4X3FTUzk0VElILWM3dnVtRno5Q1dPXzVZX3pNTkh0MllDNURNNjBNS2NrYW1NWS1GTjBJTzh4b3o0QmxRdA?oc=5",
-      "summary": "Casas da Quinta de Cima Thisispaper",
-      "publishedAt": "2026-05-28T07:00:00.000Z",
+      "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
+      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
+      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi Thisispaper",
+      "publishedAt": "2026-04-17T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4194,15 +4194,26 @@
       "category": "design"
     },
     {
-      "id": "https://www.themarginalian.org/?p=83668",
-      "title": "Nobel Laureate Doris Lessing on Breaking Free from the Prisons We Choose to Live Inside",
-      "link": "https://www.themarginalian.org/2026/10/13/doris-lessing-massey-lectures/",
-      "summary": "This is the history of the world: revolutionaries turning into tyrants, leaders who claim to stand with the masses turning the individuals within them on each other, stirring certainties and self-righteousness to distract from the uncomfort…",
-      "publishedAt": "2026-10-13T20:03:14.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/11/dorislessing_massey.jpg?fit=320%2C514&amp;ssl=1",
+      "id": "https://www.brainpickings.org/?p=54094",
+      "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
+      "link": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
+      "summary": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts ta…",
+      "publishedAt": "2026-10-13T20:58:26.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/05/enigmasofchance.jpg?fit=320%2C489&amp;ssl=1",
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
+    },
+    {
+      "id": "CBMilwFBVV95cUxOM2ZxaElrNUtCRFVhOGY1SUw4MFhMekNCR3owWkxEWV9ldGRBdDYxQjNMcV9LN2ZVUF9sQ25aWnVXZEgxcXZuZWJSbl9DVEdUei03NFIxSjdJbV9Ya3o5eGU4NHdTbkZENVE1Tnc4N3piZ1g5aVN3a1htZTRqTXpwU1FKczZXNm9PZ2ZRZW0xd0RuNGJBeFJr",
+      "title": "Starting QB Isaac Wilson to lead the CU Buffs against former team, The Utes - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2ZxaElrNUtCRFVhOGY1SUw4MFhMekNCR3owWkxEWV9ldGRBdDYxQjNMcV9LN2ZVUF9sQ25aWnVXZEgxcXZuZWJSbl9DVEdUei03NFIxSjdJbV9Ya3o5eGU4NHdTbkZENVE1Tnc4N3piZ1g5aVN3a1htZTRqTXpwU1FKczZXNm9PZ2ZRZW0xd0RuNGJBeFJr?oc=5",
+      "summary": "Starting QB Isaac Wilson to lead the CU Buffs against former team, The Utes Boulder Daily Camera",
+      "publishedAt": "2026-10-13T19:50:03.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "https://philosophynow.org/issues/176/To_Philosophize_is_to_Learn_How_to_Say_Goodbye",
@@ -4214,17 +4225,6 @@
       "sourceId": "philosophy-now",
       "sourceName": "Philosophy Now",
       "category": "ideas"
-    },
-    {
-      "id": "CBMipwFBVV95cUxQQ0lKU3BVelc2Vi1GaDhSVjY5Y1V4eHByeDRJdjhCckN6M0t1LVloS0xKcFRGajNtS19DNy1MSEFUYjNYSU9qTWp6NTVMQnBwLWFZa3dLZHhNQWZCTkNlU0VsZHVNMUxORHdpWk1QQUh6aGkzcWRIUmdQTEZ4bmlxRFh6ano3V0hyOTdfTHpLMEFFbThXTDVZcE5WRFNlLWt1cy03SWxWOA",
-      "title": "Former CU Buffs standout Darrin Chiaverini reinventing coaching career at Northeastern State - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0lKU3BVelc2Vi1GaDhSVjY5Y1V4eHByeDRJdjhCckN6M0t1LVloS0xKcFRGajNtS19DNy1MSEFUYjNYSU9qTWp6NTVMQnBwLWFZa3dLZHhNQWZCTkNlU0VsZHVNMUxORHdpWk1QQUh6aGkzcWRIUmdQTEZ4bmlxRFh6ano3V0hyOTdfTHpLMEFFbThXTDVZcE5WRFNlLWt1cy03SWxWOA?oc=5",
-      "summary": "Former CU Buffs standout Darrin Chiaverini reinventing coaching career at Northeastern State Boulder Daily Camera",
-      "publishedAt": "2026-10-10T23:01:50.000Z",
-      "imageUrl": null,
-      "sourceId": "daily-camera",
-      "sourceName": "Daily Camera",
-      "category": "local"
     },
     {
       "id": "urn:id:9093",
@@ -4282,11 +4282,11 @@
       "category": "design"
     },
     {
-      "id": "CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw",
-      "title": "A Japanese Manga Artist's House by Tan Yamanouchi - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUWo3Y0tRVk5WYklsVXhQRW9TdHZQZ18wMmFpTkRCY2Q4Z0pBOEZjNHZHZGtKOUwyanRNTWZVQWNFWUQta19uMi1pZFFMT0dneEtYYmo2dGQtTTBOS1JTT19RVnpYT29OeDhCekdEellEMnJiZkpvQU1RSTdBZw?oc=5",
-      "summary": "A Japanese Manga Artist's House by Tan Yamanouchi Thisispaper",
-      "publishedAt": "2026-04-17T07:00:00.000Z",
+      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
+      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
+      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
+      "publishedAt": "2026-03-27T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4359,11 +4359,11 @@
       "category": "art"
     },
     {
-      "id": "CBMi5wFBVV95cUxPOTZLdmFVbDZEVnl2ZFZXWW1tSWNFb3ZRRHNlUmU3TVY0bG5ycEVBbUZqVTBjRzRRRVlhWnYxWDV4TEUxSEZWOFlFbkZkd3BlZjRKTHZuNE9ISWl3V1A3NWJjcHhYY0x1OEE1RWFxUUtTcHpYb0RVRDh0azRYWDVTOEJtMHFVM0NHd1Q5SnpiMlp4RHpoQnhpYXRrWWh4YURmeXdTSXRveVlTelFmR1pCN3NJclYzNmt5SHVqOFYzU0JXVkJzVUsyX0otR1dUaTFOWnF2XzJKSzUzUmdiT085MUdCbDhiTDA",
-      "title": "Reform Legislative Ethics Laws to Restore Trust in Government - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOTZLdmFVbDZEVnl2ZFZXWW1tSWNFb3ZRRHNlUmU3TVY0bG5ycEVBbUZqVTBjRzRRRVlhWnYxWDV4TEUxSEZWOFlFbkZkd3BlZjRKTHZuNE9ISWl3V1A3NWJjcHhYY0x1OEE1RWFxUUtTcHpYb0RVRDh0azRYWDVTOEJtMHFVM0NHd1Q5SnpiMlp4RHpoQnhpYXRrWWh4YURmeXdTSXRveVlTelFmR1pCN3NJclYzNmt5SHVqOFYzU0JXVkJzVUsyX0otR1dUaTFOWnF2XzJKSzUzUmdiT085MUdCbDhiTDA?oc=5",
-      "summary": "Reform Legislative Ethics Laws to Restore Trust in Government The Taos News",
-      "publishedAt": "2026-10-15T15:32:52.000Z",
+      "id": "CBMitAFBVV95cUxQMmkzYS1Fa045Sm10S2lkNm1ISmFVazE4aTVCTlJ5TlFxRV9uckpNS1hzUzRrWFJYRUE4MG5vWmlWN1dCRlZaT3ZSMVhtVEZTcGg3alNrMzRfMkhMcVJIclJSX18zRlE4NHA1bFdxWEFmX2NqMUp3dElaVUZQNnJzaHdtTjN4RHdIWnBKendLZzlPcUhBajNONDBLcHluc2ZwdFQxZk1yZHMtbXhxTXdFNnpzLTE",
+      "title": "Yale Jones - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmkzYS1Fa045Sm10S2lkNm1ISmFVazE4aTVCTlJ5TlFxRV9uckpNS1hzUzRrWFJYRUE4MG5vWmlWN1dCRlZaT3ZSMVhtVEZTcGg3alNrMzRfMkhMcVJIclJSX18zRlE4NHA1bFdxWEFmX2NqMUp3dElaVUZQNnJzaHdtTjN4RHdIWnBKendLZzlPcUhBajNONDBLcHluc2ZwdFQxZk1yZHMtbXhxTXdFNnpzLTE?oc=5",
+      "summary": "Yale Jones The Taos News",
+      "publishedAt": "2026-10-15T15:27:22.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -4381,6 +4381,17 @@
       "category": "local"
     },
     {
+      "id": "https://www.themarginalian.org/?p=83668",
+      "title": "Nobel Laureate Doris Lessing on Breaking Free from the Prisons We Choose to Live Inside",
+      "link": "https://www.themarginalian.org/2026/10/13/doris-lessing-massey-lectures/",
+      "summary": "This is the history of the world: revolutionaries turning into tyrants, leaders who claim to stand with the masses turning the individuals within them on each other, stirring certainties and self-righteousness to distract from the uncomfort…",
+      "publishedAt": "2026-10-13T20:03:14.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/11/dorislessing_massey.jpg?fit=320%2C514&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.dwell.com/article/st-james-villa-john-winter-london-england-real-estate-016d72cc",
       "title": "There’s a Bright Blue Studio at the Back of This £3.75M London Home",
       "link": "https://www.dwell.com/article/st-james-villa-john-winter-london-england-real-estate-016d72cc",
@@ -4390,17 +4401,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=81604",
-      "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
-      "link": "https://www.themarginalian.org/2026/10/12/hermann-hesse-books-poem/",
-      "summary": "Books show us what it is like to be another and at the same time return us to ourselves. We read to learn how to live — how to love and how to suffer, how to grieve and how to be glad. We read to clarify ourselves and to anneal our values. …",
-      "publishedAt": "2026-10-13T03:26:22.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/12/hesse_seasonsofthesoul.jpg?fit=320%2C480&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "https://philosophynow.org/issues/176/When_Truth_Loses_its_Witnesses",
@@ -4414,11 +4414,11 @@
       "category": "ideas"
     },
     {
-      "id": "CBMinAFBVV95cUxPckhLam5PVk80bVVTaEYxaDlfeVdEZmFrSUFGV2VjRzdOWkxHRlFjNDhud05MdXNhRVd2X2xtX2pnMFVSNW5Gc19pOEFBYjdsdWNNMXJjSVJUTUNQLTNIYzczWDhsU2RNUy1JRDFUYXRFNlE3MkVSN3BFVHVJVU5vMHdrZjk2czh1U3ZLU2I3QUlCMFdUNFJDdnRWc2U",
-      "title": "Rooney: Julian Lewis, Go-Go offense a bad mix for CU Buffs from the start (column) - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckhLam5PVk80bVVTaEYxaDlfeVdEZmFrSUFGV2VjRzdOWkxHRlFjNDhud05MdXNhRVd2X2xtX2pnMFVSNW5Gc19pOEFBYjdsdWNNMXJjSVJUTUNQLTNIYzczWDhsU2RNUy1JRDFUYXRFNlE3MkVSN3BFVHVJVU5vMHdrZjk2czh1U3ZLU2I3QUlCMFdUNFJDdnRWc2U?oc=5",
-      "summary": "Rooney: Julian Lewis, Go-Go offense a bad mix for CU Buffs from the start (column) Daily Camera",
-      "publishedAt": "2026-10-10T17:40:15.000Z",
+      "id": "CBMijwFBVV95cUxNVE1DbGh0MmJpcEtBOV9MblhUVkprY2JOdWhXSndzeE14LTFsdXhndW1jR3M0c2pEU1NINTRsRmJhQ3RYX090cWNmVW1oTVB1bUNCdkNEVlI3WERJTWVpWlhIdU1vemxYeVpncE9maFhNdHJ0UUM3d2M2MTEzelZDXzFCQnFBZnVmc3R2SnRJSQ",
+      "title": "Boulder offers San Lazaro residents $1.3 million loan, but requires annexation - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVE1DbGh0MmJpcEtBOV9MblhUVkprY2JOdWhXSndzeE14LTFsdXhndW1jR3M0c2pEU1NINTRsRmJhQ3RYX090cWNmVW1oTVB1bUNCdkNEVlI3WERJTWVpWlhIdU1vemxYeVpncE9maFhNdHJ0UUM3d2M2MTEzelZDXzFCQnFBZnVmc3R2SnRJSQ?oc=5",
+      "summary": "Boulder offers San Lazaro residents $1.3 million loan, but requires annexation Daily Camera",
+      "publishedAt": "2026-10-12T20:28:12.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4480,17 +4480,6 @@
       "category": "design"
     },
     {
-      "id": "CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR",
-      "title": "A Potter's Studio by Piercy&Company - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bam9KNU1ab1J1TTZLY19XY2lxT3d5SWhJeFB2TWp5OVNKMmloWk9VWVV4b3dUSFZNT3lEZl85Z3RQT2p2SHpUelJLZERDMHBmS0NQVVFLQldOWFhCaWRzSG13NFBObUZEbTlCUmpR?oc=5",
-      "summary": "A Potter's Studio by Piercy&Company Thisispaper",
-      "publishedAt": "2026-03-27T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiQkFVX3lxTE0yUUVfWVFxd1RxYXp3b0tKMzl0allmYTJoZnF2RUVWbUJsak1uampoWjU5OGdDbXZwaUJRekVSWE1wZw",
       "title": "Silicon - Preorder the Book - Arena Magazine",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yUUVfWVFxd1RxYXp3b0tKMzl0allmYTJoZnF2RUVWbUJsak1uampoWjU5OGdDbXZwaUJRekVSWE1wZw?oc=5",
@@ -4500,6 +4489,17 @@
       "sourceId": "arena-magazine",
       "sourceName": "Arena Magazine",
       "category": "ideas"
+    },
+    {
+      "id": "CBMiY0FVX3lxTE5Ud3o4cERPZElwdzM4dFlJSnpoRkJjVDdOdzlDZm5TSXZRQUhFcDR2MDF0ZW9LMGRQT3NDT0FWTVF0LVZpaGJFQ3lJUGI4MmZnOW9mdXJFUUs5dUNGbjZmbGtrVQ",
+      "title": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ud3o4cERPZElwdzM4dFlJSnpoRkJjVDdOdzlDZm5TSXZRQUhFcDR2MDF0ZW9LMGRQT3NDT0FWTVF0LVZpaGJFQ3lJUGI4MmZnOW9mdXJFUUs5dUNGbjZmbGtrVQ?oc=5",
+      "summary": "Azotea Sagredo by Taller MGL + Fernando R. Manjarrez Thisispaper",
+      "publishedAt": "2026-01-21T08:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
+      "category": "design"
     },
     {
       "id": "CBMiW0FVX3lxTFBNMWhkVTRPaU5pYXJfdnNTOTRfRjdaYWpWLXV6V2JiaDRFdHFsSnJmSWpvR2Vlcl9vcklqWXZvX2FlMFA0cmZzOWE4OU9mdV9OZXVEUjdPaDM4OFE",
@@ -4535,12 +4535,12 @@
       "category": "tech"
     },
     {
-      "id": "dPP6fbiwvxAVwMYrdhnKHT",
-      "title": "'Mission: 60s' event promises passport back to the Space Age",
-      "link": "https://www.space.com/space-exploration/apollo/rocket-back-to-the-space-age-with-mission-60s-event-in-nyc-next-weekend",
-      "summary": "Your invitation to revisit the Space Age has arrived.Whether you miss the days when people got dressed up to fly or wish your other ride was a rocket, Mission: 60s has a *space* reserved for you.",
+      "id": "cLWwiUJk6u6zYTfFqwcZBY",
+      "title": "Why can you see the moon during the day? This week is the perfect time to find out",
+      "link": "https://www.space.com/stargazing/why-can-you-see-the-moon-during-the-day-this-week-is-the-perfect-time-to-find-out",
+      "summary": "You don't have to wait until dark to see the moon. Here's why it appears in broad daylight — and why this week is a particularly good time to spot it.",
       "publishedAt": "2026-10-16T16:00:00.000Z",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/QzLMmdSDXdfYVfceuu7zc4-1920-80.jpg",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/UM36X6VM7ixx87wB7tQEFR-1920-80.jpg",
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
@@ -4557,11 +4557,11 @@
       "category": "art"
     },
     {
-      "id": "CBMitAFBVV95cUxQMmkzYS1Fa045Sm10S2lkNm1ISmFVazE4aTVCTlJ5TlFxRV9uckpNS1hzUzRrWFJYRUE4MG5vWmlWN1dCRlZaT3ZSMVhtVEZTcGg3alNrMzRfMkhMcVJIclJSX18zRlE4NHA1bFdxWEFmX2NqMUp3dElaVUZQNnJzaHdtTjN4RHdIWnBKendLZzlPcUhBajNONDBLcHluc2ZwdFQxZk1yZHMtbXhxTXdFNnpzLTE",
-      "title": "Yale Jones - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmkzYS1Fa045Sm10S2lkNm1ISmFVazE4aTVCTlJ5TlFxRV9uckpNS1hzUzRrWFJYRUE4MG5vWmlWN1dCRlZaT3ZSMVhtVEZTcGg3alNrMzRfMkhMcVJIclJSX18zRlE4NHA1bFdxWEFmX2NqMUp3dElaVUZQNnJzaHdtTjN4RHdIWnBKendLZzlPcUhBajNONDBLcHluc2ZwdFQxZk1yZHMtbXhxTXdFNnpzLTE?oc=5",
-      "summary": "Yale Jones The Taos News",
-      "publishedAt": "2026-10-15T15:27:22.000Z",
+      "id": "CBMitgFBVV95cUxPbFdsZlNzVkwxbm9TUUczcWRIbV92Mnp3N2dMbEt6bjJLY0xaajJUZzB3b3JnZVlucUQ0MHZuRGlPSS1fMU1QallHZGU3RU1MR1lERENQU1Y5aWZZUWhmdk9ENzM1aWpYc0hWS1p6SHUtdmNtc2VlcDVQNnlfc1g3Rm1SYzBrb0lJMkYwYS0zNUtLd1dGUjFDQWk0bm9BMDlWSzhyQzlBaGIwUm5iVDdoVVVscmx4dw",
+      "title": "Susie Fiore - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFdsZlNzVkwxbm9TUUczcWRIbV92Mnp3N2dMbEt6bjJLY0xaajJUZzB3b3JnZVlucUQ0MHZuRGlPSS1fMU1QallHZGU3RU1MR1lERENQU1Y5aWZZUWhmdk9ENzM1aWpYc0hWS1p6SHUtdmNtc2VlcDVQNnlfc1g3Rm1SYzBrb0lJMkYwYS0zNUtLd1dGUjFDQWk0bm9BMDlWSzhyQzlBaGIwUm5iVDdoVVVscmx4dw?oc=5",
+      "summary": "Susie Fiore The Taos News",
+      "publishedAt": "2026-10-15T14:24:06.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -4590,6 +4590,17 @@
       "category": "design"
     },
     {
+      "id": "https://www.themarginalian.org/?p=81604",
+      "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
+      "link": "https://www.themarginalian.org/2026/10/12/hermann-hesse-books-poem/",
+      "summary": "Books show us what it is like to be another and at the same time return us to ourselves. We read to learn how to live — how to love and how to suffer, how to grieve and how to be glad. We read to clarify ourselves and to anneal our values. …",
+      "publishedAt": "2026-10-13T03:26:22.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/12/hesse_seasonsofthesoul.jpg?fit=320%2C480&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://philosophynow.org/issues/176/In_Defence_of_Hope",
       "title": "In Defence of Hope",
       "link": "https://philosophynow.org/issues/176/In_Defence_of_Hope",
@@ -4601,15 +4612,15 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.themarginalian.org/?p=88122",
-      "title": "James Baldwin on How Love (Finally) Finds You",
-      "link": "https://www.themarginalian.org/2026/10/11/baldwin-love/",
-      "summary": "Our language betrays our self-betrayals: We speak of finding love, as if it were an undiscovered eighth continent or a habitable world in another solar system, as if it got lost like the Little Red Riding Hood or the names of the women who …",
-      "publishedAt": "2026-10-11T20:12:15.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/baldwin_boggs.jpg?fit=320%2C434&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
+      "id": "CBMigAFBVV95cUxQQjN0VUdXOWxjTnZYUUU4SXFBNUZYMHp4YnV3eWpFWUR1UF9Pbkd1Ynl2SU1HQ2JYTW5JZXNTM1hDb3JvVEJxQlkyeUptZlNpQ1JDTXFYWUlwMW9XcWZyb1BxbmNTYzM4V3dZMjNYTVJVZTFpdUczd0oyNERZZkk1MQ",
+      "title": "Your Boulder ballot has two feel-good taxes that will deliver nothing (Opinion) - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjN0VUdXOWxjTnZYUUU4SXFBNUZYMHp4YnV3eWpFWUR1UF9Pbkd1Ynl2SU1HQ2JYTW5JZXNTM1hDb3JvVEJxQlkyeUptZlNpQ1JDTXFYWUlwMW9XcWZyb1BxbmNTYzM4V3dZMjNYTVJVZTFpdUczd0oyNERZZkk1MQ?oc=5",
+      "summary": "Your Boulder ballot has two feel-good taxes that will deliver nothing (Opinion) Boulder Daily Camera",
+      "publishedAt": "2026-10-12T10:20:45.000Z",
+      "imageUrl": null,
+      "sourceId": "daily-camera",
+      "sourceName": "Daily Camera",
+      "category": "local"
     },
     {
       "id": "urn:id:9064",
@@ -4686,17 +4697,6 @@
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
-      "id": "CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg",
-      "title": "Pantheone Audio - New Norm Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IbnpWMWpoSkVncUVEZGx4U2JRUTROTGlaRERWLTJUQjhhZWRSeGFycllwNW5UOGNTWVFtRlNhSy02aXRIaWtCa3JrenUtMG9ab2lZWg?oc=5",
-      "summary": "Pantheone Audio New Norm Magazine",
-      "publishedAt": "2025-04-10T07:30:22.000Z",
-      "imageUrl": null,
-      "sourceId": "new-norm",
-      "sourceName": "New Norm",
       "category": "design"
     }
   ]
