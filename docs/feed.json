@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:09:27.710Z",
+  "generatedAt": "2026-11-16T00:10:40.491Z",
   "sources": [
     {
       "id": "read-something-great",
@@ -126,8 +126,8 @@
       "name": "Daily Stoic",
       "siteUrl": "https://dailystoic.com",
       "category": "ideas",
-      "status": "error",
-      "error": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "the-marginalian",
@@ -198,8 +198,8 @@
       "name": "The Local Project",
       "siteUrl": "https://thelocalproject.com.au",
       "category": "design",
-      "status": "error",
-      "error": "HTTP 403"
+      "status": "ok",
+      "error": null
     },
     {
       "id": "daily-camera",
@@ -300,34 +300,45 @@
   ],
   "articles": [
     {
-      "id": "https://news.ycombinator.com/item?id=50509953",
-      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 6 # Comments: 0",
-      "publishedAt": "2026-11-15T19:39:46.000Z",
+      "id": "https://interestingengineering.com/?p=331573",
+      "title": "China’s HQ-17A air-defense network offers mobile missile protection for troops near Taiwan Strait",
+      "link": "https://interestingengineering.com/military/china-hq-17a-missile-protection-taiwan",
+      "summary": "China’s mobile HQ-17A air-defense system could play an important role in protecting amphibious forces and...",
+      "publishedAt": "2026-11-15T23:38:53.000Z",
+      "imageUrl": "https://www.youtube.com/embed/a32felfzvGE",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50511982",
+      "title": "Jensen Huang might return to Nvidia as CEO",
+      "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+      "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 35 # Comments: 15",
+      "publishedAt": "2026-11-15T23:24:53.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=331511",
-      "title": "US’ top nuclear rival upgrades Mach-6 speeding ballistic missile that hit targets with accuracy",
-      "link": "https://interestingengineering.com/military/us-rival-upgrades-mach6-ballistic-missiles",
-      "summary": "Russia has added optical and radar-homing upgrades to its Iskander ballistic missiles in a bid...",
-      "publishedAt": "2026-11-15T17:53:42.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/BM-1.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "https://thelocalproject.com.au/?p=471543",
+      "title": "Designing with Laminex’s New Colour Collection 2027 – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/designing-with-laminexs-new-colour-collection-2027-the-local-project/",
+      "summary": "The post Designing with Laminex’s New Colour Collection 2027 – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-15T23:01:08.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
-      "id": "6af9df05c11e02ee7f005b52",
-      "title": "Watch Wu-Tang Clan Perform at the Rock & Roll Hall of Fame 2026 Induction Ceremony",
-      "link": "https://pitchfork.com/story/watch-wu-tang-clan-perform-at-the-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
-      "summary": "RZA, GZA, Method Man, Raekwon, Ghostface Killah, and co. broke out the hits for the occasion",
-      "publishedAt": "2026-11-15T17:14:57.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af9e3fdc3ef3a8ed8a8ca8f/master/pass/GettyImages-2305179706.jpg",
+      "id": "6af9fe0624cce1b872a79c53",
+      "title": "Watch Phoebe Bridgers Play “Bobby” and “Still Standing” on Saturday Night Live",
+      "link": "https://pitchfork.com/story/watch-phoebe-bridgers-play-bobby-and-still-standing-on-saturday-night-live/",
+      "summary": "The singer-songwriter made her third SNL appearance, this time to promote Lost Weekend",
+      "publishedAt": "2026-11-15T20:18:55.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6afa0afdf10fd8deae45ae84/master/pass/Phoebe%20Bridgers%20on%20Saturday%20Night%20Live,%20November%202026,%20photo%20by%20Will%20Heath%20NBC.JPG",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -342,6 +353,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=82117",
+      "title": "Love Anyway",
+      "link": "https://www.themarginalian.org/2026/11/15/love-anyway/",
+      "summary": "You know that the price of life is death, that the price of love is loss, and still you watch the golden afternoon light fall on a face you love, knowing that the light will soon fade, knowing that the loving face too will one day fade to i…",
+      "publishedAt": "2026-11-15T15:30:57.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/03/raven_JackieMorris.jpg?resize=521%2C700&#038;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=130772&secret=cM2XMtKpK3Lj&nonce=7cd79bff73",
@@ -432,14 +454,14 @@
       "category": "local"
     },
     {
-      "id": "https://www.themarginalian.org/?p=88416",
-      "title": "Embrace Your Obsessions: Susan Orlean on the Antidote to the Meaninglessness of Life",
-      "link": "https://www.themarginalian.org/2026/11/14/susan-orlean-orchid-thief/",
-      "summary": "Every great book, whatever its subject or genre or style, is about one thing only: the eternal question of what gives meaning to our tiny, transient lives. And every answer given, however faintly whispered, points to one thing only: the qua…",
-      "publishedAt": "2026-11-14T14:31:26.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/orhidthief.jpg?fit=320%2C466&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
+      "id": "https://www.mindful.org/?p=669795",
+      "title": "Letting the Film Breathe: A Conversation with Filmmaker Julie Bayer Salzman",
+      "link": "https://www.mindful.org/letting-the-film-breathe-a-conversation-with-filmmaker-julie-bayer-salzman/",
+      "summary": "Filmmaker Julie Bayer Salzman reflects on how mindfulness changed the way she tells stories, and why her award-winning Mindful Shorts series is designed to increase self-awareness, compassion, and thoughtful action. The post Letting the Fil…",
+      "publishedAt": "2026-11-14T23:19:44.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -476,17 +498,6 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=669780",
-      "title": "A ‘Rosefulness’ WARMTH Practice for Honest Gratitude",
-      "link": "https://www.mindful.org/a-rosefulness-warmth-practice-for-honest-gratitude/",
-      "summary": "Notice what supports you, name what you need, and offer one small act of care. The post A ‘Rosefulness’ WARMTH Practice for Honest Gratitude appeared first on Mindful.",
-      "publishedAt": "2026-11-13T15:54:03.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
-    },
-    {
       "id": "urn:id:9219",
       "title": "The power of group thought",
       "link": "https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence",
@@ -517,17 +528,6 @@
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
-      "category": "design"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=471368",
-      "title": "Three Showrooms, One Vision: Sub-Zero, Wolf, and Cove in New York and New Jersey – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/three-showrooms-one-vision-sub-zero-wolf-and-cove-in-new-york-and-new-jersey-the-local-project/",
-      "summary": "The post Three Showrooms, One Vision: Sub-Zero, Wolf, and Cove in New York and New Jersey – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-13T05:26:24.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
       "category": "design"
     },
     {
@@ -685,37 +685,48 @@
       "category": "design"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50509416",
-      "title": "Eclipse Mosquitto – An open source MQTT broker",
-      "link": "https://github.com/eclipse-mosquitto/mosquitto",
-      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 18 # Comments: 8",
-      "publishedAt": "2026-11-15T18:36:40.000Z",
+      "id": "https://news.ycombinator.com/item?id=50511899",
+      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
+      "link": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
+      "summary": "Article URL: https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/ Comments URL: https://news.ycombinator.com/item?id=50511899 Points: 30 # Comments: 7",
+      "publishedAt": "2026-11-15T23:12:38.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=330594",
-      "title": "New quantum method triples information extracted from microwave field measurements",
-      "link": "https://interestingengineering.com/science/microwave-signals-atoms-quantum-sensors",
-      "summary": "A new technique has been developed by physicists at the University of Warsaw in Poland...",
-      "publishedAt": "2026-11-15T17:40:44.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/IE-ABxKK-11-1.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
+      "id": "https://thelocalproject.com.au/?p=471534",
+      "title": "Gaggenau Expands the Vario cooling Expressive series – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/gaggenau-expands-the-vario-cooling-expressive-series-the-local-project/",
+      "summary": "The post Gaggenau Expands the Vario cooling Expressive series – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-15T22:59:21.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
-      "id": "6af9cdc358b37da7b0991cf6",
-      "title": "Phil Collins Gets Rare Two-Time Inductee Status at Rock & Roll Hall of Fame",
-      "link": "https://pitchfork.com/story/phil-collins-gets-rare-two-time-inductee-status-at-rock-and-roll-hall-of-fame/",
-      "summary": "The Genesis musician was celebrated for his solo career at the 2026 Induction Ceremony",
-      "publishedAt": "2026-11-15T16:18:14.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af9d1067b1affb62d7f5367/master/pass/GettyImages-2304674894.jpg",
+      "id": "6af9eaac4ae1c7df13bd4175",
+      "title": "Peter Hook, Lauren Mayberry, Deftones Play Joy Division and New Order Songs at 2026 Rock Hall",
+      "link": "https://pitchfork.com/story/deftones-lauren-mayberry-peter-hook-play-joy-division-and-new-order-songs-at-2026-rock-hall/",
+      "summary": "They christened the 2026 induction ceremony with “Love Will Tear Us Apart” and “Bizarre Love Triangle”",
+      "publishedAt": "2026-11-15T18:36:24.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af9f2bec11e02ee7f005b7e/master/pass/GettyImages-2304682563.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=331511",
+      "title": "US’ top nuclear rival upgrades Mach-6 speeding ballistic missile that hit targets with accuracy",
+      "link": "https://interestingengineering.com/military/us-rival-upgrades-mach6-ballistic-missiles",
+      "summary": "Russia has added optical and radar-homing upgrades to its Iskander ballistic missiles in a bid...",
+      "publishedAt": "2026-11-15T17:53:42.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/BM-1.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "nBYCYLTTCZKpGPBWCPc7SA",
@@ -727,6 +738,17 @@
       "sourceId": "space-com",
       "sourceName": "Space.com",
       "category": "science"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=83959",
+      "title": "How to Have Enough: Wendell Berry on Creativity and Love",
+      "link": "https://www.themarginalian.org/2026/11/15/wendell-berry-sabbath/",
+      "summary": "“Enough is so vast a sweetness, I suppose it never occurs, only pathetic counterfeits,” Emily Dickinson sighed in one of her love letters to Susan an epoch before Kurt Vonnegut, in a short and lovely poem, distilled happiness to the knowled…",
+      "publishedAt": "2026-11-15T15:29:14.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/12/thisday_wendellberry.jpg?fit=320%2C480&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://nautil.us/?p=1286642",
@@ -751,6 +773,17 @@
       "category": "general"
     },
     {
+      "id": "CBMi0wFBVV95cUxPUnhpeTJaNWk5U3V6ejU0NU9mdXN0MktKZzRRQ2JDVkNQUE5XOG50dFBQRU12RWVnQTVxWmxWUC15LWhGaEsyLVUtc1BGWUVmZnVpUF9ETHo0cElMLV9WZGVMbHR2YklyQVItVklIckM2eEZjYnpUUnZVNFpDa2x5YlF5dGhqVVVManZOdHd5RnFNVWlPTjdBenpjbEtQLUhoYzZEcjl2ZkR6dFpBd3NpdW82Y1RtYmM1WW9Na3U4b1ZadGtLRWRxSktpeG9lS2E2d09v",
+      "title": "CSU’s putrid season becoming indescribable, incomprehensible | Opinion - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUnhpeTJaNWk5U3V6ejU0NU9mdXN0MktKZzRRQ2JDVkNQUE5XOG50dFBQRU12RWVnQTVxWmxWUC15LWhGaEsyLVUtc1BGWUVmZnVpUF9ETHo0cElMLV9WZGVMbHR2YklyQVItVklIckM2eEZjYnpUUnZVNFpDa2x5YlF5dGhqVVVManZOdHd5RnFNVWlPTjdBenpjbEtQLUhoYzZEcjl2ZkR6dFpBd3NpdW82Y1RtYmM1WW9Na3U4b1ZadGtLRWRxSktpeG9lS2E2d09v?oc=5",
+      "summary": "CSU’s putrid season becoming indescribable, incomprehensible | Opinion The Coloradoan",
+      "publishedAt": "2026-11-15T12:32:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
+    },
+    {
       "id": "https://coloradosun.com/?p=509680",
       "title": "Littwin: It’s finally official. Colorado’s 4th CD voters have canned the carpetbagging canoodler.",
       "link": "https://coloradosun.com/2026/11/15/littwin-lauren-boebert-canned-carpetbagging-canoodler/",
@@ -759,17 +792,6 @@
       "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/07/Littwin-Opinion-Featured-Image.png?fit=1024%2C536&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "CBMi2wFBVV95cUxNVm1MQWtqUkptYjFRS1BYQXJEZWl6M0ZVdllveTBWeTR1a0tGUndETXktVHgwbkhzUW12QmRMdzR2VjZUQkRySi1pLWxqX0FLNXNQc1ZtMjA5UGFjZUxZc2hTbThUQndHS1RQNDRaY19aNnY0Z1F1TnpEekJJVWgwSFZYRmRwbHVBRmJCSld3QnhqOGxqdmthalFlaS1xaG5QaDRVS1BjTzhNRUJPZzJwd0U0b0pfVW1xdDZjU2VTdGVSbmRmVmRYa1VMWEZtYTdrRklxc0lQaWVPZUU",
-      "title": "Jim Mora reacts to allowing 73 points in loss to Washington State - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVm1MQWtqUkptYjFRS1BYQXJEZWl6M0ZVdllveTBWeTR1a0tGUndETXktVHgwbkhzUW12QmRMdzR2VjZUQkRySi1pLWxqX0FLNXNQc1ZtMjA5UGFjZUxZc2hTbThUQndHS1RQNDRaY19aNnY0Z1F1TnpEekJJVWgwSFZYRmRwbHVBRmJCSld3QnhqOGxqdmthalFlaS1xaG5QaDRVS1BjTzhNRUJPZzJwd0U0b0pfVW1xdDZjU2VTdGVSbmRmVmRYa1VMWEZtYTdrRklxc0lQaWVPZUU?oc=5",
-      "summary": "Jim Mora reacts to allowing 73 points in loss to Washington State The Coloradoan",
-      "publishedAt": "2026-11-15T09:10:19.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -806,17 +828,6 @@
       "category": "design"
     },
     {
-      "id": "https://www.brainpickings.org/?p=70704",
-      "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
-      "link": "https://www.themarginalian.org/2026/11/13/yes-to-life-in-spite-of-everything-viktor-frankl/",
-      "summary": "\"Everything depends on the individual human being, regardless of how small a number of like-minded people there is... on each person... creatively making the meaning of life a reality in his or her own being.\"",
-      "publishedAt": "2026-11-13T19:49:03.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/05/yestolife_frankl.jpg?fit=320%2C480&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
       "id": "https://www.dwell.com/article/hudson-evans-house-brush-park-detroit-michigan-real-estate-f81a77d7",
       "title": "Decades of Detroit History Define This Gilded Age Mansion Seeking $2M",
       "link": "https://www.dwell.com/article/hudson-evans-house-brush-park-detroit-michigan-real-estate-f81a77d7",
@@ -826,6 +837,17 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
+    },
+    {
+      "id": "https://www.mindful.org/?p=669780",
+      "title": "A ‘Rosefulness’ WARMTH Practice for Honest Gratitude",
+      "link": "https://www.mindful.org/a-rosefulness-warmth-practice-for-honest-gratitude/",
+      "summary": "Notice what supports you, name what you need, and offer one small act of care. The post A ‘Rosefulness’ WARMTH Practice for Honest Gratitude appeared first on Mindful.",
+      "publishedAt": "2026-11-13T15:54:03.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
+      "category": "ideas"
     },
     {
       "id": "https://tricycle.org/?p=85974",
@@ -858,17 +880,6 @@
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
-      "category": "design"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=471426",
-      "title": "NON’s Dance Theatre Takes Place in a Transformed Sydney Car Park – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/nons-dance-theatre-takes-place-in-a-transformed-sydney-car-park-the-local-project/",
-      "summary": "The post NON’s Dance Theatre Takes Place in a Transformed Sydney Car Park – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-13T05:23:30.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
       "category": "design"
     },
     {
@@ -913,17 +924,6 @@
       "imageUrl": "https://images.aeonmedia.co/images/02c07749-78d1-493a-a9e1-7e47e869d59a/nyinuta-nora-abbott-landscape-2.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
-      "category": "ideas"
-    },
-    {
-      "id": "https://www.mindful.org/?p=31077",
-      "title": "How to Be Grateful for Your Morning Cup of Coffee",
-      "link": "https://www.mindful.org/how-to-be-grateful-for-your-morning-cup-of-coffee/",
-      "summary": "Writer AJ Jacobs explores what happens once you decide to thank everyone responsible for your morning coffee. The post How to Be Grateful for Your Morning Cup of Coffee appeared first on Mindful.",
-      "publishedAt": "2026-11-11T13:28:00.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -1070,34 +1070,45 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50509411",
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 84 # Comments: 36",
-      "publishedAt": "2026-11-15T18:36:10.000Z",
+      "id": "https://news.ycombinator.com/item?id=50511806",
+      "title": "Preserving 30 Years of Salon Journalism",
+      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 27 # Comments: 6",
+      "publishedAt": "2026-11-15T23:00:11.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=330929",
-      "title": "7 of the world’s deadliest weapons that have changed the scale of destruction in modern warfare",
-      "link": "https://interestingengineering.com/military/7-of-world-deadliest-weapons-modern-warfare",
-      "summary": "In an ideal world, there would be no wars, and humanity would have little reason...",
-      "publishedAt": "2026-11-15T17:04:36.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Deadliest-weapons.jpg",
+      "id": "https://thelocalproject.com.au/?p=471489",
+      "title": "‘Le Bubble’ by Dave Kulesza – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/le-bubble-by-dave-kulesza-the-local-project/",
+      "summary": "The post ‘Le Bubble’ by Dave Kulesza – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-15T22:57:07.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=330594",
+      "title": "New quantum method triples information extracted from microwave field measurements",
+      "link": "https://interestingengineering.com/science/microwave-signals-atoms-quantum-sensors",
+      "summary": "A new technique has been developed by physicists at the University of Warsaw in Poland...",
+      "publishedAt": "2026-11-15T17:40:44.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/IE-ABxKK-11-1.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
     },
     {
-      "id": "6af9b9cd03634e5fd6938100",
-      "title": "Watch St. Vincent, Metallica, More Cover Iron Maiden at Rock & Roll Hall of Fame 2026 Induction Ceremony",
-      "link": "https://pitchfork.com/story/watch-st-vincent-metallica-more-cover-iron-maiden-at-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
-      "summary": "Rage Against the Machine’s Brad Wilk, Mötley Crüe’s John 5, and Jack Black joined the all-star lineup to perform “The Trooper”",
-      "publishedAt": "2026-11-15T15:11:40.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af9c7337b1affb62d7f5343/master/pass/GettyImages-2305186486.jpg",
+      "id": "6af9df05c11e02ee7f005b52",
+      "title": "Watch Wu-Tang Clan Perform at the Rock & Roll Hall of Fame 2026 Induction Ceremony",
+      "link": "https://pitchfork.com/story/watch-wu-tang-clan-perform-at-the-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
+      "summary": "RZA, GZA, Method Man, Raekwon, Ghostface Killah, and co. broke out the hits for the occasion",
+      "publishedAt": "2026-11-15T17:14:57.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af9e3fdc3ef3a8ed8a8ca8f/master/pass/GettyImages-2305179706.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -1125,15 +1136,26 @@
       "category": "local"
     },
     {
-      "id": "CBMi9gFBVV95cUxQREZWVmE3eVA4dDBBeXZMekZONGVHSzhvWDlZREU4dzl6OFVVaTRCWU1KT1lIVEo0NkVMcEVPTnUxOGNGZ0JXNkJRekV2aU9CNFEtNkF4VWVyeVNPSFVIRGQtNlh5d1NtY2t0TmpaQnJFdktfdVpFeC1Ed1NIOUtHV2xhY0FDYUdZYWRvV3gySmp3b1FTTG9fWjNHc2RLVU1qUXpVNzRxSTdVSVpvdkFoRTVRYTQ4R0pWT0hFbHZFOC1fWHFpX2RtRFZNY3F6X0VoaWtiQkZkNTN3c2JyT3VoMy1TU2hSdHktblBxd25nVFYzWWhfclE",
-      "title": "Fossil Ridge finally captures elusive Colorado volleyball state title - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQREZWVmE3eVA4dDBBeXZMekZONGVHSzhvWDlZREU4dzl6OFVVaTRCWU1KT1lIVEo0NkVMcEVPTnUxOGNGZ0JXNkJRekV2aU9CNFEtNkF4VWVyeVNPSFVIRGQtNlh5d1NtY2t0TmpaQnJFdktfdVpFeC1Ed1NIOUtHV2xhY0FDYUdZYWRvV3gySmp3b1FTTG9fWjNHc2RLVU1qUXpVNzRxSTdVSVpvdkFoRTVRYTQ4R0pWT0hFbHZFOC1fWHFpX2RtRFZNY3F6X0VoaWtiQkZkNTN3c2JyT3VoMy1TU2hSdHktblBxd25nVFYzWWhfclE?oc=5",
-      "summary": "Fossil Ridge finally captures elusive Colorado volleyball state title The Coloradoan",
-      "publishedAt": "2026-11-15T05:41:00.000Z",
+      "id": "CBMi2wFBVV95cUxNVm1MQWtqUkptYjFRS1BYQXJEZWl6M0ZVdllveTBWeTR1a0tGUndETXktVHgwbkhzUW12QmRMdzR2VjZUQkRySi1pLWxqX0FLNXNQc1ZtMjA5UGFjZUxZc2hTbThUQndHS1RQNDRaY19aNnY0Z1F1TnpEekJJVWgwSFZYRmRwbHVBRmJCSld3QnhqOGxqdmthalFlaS1xaG5QaDRVS1BjTzhNRUJPZzJwd0U0b0pfVW1xdDZjU2VTdGVSbmRmVmRYa1VMWEZtYTdrRklxc0lQaWVPZUU",
+      "title": "Jim Mora reacts to allowing 73 points in loss to Washington State - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVm1MQWtqUkptYjFRS1BYQXJEZWl6M0ZVdllveTBWeTR1a0tGUndETXktVHgwbkhzUW12QmRMdzR2VjZUQkRySi1pLWxqX0FLNXNQc1ZtMjA5UGFjZUxZc2hTbThUQndHS1RQNDRaY19aNnY0Z1F1TnpEekJJVWgwSFZYRmRwbHVBRmJCSld3QnhqOGxqdmthalFlaS1xaG5QaDRVS1BjTzhNRUJPZzJwd0U0b0pfVW1xdDZjU2VTdGVSbmRmVmRYa1VMWEZtYTdrRklxc0lQaWVPZUU?oc=5",
+      "summary": "Jim Mora reacts to allowing 73 points in loss to Washington State The Coloradoan",
+      "publishedAt": "2026-11-15T09:10:19.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
+    },
+    {
+      "id": "https://www.brainpickings.org/?p=72141",
+      "title": "The Four Buddhist Mantras for Turning Fear into Love",
+      "link": "https://www.themarginalian.org/2026/11/14/thich-nhat-hanh-fear-love/",
+      "summary": "\"When you love someone, the best thing you can offer that person is your presence.\"",
+      "publishedAt": "2026-11-15T04:05:03.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/12/fear_thichnhathanh.jpg?fit=320%2C483&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=122873&secret=cM2XMtKpK3Lj&nonce=5edb65b639",
@@ -1180,17 +1202,6 @@
       "category": "local"
     },
     {
-      "id": "https://www.brainpickings.org/?p=65839",
-      "title": "Loving vs. Being in Love: Jane Welsh Carlyle on Navigating the Heart’s Contradictions",
-      "link": "https://www.themarginalian.org/2026/11/13/jane-welsh-carlyle-love/",
-      "summary": "\"A passion, like the torrent in the violence of its course, might perhaps too, like the torrent, leave ruin and desolation behind... My love for you... is deep and calm, more like the quiet river, which refreshes and beautifies where it flo…",
-      "publishedAt": "2026-11-13T17:00:37.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/itooamhere_carlyle.jpg?fit=320%2C486&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
       "id": "https://leibal.com/?p=186576",
       "title": "Precita House",
       "link": "https://leibal.com/interiors/precita-house/",
@@ -1224,17 +1235,6 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=470980",
-      "title": "Prince Street by Henry Lucien Barrett Architect and Elías Studio – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/prince-street-by-henry-lucien-barrett-architect-and-elias-studio-the-local-project/",
-      "summary": "The post Prince Street by Henry Lucien Barrett Architect and Elías Studio – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-13T04:08:19.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
       "id": "https://tricycle.org/?p=85922",
       "title": "The Ten Kings of Hell",
       "link": "https://tricycle.org/article/ten-kings-of-hell/",
@@ -1257,14 +1257,25 @@
       "category": "ideas"
     },
     {
-      "id": "urn:id:9193",
-      "title": "Eye on the mark",
-      "link": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
-      "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche",
+      "id": "urn:id:9147",
+      "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+      "link": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+      "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
       "publishedAt": "2026-11-12T11:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/185da0c4-a9b1-4d6e-848f-80b475a73fa9/psychea-w1.jpg?top=130&amp;left=0&amp;cropWidth=2496&amp;cropHeight=1404&amp;width=1200&amp;quality=75&amp;format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/9418b37e-751a-49b7-98c6-6090f2472c77/sz-final-2023-05-03t223620z_724465317_rc20r0aw7wfg_rtrmadp_3_usa-dailylife.jpg?top=287&amp;left=2&amp;cropWidth=2800&amp;cropHeight=1575&amp;width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "psyche",
       "sourceName": "Psyche",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=31077",
+      "title": "How to Be Grateful for Your Morning Cup of Coffee",
+      "link": "https://www.mindful.org/how-to-be-grateful-for-your-morning-cup-of-coffee/",
+      "summary": "Writer AJ Jacobs explores what happens once you decide to thank everyone responsible for your morning coffee. The post How to Be Grateful for Your Morning Cup of Coffee appeared first on Mindful.",
+      "publishedAt": "2026-11-11T13:28:00.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -1277,17 +1288,6 @@
       "sourceId": "boulder-reporting-lab",
       "sourceName": "Boulder Reporting Lab",
       "category": "local"
-    },
-    {
-      "id": "https://www.mindful.org/?p=39694",
-      "title": "Elisha Goldstein: A Nourishing Breath Meditation",
-      "link": "https://www.mindful.org/10-minute-nourishing-breath-meditation/",
-      "summary": "The deepest healing occurs when you come to terms with the way things are. This simple awareness of breath practice is an act of self-love and compassion for the moment we find ourselves in. The post Elisha Goldstein: A Nourishing Breath Me…",
-      "publishedAt": "2026-11-10T22:54:15.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
-      "category": "ideas"
     },
     {
       "id": "https://www.noemamag.com/when-ais-become-unruly-swarms",
@@ -1389,11 +1389,11 @@
       "category": "design"
     },
     {
-      "id": "CBMidEFVX3lxTE44UFg3TGFfM3hGZWNfZUl5OU5rbGVaQnFBdHctRTdVZ213cmVHM0czZ2tvWmJLUlJhMDlGNWQyOGtEVWhEeElibnczSW5pVVBVRHhFVHhlZEUzbGZuT1g4b19LWlJyUFg1ekNUejdWRU5Sb28z",
-      "title": "KURA-GE Coffee Shop by Remy Aznar + Moyésoa - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44UFg3TGFfM3hGZWNfZUl5OU5rbGVaQnFBdHctRTdVZ213cmVHM0czZ2tvWmJLUlJhMDlGNWQyOGtEVWhEeElibnczSW5pVVBVRHhFVHhlZEUzbGZuT1g4b19LWlJyUFg1ekNUejdWRU5Sb28z?oc=5",
-      "summary": "KURA-GE Coffee Shop by Remy Aznar + Moyésoa Thisispaper",
-      "publishedAt": "2025-10-31T07:00:00.000Z",
+      "id": "CBMia0FVX3lxTFBPNWxWU1BWa1ZRSWJZX1o4Vk96eU9FejZLa3lCeDd3bVQzRExSblJ0WUlLdHZmOTAtVlFxdG4zN0s0NUZBNEI0M2NQaURzaHhhVGh6OUd1c1l3NWZlRkhENFlJcUw4RzFqeE04",
+      "title": "TRANSHUMANISM by Joanna Grochowska at Untitled Space Gallery - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPNWxWU1BWa1ZRSWJZX1o4Vk96eU9FejZLa3lCeDd3bVQzRExSblJ0WUlLdHZmOTAtVlFxdG4zN0s0NUZBNEI0M2NQaURzaHhhVGh6OUd1c1l3NWZlRkhENFlJcUw4RzFqeE04?oc=5",
+      "summary": "TRANSHUMANISM by Joanna Grochowska at Untitled Space Gallery Thisispaper",
+      "publishedAt": "2025-09-23T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -1455,26 +1455,48 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50509308",
-      "title": "A short explainer on how El Niño works [video]",
-      "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 52 # Comments: 3",
-      "publishedAt": "2026-11-15T18:23:21.000Z",
+      "id": "https://thelocalproject.com.au/?p=471456",
+      "title": "Four Australians Named as Global Winners in the 2024-2025 Sub-Zero Wolf Kitchen Design Contest – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/four-australians-named-as-global-winners-in-the-2024-2025-sub-zero-wolf-kitchen-design-contest-the-local-project/",
+      "summary": "The post Four Australians Named as Global Winners in the 2024-2025 Sub-Zero Wolf Kitchen Design Contest – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-15T22:54:10.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50511718",
+      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+      "link": "https://lastcomplication.com/",
+      "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 10 # Comments: 1",
+      "publishedAt": "2026-11-15T22:48:52.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=330282",
-      "title": "These 7 aircraft could reshape the future of pilotless cargo flights",
-      "link": "https://interestingengineering.com/transportation/7-cargo-aircraft-being-developed-to-fly-without-pilots",
-      "summary": "Several companies and militaries are testing uncrewed cargo aircraft that can haul supplies without a...",
-      "publishedAt": "2026-11-15T16:55:36.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-autonomous-cargo-aircraft-.jpg",
+      "id": "https://interestingengineering.com/?p=330929",
+      "title": "7 of the world’s deadliest weapons that have changed the scale of destruction in modern warfare",
+      "link": "https://interestingengineering.com/military/7-of-world-deadliest-weapons-modern-warfare",
+      "summary": "In an ideal world, there would be no wars, and humanity would have little reason...",
+      "publishedAt": "2026-11-15T17:04:36.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Deadliest-weapons.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
+    },
+    {
+      "id": "6af9cdc358b37da7b0991cf6",
+      "title": "Phil Collins Gets Rare Two-Time Inductee Status at Rock & Roll Hall of Fame",
+      "link": "https://pitchfork.com/story/phil-collins-gets-rare-two-time-inductee-status-at-rock-and-roll-hall-of-fame/",
+      "summary": "The Genesis musician was celebrated for his solo career at the 2026 Induction Ceremony",
+      "publishedAt": "2026-11-15T16:18:14.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af9d1067b1affb62d7f5367/master/pass/GettyImages-2304674894.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "EbBSCUWp3v6A8aGavfkUDd",
@@ -1499,26 +1521,15 @@
       "category": "local"
     },
     {
-      "id": "CBMi8wFBVV95cUxNRVczYzlqU1A1TURfTGdZdnI2M2hqalJfZExKdklpLWZkRWZ6LVhNZnBJSEhydTBCZURtSmFGVkZQRERJWEdBZ3RvQW1NZ0JTekhlWG5BaDhvUXdaTTZRYkhXeDJDNlMtUXJKRVdBcXhhVTlIUXZrcFVfRkRwQ1BtV2FnLTl2U1ZXc3JaczZhanFkWHZsYllFZFV5a0xnVXhZdGY0QWs2eXFCblliTUtSN1VnNVkzNWdGZUROWC1WdC1oNDJNSUliYmlJRXlVTlF6ODExRW1zVWs0NjFLcTVQbmNQaHNPNjdaMk5lRnJOM0p3Wlk",
-      "title": "SaberCats are state champs: See Fossil Ridge volleyball's title win - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRVczYzlqU1A1TURfTGdZdnI2M2hqalJfZExKdklpLWZkRWZ6LVhNZnBJSEhydTBCZURtSmFGVkZQRERJWEdBZ3RvQW1NZ0JTekhlWG5BaDhvUXdaTTZRYkhXeDJDNlMtUXJKRVdBcXhhVTlIUXZrcFVfRkRwQ1BtV2FnLTl2U1ZXc3JaczZhanFkWHZsYllFZFV5a0xnVXhZdGY0QWs2eXFCblliTUtSN1VnNVkzNWdGZUROWC1WdC1oNDJNSUliYmlJRXlVTlF6ODExRW1zVWs0NjFLcTVQbmNQaHNPNjdaMk5lRnJOM0p3Wlk?oc=5",
-      "summary": "SaberCats are state champs: See Fossil Ridge volleyball's title win The Coloradoan",
-      "publishedAt": "2026-11-15T05:39:00.000Z",
+      "id": "CBMi9gFBVV95cUxQREZWVmE3eVA4dDBBeXZMekZONGVHSzhvWDlZREU4dzl6OFVVaTRCWU1KT1lIVEo0NkVMcEVPTnUxOGNGZ0JXNkJRekV2aU9CNFEtNkF4VWVyeVNPSFVIRGQtNlh5d1NtY2t0TmpaQnJFdktfdVpFeC1Ed1NIOUtHV2xhY0FDYUdZYWRvV3gySmp3b1FTTG9fWjNHc2RLVU1qUXpVNzRxSTdVSVpvdkFoRTVRYTQ4R0pWT0hFbHZFOC1fWHFpX2RtRFZNY3F6X0VoaWtiQkZkNTN3c2JyT3VoMy1TU2hSdHktblBxd25nVFYzWWhfclE",
+      "title": "Fossil Ridge finally captures elusive Colorado volleyball state title - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQREZWVmE3eVA4dDBBeXZMekZONGVHSzhvWDlZREU4dzl6OFVVaTRCWU1KT1lIVEo0NkVMcEVPTnUxOGNGZ0JXNkJRekV2aU9CNFEtNkF4VWVyeVNPSFVIRGQtNlh5d1NtY2t0TmpaQnJFdktfdVpFeC1Ed1NIOUtHV2xhY0FDYUdZYWRvV3gySmp3b1FTTG9fWjNHc2RLVU1qUXpVNzRxSTdVSVpvdkFoRTVRYTQ4R0pWT0hFbHZFOC1fWHFpX2RtRFZNY3F6X0VoaWtiQkZkNTN3c2JyT3VoMy1TU2hSdHktblBxd25nVFYzWWhfclE?oc=5",
+      "summary": "Fossil Ridge finally captures elusive Colorado volleyball state title The Coloradoan",
+      "publishedAt": "2026-11-15T05:41:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
       "category": "local"
-    },
-    {
-      "id": "6af74db7829743962fb4edef",
-      "title": "Yield",
-      "link": "https://pitchfork.com/reviews/albums/pearl-jam-yield/",
-      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of fait…",
-      "publishedAt": "2026-11-15T05:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/master/pass/Pearl%20Jam%20-%20Yield%20album%20art.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
     },
     {
       "id": "https://www.thebrighterside.news/api/preview?id=130736&secret=cM2XMtKpK3Lj&nonce=7cd79bff73",
@@ -1541,6 +1552,17 @@
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
       "category": "local"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=88416",
+      "title": "Embrace Your Obsessions: Susan Orlean on the Antidote to the Meaninglessness of Life",
+      "link": "https://www.themarginalian.org/2026/11/14/susan-orlean-orchid-thief/",
+      "summary": "Every great book, whatever its subject or genre or style, is about one thing only: the eternal question of what gives meaning to our tiny, transient lives. And every answer given, however faintly whispered, points to one thing only: the qua…",
+      "publishedAt": "2026-11-14T14:31:26.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/orhidthief.jpg?fit=320%2C466&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://nautil.us/?p=1286624",
@@ -1598,34 +1620,12 @@
       "category": "design"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=471320",
-      "title": "ABI Interiors’ Guide to Choosing the Right Kitchen Tile – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/abi-interiors-guide-to-choosing-the-right-kitchen-tile-the-local-project/",
-      "summary": "The post ABI Interiors’ Guide to Choosing the Right Kitchen Tile – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-13T04:06:18.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=88398",
-      "title": "How to Hear the Song of Life",
-      "link": "https://www.themarginalian.org/2026/11/12/song-of-the-cedars/",
-      "summary": "“When we have learned how to listen to trees,” Hermann Hesse wrote in one of his least known, most beautiful essays, “then the brevity and the quickness and the childlike hastiness of our thoughts achieve an incomparable joy. Whoever has le…",
-      "publishedAt": "2026-11-12T16:38:07.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/songofthecedars_cover0.jpg?fit=320%2C471&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
-    },
-    {
-      "id": "urn:id:9147",
-      "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-      "link": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
-      "summary": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
+      "id": "urn:id:9193",
+      "title": "Eye on the mark",
+      "link": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
+      "summary": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche",
       "publishedAt": "2026-11-12T11:00:00.000Z",
-      "imageUrl": "https://images.aeonmedia.co/images/9418b37e-751a-49b7-98c6-6090f2472c77/sz-final-2023-05-03t223620z_724465317_rc20r0aw7wfg_rtrmadp_3_usa-dailylife.jpg?top=287&amp;left=2&amp;cropWidth=2800&amp;cropHeight=1575&amp;width=1200&amp;quality=75&amp;format=auto",
+      "imageUrl": "https://images.aeonmedia.co/images/185da0c4-a9b1-4d6e-848f-80b475a73fa9/psychea-w1.jpg?top=130&amp;left=0&amp;cropWidth=2496&amp;cropHeight=1404&amp;width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "psyche",
       "sourceName": "Psyche",
       "category": "ideas"
@@ -1639,6 +1639,17 @@
       "imageUrl": "https://images.aeonmedia.co/images/73a5155c-7083-4b72-84ee-77df535bf808/decoding-ediacaran-fossils-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto",
       "sourceId": "aeon",
       "sourceName": "Aeon",
+      "category": "ideas"
+    },
+    {
+      "id": "https://www.mindful.org/?p=39694",
+      "title": "Elisha Goldstein: A Nourishing Breath Meditation",
+      "link": "https://www.mindful.org/10-minute-nourishing-breath-meditation/",
+      "summary": "The deepest healing occurs when you come to terms with the way things are. This simple awareness of breath practice is an act of self-love and compassion for the moment we find ourselves in. The post Elisha Goldstein: A Nourishing Breath Me…",
+      "publishedAt": "2026-11-10T22:54:15.000Z",
+      "imageUrl": null,
+      "sourceId": "mindful",
+      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -1672,17 +1683,6 @@
       "imageUrl": "https://www.lionsroar.com/wp-content/uploads/2026/11/nutritional-support-garden_of_peace_school-india-1024x685.jpg",
       "sourceId": "lions-roar",
       "sourceName": "Lion's Roar",
-      "category": "ideas"
-    },
-    {
-      "id": "https://www.mindful.org/?p=669717",
-      "title": "How to Cope With Loneliness: 5 Mindfulness Practices to Feel More Connected",
-      "link": "https://www.mindful.org/how-to-cope-with-loneliness-5-mindfulness-practices-to-feel-more-connected/",
-      "summary": "Feeling lonely isn't a personal failing, and you don't have to transform your social life overnight in order to feel more connected. Try these five gentle mindfulness practices. The post How to Cope With Loneliness: 5 Mindfulness Practices …",
-      "publishedAt": "2026-11-09T00:59:53.000Z",
-      "imageUrl": null,
-      "sourceId": "mindful",
-      "sourceName": "Mindful",
       "category": "ideas"
     },
     {
@@ -1763,17 +1763,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMia0FVX3lxTFBPNWxWU1BWa1ZRSWJZX1o4Vk96eU9FejZLa3lCeDd3bVQzRExSblJ0WUlLdHZmOTAtVlFxdG4zN0s0NUZBNEI0M2NQaURzaHhhVGh6OUd1c1l3NWZlRkhENFlJcUw4RzFqeE04",
-      "title": "TRANSHUMANISM by Joanna Grochowska at Untitled Space Gallery - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPNWxWU1BWa1ZRSWJZX1o4Vk96eU9FejZLa3lCeDd3bVQzRExSblJ0WUlLdHZmOTAtVlFxdG4zN0s0NUZBNEI0M2NQaURzaHhhVGh6OUd1c1l3NWZlRkhENFlJcUw4RzFqeE04?oc=5",
-      "summary": "TRANSHUMANISM by Joanna Grochowska at Untitled Space Gallery Thisispaper",
-      "publishedAt": "2025-09-23T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiYkFVX3lxTFBVcmdYcVJ3cmtuN2JoX0FPV3FGcHlrR1BEOW45YnE4UWpBWE5INW0wbU40Z3M0R1pRczNqbzR1MWhPa3FVdlFiQ0NrdFFIWlF4Tm1RSDBIbFZPUWZCd0U3Tzh3",
       "title": "The Curlicue House by S+Arch - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVcmdYcVJ3cmtuN2JoX0FPV3FGcHlrR1BEOW45YnE4UWpBWE5INW0wbU40Z3M0R1pRczNqbzR1MWhPa3FVdlFiQ0NrdFFIWlF4Tm1RSDBIbFZPUWZCd0U3Tzh3?oc=5",
@@ -1782,6 +1771,17 @@
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMibEFVX3lxTE9uMVV0NXNGaTJsUUZLei1pS1JPTk9jckN5TzJHU3poMV9rTlFWZ3dfZldscUFxaWlHUTY2OEJhMzNlT1Z1blhjUV83SDZlTk52SzNzTXZKVF9zNnY0aThmcVlIckpNaUY5d2lsQg",
+      "title": "Kung-Tung Church 公東教堂 by Justus Dahinden - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uMVV0NXNGaTJsUUZLei1pS1JPTk9jckN5TzJHU3poMV9rTlFWZ3dfZldscUFxaWlHUTY2OEJhMzNlT1Z1blhjUV83SDZlTk52SzNzTXZKVF9zNnY0aThmcVlIckpNaUY5d2lsQg?oc=5",
+      "summary": "Kung-Tung Church 公東教堂 by Justus Dahinden Thisispaper",
+      "publishedAt": "2025-08-26T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -1840,26 +1840,37 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50509023",
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 45 # Comments: 26",
-      "publishedAt": "2026-11-15T17:53:31.000Z",
+      "id": "https://news.ycombinator.com/item?id=50511505",
+      "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
+      "link": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/",
+      "summary": "Article URL: https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/ Comments URL: https://news.ycombinator.com/item?id=50511505 Points: 8 # Comments: 2",
+      "publishedAt": "2026-11-15T22:26:33.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=331400",
-      "title": "3D-printed hoverboard prototype levitates over copper plate using spinning neodymium magnets",
-      "link": "https://interestingengineering.com/innovation/3d-printed-hoverboard-prototype",
-      "summary": "Anyone who has watched Back to the Future II, a science-fiction movie that came out...",
-      "publishedAt": "2026-11-15T16:52:33.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Jake-Rogers-working-prototype-of-hoverboard-that-he-built-in-his-garage.jpg",
+      "id": "https://interestingengineering.com/?p=330282",
+      "title": "These 7 aircraft could reshape the future of pilotless cargo flights",
+      "link": "https://interestingengineering.com/transportation/7-cargo-aircraft-being-developed-to-fly-without-pilots",
+      "summary": "Several companies and militaries are testing uncrewed cargo aircraft that can haul supplies without a...",
+      "publishedAt": "2026-11-15T16:55:36.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-autonomous-cargo-aircraft-.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
+    },
+    {
+      "id": "6af9b9cd03634e5fd6938100",
+      "title": "Watch St. Vincent, Metallica, More Cover Iron Maiden at Rock & Roll Hall of Fame 2026 Induction Ceremony",
+      "link": "https://pitchfork.com/story/watch-st-vincent-metallica-more-cover-iron-maiden-at-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
+      "summary": "Rage Against the Machine’s Brad Wilk, Mötley Crüe’s John 5, and Jack Black joined the all-star lineup to perform “The Trooper”",
+      "publishedAt": "2026-11-15T15:11:40.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af9c7337b1affb62d7f5343/master/pass/GettyImages-2305186486.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
     },
     {
       "id": "vimUuNpbXhuTsB9YdHWzZa",
@@ -1917,17 +1928,6 @@
       "category": "local"
     },
     {
-      "id": "6af73902edc9c2750fdfa28c",
-      "title": "Quiet Forest",
-      "link": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
-      "summary": "Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side.",
-      "publishedAt": "2026-11-14T05:00:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/master/pass/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
       "id": "https://nautil.us/?p=1286621",
       "title": "The World’s Largest Marine Turtle Makes a Move South",
       "link": "https://nautil.us/the-worlds-largest-marine-turtle-makes-a-move-south-1286621/",
@@ -1937,6 +1937,17 @@
       "sourceId": "nautilus",
       "sourceName": "Nautilus",
       "category": "science"
+    },
+    {
+      "id": "https://www.brainpickings.org/?p=70704",
+      "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
+      "link": "https://www.themarginalian.org/2026/11/13/yes-to-life-in-spite-of-everything-viktor-frankl/",
+      "summary": "\"Everything depends on the individual human being, regardless of how small a number of like-minded people there is... on each person... creatively making the meaning of life a reality in his or her own being.\"",
+      "publishedAt": "2026-11-13T19:49:03.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/05/yestolife_frankl.jpg?fit=320%2C480&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "CBMi4wFBVV95cUxOTHNJc3h6enBtenFxSFFhV0k5eVRwQVFBc3pkRDdFcW0xeU9WaHhfY3JIQ2hLUlZldGlzM0p3ckJhZXBwR0U5QVVhWWVlN1FIX1ZPRmpoU1g5OWdXT2EyYmtucy1XUmN3SHFkZjhYdzliVHZXTkJnTUpaOWw2cjExNHlFZlg0LWF0RVpPMk56d3dxZk9xbWxIU09XV3NwVnFzX0x1dWdsMlpIc3ZqaDF1clZZaWR2c2NXMkE0MjFNVmpUU2k3VkpVSk9QT3o5eXkxalp3WHhFQnhpMnR5ekhVc1FsQQ",
@@ -1950,11 +1961,11 @@
       "category": "local"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=471337",
-      "title": "Birkenstock Steps Foot on Melbourne’s South Side – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/birkenstock-steps-foot-on-melbournes-south-side-the-local-project/",
-      "summary": "The post Birkenstock Steps Foot on Melbourne’s South Side – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-13T04:04:19.000Z",
+      "id": "https://thelocalproject.com.au/?p=471368",
+      "title": "Three Showrooms, One Vision: Sub-Zero, Wolf, and Cove in New York and New Jersey – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/three-showrooms-one-vision-sub-zero-wolf-and-cove-in-new-york-and-new-jersey-the-local-project/",
+      "summary": "The post Three Showrooms, One Vision: Sub-Zero, Wolf, and Cove in New York and New Jersey – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-13T05:26:24.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
@@ -1970,17 +1981,6 @@
       "sourceId": "dwell",
       "sourceName": "Dwell",
       "category": "design"
-    },
-    {
-      "id": "https://www.brainpickings.org/?p=74452",
-      "title": "Place, Personhood, and the Hippocampus: The Fascinating Science of Magnetism, Autonoeic Consciousness, and What Makes Us Who We Are",
-      "link": "https://www.themarginalian.org/2026/11/12/wayfinding-m-r-oconnor/",
-      "summary": "\"Often the places we grow up in... influence how we perceive and conceptualize the world, give us metaphors to live by, and shape the purpose that drives us.\"",
-      "publishedAt": "2026-11-12T14:46:08.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/09/wayfinding_oconnor.jpg?fit=320%2C495&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "https://leibal.com/?p=186394",
@@ -2049,11 +2049,11 @@
       "category": "local"
     },
     {
-      "id": "https://www.mindful.org/?p=669611",
-      "title": "What Poetry Can Teach Us About Wonder: An Interview With Maya C. Popa",
-      "link": "https://www.mindful.org/what-poetry-can-teach-us-about-wonder-an-interview-with-maya-c-popa/",
-      "summary": "An interview with poet Maya C. Popa on attention, uncertainty, and the art of remaining curious. The post What Poetry Can Teach Us About Wonder: An Interview With Maya C. Popa appeared first on Mindful.",
-      "publishedAt": "2026-11-07T07:38:00.000Z",
+      "id": "https://www.mindful.org/?p=669717",
+      "title": "How to Cope With Loneliness: 5 Mindfulness Practices to Feel More Connected",
+      "link": "https://www.mindful.org/how-to-cope-with-loneliness-5-mindfulness-practices-to-feel-more-connected/",
+      "summary": "Feeling lonely isn't a personal failing, and you don't have to transform your social life overnight in order to feel more connected. Try these five gentle mindfulness practices. The post How to Cope With Loneliness: 5 Mindfulness Practices …",
+      "publishedAt": "2026-11-09T00:59:53.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -2137,17 +2137,6 @@
       "category": "ideas"
     },
     {
-      "id": "CBMibEFVX3lxTE9uMVV0NXNGaTJsUUZLei1pS1JPTk9jckN5TzJHU3poMV9rTlFWZ3dfZldscUFxaWlHUTY2OEJhMzNlT1Z1blhjUV83SDZlTk52SzNzTXZKVF9zNnY0aThmcVlIckpNaUY5d2lsQg",
-      "title": "Kung-Tung Church 公東教堂 by Justus Dahinden - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uMVV0NXNGaTJsUUZLei1pS1JPTk9jckN5TzJHU3poMV9rTlFWZ3dfZldscUFxaWlHUTY2OEJhMzNlT1Z1blhjUV83SDZlTk52SzNzTXZKVF9zNnY0aThmcVlIckpNaUY5d2lsQg?oc=5",
-      "summary": "Kung-Tung Church 公東教堂 by Justus Dahinden Thisispaper",
-      "publishedAt": "2025-08-26T07:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "CBMiYEFVX3lxTE5PbGlVMndWV3A1bnJlb3VuQnJwOUF3TzBQV2RWOFMyc2F4RVZDOU9hTm8ybGpTOE05NDAxTm1JVWhTa2lmTTJYcGFvU08tSW5JbGhsTXhQV3JvanRTLTBPSA",
       "title": "Mount Martha by Mékr Studio - New Norm Magazine",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PbGlVMndWV3A1bnJlb3VuQnJwOUF3TzBQV2RWOFMyc2F4RVZDOU9hTm8ybGpTOE05NDAxTm1JVWhTa2lmTTJYcGFvU08tSW5JbGhsTXhQV3JvanRTLTBPSA?oc=5",
@@ -2156,6 +2145,17 @@
       "imageUrl": null,
       "sourceId": "new-norm",
       "sourceName": "New Norm",
+      "category": "design"
+    },
+    {
+      "id": "CBMiekFVX3lxTE5WWUJYbmJGTFVSeUxLMzNURkVsQ3lYckRGLTYyUEhGcjV6ckRLamR0OVBaVldPLU13ci1UTktPTE94NC1QUVNNZ0dJM0llOG93N0I3dWZtZjhZUzI4NTFWb2tXZTBCdTRaMXE0N3JoVWJYM2M1TjRKWXNn",
+      "title": "Hut and Tower House by onishimaki + hyakudayuki - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WWUJYbmJGTFVSeUxLMzNURkVsQ3lYckRGLTYyUEhGcjV6ckRLamR0OVBaVldPLU13ci1UTktPTE94NC1QUVNNZ0dJM0llOG93N0I3dWZtZjhZUzI4NTFWb2tXZTBCdTRaMXE0N3JoVWJYM2M1TjRKWXNn?oc=5",
+      "summary": "Hut and Tower House by onishimaki + hyakudayuki Thisispaper",
+      "publishedAt": "2025-07-04T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -2225,23 +2225,23 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50508715",
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "link": "https://ykiko.me/en/articles/2105384023094834022/",
-      "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 20 # Comments: 2",
-      "publishedAt": "2026-11-15T17:22:32.000Z",
+      "id": "https://news.ycombinator.com/item?id=50511395",
+      "title": "Old Bitly Links Are Being Hijacked",
+      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 100 # Comments: 52",
+      "publishedAt": "2026-11-15T22:11:43.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=331437",
-      "title": "World’s largest fresh water Lake sees sharpest flow rebound in 343 years",
-      "link": "https://interestingengineering.com/science/worlds-largest-fresh-water-lake-sees-sharpest-flow-rebound-in-343-years",
-      "summary": "Lake Baikal in Siberia holds about 20 percent of the world’s surface freshwater, and it...",
-      "publishedAt": "2026-11-15T16:23:38.000Z",
-      "imageUrl": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "id": "https://interestingengineering.com/?p=331400",
+      "title": "3D-printed hoverboard prototype levitates over copper plate using spinning neodymium magnets",
+      "link": "https://interestingengineering.com/innovation/3d-printed-hoverboard-prototype",
+      "summary": "Anyone who has watched Back to the Future II, a science-fiction movie that came out...",
+      "publishedAt": "2026-11-15T16:52:33.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Jake-Rogers-working-prototype-of-hoverboard-that-he-built-in-his-garage.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -2258,11 +2258,22 @@
       "category": "local"
     },
     {
-      "id": "CBMi3gFBVV95cUxNNEE2RmVRLXFtQ1FxUURick9Ebkd0VW95ZUVnOUxqVnZLYzVwemhZd2p1b2xGa1d0LWp1NDBKbEVXSGZXSzM4M2tJS2ZWSDdvV0ZXR1dzckZ4N0RaNXFXOWNfTDlwYmNycGtsOHh6TFFHVVRRRThJaU95eUdSTm1sbjV3d3Jobkc0Zk4wUDR0cjF3NEpXci1VZ2Z3d0xCaTBYSkVKeExXcTRjNmpoLUF2aXZ0Q1lTdjF5dm1MdUhSeEVkXzlTS3d3dHlLQ1Z0eDFsSGxUZEp4QkxrRG9Demc",
-      "title": "Colorado State basketball unsettled in upset loss to Loyola-Chicago - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNEE2RmVRLXFtQ1FxUURick9Ebkd0VW95ZUVnOUxqVnZLYzVwemhZd2p1b2xGa1d0LWp1NDBKbEVXSGZXSzM4M2tJS2ZWSDdvV0ZXR1dzckZ4N0RaNXFXOWNfTDlwYmNycGtsOHh6TFFHVVRRRThJaU95eUdSTm1sbjV3d3Jobkc0Zk4wUDR0cjF3NEpXci1VZ2Z3d0xCaTBYSkVKeExXcTRjNmpoLUF2aXZ0Q1lTdjF5dm1MdUhSeEVkXzlTS3d3dHlLQ1Z0eDFsSGxUZEp4QkxrRG9Demc?oc=5",
-      "summary": "Colorado State basketball unsettled in upset loss to Loyola-Chicago The Coloradoan",
-      "publishedAt": "2026-11-14T21:56:00.000Z",
+      "id": "6af74db7829743962fb4edef",
+      "title": "Yield",
+      "link": "https://pitchfork.com/reviews/albums/pearl-jam-yield/",
+      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of fait…",
+      "publishedAt": "2026-11-15T05:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/master/pass/Pearl%20Jam%20-%20Yield%20album%20art.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
+      "id": "CBMi6gFBVV95cUxOWjZmc1JCRzYwc2NNYzhVWWlxY3lDcG84d0JTOGxJWFk0V1pnem1FN2lDeWRFZ3Y3ZkdsUlpXRmtSOGNMREtib2dJUk94UVozQ1pGdkF0amFhSU9NUzlfV2tBTFoyYUNBYXIza2xHMGZ0ZndBNVpYMDRJalZrdDRwQWdtZ2dVcTR6cXVpaEFEc1J3M2pNMGJycVVQT1RRUWl2Sk9zUnhzOGpGYmZvdjhiZHc2d0NvOGhJb0Q5Z3pyTG85b2ZfOEFPX3JGZzZpV3gxbUdYNUY0Z3RGZjZMWlNTZTd4U0ozY0lxdHc",
+      "title": "Timnath football dominates 3A opener for first-ever playoff win - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWjZmc1JCRzYwc2NNYzhVWWlxY3lDcG84d0JTOGxJWFk0V1pnem1FN2lDeWRFZ3Y3ZkdsUlpXRmtSOGNMREtib2dJUk94UVozQ1pGdkF0amFhSU9NUzlfV2tBTFoyYUNBYXIza2xHMGZ0ZndBNVpYMDRJalZrdDRwQWdtZ2dVcTR6cXVpaEFEc1J3M2pNMGJycVVQT1RRUWl2Sk9zUnhzOGpGYmZvdjhiZHc2d0NvOGhJb0Q5Z3pyTG85b2ZfOEFPX3JGZzZpV3gxbUdYNUY0Z3RGZjZMWlNTZTd4U0ozY0lxdHc?oc=5",
+      "summary": "Timnath football dominates 3A opener for first-ever playoff win The Coloradoan",
+      "publishedAt": "2026-11-14T17:04:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -2313,15 +2324,15 @@
       "category": "science"
     },
     {
-      "id": "6af4b710eb628381272f7848",
-      "title": "Camp Flog Gnaw 2026: Amazon Music Livestream Schedule & Details",
-      "link": "https://pitchfork.com/story/camp-flog-gnaw-2026-amazon-music-livestream-schedule-and-details/",
-      "summary": "Turnstile, Don Toliver, Syd, Gena, and more artists will be available to watch",
-      "publishedAt": "2026-11-13T19:58:27.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af773a169ea943d7abe9036/master/pass/Camp-Flog-Gnaw.jpeg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
+      "id": "https://www.brainpickings.org/?p=65839",
+      "title": "Loving vs. Being in Love: Jane Welsh Carlyle on Navigating the Heart’s Contradictions",
+      "link": "https://www.themarginalian.org/2026/11/13/jane-welsh-carlyle-love/",
+      "summary": "\"A passion, like the torrent in the violence of its course, might perhaps too, like the torrent, leave ruin and desolation behind... My love for you... is deep and calm, more like the quiet river, which refreshes and beautifies where it flo…",
+      "publishedAt": "2026-11-13T17:00:37.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/itooamhere_carlyle.jpg?fit=320%2C486&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "CBMivAFBVV95cUxPZnp2VWtGVE9ic3F5cVc4Y1JfN3FlbG5POVQ0U1hMS011eDZNRWJvcUc2UmZHV3c5X0RfUkFvZFpVWEF1eFYyRHNnYk9ucUJaY0dyaFhYeU5QbEdaangtRkRsN0k3NVJ2Rk9MdFVVNldGNHJmbXhmQktMcDVmbG14V1dTenN5NTVzZ3JRbWdxUkpERzN2dEZwY2VPX2NhV2tZRmZNRUJleUU1aTFSaUdkSFhIczdRMXZid2I4QQ",
@@ -2335,11 +2346,11 @@
       "category": "local"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=471157",
-      "title": "Jason Strauss Residence by Rôck&Villa – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/jason-strauss-residence-by-rockvilla-the-local-project/",
-      "summary": "The post Jason Strauss Residence by Rôck&Villa – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-13T04:02:14.000Z",
+      "id": "https://thelocalproject.com.au/?p=471426",
+      "title": "NON’s Dance Theatre Takes Place in a Transformed Sydney Car Park – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/nons-dance-theatre-takes-place-in-a-transformed-sydney-car-park-the-local-project/",
+      "summary": "The post NON’s Dance Theatre Takes Place in a Transformed Sydney Car Park – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-13T05:23:30.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
@@ -2377,17 +2388,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=87490",
-      "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
-      "link": "https://www.themarginalian.org/2026/11/11/vonnegut-marriage-divorce/",
-      "summary": "Climbing the Andes one windy January afternoon, watching peak after peek emerge on the horizon like giant mounds of moss, I found myself wondering about the clear line toward the top where the green ends and the reddish-brown of the barren …",
-      "publishedAt": "2026-11-11T21:09:51.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/11/vonnegutletters2.jpg?fit=201%2C300&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "urn:id:9134",
@@ -2434,11 +2434,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=669610",
-      "title": "A ‘Rosefulness’ WONDER Walk to Notice the Living World",
-      "link": "https://www.mindful.org/a-rosefulness-wonder-walk-to-notice-the-living-world/",
-      "summary": "This simple practice you can do with kids invites you to pause with one detail in nature and let it guide a small act of care. The post A ‘Rosefulness’ WONDER Walk to Notice the Living World appeared first on Mindful.",
-      "publishedAt": "2026-11-06T19:52:14.000Z",
+      "id": "https://www.mindful.org/?p=669611",
+      "title": "What Poetry Can Teach Us About Wonder: An Interview With Maya C. Popa",
+      "link": "https://www.mindful.org/what-poetry-can-teach-us-about-wonder-an-interview-with-maya-c-popa/",
+      "summary": "An interview with poet Maya C. Popa on attention, uncertainty, and the art of remaining curious. The post What Poetry Can Teach Us About Wonder: An Interview With Maya C. Popa appeared first on Mindful.",
+      "publishedAt": "2026-11-07T07:38:00.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -2533,11 +2533,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiekFVX3lxTE5WWUJYbmJGTFVSeUxLMzNURkVsQ3lYckRGLTYyUEhGcjV6ckRLamR0OVBaVldPLU13ci1UTktPTE94NC1QUVNNZ0dJM0llOG93N0I3dWZtZjhZUzI4NTFWb2tXZTBCdTRaMXE0N3JoVWJYM2M1TjRKWXNn",
-      "title": "Hut and Tower House by onishimaki + hyakudayuki - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WWUJYbmJGTFVSeUxLMzNURkVsQ3lYckRGLTYyUEhGcjV6ckRLamR0OVBaVldPLU13ci1UTktPTE94NC1QUVNNZ0dJM0llOG93N0I3dWZtZjhZUzI4NTFWb2tXZTBCdTRaMXE0N3JoVWJYM2M1TjRKWXNn?oc=5",
-      "summary": "Hut and Tower House by onishimaki + hyakudayuki Thisispaper",
-      "publishedAt": "2025-07-04T07:00:00.000Z",
+      "id": "CBMib0FVX3lxTFBNR3RDYl9HRWxrUGRKMUtKRHUwSjVfNXdIWnpScFFRbVJmSnZ3S2VCOW55RkJsQmxmTGtodXhNYXo0N0p4Mi15ZTNmUlhQOE84X1dUd0NuVV9qVmpqaHd2bzh4RHZOYVVGdDZkQlUyQQ",
+      "title": "Arc Canary Wharf by Cake Architecture - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNR3RDYl9HRWxrUGRKMUtKRHUwSjVfNXdIWnpScFFRbVJmSnZ3S2VCOW55RkJsQmxmTGtodXhNYXo0N0p4Mi15ZTNmUlhQOE84X1dUd0NuVV9qVmpqaHd2bzh4RHZOYVVGdDZkQlUyQQ?oc=5",
+      "summary": "Arc Canary Wharf by Cake Architecture Thisispaper",
+      "publishedAt": "2025-03-31T07:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -2599,26 +2599,26 @@
       "category": "science"
     },
     {
-      "id": "https://interestingengineering.com/?p=330270",
-      "title": "Seven major engineering challenges stand between humans and a permanent Moon base",
-      "link": "https://interestingengineering.com/space/7-technologies-humans-still-need-to-build-a-permanent-moon-base",
-      "summary": "Returning astronauts to the Moon is one challenge. Keeping them there for months or years...",
-      "publishedAt": "2026-11-15T15:38:20.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Moon-technologies.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50507553",
-      "title": "Emacs Is My Browser",
-      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 115 # Comments: 62",
-      "publishedAt": "2026-11-15T15:21:21.000Z",
+      "id": "https://news.ycombinator.com/item?id=50511072",
+      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+      "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+      "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 44 # Comments: 26",
+      "publishedAt": "2026-11-15T21:38:11.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=331437",
+      "title": "World’s largest fresh water Lake sees sharpest flow rebound in 343 years",
+      "link": "https://interestingengineering.com/science/worlds-largest-fresh-water-lake-sees-sharpest-flow-rebound-in-343-years",
+      "summary": "Lake Baikal in Siberia holds about 20 percent of the world’s surface freshwater, and it...",
+      "publishedAt": "2026-11-15T16:23:38.000Z",
+      "imageUrl": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "https://coloradosun.com/?p=507732",
@@ -2629,17 +2629,6 @@
       "imageUrl": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/01/Old-Firehouse-picks.png?fit=1024%2C683&amp;ssl=1",
       "sourceId": "colorado-sun",
       "sourceName": "The Colorado Sun",
-      "category": "local"
-    },
-    {
-      "id": "CBMi6gFBVV95cUxOWjZmc1JCRzYwc2NNYzhVWWlxY3lDcG84d0JTOGxJWFk0V1pnem1FN2lDeWRFZ3Y3ZkdsUlpXRmtSOGNMREtib2dJUk94UVozQ1pGdkF0amFhSU9NUzlfV2tBTFoyYUNBYXIza2xHMGZ0ZndBNVpYMDRJalZrdDRwQWdtZ2dVcTR6cXVpaEFEc1J3M2pNMGJycVVQT1RRUWl2Sk9zUnhzOGpGYmZvdjhiZHc2d0NvOGhJb0Q5Z3pyTG85b2ZfOEFPX3JGZzZpV3gxbUdYNUY0Z3RGZjZMWlNTZTd4U0ozY0lxdHc",
-      "title": "Timnath football dominates 3A opener for first-ever playoff win - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWjZmc1JCRzYwc2NNYzhVWWlxY3lDcG84d0JTOGxJWFk0V1pnem1FN2lDeWRFZ3Y3ZkdsUlpXRmtSOGNMREtib2dJUk94UVozQ1pGdkF0amFhSU9NUzlfV2tBTFoyYUNBYXIza2xHMGZ0ZndBNVpYMDRJalZrdDRwQWdtZ2dVcTR6cXVpaEFEc1J3M2pNMGJycVVQT1RRUWl2Sk9zUnhzOGpGYmZvdjhiZHc2d0NvOGhJb0Q5Z3pyTG85b2ZfOEFPX3JGZzZpV3gxbUdYNUY0Z3RGZjZMWlNTZTd4U0ozY0lxdHc?oc=5",
-      "summary": "Timnath football dominates 3A opener for first-ever playoff win The Coloradoan",
-      "publishedAt": "2026-11-14T17:04:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
       "category": "local"
     },
     {
@@ -2665,6 +2654,28 @@
       "category": "general"
     },
     {
+      "id": "CBMi8gFBVV95cUxPYUFadWw3SzE2Q3IwaGdRaDhHVlFwOGp4UHc2Y1Q4ak9lNXpkVEFiNUM4S0IwXy1WRFZadTZrWHpyb1hVU253RXRiemFxZVZ1MU1uOFVXcFB3Rk1KUlZiZ2FfTVpDZUlEUU5GYU0xZko0ZnhtYTluWUpsTVBxVTVqeXBKeEFPSW1JeTdLQkwzZjdBdm8xaFJHU3Bqb1JDc0NlMk8wU251NDYxNllXblV6bG1HbF81YU1YRE1sbEVmc3J2VHpvTVNjOU1kLV94eXFQbHNvMHVsbE1LMzdwRXdSS0V4Y1pLMFFrc0JxM2d4TnR5dw",
+      "title": "Fort Collins keeps special season going with cathartic 5A playoff win - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYUFadWw3SzE2Q3IwaGdRaDhHVlFwOGp4UHc2Y1Q4ak9lNXpkVEFiNUM4S0IwXy1WRFZadTZrWHpyb1hVU253RXRiemFxZVZ1MU1uOFVXcFB3Rk1KUlZiZ2FfTVpDZUlEUU5GYU0xZko0ZnhtYTluWUpsTVBxVTVqeXBKeEFPSW1JeTdLQkwzZjdBdm8xaFJHU3Bqb1JDc0NlMk8wU251NDYxNllXblV6bG1HbF81YU1YRE1sbEVmc3J2VHpvTVNjOU1kLV94eXFQbHNvMHVsbE1LMzdwRXdSS0V4Y1pLMFFrc0JxM2d4TnR5dw?oc=5",
+      "summary": "Fort Collins keeps special season going with cathartic 5A playoff win The Coloradoan",
+      "publishedAt": "2026-11-14T07:15:40.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
+    },
+    {
+      "id": "6af73902edc9c2750fdfa28c",
+      "title": "Quiet Forest",
+      "link": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
+      "summary": "Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side.",
+      "publishedAt": "2026-11-14T05:00:00.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/master/pass/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "CBMinAFBVV95cUxOc1BDaTN6eUpqbjA3V09lRG1hd3ZIdUs0TzZSZDJQMEY2Skgyakc3N2FYOGJFaHNnSHNLWWdZTDNHRzZmWlBxRV9haFEwRnl0VmFyNGljU1JEWmJsSjdQZzhmS0pFNDBoTVcydXE3Y2VKMVdBdjd4WFpyQXZKVlRWWkg3eTJRdUR4bUNqeWp6Mmd0cm1fUENMLU1VLS0",
       "title": "Deion Sanders’ buyout details for CU Buffs as hot seat gets warmer - Daily Camera",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1BDaTN6eUpqbjA3V09lRG1hd3ZIdUs0TzZSZDJQMEY2Skgyakc3N2FYOGJFaHNnSHNLWWdZTDNHRzZmWlBxRV9haFEwRnl0VmFyNGljU1JEWmJsSjdQZzhmS0pFNDBoTVcydXE3Y2VKMVdBdjd4WFpyQXZKVlRWWkg3eTJRdUR4bUNqeWp6Mmd0cm1fUENMLU1VLS0?oc=5",
@@ -2687,33 +2698,22 @@
       "category": "science"
     },
     {
-      "id": "6af733ca8f7ba4bb06a78804",
-      "title": "Panda Bear Remixes Grace Ives’ “Stupid Bitches”",
-      "link": "https://pitchfork.com/story/panda-bear-remixes-grace-ives-stupid-bitches/",
-      "summary": "Noah Lennox gives Girlfriend’s standout closer a near-total overhaul",
-      "publishedAt": "2026-11-13T18:14:46.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af748addf86836dcc15cd36/master/pass/Grace-Ives-Panda-Bear.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=471090",
-      "title": "Sky Villa by State of Craft – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/sky-villa-by-state-of-craft-the-local-project/",
-      "summary": "The post Sky Villa by State of Craft – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-13T03:57:46.000Z",
+      "id": "https://thelocalproject.com.au/?p=470980",
+      "title": "Prince Street by Henry Lucien Barrett Architect and Elías Studio – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/prince-street-by-henry-lucien-barrett-architect-and-elias-studio-the-local-project/",
+      "summary": "The post Prince Street by Henry Lucien Barrett Architect and Elías Studio – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-13T04:08:19.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
     },
     {
-      "id": "CBMi8wFBVV95cUxNTHlzb0lZdWlxZFB4aGNORi0tWUVmVTdpTjZrblpMd3lmNjNvMFY1RzFTQ0FuVjY1M1RiZ3RHR1NGaUktZ0IzblVhZW1iaHBBNXZUdTMtYWYycm5aZXh3c3JhTURnd3pKQVFvSU9uUVN3MmRTMjF3Tnc4eUp2S3pTWTAzQmdMdDZ4TUtfb0x4LVBQWExfRDJfTXhZOVNzdGZYcjBsdVdxb05SZno3eGRKVDVMR0d1ZklZa25QcEJqMWN0Q1Qwa1dOZXA1NzJONFU3RE14d0NfcUFES0FsSTlNNGwtY3V6WFJNT2EwT0ZjSUNXQkU",
-      "title": "Weyerhaeuser Company Declares Dividend on Common Shares - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTHlzb0lZdWlxZFB4aGNORi0tWUVmVTdpTjZrblpMd3lmNjNvMFY1RzFTQ0FuVjY1M1RiZ3RHR1NGaUktZ0IzblVhZW1iaHBBNXZUdTMtYWYycm5aZXh3c3JhTURnd3pKQVFvSU9uUVN3MmRTMjF3Tnc4eUp2S3pTWTAzQmdMdDZ4TUtfb0x4LVBQWExfRDJfTXhZOVNzdGZYcjBsdVdxb05SZno3eGRKVDVMR0d1ZklZa25QcEJqMWN0Q1Qwa1dOZXA1NzJONFU3RE14d0NfcUFES0FsSTlNNGwtY3V6WFJNT2EwT0ZjSUNXQkU?oc=5",
-      "summary": "Weyerhaeuser Company Declares Dividend on Common Shares The Taos News",
-      "publishedAt": "2026-11-13T00:08:00.000Z",
+      "id": "CBMizAFBVV95cUxPVEllWldpNmJtVVlaMUNtbWpmX2xXSkJMOEVSVUI0em5qWEx5N3E1MVF0WV85S09GcXFheklLU0t2SURnSWRvU1NkblFVdzFZdFZLVE52dVhzYzVXeWlPM1V6LXdpY0tUSHlOeXFJdFZJZ0ZJejBGNEVhTGE2WndJUU85XzM5NWFoN3ZpaHEycGhyQmxnZHNDbFJLOGpQOUloNFlpU0ViY1V3RUJNdkNTZVk1aVdtWDRlVFBndjAya05DdUJuVzZUYzlDdWw",
+      "title": "Editorial cartoons: Nov. 12, 2026 - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVEllWldpNmJtVVlaMUNtbWpmX2xXSkJMOEVSVUI0em5qWEx5N3E1MVF0WV85S09GcXFheklLU0t2SURnSWRvU1NkblFVdzFZdFZLVE52dVhzYzVXeWlPM1V6LXdpY0tUSHlOeXFJdFZJZ0ZJejBGNEVhTGE2WndJUU85XzM5NWFoN3ZpaHEycGhyQmxnZHNDbFJLOGpQOUloNFlpU0ViY1V3RUJNdkNTZVk1aVdtWDRlVFBndjAya05DdUJuVzZUYzlDdWw?oc=5",
+      "summary": "Editorial cartoons: Nov. 12, 2026 The Taos News",
+      "publishedAt": "2026-11-12T21:28:00.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -2731,6 +2731,17 @@
       "category": "design"
     },
     {
+      "id": "https://www.themarginalian.org/?p=88398",
+      "title": "How to Hear the Song of Life",
+      "link": "https://www.themarginalian.org/2026/11/12/song-of-the-cedars/",
+      "summary": "“When we have learned how to listen to trees,” Hermann Hesse wrote in one of his least known, most beautiful essays, “then the brevity and the quickness and the childlike hastiness of our thoughts achieve an incomparable joy. Whoever has le…",
+      "publishedAt": "2026-11-12T16:38:07.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/songofthecedars_cover0.jpg?fit=320%2C471&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.surfacemag.com/?p=214826",
       "title": "Hauser & Wirth’s Latest Piece Is a Cookbook",
       "link": "https://www.surfacemag.com/articles/hauser-wirths-latest-piece-is-a-cookbook/",
@@ -2740,17 +2751,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=86803",
-      "title": "The Intimate in the Infinite and the Responsibility of Rapture",
-      "link": "https://www.themarginalian.org/2026/11/11/diane-ackerman-the-planets/",
-      "summary": "It could have been otherwise. That one defiant particle of matter could have never broken free from the equipoise of antimatter to sound the first note of something out of the mute nothingness, singing a universe into being. The universe co…",
-      "publishedAt": "2026-11-11T20:57:54.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/02/ackerman_planets_cover.jpg?fit=320%2C453&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "https://leibal.com/?p=186591",
@@ -2808,11 +2808,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=669606",
-      "title": "How Psychological Flexibility Can Help Us Belong",
-      "link": "https://www.mindful.org/how-psychological-flexibility-can-help-us-belong/",
-      "summary": "Six ways to move toward connection—even when you feel anxious, awkward, or left out. The post How Psychological Flexibility Can Help Us Belong appeared first on Mindful.",
-      "publishedAt": "2026-11-05T18:22:30.000Z",
+      "id": "https://www.mindful.org/?p=669610",
+      "title": "A ‘Rosefulness’ WONDER Walk to Notice the Living World",
+      "link": "https://www.mindful.org/a-rosefulness-wonder-walk-to-notice-the-living-world/",
+      "summary": "This simple practice you can do with kids invites you to pause with one detail in nature and let it guide a small act of care. The post A ‘Rosefulness’ WONDER Walk to Notice the Living World appeared first on Mindful.",
+      "publishedAt": "2026-11-06T19:52:14.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -2907,11 +2907,11 @@
       "category": "design"
     },
     {
-      "id": "CBMib0FVX3lxTFBNR3RDYl9HRWxrUGRKMUtKRHUwSjVfNXdIWnpScFFRbVJmSnZ3S2VCOW55RkJsQmxmTGtodXhNYXo0N0p4Mi15ZTNmUlhQOE84X1dUd0NuVV9qVmpqaHd2bzh4RHZOYVVGdDZkQlUyQQ",
-      "title": "Arc Canary Wharf by Cake Architecture - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNR3RDYl9HRWxrUGRKMUtKRHUwSjVfNXdIWnpScFFRbVJmSnZ3S2VCOW55RkJsQmxmTGtodXhNYXo0N0p4Mi15ZTNmUlhQOE84X1dUd0NuVV9qVmpqaHd2bzh4RHZOYVVGdDZkQlUyQQ?oc=5",
-      "summary": "Arc Canary Wharf by Cake Architecture Thisispaper",
-      "publishedAt": "2025-03-31T07:00:00.000Z",
+      "id": "CBMiXEFVX3lxTE1yQnFoMG8tNktOZU4wWGxuWUktTGkxYko0Rzl3TmdBY3ZZTG1ZZ0Q1Vk1YNWF5ZDBVRzVuM29WZ1p2Y21VYWJ3Q3hUdXlUNDNQZXFmMWx4bVc3NWZK",
+      "title": "Access Denied - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yQnFoMG8tNktOZU4wWGxuWUktTGkxYko0Rzl3TmdBY3ZZTG1ZZ0Q1Vk1YNWF5ZDBVRzVuM29WZ1p2Y21VYWJ3Q3hUdXlUNDNQZXFmMWx4bVc3NWZK?oc=5",
+      "summary": "Access Denied Thisispaper",
+      "publishedAt": "2025-03-26T14:39:16.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -2973,23 +2973,23 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50507303",
-      "title": "All AI-generated code should be Open Source",
-      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 881 # Comments: 465",
-      "publishedAt": "2026-11-15T14:46:58.000Z",
+      "id": "https://news.ycombinator.com/item?id=50510799",
+      "title": "Your Agent Will Pick the Hackable One",
+      "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 69 # Comments: 39",
+      "publishedAt": "2026-11-15T21:10:39.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
     },
     {
-      "id": "https://interestingengineering.com/?p=330576",
-      "title": "Magnetic nanoparticles could cut adhesive curing from 24 hours to one, study finds",
-      "link": "https://interestingengineering.com/science/magnetic-nanoparticle-curing-ntu-motherson-spinheat",
-      "summary": "Nanyang Technological University (NTU) and automotive supplier Motherson are working to adapt a magnetic curing...",
-      "publishedAt": "2026-11-15T14:45:47.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Magnetic_nanochains.jpg",
+      "id": "https://interestingengineering.com/?p=330270",
+      "title": "Seven major engineering challenges stand between humans and a permanent Moon base",
+      "link": "https://interestingengineering.com/space/7-technologies-humans-still-need-to-build-a-permanent-moon-base",
+      "summary": "Returning astronauts to the Moon is one challenge. Keeping them there for months or years...",
+      "publishedAt": "2026-11-15T15:38:20.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Moon-technologies.jpg",
       "sourceId": "interesting-engineering",
       "sourceName": "Interesting Engineering",
       "category": "science"
@@ -3017,11 +3017,11 @@
       "category": "local"
     },
     {
-      "id": "CBMi8gFBVV95cUxPYUFadWw3SzE2Q3IwaGdRaDhHVlFwOGp4UHc2Y1Q4ak9lNXpkVEFiNUM4S0IwXy1WRFZadTZrWHpyb1hVU253RXRiemFxZVZ1MU1uOFVXcFB3Rk1KUlZiZ2FfTVpDZUlEUU5GYU0xZko0ZnhtYTluWUpsTVBxVTVqeXBKeEFPSW1JeTdLQkwzZjdBdm8xaFJHU3Bqb1JDc0NlMk8wU251NDYxNllXblV6bG1HbF81YU1YRE1sbEVmc3J2VHpvTVNjOU1kLV94eXFQbHNvMHVsbE1LMzdwRXdSS0V4Y1pLMFFrc0JxM2d4TnR5dw",
-      "title": "Fort Collins keeps special season going with cathartic 5A playoff win - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYUFadWw3SzE2Q3IwaGdRaDhHVlFwOGp4UHc2Y1Q4ak9lNXpkVEFiNUM4S0IwXy1WRFZadTZrWHpyb1hVU253RXRiemFxZVZ1MU1uOFVXcFB3Rk1KUlZiZ2FfTVpDZUlEUU5GYU0xZko0ZnhtYTluWUpsTVBxVTVqeXBKeEFPSW1JeTdLQkwzZjdBdm8xaFJHU3Bqb1JDc0NlMk8wU251NDYxNllXblV6bG1HbF81YU1YRE1sbEVmc3J2VHpvTVNjOU1kLV94eXFQbHNvMHVsbE1LMzdwRXdSS0V4Y1pLMFFrc0JxM2d4TnR5dw?oc=5",
-      "summary": "Fort Collins keeps special season going with cathartic 5A playoff win The Coloradoan",
-      "publishedAt": "2026-11-14T07:15:40.000Z",
+      "id": "CBMi3AFBVV95cUxPSGtGTWxnMWdRZXpXOFJoc0M4ZV9uVXF1RG90cEpzQzB5M3JjVkp3UFVCamI4Nk1PZV8yYnl1U052dEtTN1ljV3VHU2VIZ2txUnBHaUozY0pIRlMxUzlQLVJoNW5IMFVwa2wxME1CclUxOThxaDVDZ1BYd2JYNkZIbnJ3ckFRLWwwaDB3NTdCZ2R6YVFaU0ROSWNMUGtXZXlkTHFHbkI2cjdBeC0zZm1iYUZfeS0yS1ZadEdVbnRnT2pqSk9pYl92VFJNNlkwbWc0b3RDMkxnYjdmRjE0",
+      "title": "FAA ground stop delays CSU football ahead of Washington State game - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSGtGTWxnMWdRZXpXOFJoc0M4ZV9uVXF1RG90cEpzQzB5M3JjVkp3UFVCamI4Nk1PZV8yYnl1U052dEtTN1ljV3VHU2VIZ2txUnBHaUozY0pIRlMxUzlQLVJoNW5IMFVwa2wxME1CclUxOThxaDVDZ1BYd2JYNkZIbnJ3ckFRLWwwaDB3NTdCZ2R6YVFaU0ROSWNMUGtXZXlkTHFHbkI2cjdBeC0zZm1iYUZfeS0yS1ZadEdVbnRnT2pqSk9pYl92VFJNNlkwbWc0b3RDMkxnYjdmRjE0?oc=5",
+      "summary": "FAA ground stop delays CSU football ahead of Washington State game The Coloradoan",
+      "publishedAt": "2026-11-14T04:58:00.000Z",
       "imageUrl": null,
       "sourceId": "coloradoan",
       "sourceName": "Fort Collins Coloradoan",
@@ -3050,6 +3050,17 @@
       "category": "local"
     },
     {
+      "id": "6af4b710eb628381272f7848",
+      "title": "Camp Flog Gnaw 2026: Amazon Music Livestream Schedule & Details",
+      "link": "https://pitchfork.com/story/camp-flog-gnaw-2026-amazon-music-livestream-schedule-and-details/",
+      "summary": "Turnstile, Don Toliver, Syd, Gena, and more artists will be available to watch",
+      "publishedAt": "2026-11-13T19:58:27.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af773a169ea943d7abe9036/master/pass/Camp-Flog-Gnaw.jpeg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "https://nautil.us/?p=1286615",
       "title": "When Envy is a Virtue",
       "link": "https://nautil.us/when-envy-is-a-virtue-1286615/",
@@ -3061,15 +3072,15 @@
       "category": "science"
     },
     {
-      "id": "6af7293dbadf0bc3a76e3985",
-      "title": "Shygirl, Brutalismus 3000, Nirosta Steel Feature on Club Kid Companion EP",
-      "link": "https://pitchfork.com/story/shygirl-brutalismus-3000-nirosta-steel-feature-on-club-kid-ep/",
-      "summary": "Out now, the record includes two covers of Arthur Russell’s “Boy With a Smile”",
-      "publishedAt": "2026-11-13T16:59:26.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af72987829743962fb4ec21/master/pass/unnamed%20(71).jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
+      "id": "https://thelocalproject.com.au/?p=471320",
+      "title": "ABI Interiors’ Guide to Choosing the Right Kitchen Tile – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/abi-interiors-guide-to-choosing-the-right-kitchen-tile-the-local-project/",
+      "summary": "The post ABI Interiors’ Guide to Choosing the Right Kitchen Tile – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-13T04:06:18.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
     },
     {
       "id": "CBMizgFBVV95cUxPZWMxNnFRUWhHaDFBUzhBa1I2cnVwbVg1TmJkdlNrcFBRT3h0VVdlNllBdmEyMi1RTTZndVdGMzBEbDhjTG9mUWRoRTRMR2VoR1hJc29wT05HMDE2MDFnZ1pqR2RZSHZCU21YX21MS1h3TDdtOFFlcUtXOVNJdE81NFRKbFNpbGs3T044WVJQYVlZTmZNTHdBa01wMUZzNlZmV0VQbUNVa2pCTXBqdXRNS2E1SkVDNXBUTmgyemMxeFQ3XzhxNGpickxNUUpRZw",
@@ -3094,6 +3105,17 @@
       "category": "design"
     },
     {
+      "id": "https://www.brainpickings.org/?p=74452",
+      "title": "Place, Personhood, and the Hippocampus: The Fascinating Science of Magnetism, Autonoeic Consciousness, and What Makes Us Who We Are",
+      "link": "https://www.themarginalian.org/2026/11/12/wayfinding-m-r-oconnor/",
+      "summary": "\"Often the places we grow up in... influence how we perceive and conceptualize the world, give us metaphors to live by, and shape the purpose that drives us.\"",
+      "publishedAt": "2026-11-12T14:46:08.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/09/wayfinding_oconnor.jpg?fit=320%2C495&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
+    },
+    {
       "id": "https://www.surfacemag.com/?p=214790",
       "title": "Sumayya Vally Designs a New Home for The Elie Khouri Art Foundation, and Other News.",
       "link": "https://www.surfacemag.com/articles/sumayya-vally-designs-a-new-home-for-the-elie-khouri-art-foundation/",
@@ -3102,17 +3124,6 @@
       "imageUrl": null,
       "sourceId": "surface",
       "sourceName": "Surface",
-      "category": "design"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=471058",
-      "title": "Jasper House by Thomas Archer – Issue 22 Feature – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/jasper-house-by-thomas-archer-issue-22-feature-the-local-project/",
-      "summary": "The post Jasper House by Thomas Archer – Issue 22 Feature – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-12T06:00:00.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
       "category": "design"
     },
     {
@@ -3125,17 +3136,6 @@
       "sourceId": "leibal",
       "sourceName": "Leibal",
       "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=86060",
-      "title": "How Not to Waste Your Life",
-      "link": "https://www.themarginalian.org/2026/11/10/hawthorne-life/",
-      "summary": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of plane…",
-      "publishedAt": "2026-11-10T23:17:44.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/10/hawthorne_notebooks.jpg?fit=320%2C480&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "urn:id:9091",
@@ -3182,11 +3182,11 @@
       "category": "local"
     },
     {
-      "id": "https://www.mindful.org/?p=57437",
-      "title": "7 Mindful Writing Prompts to Foster a Deeper Connection with Yourself",
-      "link": "https://www.mindful.org/7-mindful-writing-prompts-to-foster-a-deeper-connection-with-yourself/",
-      "summary": "This is an opportunity for reflection—without judgment. Explore seven writing prompts that encourage us to connect with who we are. The post 7 Mindful Writing Prompts to Foster a Deeper Connection with Yourself appeared first on Mindful.",
-      "publishedAt": "2026-11-04T18:35:53.000Z",
+      "id": "https://www.mindful.org/?p=669606",
+      "title": "How Psychological Flexibility Can Help Us Belong",
+      "link": "https://www.mindful.org/how-psychological-flexibility-can-help-us-belong/",
+      "summary": "Six ways to move toward connection—even when you feel anxious, awkward, or left out. The post How Psychological Flexibility Can Help Us Belong appeared first on Mindful.",
+      "publishedAt": "2026-11-05T18:22:30.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -3281,17 +3281,6 @@
       "category": "design"
     },
     {
-      "id": "CBMiXEFVX3lxTE1yQnFoMG8tNktOZU4wWGxuWUktTGkxYko0Rzl3TmdBY3ZZTG1ZZ0Q1Vk1YNWF5ZDBVRzVuM29WZ1p2Y21VYWJ3Q3hUdXlUNDNQZXFmMWx4bVc3NWZK",
-      "title": "Access Denied - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yQnFoMG8tNktOZU4wWGxuWUktTGkxYko0Rzl3TmdBY3ZZTG1ZZ0Q1Vk1YNWF5ZDBVRzVuM29WZ1p2Y21VYWJ3Q3hUdXlUNDNQZXFmMWx4bVc3NWZK?oc=5",
-      "summary": "Access Denied Thisispaper",
-      "publishedAt": "2025-03-26T14:39:16.000Z",
-      "imageUrl": null,
-      "sourceId": "thisispaper",
-      "sourceName": "This is Paper",
-      "category": "design"
-    },
-    {
       "id": "https://assemblepapers.com.au/?p=33716",
       "title": "Case Study: Innovations to green smart cities from Copenhagen to Lima",
       "link": "https://assemblepapers.com.au/2024/05/23/greening-the-smart-city/",
@@ -3300,6 +3289,17 @@
       "imageUrl": "https://assemblepapers.com.au/assemblepapers/wp-content/uploads/2024/05/29052024_assemble_acityisnotatree_christopheralexander.png",
       "sourceId": "assemble-papers",
       "sourceName": "Assemble Papers",
+      "category": "design"
+    },
+    {
+      "id": "CBMic0FVX3lxTE9oLUo1ajhKMnBUNEJ5by1IQTVsaGZWNVJvazJxRm5jNVJMTnVrdDB5REFCTmp6UmY0d1g3UjNHN05kMHlpaERSOFlMQ0hmSkRUSmY1R2lnVllKLWRvTm94ZEVieHdDYTZaNXRXS3hRNmIwVFE",
+      "title": "Meridiano by Tatsuro Miki and Axel Vervoordt - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oLUo1ajhKMnBUNEJ5by1IQTVsaGZWNVJvazJxRm5jNVJMTnVrdDB5REFCTmp6UmY0d1g3UjNHN05kMHlpaERSOFlMQ0hmSkRUSmY1R2lnVllKLWRvTm94ZEVieHdDYTZaNXRXS3hRNmIwVFE?oc=5",
+      "summary": "Meridiano by Tatsuro Miki and Axel Vervoordt Thisispaper",
+      "publishedAt": "2024-04-09T07:00:00.000Z",
+      "imageUrl": null,
+      "sourceId": "thisispaper",
+      "sourceName": "This is Paper",
       "category": "design"
     },
     {
@@ -3347,26 +3347,26 @@
       "category": "science"
     },
     {
-      "id": "https://interestingengineering.com/?p=330932",
-      "title": "NASA’s Competition Model 2.0 cuts mission selection from 35 months to 19.5 months",
-      "link": "https://interestingengineering.com/space/nasa-science-mission-selection-costs-proposal",
-      "summary": "NASA is overhauling how it selects science missions, aiming to reduce proposal costs, streamline competition,...",
-      "publishedAt": "2026-11-15T14:02:00.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Milkyway-Galaxy-imaged-by-NASA.jpg",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50506940",
-      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "link": "https://github.com/db-branch/db-branch",
-      "summary": "Article URL: https://github.com/db-branch/db-branch Comments URL: https://news.ycombinator.com/item?id=50506940 Points: 24 # Comments: 6",
-      "publishedAt": "2026-11-15T13:50:51.000Z",
+      "id": "https://news.ycombinator.com/item?id=50510442",
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 89 # Comments: 42",
+      "publishedAt": "2026-11-15T20:37:28.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=330576",
+      "title": "Magnetic nanoparticles could cut adhesive curing from 24 hours to one, study finds",
+      "link": "https://interestingengineering.com/science/magnetic-nanoparticle-curing-ntu-motherson-spinheat",
+      "summary": "Nanyang Technological University (NTU) and automotive supplier Motherson are working to adapt a magnetic curing...",
+      "publishedAt": "2026-11-15T14:45:47.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Magnetic_nanochains.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "E9F8di8YAwHBBxmzhbtb3W",
@@ -3391,17 +3391,6 @@
       "category": "local"
     },
     {
-      "id": "CBMi3AFBVV95cUxPSGtGTWxnMWdRZXpXOFJoc0M4ZV9uVXF1RG90cEpzQzB5M3JjVkp3UFVCamI4Nk1PZV8yYnl1U052dEtTN1ljV3VHU2VIZ2txUnBHaUozY0pIRlMxUzlQLVJoNW5IMFVwa2wxME1CclUxOThxaDVDZ1BYd2JYNkZIbnJ3ckFRLWwwaDB3NTdCZ2R6YVFaU0ROSWNMUGtXZXlkTHFHbkI2cjdBeC0zZm1iYUZfeS0yS1ZadEdVbnRnT2pqSk9pYl92VFJNNlkwbWc0b3RDMkxnYjdmRjE0",
-      "title": "FAA ground stop delays CSU football ahead of Washington State game - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSGtGTWxnMWdRZXpXOFJoc0M4ZV9uVXF1RG90cEpzQzB5M3JjVkp3UFVCamI4Nk1PZV8yYnl1U052dEtTN1ljV3VHU2VIZ2txUnBHaUozY0pIRlMxUzlQLVJoNW5IMFVwa2wxME1CclUxOThxaDVDZ1BYd2JYNkZIbnJ3ckFRLWwwaDB3NTdCZ2R6YVFaU0ROSWNMUGtXZXlkTHFHbkI2cjdBeC0zZm1iYUZfeS0yS1ZadEdVbnRnT2pqSk9pYl92VFJNNlkwbWc0b3RDMkxnYjdmRjE0?oc=5",
-      "summary": "FAA ground stop delays CSU football ahead of Washington State game The Coloradoan",
-      "publishedAt": "2026-11-14T04:58:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
-    },
-    {
       "id": "https://www.thebrighterside.news/api/preview?id=130687&secret=cM2XMtKpK3Lj&nonce=3475126694",
       "title": "This small change at work significantly improves productivity",
       "link": "https://www.thebrighterside.news/post/this-small-change-at-work-significantly-improves-productivity/",
@@ -3411,6 +3400,17 @@
       "sourceId": "brighter-side",
       "sourceName": "The Brighter Side of News",
       "category": "general"
+    },
+    {
+      "id": "CBMiugFBVV95cUxQRFA3bWt3REQ2OUQwS0dDN3RDb3NVWFFIWG1BRlhvaGtjZ25pLVJmTEN6Uy1GXzcyMUdqdUJRM3JWQXRkc0c0R3NDVHcwcGNsYTlXVWZ5MnFiUGM3djFEWVlER1Bsb3RkdlFVTEo2NVczVVpHTDNyVUFqOHlzM2NDeWpYVHRCbHk5WllyT0VQYmlMRlhkZnFhQkNwQkxhZ0VaX0Q0YVpFMmxQSm5uSHlaLVJFdklIOXlWbFE",
+      "title": "Lauren Boebert loses re-election bid in Colorado - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRFA3bWt3REQ2OUQwS0dDN3RDb3NVWFFIWG1BRlhvaGtjZ25pLVJmTEN6Uy1GXzcyMUdqdUJRM3JWQXRkc0c0R3NDVHcwcGNsYTlXVWZ5MnFiUGM3djFEWVlER1Bsb3RkdlFVTEo2NVczVVpHTDNyVUFqOHlzM2NDeWpYVHRCbHk5WllyT0VQYmlMRlhkZnFhQkNwQkxhZ0VaX0Q0YVpFMmxQSm5uSHlaLVJFdklIOXlWbFE?oc=5",
+      "summary": "Lauren Boebert loses re-election bid in Colorado The Coloradoan",
+      "publishedAt": "2026-11-13T20:37:00.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
     },
     {
       "id": "CBMihwFBVV95cUxPSlVJdHQ5S3RyeXctczhrWmtVbmFNM0pOSUxDSlpEdFVqM0MzMmlMeU5PdDdZdTlqM1ROdi1hNmpYdGdHbWgwWk1TYmlZRXBSUGF2cUtkUmlXWUpMLXgtOURqaHBJR3VJWlFYWGFSVDNoeDZFbGFCa1R1NmVMQkNvbHpUUW05Tlk",
@@ -3424,6 +3424,17 @@
       "category": "local"
     },
     {
+      "id": "6af733ca8f7ba4bb06a78804",
+      "title": "Panda Bear Remixes Grace Ives’ “Stupid Bitches”",
+      "link": "https://pitchfork.com/story/panda-bear-remixes-grace-ives-stupid-bitches/",
+      "summary": "Noah Lennox gives Girlfriend’s standout closer a near-total overhaul",
+      "publishedAt": "2026-11-13T18:14:46.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af748addf86836dcc15cd36/master/pass/Grace-Ives-Panda-Bear.jpg",
+      "sourceId": "pitchfork",
+      "sourceName": "Pitchfork",
+      "category": "art"
+    },
+    {
       "id": "https://nautil.us/?p=1286607",
       "title": "Some Antidepressants May Work Better Than Others Long Term",
       "link": "https://nautil.us/some-antidepressants-may-work-better-than-others-long-term-1286607/",
@@ -3435,37 +3446,37 @@
       "category": "science"
     },
     {
-      "id": "6af72dddedc9c2750fdfa212",
-      "title": "Hayley Williams Brings Out Seu Jorge to Cover David Bowie",
-      "link": "https://pitchfork.com/story/hayley-williams-brings-out-seu-jorge-to-cover-david-bowie/",
-      "summary": "The Paramore singer and Life Aquatic star also duetted on “Zissou” in São Paulo",
-      "publishedAt": "2026-11-13T16:29:24.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af73aae829743962fb4ed74/master/pass/hayley-williams-seu-jorge-bowie.jpg",
-      "sourceId": "pitchfork",
-      "sourceName": "Pitchfork",
-      "category": "art"
-    },
-    {
-      "id": "https://thelocalproject.com.au/?p=471027",
-      "title": "A-Frame by Susannah Holmberg Studios – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/a-frame-by-susannah-holmberg-studios-the-local-project/",
-      "summary": "The post A-Frame by Susannah Holmberg Studios – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-12T05:55:58.000Z",
+      "id": "https://thelocalproject.com.au/?p=471337",
+      "title": "Birkenstock Steps Foot on Melbourne’s South Side – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/birkenstock-steps-foot-on-melbournes-south-side-the-local-project/",
+      "summary": "The post Birkenstock Steps Foot on Melbourne’s South Side – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-13T04:04:19.000Z",
       "imageUrl": null,
       "sourceId": "the-local-project",
       "sourceName": "The Local Project",
       "category": "design"
     },
     {
-      "id": "CBMi2wFBVV95cUxQTlg3QnlGVFNiSGYtbWFiT0Q3bE0zTE4xZWdxU0k0VHJSWHdHRHlRWkFWdmFwODN1bFJEaW01RE9XajNTU0VEQnJOZnF6SVBEYThZMW5SM2lqOTNzYVE4WkdkN3JqNFRyV28tODhHVWViXzVWbENIWndYVmlQSzNIS1Vsc2pOUkJpbGlwSG9TbUNRRHBKYWdabkE3ZUtWaUphTk9PM3VTUVpWMl9VWkRWZUlaODhsTmx0YnN4dFYxamdGYWI3T2V6ZXdUTXN1QnFqdlJsZUhNbklZRWM",
-      "title": "'Threats to Indian Country remain intact' in Heinrich legislation - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTlg3QnlGVFNiSGYtbWFiT0Q3bE0zTE4xZWdxU0k0VHJSWHdHRHlRWkFWdmFwODN1bFJEaW01RE9XajNTU0VEQnJOZnF6SVBEYThZMW5SM2lqOTNzYVE4WkdkN3JqNFRyV28tODhHVWViXzVWbENIWndYVmlQSzNIS1Vsc2pOUkJpbGlwSG9TbUNRRHBKYWdabkE3ZUtWaUphTk9PM3VTUVpWMl9VWkRWZUlaODhsTmx0YnN4dFYxamdGYWI3T2V6ZXdUTXN1QnFqdlJsZUhNbklZRWM?oc=5",
-      "summary": "'Threats to Indian Country remain intact' in Heinrich legislation The Taos News",
-      "publishedAt": "2026-11-11T23:45:54.000Z",
+      "id": "CBMitAFBVV95cUxOYzNwNDNyUWNXQllaWDZNSlktaklHaE9VbW1VNUVSa1pUamVuaklGcVVfbDBMdUhCd0kwajF2ZGV4SmZMc2RsU0EyWkdBeVNUN1hQMmk5TEZQRHRiYm9Fa0pCQkxMcmJyM0FEbDMwR1ZtYXRpaFFldk1jNzVROTl4dVZ1Sk5nM2FZOXg5QzRzeTZENk55VFdOSEhWV1VEQXdsS1hhTkdXN3k3VHRIdG9yLWlnNVU",
+      "title": "Stray Hearts Animal Shelter Report - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYzNwNDNyUWNXQllaWDZNSlktaklHaE9VbW1VNUVSa1pUamVuaklGcVVfbDBMdUhCd0kwajF2ZGV4SmZMc2RsU0EyWkdBeVNUN1hQMmk5TEZQRHRiYm9Fa0pCQkxMcmJyM0FEbDMwR1ZtYXRpaFFldk1jNzVROTl4dVZ1Sk5nM2FZOXg5QzRzeTZENk55VFdOSEhWV1VEQXdsS1hhTkdXN3k3VHRIdG9yLWlnNVU?oc=5",
+      "summary": "Stray Hearts Animal Shelter Report The Taos News",
+      "publishedAt": "2026-11-11T22:45:51.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
+    },
+    {
+      "id": "https://www.themarginalian.org/?p=87490",
+      "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
+      "link": "https://www.themarginalian.org/2026/11/11/vonnegut-marriage-divorce/",
+      "summary": "Climbing the Andes one windy January afternoon, watching peak after peek emerge on the horizon like giant mounds of moss, I found myself wondering about the clear line toward the top where the green ends and the reddish-brown of the barren …",
+      "publishedAt": "2026-11-11T21:09:51.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/11/vonnegutletters2.jpg?fit=201%2C300&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.dwell.com/article/budget-breakdown-bellamy-art-house-midcentury-diy-renovation-coby-starck-cdc583a9",
@@ -3488,17 +3499,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=87514",
-      "title": "Now Yourself: The Elusive Science of What the Present Moment Is Made of and How It Makes You Who You Are",
-      "link": "https://www.themarginalian.org/2026/11/10/jo-marchant-now/",
-      "summary": "“Whatever has happened, whatever is going to happen in the world, it is the living moment that contains the sum of the excitement, this moment in which we touch life and all the energy of the past and future,” Muriel Rukeyser wrote in one o…",
-      "publishedAt": "2026-11-10T19:05:37.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/06/now_marchant.jpg?fit=320%2C479&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "https://leibal.com/?p=186552",
@@ -3556,11 +3556,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=669566",
-      "title": "Shamash Alidina: A Meditation to Awaken the Joy of Feeling Small",
-      "link": "https://www.mindful.org/shamash-alidina-a-meditation-to-awaken-the-joy-of-feeling-small/",
-      "summary": "A guided practice that expands your perspective so that you can see: your thoughts and worries can still exist, but there's just a little more space around them. The post Shamash Alidina: A Meditation to Awaken the Joy of Feeling Small appe…",
-      "publishedAt": "2026-11-03T01:28:45.000Z",
+      "id": "https://www.mindful.org/?p=57437",
+      "title": "7 Mindful Writing Prompts to Foster a Deeper Connection with Yourself",
+      "link": "https://www.mindful.org/7-mindful-writing-prompts-to-foster-a-deeper-connection-with-yourself/",
+      "summary": "This is an opportunity for reflection—without judgment. Explore seven writing prompts that encourage us to connect with who we are. The post 7 Mindful Writing Prompts to Foster a Deeper Connection with Yourself appeared first on Mindful.",
+      "publishedAt": "2026-11-04T18:35:53.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -3666,11 +3666,11 @@
       "category": "design"
     },
     {
-      "id": "CBMic0FVX3lxTE9oLUo1ajhKMnBUNEJ5by1IQTVsaGZWNVJvazJxRm5jNVJMTnVrdDB5REFCTmp6UmY0d1g3UjNHN05kMHlpaERSOFlMQ0hmSkRUSmY1R2lnVllKLWRvTm94ZEVieHdDYTZaNXRXS3hRNmIwVFE",
-      "title": "Meridiano by Tatsuro Miki and Axel Vervoordt - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oLUo1ajhKMnBUNEJ5by1IQTVsaGZWNVJvazJxRm5jNVJMTnVrdDB5REFCTmp6UmY0d1g3UjNHN05kMHlpaERSOFlMQ0hmSkRUSmY1R2lnVllKLWRvTm94ZEVieHdDYTZaNXRXS3hRNmIwVFE?oc=5",
-      "summary": "Meridiano by Tatsuro Miki and Axel Vervoordt Thisispaper",
-      "publishedAt": "2024-04-09T07:00:00.000Z",
+      "id": "CBMiZ0FVX3lxTE56SHE5RXRVaHJxWlNyUF82aHhEeVd3Q0JnS09aaXJ3YnNwRll3RElET1NBODQ0b01TbVpnZFltX3ZqMGdnallTenc4aUhGUmFiUi0tc1FkUUZzNlozaU1vSlo2QWFjYUE",
+      "title": "Chichu Art Museum by Tadao Ando - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56SHE5RXRVaHJxWlNyUF82aHhEeVd3Q0JnS09aaXJ3YnNwRll3RElET1NBODQ0b01TbVpnZFltX3ZqMGdnallTenc4aUhGUmFiUi0tc1FkUUZzNlozaU1vSlo2QWFjYUE?oc=5",
+      "summary": "Chichu Art Museum by Tadao Ando Thisispaper",
+      "publishedAt": "2022-11-17T08:00:00.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -3721,26 +3721,26 @@
       "category": "science"
     },
     {
-      "id": "https://interestingengineering.com/?p=331465",
-      "title": "3.95-billion-year-old rocks in China reveal clues to Earth’s earliest tectonics",
-      "link": "https://interestingengineering.com/science/3-95-gya-rocks-china-reveal-earths-tectonics",
-      "summary": "Scientists have discovered 3.95-billion-year-old rocks in northern China that reveal tectonic activity about 4 million...",
-      "publishedAt": "2026-11-15T13:47:32.000Z",
-      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Screenshot-2026-11-15-at-7.45.49-AM.png",
-      "sourceId": "interesting-engineering",
-      "sourceName": "Interesting Engineering",
-      "category": "science"
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=50506894",
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "link": "https://prog21.dadgum.com/116.html",
-      "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 144 # Comments: 71",
-      "publishedAt": "2026-11-15T13:44:16.000Z",
+      "id": "https://news.ycombinator.com/item?id=50510296",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "link": "https://baron.by.dai.studio/",
+      "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 59 # Comments: 9",
+      "publishedAt": "2026-11-15T20:20:05.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
       "category": "tech"
+    },
+    {
+      "id": "https://interestingengineering.com/?p=330932",
+      "title": "NASA’s Competition Model 2.0 cuts mission selection from 35 months to 19.5 months",
+      "link": "https://interestingengineering.com/space/nasa-science-mission-selection-costs-proposal",
+      "summary": "NASA is overhauling how it selects science missions, aiming to reduce proposal costs, streamline competition,...",
+      "publishedAt": "2026-11-15T14:02:00.000Z",
+      "imageUrl": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Milkyway-Galaxy-imaged-by-NASA.jpg",
+      "sourceId": "interesting-engineering",
+      "sourceName": "Interesting Engineering",
+      "category": "science"
     },
     {
       "id": "DgdZZtxDvW8MrqWA4cfVfk",
@@ -3765,17 +3765,6 @@
       "category": "local"
     },
     {
-      "id": "CBMiugFBVV95cUxQRFA3bWt3REQ2OUQwS0dDN3RDb3NVWFFIWG1BRlhvaGtjZ25pLVJmTEN6Uy1GXzcyMUdqdUJRM3JWQXRkc0c0R3NDVHcwcGNsYTlXVWZ5MnFiUGM3djFEWVlER1Bsb3RkdlFVTEo2NVczVVpHTDNyVUFqOHlzM2NDeWpYVHRCbHk5WllyT0VQYmlMRlhkZnFhQkNwQkxhZ0VaX0Q0YVpFMmxQSm5uSHlaLVJFdklIOXlWbFE",
-      "title": "Lauren Boebert loses re-election bid in Colorado - The Coloradoan",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRFA3bWt3REQ2OUQwS0dDN3RDb3NVWFFIWG1BRlhvaGtjZ25pLVJmTEN6Uy1GXzcyMUdqdUJRM3JWQXRkc0c0R3NDVHcwcGNsYTlXVWZ5MnFiUGM3djFEWVlER1Bsb3RkdlFVTEo2NVczVVpHTDNyVUFqOHlzM2NDeWpYVHRCbHk5WllyT0VQYmlMRlhkZnFhQkNwQkxhZ0VaX0Q0YVpFMmxQSm5uSHlaLVJFdklIOXlWbFE?oc=5",
-      "summary": "Lauren Boebert loses re-election bid in Colorado The Coloradoan",
-      "publishedAt": "2026-11-13T20:37:00.000Z",
-      "imageUrl": null,
-      "sourceId": "coloradoan",
-      "sourceName": "Fort Collins Coloradoan",
-      "category": "local"
-    },
-    {
       "id": "https://www.thebrighterside.news/api/preview?id=130668&secret=cM2XMtKpK3Lj&nonce=3475126694",
       "title": "Ancient argon may hide clues to the rocky interiors of Uranus and Neptune",
       "link": "https://www.thebrighterside.news/post/ancient-argon-may-hide-clues-to-the-rocky-interiors-of-uranus-and-neptune/",
@@ -3787,12 +3776,12 @@
       "category": "general"
     },
     {
-      "id": "6af64ccbb03647bd524e3cab",
-      "title": "Drake Updates Take Care With New Song “Hate Sleeping Alone”",
-      "link": "https://pitchfork.com/story/drake-updates-take-care-with-new-song-hate-sleeping-alone/",
-      "summary": "Get your brood on with an unearthed cut from the 2011 album",
-      "publishedAt": "2026-11-13T15:53:48.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af723dcdf86836dcc15cb36/master/pass/GettyImages-2301207783.jpg",
+      "id": "6af7293dbadf0bc3a76e3985",
+      "title": "Shygirl, Brutalismus 3000, Nirosta Steel Feature on Club Kid Companion EP",
+      "link": "https://pitchfork.com/story/shygirl-brutalismus-3000-nirosta-steel-feature-on-club-kid-ep/",
+      "summary": "Out now, the record includes two covers of Arthur Russell’s “Boy With a Smile”",
+      "publishedAt": "2026-11-13T16:59:26.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af72987829743962fb4ec21/master/pass/unnamed%20(71).jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -3820,26 +3809,48 @@
       "category": "local"
     },
     {
-      "id": "CBMitAFBVV95cUxOYzNwNDNyUWNXQllaWDZNSlktaklHaE9VbW1VNUVSa1pUamVuaklGcVVfbDBMdUhCd0kwajF2ZGV4SmZMc2RsU0EyWkdBeVNUN1hQMmk5TEZQRHRiYm9Fa0pCQkxMcmJyM0FEbDMwR1ZtYXRpaFFldk1jNzVROTl4dVZ1Sk5nM2FZOXg5QzRzeTZENk55VFdOSEhWV1VEQXdsS1hhTkdXN3k3VHRIdG9yLWlnNVU",
-      "title": "Stray Hearts Animal Shelter Report - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYzNwNDNyUWNXQllaWDZNSlktaklHaE9VbW1VNUVSa1pUamVuaklGcVVfbDBMdUhCd0kwajF2ZGV4SmZMc2RsU0EyWkdBeVNUN1hQMmk5TEZQRHRiYm9Fa0pCQkxMcmJyM0FEbDMwR1ZtYXRpaFFldk1jNzVROTl4dVZ1Sk5nM2FZOXg5QzRzeTZENk55VFdOSEhWV1VEQXdsS1hhTkdXN3k3VHRIdG9yLWlnNVU?oc=5",
-      "summary": "Stray Hearts Animal Shelter Report The Taos News",
-      "publishedAt": "2026-11-11T22:45:51.000Z",
+      "id": "https://thelocalproject.com.au/?p=471157",
+      "title": "Jason Strauss Residence by Rôck&Villa – The Local Project",
+      "link": "https://thelocalproject.com.au/articles/jason-strauss-residence-by-rockvilla-the-local-project/",
+      "summary": "The post Jason Strauss Residence by Rôck&Villa – The Local Project appeared first on The Local Project.",
+      "publishedAt": "2026-11-13T04:02:14.000Z",
+      "imageUrl": null,
+      "sourceId": "the-local-project",
+      "sourceName": "The Local Project",
+      "category": "design"
+    },
+    {
+      "id": "CBMivAFBVV95cUxPbTR5WEtsOEpiMGIwQ0owa2Zkb1ZsWERIYnZYbVR4ZkptWFNsQWd4TWxqRHRzSnNOcEVjTV9XbUw4bnVPaWlvSUZqN2NNaXN3VTRaYjJXNkZ0WDFtcWlMbTdVeGdERFduM2kySVVKbUYxVUVXTnM3WV9SYWhSTmpFckRwbEFqOTI3Mm12Y0xHRkM5dmtCMlA4NVpjWWFNcUQxazNwanlSajhkQ3BHNUllc0g4YmJZNWQ3YU9JZQ",
+      "title": "Board votes to save Blevins Middle School - The Coloradoan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbTR5WEtsOEpiMGIwQ0owa2Zkb1ZsWERIYnZYbVR4ZkptWFNsQWd4TWxqRHRzSnNOcEVjTV9XbUw4bnVPaWlvSUZqN2NNaXN3VTRaYjJXNkZ0WDFtcWlMbTdVeGdERFduM2kySVVKbUYxVUVXTnM3WV9SYWhSTmpFckRwbEFqOTI3Mm12Y0xHRkM5dmtCMlA4NVpjWWFNcUQxazNwanlSajhkQ3BHNUllc0g4YmJZNWQ3YU9JZQ?oc=5",
+      "summary": "Board votes to save Blevins Middle School The Coloradoan",
+      "publishedAt": "2026-11-13T03:45:32.000Z",
+      "imageUrl": null,
+      "sourceId": "coloradoan",
+      "sourceName": "Fort Collins Coloradoan",
+      "category": "local"
+    },
+    {
+      "id": "CBMisgFBVV95cUxPNzBYclFUdUpTb1dvRGRSeENPUmdROWdmWEt2OGtKMkxEdWhQaEk5emNIMzVwWXU0d3pjNk4tVFZOZTFiRnI2UEw3YnJ5djZ3a21pTWxJZ3hIT212aGFLdGNIV2dUTm93MUpEZEVYOTI5VVlzZWg5SzVmRGRvWXp3VTZtN2dFcWxhVWVFYm10UjZ0R3hsS09la05aemlIbmhQUFpVUUVTbnZ1Wk5kWWxsUVFB",
+      "title": "Old favorites, new finds - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzBYclFUdUpTb1dvRGRSeENPUmdROWdmWEt2OGtKMkxEdWhQaEk5emNIMzVwWXU0d3pjNk4tVFZOZTFiRnI2UEw3YnJ5djZ3a21pTWxJZ3hIT212aGFLdGNIV2dUTm93MUpEZEVYOTI5VVlzZWg5SzVmRGRvWXp3VTZtN2dFcWxhVWVFYm10UjZ0R3hsS09la05aemlIbmhQUFpVUUVTbnZ1Wk5kWWxsUVFB?oc=5",
+      "summary": "Old favorites, new finds The Taos News",
+      "publishedAt": "2026-11-11T22:45:00.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
       "category": "local"
     },
     {
-      "id": "https://thelocalproject.com.au/?p=470850",
-      "title": "Winnifred’s by Bespoke Constructions and Tim Stewart Architects – The Local Project",
-      "link": "https://thelocalproject.com.au/articles/winnifreds-by-bespoke-constructions-and-tim-stewart-architects-the-local-project/",
-      "summary": "The post Winnifred’s by Bespoke Constructions and Tim Stewart Architects – The Local Project appeared first on The Local Project.",
-      "publishedAt": "2026-11-11T21:44:10.000Z",
-      "imageUrl": null,
-      "sourceId": "the-local-project",
-      "sourceName": "The Local Project",
-      "category": "design"
+      "id": "https://www.themarginalian.org/?p=86803",
+      "title": "The Intimate in the Infinite and the Responsibility of Rapture",
+      "link": "https://www.themarginalian.org/2026/11/11/diane-ackerman-the-planets/",
+      "summary": "It could have been otherwise. That one defiant particle of matter could have never broken free from the equipoise of antimatter to sound the first note of something out of the mute nothingness, singing a universe into being. The universe co…",
+      "publishedAt": "2026-11-11T20:57:54.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/02/ackerman_planets_cover.jpg?fit=320%2C453&amp;ssl=1",
+      "sourceId": "the-marginalian",
+      "sourceName": "The Marginalian",
+      "category": "ideas"
     },
     {
       "id": "https://www.dwell.com/article/waterfall-house-steve-mensch-expecting-amy-schumer-hudson-valley-new-york-real-estate-a858f44e",
@@ -3862,17 +3873,6 @@
       "sourceId": "surface",
       "sourceName": "Surface",
       "category": "design"
-    },
-    {
-      "id": "https://www.themarginalian.org/?p=86860",
-      "title": "Pablo Neruda on How to Hold Time",
-      "link": "https://www.themarginalian.org/2026/11/10/neruda-time/",
-      "summary": "“Time is a river that sweeps me along, but I am a river,” Borges wrote. “Time is a fire that consumes me, but I am the fire.” Most of us are not Borges. Most of us are drowning in bewilderment at where the time goes, burning with the urgenc…",
-      "publishedAt": "2026-11-10T16:56:27.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/03/essentialneruda.jpg?fit=320%2C505&amp;ssl=1",
-      "sourceId": "the-marginalian",
-      "sourceName": "The Marginalian",
-      "category": "ideas"
     },
     {
       "id": "https://leibal.com/?p=186379",
@@ -3930,11 +3930,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://www.mindful.org/?p=13145",
-      "title": "How to Transform Your Fears Mindfully",
-      "link": "https://www.mindful.org/transform-your-fears-mindfully/",
-      "summary": "The only way through your fears is to get comfortable being uncomfortable. The post How to Transform Your Fears Mindfully appeared first on Mindful.",
-      "publishedAt": "2026-10-30T17:07:06.000Z",
+      "id": "https://www.mindful.org/?p=669566",
+      "title": "Shamash Alidina: A Meditation to Awaken the Joy of Feeling Small",
+      "link": "https://www.mindful.org/shamash-alidina-a-meditation-to-awaken-the-joy-of-feeling-small/",
+      "summary": "A guided practice that expands your perspective so that you can see: your thoughts and worries can still exist, but there's just a little more space around them. The post Shamash Alidina: A Meditation to Awaken the Joy of Feeling Small appe…",
+      "publishedAt": "2026-11-03T01:28:45.000Z",
       "imageUrl": null,
       "sourceId": "mindful",
       "sourceName": "Mindful",
@@ -4040,11 +4040,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiZ0FVX3lxTE56SHE5RXRVaHJxWlNyUF82aHhEeVd3Q0JnS09aaXJ3YnNwRll3RElET1NBODQ0b01TbVpnZFltX3ZqMGdnallTenc4aUhGUmFiUi0tc1FkUUZzNlozaU1vSlo2QWFjYUE",
-      "title": "Chichu Art Museum by Tadao Ando - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56SHE5RXRVaHJxWlNyUF82aHhEeVd3Q0JnS09aaXJ3YnNwRll3RElET1NBODQ0b01TbVpnZFltX3ZqMGdnallTenc4aUhGUmFiUi0tc1FkUUZzNlozaU1vSlo2QWFjYUE?oc=5",
-      "summary": "Chichu Art Museum by Tadao Ando Thisispaper",
-      "publishedAt": "2022-11-17T08:00:00.000Z",
+      "id": "CBMiTEFVX3lxTE5OYUxLc2tudDY3UzR0WHFRWEYtVWtKS3hTYXVjTFJrVVVrc0pVVlVaSV9LUXVUR2o1ZlN1YU01dG8yUGxxR2hPWjVRNS0",
+      "title": "Milan Guide - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OYUxLc2tudDY3UzR0WHFRWEYtVWtKS3hTYXVjTFJrVVVrc0pVVlVaSV9LUXVUR2o1ZlN1YU01dG8yUGxxR2hPWjVRNS0?oc=5",
+      "summary": "Milan Guide Thisispaper",
+      "publishedAt": "2022-08-13T13:19:01.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4095,11 +4095,11 @@
       "category": "science"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50506719",
-      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-      "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 306 # Comments: 170",
-      "publishedAt": "2026-11-15T13:15:22.000Z",
+      "id": "https://news.ycombinator.com/item?id=50510042",
+      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+      "link": "https://news.ycombinator.com/item?id=50510042",
+      "summary": "We're a small business that sells pre-booked appointments with homeowners to local contractors, billed per appointment that actually happens. Our first client agreed to this on a recorded call and saved his card through a $1 Stripe payment …",
+      "publishedAt": "2026-11-15T19:49:28.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4117,12 +4117,12 @@
       "category": "science"
     },
     {
-      "id": "6af36eb8bad512a53e3ea9b9",
-      "title": "9 New Albums You Should Listen to Now: 2hollis, Armand Hammer, and More",
-      "link": "https://pitchfork.com/story/9-new-albums-you-should-listen-to-now-2hollis-armand-hammer-and-more/",
-      "summary": "Stream new releases from 2hollis, Ecco2k, Armand Hammer, and U2",
-      "publishedAt": "2026-11-13T14:59:02.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af4f0b7123cd98d0879ec7f/master/pass/2hollis%20%E2%80%94%20Pitchfork.jpg",
+      "id": "6af72dddedc9c2750fdfa212",
+      "title": "Hayley Williams Brings Out Seu Jorge to Cover David Bowie",
+      "link": "https://pitchfork.com/story/hayley-williams-brings-out-seu-jorge-to-cover-david-bowie/",
+      "summary": "The Paramore singer and Life Aquatic star also duetted on “Zissou” in São Paulo",
+      "publishedAt": "2026-11-13T16:29:24.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af73aae829743962fb4ed74/master/pass/hayley-williams-seu-jorge-bowie.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4150,11 +4150,11 @@
       "category": "local"
     },
     {
-      "id": "CBMisgFBVV95cUxPNzBYclFUdUpTb1dvRGRSeENPUmdROWdmWEt2OGtKMkxEdWhQaEk5emNIMzVwWXU0d3pjNk4tVFZOZTFiRnI2UEw3YnJ5djZ3a21pTWxJZ3hIT212aGFLdGNIV2dUTm93MUpEZEVYOTI5VVlzZWg5SzVmRGRvWXp3VTZtN2dFcWxhVWVFYm10UjZ0R3hsS09la05aemlIbmhQUFpVUUVTbnZ1Wk5kWWxsUVFB",
-      "title": "Old favorites, new finds - The Taos News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzBYclFUdUpTb1dvRGRSeENPUmdROWdmWEt2OGtKMkxEdWhQaEk5emNIMzVwWXU0d3pjNk4tVFZOZTFiRnI2UEw3YnJ5djZ3a21pTWxJZ3hIT212aGFLdGNIV2dUTm93MUpEZEVYOTI5VVlzZWg5SzVmRGRvWXp3VTZtN2dFcWxhVWVFYm10UjZ0R3hsS09la05aemlIbmhQUFpVUUVTbnZ1Wk5kWWxsUVFB?oc=5",
-      "summary": "Old favorites, new finds The Taos News",
-      "publishedAt": "2026-11-11T22:45:00.000Z",
+      "id": "CBMiuwFBVV95cUxON3dzX2VFMUlabHlQa2ZWM2hWX2RqUGlydEhnUmhfVlk1cURkY0pCY3puWVBKaWM0ZUw1SXByMk5VVFIzaTdmSzVsSVBybDRmQjJiMzlvY3VnWlZ6UjFfOEgyODlydFBfc0FBRGFQdElPNlptSVJzRmpaQXBfYlEzTXVQaVVGZ3A1TGM3RUpRcGJJNk81WmZENTNTREJOVEdNVWdnNEFORFFDLU1CdHkzdWQ5dEpjZ2ZCcm9J",
+      "title": "Knighthawks sweep chess season opener - The Taos News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON3dzX2VFMUlabHlQa2ZWM2hWX2RqUGlydEhnUmhfVlk1cURkY0pCY3puWVBKaWM0ZUw1SXByMk5VVFIzaTdmSzVsSVBybDRmQjJiMzlvY3VnWlZ6UjFfOEgyODlydFBfc0FBRGFQdElPNlptSVJzRmpaQXBfYlEzTXVQaVVGZ3A1TGM3RUpRcGJJNk81WmZENTNTREJOVEdNVWdnNEFORFFDLU1CdHkzdWQ5dEpjZ2ZCcm9J?oc=5",
+      "summary": "Knighthawks sweep chess season opener The Taos News",
+      "publishedAt": "2026-11-11T22:31:14.000Z",
       "imageUrl": null,
       "sourceId": "taos-news",
       "sourceName": "Taos News",
@@ -4172,12 +4172,12 @@
       "category": "design"
     },
     {
-      "id": "https://www.themarginalian.org/?p=88386",
-      "title": "What Makes You Yourself: Posidonia Australis, Pando, and the Paradox of Personhood",
-      "link": "https://www.themarginalian.org/2026/11/09/pando/",
-      "summary": "Bigger than Manhattan, Earth’s largest living organism sways in the surf south of Australia: Posidonia australis — a species of seagrass that, unable to flower, clones itself. Older than mathematics and the written word, it has been cloning…",
-      "publishedAt": "2026-11-10T01:10:15.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/05/StellersJay_becoming.jpg",
+      "id": "https://www.themarginalian.org/?p=86060",
+      "title": "How Not to Waste Your Life",
+      "link": "https://www.themarginalian.org/2026/11/10/hawthorne-life/",
+      "summary": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of plane…",
+      "publishedAt": "2026-11-10T23:17:44.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/10/hawthorne_notebooks.jpg?fit=320%2C480&amp;ssl=1",
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
@@ -4271,11 +4271,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiTEFVX3lxTE5OYUxLc2tudDY3UzR0WHFRWEYtVWtKS3hTYXVjTFJrVVVrc0pVVlVaSV9LUXVUR2o1ZlN1YU01dG8yUGxxR2hPWjVRNS0",
-      "title": "Milan Guide - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OYUxLc2tudDY3UzR0WHFRWEYtVWtKS3hTYXVjTFJrVVVrc0pVVlVaSV9LUXVUR2o1ZlN1YU01dG8yUGxxR2hPWjVRNS0?oc=5",
-      "summary": "Milan Guide Thisispaper",
-      "publishedAt": "2022-08-13T13:19:01.000Z",
+      "id": "CBMiUkFVX3lxTE9hOXJtZE43U25nZnZiTVpkLVIxbWpVd0trWnR6ZlBTZkc1Y2ItUTliZHI1Z2JmMjZxdmU3ajMxbnRVY05lVEJOeGJESkZLRG03Y0E",
+      "title": "Barcelona Guide - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hOXJtZE43U25nZnZiTVpkLVIxbWpVd0trWnR6ZlBTZkc1Y2ItUTliZHI1Z2JmMjZxdmU3ajMxbnRVY05lVEJOeGJESkZLRG03Y0E?oc=5",
+      "summary": "Barcelona Guide Thisispaper",
+      "publishedAt": "2021-10-05T11:49:25.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4293,11 +4293,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50506588",
-      "title": "A NES emulator written in Odin",
-      "link": "https://lucypero.com/lucynes.html",
-      "summary": "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 81 # Comments: 28",
-      "publishedAt": "2026-11-15T12:51:47.000Z",
+      "id": "https://news.ycombinator.com/item?id=50509972",
+      "title": "Handwriting, as a Font",
+      "link": "https://ductus.sorenblank.com",
+      "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 86 # Comments: 20",
+      "publishedAt": "2026-11-15T19:42:13.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4315,12 +4315,12 @@
       "category": "science"
     },
     {
-      "id": "6af6fb8c3b980032c8efff87",
-      "title": "Zsela Invites You to The Party With New Album",
-      "link": "https://pitchfork.com/story/zsela-invites-you-to-the-party-with-new-album/",
-      "summary": "Listen to “Real Romantic” from the Los Angeles singer’s new LP for Nice Life",
-      "publishedAt": "2026-11-13T12:44:36.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af76aba48625867721cd45c/master/pass/Zsela.jpeg",
+      "id": "6af64ccbb03647bd524e3cab",
+      "title": "Drake Updates Take Care With New Song “Hate Sleeping Alone”",
+      "link": "https://pitchfork.com/story/drake-updates-take-care-with-new-song-hate-sleeping-alone/",
+      "summary": "Get your brood on with an unearthed cut from the 2011 album",
+      "publishedAt": "2026-11-13T15:53:48.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af723dcdf86836dcc15cb36/master/pass/GettyImages-2301207783.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4337,11 +4337,11 @@
       "category": "local"
     },
     {
-      "id": "CBMi0gFBVV95cUxQOC15TEFkODJrWVZ0MkZKdjBfZWh3VXoxU0FvR3pXWVRHY0dGbGN3S1ZMZ3RfQ0pvUzg3cTM2V0wtaWdlLXNyTkp3bURQUndURUx5bk4wMGNCRGFtUTh1eF9CZ0lCRmdDSnMtWmFiU0RRVGVaSmhiUEhfZDVwOWRMQUlDLWl2Z1ZESFZ5aUs1VlNETVprMWFnQ2t2WmE3eFp3OXoydEJrMzNwUE0wSEhtb1ZFMjVuRlc3Y1NuMUpmZWJRcUpQYlJBYWM1aTZSY0pnQWc",
-      "title": "Fairview's Max Weber, Legacy's Andrew Gardner nominated for SI Colorado football player of the week - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOC15TEFkODJrWVZ0MkZKdjBfZWh3VXoxU0FvR3pXWVRHY0dGbGN3S1ZMZ3RfQ0pvUzg3cTM2V0wtaWdlLXNyTkp3bURQUndURUx5bk4wMGNCRGFtUTh1eF9CZ0lCRmdDSnMtWmFiU0RRVGVaSmhiUEhfZDVwOWRMQUlDLWl2Z1ZESFZ5aUs1VlNETVprMWFnQ2t2WmE3eFp3OXoydEJrMzNwUE0wSEhtb1ZFMjVuRlc3Y1NuMUpmZWJRcUpQYlJBYWM1aTZSY0pnQWc?oc=5",
-      "summary": "Fairview's Max Weber, Legacy's Andrew Gardner nominated for SI Colorado football player of the week Daily Camera",
-      "publishedAt": "2026-11-12T21:47:42.000Z",
+      "id": "CBMizgFBVV95cUxNLXJfV1dJMXRwUmMyeEw0YmlYRHdpRjBpcnR3YkhCenBqcnNQSW9fc21jbk9ZajdaSGhxT2J0UDZwNVVKX3BvOVhidkRiTWltOHJyYmNTRVhhMUtsNk50UUJUTVE5eHFyaFV3ZWx0aFQwcUxkYVYtQVFsb0dwbFNrcmFGMEVYOFd0X0pNd2UyRG1zZ3F5NDQ1T0J2YkhGUmIyNFI2dTI4bXBZZmRzV0tIUndub1Q3UjFiNE14XzBkWW1jejhZOWZZVkFSdkwtdw",
+      "title": "Colorado’s top-ranked player is CU-bound. Sienna Williams has a new appreciation for basketball - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXJfV1dJMXRwUmMyeEw0YmlYRHdpRjBpcnR3YkhCenBqcnNQSW9fc21jbk9ZajdaSGhxT2J0UDZwNVVKX3BvOVhidkRiTWltOHJyYmNTRVhhMUtsNk50UUJUTVE5eHFyaFV3ZWx0aFQwcUxkYVYtQVFsb0dwbFNrcmFGMEVYOFd0X0pNd2UyRG1zZ3F5NDQ1T0J2YkhGUmIyNFI2dTI4bXBZZmRzV0tIUndub1Q3UjFiNE14XzBkWW1jejhZOWZZVkFSdkwtdw?oc=5",
+      "summary": "Colorado’s top-ranked player is CU-bound. Sienna Williams has a new appreciation for basketball Daily Camera",
+      "publishedAt": "2026-11-12T03:12:47.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4370,12 +4370,12 @@
       "category": "design"
     },
     {
-      "id": "https://www.brainpickings.org/?p=64114",
-      "title": "Carl Sagan on How to Live with the Unknown",
-      "link": "https://www.themarginalian.org/2026/11/09/carl-sagan-jonathan-cott-rolling-stone-interview/",
-      "summary": "“We are bathing in mystery and confusion… That will always be our destiny. The universe will always be much richer than our ability to understand it.”",
-      "publishedAt": "2026-11-09T17:55:59.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/03/conversationswithcarlsagan.jpg?fit=320%2C495&amp;ssl=1",
+      "id": "https://www.themarginalian.org/?p=87514",
+      "title": "Now Yourself: The Elusive Science of What the Present Moment Is Made of and How It Makes You Who You Are",
+      "link": "https://www.themarginalian.org/2026/11/10/jo-marchant-now/",
+      "summary": "“Whatever has happened, whatever is going to happen in the world, it is the living moment that contains the sum of the excitement, this moment in which we touch life and all the energy of the past and future,” Muriel Rukeyser wrote in one o…",
+      "publishedAt": "2026-11-10T19:05:37.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/06/now_marchant.jpg?fit=320%2C479&amp;ssl=1",
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
@@ -4469,11 +4469,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiUkFVX3lxTE9hOXJtZE43U25nZnZiTVpkLVIxbWpVd0trWnR6ZlBTZkc1Y2ItUTliZHI1Z2JmMjZxdmU3ajMxbnRVY05lVEJOeGJESkZLRG03Y0E",
-      "title": "Barcelona Guide - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hOXJtZE43U25nZnZiTVpkLVIxbWpVd0trWnR6ZlBTZkc1Y2ItUTliZHI1Z2JmMjZxdmU3ajMxbnRVY05lVEJOeGJESkZLRG03Y0E?oc=5",
-      "summary": "Barcelona Guide Thisispaper",
-      "publishedAt": "2021-10-05T11:49:25.000Z",
+      "id": "CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw",
+      "title": "Jutaku - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw?oc=5",
+      "summary": "Jutaku Thisispaper",
+      "publishedAt": "2021-10-05T06:52:38.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4491,11 +4491,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50506376",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 157 # Comments: 10",
-      "publishedAt": "2026-11-15T12:14:06.000Z",
+      "id": "https://news.ycombinator.com/item?id=50509837",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "link": "https://bruceroettgers.eu/blog/protomaps/",
+      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 111 # Comments: 31",
+      "publishedAt": "2026-11-15T19:26:22.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
@@ -4513,12 +4513,12 @@
       "category": "science"
     },
     {
-      "id": "6af5f4418ecbac71e40b8e0e",
-      "title": "Snakes & Ladders",
-      "link": "https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/",
-      "summary": "It’s a marathon and the New York duo keeps the faith, delivering another lyrical masterclass over engrossing beats from the indie rap all-stars whose work they’ve cultivated.",
-      "publishedAt": "2026-11-13T05:03:00.000Z",
-      "imageUrl": "https://media.pitchfork.com/photos/6af5f3f605ae8a8ec42748c2/master/pass/Armand%20Hammer%20-%20Snakes%20&%20Ladders%20album%20art.jpg",
+      "id": "6af36eb8bad512a53e3ea9b9",
+      "title": "9 New Albums You Should Listen to Now: 2hollis, Armand Hammer, and More",
+      "link": "https://pitchfork.com/story/9-new-albums-you-should-listen-to-now-2hollis-armand-hammer-and-more/",
+      "summary": "Stream new releases from 2hollis, Ecco2k, Armand Hammer, and U2",
+      "publishedAt": "2026-11-13T14:59:02.000Z",
+      "imageUrl": "https://media.pitchfork.com/photos/6af4f0b7123cd98d0879ec7f/master/pass/2hollis%20%E2%80%94%20Pitchfork.jpg",
       "sourceId": "pitchfork",
       "sourceName": "Pitchfork",
       "category": "art"
@@ -4535,11 +4535,11 @@
       "category": "local"
     },
     {
-      "id": "CBMiogFBVV95cUxQeUkxX3BOdHRkMGw4VGN0RFhmcjRmeGR3VWs0S3VCT21EaTQxcEc4QlFtV1NHWTVSU2JTc0hKbkNILWUza1VNeUZuRzFYeVdDWmRJS0gyTHpMU2NCd2VPbE5GUmlwa1FVVE1kMzYwYjJJd3NnYk5EUGF1SFB0N3VESTRKM0hQZVJUb1ljeFFCbEJHdHRIbktUckhUNnBPV2lhVGc",
-      "title": "After midterm blowout, both parties need to reflect (editorial) - Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeUkxX3BOdHRkMGw4VGN0RFhmcjRmeGR3VWs0S3VCT21EaTQxcEc4QlFtV1NHWTVSU2JTc0hKbkNILWUza1VNeUZuRzFYeVdDWmRJS0gyTHpMU2NCd2VPbE5GUmlwa1FVVE1kMzYwYjJJd3NnYk5EUGF1SFB0N3VESTRKM0hQZVJUb1ljeFFCbEJHdHRIbktUckhUNnBPV2lhVGc?oc=5",
-      "summary": "After midterm blowout, both parties need to reflect (editorial) Daily Camera",
-      "publishedAt": "2026-11-12T10:25:08.000Z",
+      "id": "CBMihAFBVV95cUxPV25kSUprZ2tCejdmdVdrUUlELWgwTXRyS0EtdjVqSTRIWDU0RTNuYU84ZnNEcDdaNUdsVkxLOTN4U3BHSGtjbEVUdHY5VGU5SklMMmZ2YmpVT0t6Sl96MHNoTmQwZnd5TWxXM1JTMUl5cXp5TGo3cllqRG1uTkhRWGNndzI",
+      "title": "Boulder has exceeded goal for Sundance rental applications, records show - Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV25kSUprZ2tCejdmdVdrUUlELWgwTXRyS0EtdjVqSTRIWDU0RTNuYU84ZnNEcDdaNUdsVkxLOTN4U3BHSGtjbEVUdHY5VGU5SklMMmZ2YmpVT0t6Sl96MHNoTmQwZnd5TWxXM1JTMUl5cXp5TGo3cllqRG1uTkhRWGNndzI?oc=5",
+      "summary": "Boulder has exceeded goal for Sundance rental applications, records show Daily Camera",
+      "publishedAt": "2026-11-11T23:38:25.000Z",
       "imageUrl": null,
       "sourceId": "daily-camera",
       "sourceName": "Daily Camera",
@@ -4568,12 +4568,12 @@
       "category": "design"
     },
     {
-      "id": "https://www.themarginalian.org/?p=88377",
-      "title": "Wendell Berry on Where Our Loved Ones Gone Go",
-      "link": "https://www.themarginalian.org/2026/11/08/wendell-berry-loved-ones/",
-      "summary": "To love is to sign a contract with loss. To love anyway is both the great tragedy and the great triumph of life. When two people have loved one another, each has become embedded in the marrow of the other’s being and both have had a profoun…",
-      "publishedAt": "2026-11-08T19:03:12.000Z",
-      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/07/Grosbeak_absence-scaled.jpg",
+      "id": "https://www.themarginalian.org/?p=86860",
+      "title": "Pablo Neruda on How to Hold Time",
+      "link": "https://www.themarginalian.org/2026/11/10/neruda-time/",
+      "summary": "“Time is a river that sweeps me along, but I am a river,” Borges wrote. “Time is a fire that consumes me, but I am the fire.” Most of us are not Borges. Most of us are drowning in bewilderment at where the time goes, burning with the urgenc…",
+      "publishedAt": "2026-11-10T16:56:27.000Z",
+      "imageUrl": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/03/essentialneruda.jpg?fit=320%2C505&amp;ssl=1",
       "sourceId": "the-marginalian",
       "sourceName": "The Marginalian",
       "category": "ideas"
@@ -4667,11 +4667,11 @@
       "category": "design"
     },
     {
-      "id": "CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw",
-      "title": "Jutaku - Thisispaper",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kRmdOUVF3cnJyaU5VRTV3TU84MjVfN2g5RFlxcFpMckgyV2pWaENLLTh4dkZXck9TOEt4elN2akt2MkloUW9aZXVGUFZUZw?oc=5",
-      "summary": "Jutaku Thisispaper",
-      "publishedAt": "2021-10-05T06:52:38.000Z",
+      "id": "CBMiTEFVX3lxTE5RempLNEJQd2QxVlRkVDBqUnBUaDlhY2pwWjhQNHVuT0pmRWxVZXF5LUNmMGJzRlVwY05nU0pqYVpibEJ1Tkt6Rl9CSGg",
+      "title": "Paris Guide - Thisispaper",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RempLNEJQd2QxVlRkVDBqUnBUaDlhY2pwWjhQNHVuT0pmRWxVZXF5LUNmMGJzRlVwY05nU0pqYVpibEJ1Tkt6Rl9CSGg?oc=5",
+      "summary": "Paris Guide Thisispaper",
+      "publishedAt": "2021-10-05T06:22:58.000Z",
       "imageUrl": null,
       "sourceId": "thisispaper",
       "sourceName": "This is Paper",
@@ -4689,11 +4689,11 @@
       "category": "ideas"
     },
     {
-      "id": "https://news.ycombinator.com/item?id=50506180",
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "summary": "https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol... Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 357 # Comments: 160",
-      "publishedAt": "2026-11-15T11:40:51.000Z",
+      "id": "https://news.ycombinator.com/item?id=50509416",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "link": "https://github.com/eclipse-mosquitto/mosquitto",
+      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 57 # Comments: 20",
+      "publishedAt": "2026-11-15T18:36:40.000Z",
       "imageUrl": null,
       "sourceId": "hacker-news",
       "sourceName": "Hacker News",
